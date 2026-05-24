@@ -5,9 +5,7 @@ Total: 716 answers
 
 ---
 
-## Can an “AI command line” replace the GUI as the primary user experience for computers, assuming the technology improves and irrespective of today’s state?
-
-*https://www.quora.com/Can-an-AI-command-line-replace-the-GUI-as-the-primary-user-experience-for-computers-assuming-the-technology-improves-and-irrespective-of-today-s-state/answer/Alan-Kay-11*
+## [Can an “AI command line” replace the GUI as the primary user experience for computers, assuming the technology improves and irrespective of today’s state?](https://www.quora.com/Can-an-AI-command-line-replace-the-GUI-as-the-primary-user-experience-for-computers-assuming-the-technology-improves-and-irrespective-of-today-s-state/answer/Alan-Kay-11)
 
 The “related questions” have interesting slants — some of which make more or less sense.
 
@@ -46,9 +44,7 @@ Do we really want to replace everything that is good for a person to do, with a 
 Etc. Etc. …
 
 ---
-## Did Alan Kay know Bill Atkinson? Was there any cross-fertilization between SmallTalk and HyperCard/Talk?
-
-*https://www.quora.com/Did-Alan-Kay-know-Bill-Atkinson-Was-there-any-cross-fertilization-between-SmallTalk-and-HyperCard-Talk/answer/Alan-Kay-11*
+## [Did Alan Kay know Bill Atkinson? Was there any cross-fertilization between SmallTalk and HyperCard/Talk?](https://www.quora.com/Did-Alan-Kay-know-Bill-Atkinson-Was-there-any-cross-fertilization-between-SmallTalk-and-HyperCard-Talk/answer/Alan-Kay-11)
 
 I first met Bill at the famous Steve Jobs visit to Parc to see the Smalltalk system, its GUI, etc. (I might have run into him earlier). After a stint at Atari, Steve Jobs hired me in 1984 as an Apple Fellow (Butler and I had been made Fellows towards the end of our stay at Xerox). Bill had been made an Apple Fellow for his many contributions, especially to the Lisa and Macintosh projects. He was very talented and creative, etc. and our relationship could be characterized as “brotherly”.
 
@@ -79,9 +75,7 @@ Smalltalk had very little influence on Hypercard — besides its influence on th
 Apple the company — and Steve, the returned “saviour” for Apple — did not understand the Internet, and that Hypercard was a fantastic model for a truly great browser. Instead, it was brushed aside and much more mundane ideas — pretty much everywhere in the general business — ruled to the eventual detriment of most end-users today.
 
 ---
-## What role did the unique features of the Alto computer play in the development of programming languages like Smalltalk and Lisp?
-
-*https://www.quora.com/What-role-did-the-unique-features-of-the-Alto-computer-play-in-the-development-of-programming-languages-like-Smalltalk-and-Lisp/answer/Alan-Kay-11*
+## [What role did the unique features of the Alto computer play in the development of programming languages like Smalltalk and Lisp?](https://www.quora.com/What-role-did-the-unique-features-of-the-Alto-computer-play-in-the-development-of-programming-languages-like-Smalltalk-and-Lisp/answer/Alan-Kay-11)
 
 I realized that I was being unjustifiably harsh in my first paragraph (now the 2nd) below. It is actually a more reasonable question than as I initially interpreted it. The unique features of the Alto did play a part in the development of Smalltalk in part because the special features were put in the Alto because we knew they would help in our (and the rest of Parc’s) VHLL research efforts. In sum: (a) we knew “sort of” how things were going to go, but did not yet have the details that would make a pure HW design possible, and (b) we needed to be able to make at least 100 machines, and a pure HW version, even if we knew all the answers would be too expensive per unit. One of my slogans back then was “HW is just SW crystallized early”, and the ratios of costs and capacities indicated that a “meta-machine” using Wilkes’ invention of microcode — and making it dynamically loadable — would be a very good tradeoff. This approach was not controversial in the Parc research community, even though it remained so outside.
 
@@ -102,9 +96,7 @@ So the process was to think about advances in language semantics, ask questions 
 All the computers we built at Parc used this idea. This meant that only a few thousand lines of code were needed to allow any of these machines to run any of the SW environments we were experimenting with.
 
 ---
-## How much did Daniel Bobrow and Alan Kay interact at PARC in the days that led to the invention of modern Object-Oriented Programming? Is Bobrow and Winograd's "An Overview of KRL" (1976) the first publication using OO in its modern meaning?
-
-*https://www.quora.com/How-much-did-Daniel-Bobrow-and-Alan-Kay-interact-at-PARC-in-the-days-that-led-to-the-invention-of-modern-Object-Oriented-Programming-Is-Bobrow-and-Winograds-An-Overview-of-KRL-1976-the-first-publication-using-OO-in/answer/Alan-Kay-11*
+## [How much did Daniel Bobrow and Alan Kay interact at PARC in the days that led to the invention of modern Object-Oriented Programming? Is Bobrow and Winograd's "An Overview of KRL" (1976) the first publication using OO in its modern meaning?](https://www.quora.com/How-much-did-Daniel-Bobrow-and-Alan-Kay-interact-at-PARC-in-the-days-that-led-to-the-invention-of-modern-Object-Oriented-Programming-Is-Bobrow-and-Winograds-An-Overview-of-KRL-1976-the-first-publication-using-OO-in/answer/Alan-Kay-11)
 
 Danny and I were friends from the time I first met him (he a researcher from MIT now at BBN) and I was a first year grad student (this was probably in 1967).
 
@@ -117,9 +109,7 @@ One of the most interesting and best uses of Smalltalk at Parc was as the implem
 I don’t know what the first publication to use OO in its modern meaning (I’m a bit afraid to ask what this might mean), but it would have happened way before 1976.
 
 ---
-## Has anyone without a professional background in engineering, science, mathematics, etc. ever invented something solely based on a great idea?
-
-*https://www.quora.com/Has-anyone-without-a-professional-background-in-engineering-science-mathematics-etc-ever-invented-something-solely-based-on-a-great-idea/answer/Alan-Kay-11*
+## [Has anyone without a professional background in engineering, science, mathematics, etc. ever invented something solely based on a great idea?](https://www.quora.com/Has-anyone-without-a-professional-background-in-engineering-science-mathematics-etc-ever-invented-something-solely-based-on-a-great-idea/answer/Alan-Kay-11)
 
 There are already lots of good answers to this, so I’ll just add a larger observation made by the philosopher/mathematician Albert North Whitehead: “The main invention of the 19th century was Invention itself”.
 
@@ -128,9 +118,7 @@ He pointed to the immense boom in “letters patent” in Great Britain to show 
 The detailed history of how a few key inventions that started the industrial revolution also made it “a thing” to invent something is too long for Quora. But you can easily find books on many actually crazy inventions that were patented: one that comes to mind is a hat that would tip itself to a lady if you moved your head correctly!
 
 ---
-## How long have you been designing a computer system?
-
-*https://www.quora.com/How-long-have-you-been-designing-a-computer-system/answer/Alan-Kay-11*
+## [How long have you been designing a computer system?](https://www.quora.com/How-long-have-you-been-designing-a-computer-system/answer/Alan-Kay-11)
 
 I started “coding as a real job” in the US Air Force in 1962. In those days “coding” and “programming” had rather different meanings. “Coding” was essentially being a human compiler to turn designs (mostly in terms of flow charts) into working machine code by way of writing in an assembly language. Some of the assemblers we used — such as IBM Autocoder — had fairly powerful abilities to construct macros, so design started to creep into one’s coding skills.
 
@@ -141,9 +129,7 @@ Most coders started doing some design soon after writing their first programs. O
 So the answer is about 63 years …
 
 ---
-## I have heard so many amazing stories of PARC where innovation was driven by the creativity and curiosity of the developers. Does this type of scenario exist anywhere in today's software industry?
-
-*https://www.quora.com/I-have-heard-so-many-amazing-stories-of-PARC-where-innovation-was-driven-by-the-creativity-and-curiosity-of-the-developers-Does-this-type-of-scenario-exist-anywhere-in-todays-software-industry/answer/Alan-Kay-11*
+## [I have heard so many amazing stories of PARC where innovation was driven by the creativity and curiosity of the developers. Does this type of scenario exist anywhere in today's software industry?](https://www.quora.com/I-have-heard-so-many-amazing-stories-of-PARC-where-innovation-was-driven-by-the-creativity-and-curiosity-of-the-developers-Does-this-type-of-scenario-exist-anywhere-in-todays-software-industry/answer/Alan-Kay-11)
 
 In the early ‘80s Regis McKenna, one of the shapers of the Silicon Valley culture, clarified terms by pointing out that “invention” was what places like Xerox Parc did, and “innovation” was what companies like Apple did. The latter takes much more work and funding than the former, but doesn’t help anyone without a hefty admixture of “invention”.
 
@@ -160,9 +146,7 @@ Parc was an organization “the next size larger” so it had quite a few “wor
 Interesting facts are that the cost (and headcount) of Xerox Parc were still quite small, but there was definitely a “Goldilocks” factor in what actually constituted a critical mass of people and ideas. The nature of the funding (and funders) that made the ARPA/Parc research community possible no longer exists anywhere in the world as far as I can tell.
 
 ---
-## Could you critique my short essay about “the computer as a medium” (Amiga → Smalltalk) and tell me what doesn’t hold up?
-
-*https://www.quora.com/Could-you-critique-my-short-essay-about-the-computer-as-a-medium-Amiga-Smalltalk-and-tell-me-what-doesn-t-hold-up/answer/Alan-Kay-11*
+## [Could you critique my short essay about “the computer as a medium” (Amiga → Smalltalk) and tell me what doesn’t hold up?](https://www.quora.com/Could-you-critique-my-short-essay-about-the-computer-as-a-medium-Amiga-Smalltalk-and-tell-me-what-doesn-t-hold-up/answer/Alan-Kay-11)
 
 I don’t have a link to this essay — or did I miss something?
 
@@ -209,9 +193,7 @@ Best wishes
 Alan
 
 ---
-## If you brought back Alan Turing, John von Neumann, and Claude Shannon today and gave them 10 years to learn modern science, would they still revolutionize AI and cloud computing?
-
-*https://www.quora.com/If-you-brought-back-Alan-Turing-John-von-Neumann-and-Claude-Shannon-today-and-gave-them-10-years-to-learn-modern-science-would-they-still-revolutionize-AI-and-cloud-computing/answer/Alan-Kay-11*
+## [If you brought back Alan Turing, John von Neumann, and Claude Shannon today and gave them 10 years to learn modern science, would they still revolutionize AI and cloud computing?](https://www.quora.com/If-you-brought-back-Alan-Turing-John-von-Neumann-and-Claude-Shannon-today-and-gave-them-10-years-to-learn-modern-science-would-they-still-revolutionize-AI-and-cloud-computing/answer/Alan-Kay-11)
 
 Genius is genius in any age. Effective genius has to do with raw capacity, inner sense of style, and the era in which they live.
 
@@ -222,16 +204,12 @@ I’m answering like this because there are super high talents in every age, but
 In many cases — some would be as “effectively genius” in any age (I’m thinking of someone like Butler Lampson …).
 
 ---
-## How do programmers reason about code?
-
-*https://www.quora.com/How-do-programmers-reason-about-code/answer/Alan-Kay-11*
+## [How do programmers reason about code?](https://www.quora.com/How-do-programmers-reason-about-code/answer/Alan-Kay-11)
 
 If we look at typical samples of code, then we would be justified in concluding an answer similar to this: “very differently, and not very well in general” …
 
 ---
-## What do you think of Rob Pike's assertion that "data structures, not algorithms, are central to programming"?
-
-*https://www.quora.com/What-do-you-think-of-Rob-Pikes-assertion-that-data-structures-not-algorithms-are-central-to-programming/answer/Alan-Kay-11*
+## [What do you think of Rob Pike's assertion that "data structures, not algorithms, are central to programming"?](https://www.quora.com/What-do-you-think-of-Rob-Pikes-assertion-that-data-structures-not-algorithms-are-central-to-programming/answer/Alan-Kay-11)
 
 Looking at some of the other answers will be worthwhile. (Alon Amit provides more context.)
 
@@ -268,9 +246,7 @@ I generally write too long for Quora, so I’ll pause here. There is much more t
 This is one of those “Point of view is worth 80 IQ points” issues (and where the sign bit can be “+” or “-”.
 
 ---
-## Mr. Alan Kay. You’ve said Smalltalk was about messages, not objects, and about creating a medium for thought. Do you think modern software has lost that goal—and is it still possible today to build systems that truly support human thinking?
-
-*https://www.quora.com/Mr-Alan-Kay-You-ve-said-Smalltalk-was-about-messages-not-objects-and-about-creating-a-medium-for-thought-Do-you-think-modern-software-has-lost-that-goal-and-is-it-still-possible-today-to-build-systems-that-truly/answer/Alan-Kay-11*
+## [Mr. Alan Kay. You’ve said Smalltalk was about messages, not objects, and about creating a medium for thought. Do you think modern software has lost that goal—and is it still possible today to build systems that truly support human thinking?](https://www.quora.com/Mr-Alan-Kay-You-ve-said-Smalltalk-was-about-messages-not-objects-and-about-creating-a-medium-for-thought-Do-you-think-modern-software-has-lost-that-goal-and-is-it-still-possible-today-to-build-systems-that-truly/answer/Alan-Kay-11)
 
 This is several questions—which don’t have a strong overlap.
 
@@ -309,9 +285,7 @@ I should explain that I put this in to highlight a difference between a real tea
 I like to answer questions — as well as I’m able — but almost never take the time and care to try “real teaching” — it’s not clear that it fits into the Quora style and expectations. This experiment was interesting, and thanks to all who responded.
 
 ---
-## How was the design process in Xerox Park? How does Alan Kay's process look in his creative work? What does he think about the current design processes?
-
-*https://www.quora.com/How-was-the-design-process-in-Xerox-Park-How-does-Alan-Kays-process-look-in-his-creative-work-What-does-he-think-about-the-current-design-processes/answer/Alan-Kay-11*
+## [How was the design process in Xerox Park? How does Alan Kay's process look in his creative work? What does he think about the current design processes?](https://www.quora.com/How-was-the-design-process-in-Xerox-Park-How-does-Alan-Kays-process-look-in-his-creative-work-What-does-he-think-about-the-current-design-processes/answer/Alan-Kay-11)
 
 First a simple answer to the question, and then to why the question needs to be changed.
 
@@ -342,9 +316,7 @@ These are a few of many cases of Einstein’s observation that “We cannot solv
 I don’t have any impression that many (most?) of today’s companies and their computerists are either (a) even thinking about this, and (b) are up to the task if they were.
 
 ---
-## What does Alan Kay think about an Azarrbaijani jazz?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-an-Azarrbaijani-jazz/answer/Alan-Kay-11*
+## [What does Alan Kay think about an Azarrbaijani jazz?](https://www.quora.com/What-does-Alan-Kay-think-about-an-Azarrbaijani-jazz/answer/Alan-Kay-11)
 
 I had not heard of “Azarrbaijani jazz” until asked this question. So I looked it up in wikipedia:
 
@@ -357,9 +329,7 @@ I quite liked much of what I heard. This is because my jazz tastes involve defin
 To oversimplify, the harmonic structures and substitutions I heard are very recognizable and nice to hear. The melodic structures retained some of the character of traditional Azerbaijani music — in many cases transferred to the piano — this was interesting to hear: the tremelo playing of plectrum instruments to the piano led to very novel lines, and — combined with the rich harmonic structures — I found it very pleasing to listen to.
 
 ---
-## Was the work of Adele Goldberg and others, introducing children to programming with Smalltalk, not seen as a duplication of Papert's work at MIT? Why a new teaching language? Why not just teach the children LOGO?
-
-*https://www.quora.com/Was-the-work-of-Adele-Goldberg-and-others-introducing-children-to-programming-with-Smalltalk-not-seen-as-a-duplication-of-Paperts-work-at-MIT-Why-a-new-teaching-language-Why-not-just-teach-the-children-LOGO/answer/Alan-Kay-11*
+## [Was the work of Adele Goldberg and others, introducing children to programming with Smalltalk, not seen as a duplication of Papert's work at MIT? Why a new teaching language? Why not just teach the children LOGO?](https://www.quora.com/Was-the-work-of-Adele-Goldberg-and-others-introducing-children-to-programming-with-Smalltalk-not-seen-as-a-duplication-of-Paperts-work-at-MIT-Why-a-new-teaching-language-Why-not-just-teach-the-children-LOGO/answer/Alan-Kay-11)
 
 Short answer to the question because the context turned out to be long.
 
@@ -412,9 +382,7 @@ This was the first one that I felt was workable for the kids — 25 years after 
 One can learn a lot from observing what happened with Scratch. (a) it was very successful, and it’s possible to say why (b) it is a very large example that there has to be a well thought out curriculum to go along with a new tool, or the results will be mostly mundane (which they were).
 
 ---
-## Is it possible to design a self-consistent computational universe where a small Forth-like meta-model provides the semantic substrate, similar to how Smalltalk provided an object substrate?
-
-*https://www.quora.com/Is-it-possible-to-design-a-self-consistent-computational-universe-where-a-small-Forth-like-meta-model-provides-the-semantic-substrate-similar-to-how-Smalltalk-provided-an-object-substrate/answer/Alan-Kay-11*
+## [Is it possible to design a self-consistent computational universe where a small Forth-like meta-model provides the semantic substrate, similar to how Smalltalk provided an object substrate?](https://www.quora.com/Is-it-possible-to-design-a-self-consistent-computational-universe-where-a-small-Forth-like-meta-model-provides-the-semantic-substrate-similar-to-how-Smalltalk-provided-an-object-substrate/answer/Alan-Kay-11)
 
 Sure. You could start your thinking and learning by looking at how LISPs have been implemented.
 
@@ -433,9 +401,7 @@ Some of the experts who have done great work along these lines are: Dan Ingalls,
 (This latter process can be a lot of fun to try to figure out elegant and simple ways to deal with the fact that — at some point — you will have to grapple with something that isn’t FORTH in order to get it running on a given computer (the idea is to keep this both minimum and as simple as possible).)
 
 ---
-## All of the greats and experts in CS and programming say that A. Kay's Smalltalk is the best PL and PE ever. If it's a clear winner, then why is it not used widely in the science and industry?
-
-*https://www.quora.com/All-of-the-greats-and-experts-in-CS-and-programming-say-that-A-Kays-Smalltalk-is-the-best-PL-and-PE-ever-If-its-a-clear-winner-then-why-is-it-not-used-widely-in-the-science-and-industry/answer/Alan-Kay-11*
+## [All of the greats and experts in CS and programming say that A. Kay's Smalltalk is the best PL and PE ever. If it's a clear winner, then why is it not used widely in the science and industry?](https://www.quora.com/All-of-the-greats-and-experts-in-CS-and-programming-say-that-A-Kays-Smalltalk-is-the-best-PL-and-PE-ever-If-its-a-clear-winner-then-why-is-it-not-used-widely-in-the-science-and-industry/answer/Alan-Kay-11)
 
 In “The Early History of Smalltalk” written for SIGPLAN as a ramp up to HOPL II, I made it clear that the Smalltalk that was released — and is the one people mean today when they say “Smalltalk” — was much more due to Dan Ingalls — for much of its design and implementation — and to Adele Goldberg — as a co-manager of our research group — for getting it out in a form that could spread and be understood. I started the project and wrote the first “math for a Smalltalk” that showed how to do a minimal bootstrap, and contributed a few more things.
 
@@ -446,9 +412,7 @@ Smalltalk was originally invented in the 70s to be used in the 80s with HW archi
 This didn’t happen, and C would up being a much lower level language approach to dealing with what Intel, etc., did provide. VHLLs like Smalltalk and LISP suffered …
 
 ---
-## Amongst of these giants, who is according to you the most important person in history of CS due to their contributions, N. Wirth, D. Knuth, K. Thompson, G.V. Rossum or J. Gossling?
-
-*https://www.quora.com/Amongst-of-these-giants-who-is-according-to-you-the-most-important-person-in-history-of-CS-due-to-their-contributions-N-Wirth-D-Knuth-K-Thompson-G-V-Rossum-or-J-Gossling/answer/Alan-Kay-11*
+## [Amongst of these giants, who is according to you the most important person in history of CS due to their contributions, N. Wirth, D. Knuth, K. Thompson, G.V. Rossum or J. Gossling?](https://www.quora.com/Amongst-of-these-giants-who-is-according-to-you-the-most-important-person-in-history-of-CS-due-to-their-contributions-N-Wirth-D-Knuth-K-Thompson-G-V-Rossum-or-J-Gossling/answer/Alan-Kay-11)
 
 It doesn’t really work to “try to sort ‘giants’ (as you yourself have termed them)”.
 
@@ -459,9 +423,7 @@ I do like to be able to claim that “X is great”, and have that mean they are
 I think this gives us a way to recognize and still keep everything simple.
 
 ---
-## If Alan Kay were to modify his Squeakland.org reading list, what would he add or remove? http://www.squeakland.org/resources/books/readingList.jsp
-
-*https://www.quora.com/If-Alan-Kay-were-to-modify-his-Squeakland-org-reading-list-what-would-he-add-or-remove-http-www-squeakland-org-resources-books-readingList-jsp/answer/Alan-Kay-11*
+## [If Alan Kay were to modify his Squeakland.org reading list, what would he add or remove? http://www.squeakland.org/resources/books/readingList.jsp](https://www.quora.com/If-Alan-Kay-were-to-modify-his-Squeakland-org-reading-list-what-would-he-add-or-remove-http-www-squeakland-org-resources-books-readingList-jsp/answer/Alan-Kay-11)
 
 I was originally — in the 80s — asked by a company for my top 10 books. I responded by saying most heavy readers like me don’t have a top 10, and then made the mistake of providing about 500 titles that I thought were worth reading. This list has passed through many hands since I last touched it. Now we are about 40 years later, and of course I’ve kept on reading …
 
@@ -484,9 +446,7 @@ Because — as humans — we suffer from many cognitive biases — and a deep on
 This is what I wished I had told those who originally asked me for “my list” …
 
 ---
-## What were the advantages and disadvantages of having complete control over hardware and software designs at Parc in the pursuit of developing personal computing?
-
-*https://www.quora.com/What-were-the-advantages-and-disadvantages-of-having-complete-control-over-hardware-and-software-designs-at-Parc-in-the-pursuit-of-developing-personal-computing/answer/Alan-Kay-11*
+## [What were the advantages and disadvantages of having complete control over hardware and software designs at Parc in the pursuit of developing personal computing?](https://www.quora.com/What-were-the-advantages-and-disadvantages-of-having-complete-control-over-hardware-and-software-designs-at-Parc-in-the-pursuit-of-developing-personal-computing/answer/Alan-Kay-11)
 
 Larry Stewart’s answer to a related question covered some of the useful details (he was also at Parc and a central part of many projects there).
 
@@ -507,9 +467,7 @@ The advantages of all this should be obvious. Even though Moore’s Law would ev
 The disadvantage was that we had to design and make all the tools, building, testing, etc. In practice, the Parc researchers were more than up to this (quite amazingly so in my opinion), and a number of the most important systems were done in terms of months.
 
 ---
-## Why do you think people today are less likely to explore programming on their own compared to the early days of computing?
-
-*https://www.quora.com/Why-do-you-think-people-today-are-less-likely-to-explore-programming-on-their-own-compared-to-the-early-days-of-computing/answer/Alan-Kay-11*
+## [Why do you think people today are less likely to explore programming on their own compared to the early days of computing?](https://www.quora.com/Why-do-you-think-people-today-are-less-likely-to-explore-programming-on-their-own-compared-to-the-early-days-of-computing/answer/Alan-Kay-11)
 
 The simplest answer is that in the early days of computing with limited access to computers, those who did explore were really interested, and a lot of them were explorer-types and self learners.
 
@@ -520,16 +478,12 @@ The percentage could even be a bit higher, but that would need careful surveying
 Interesting question!
 
 ---
-## What would be the best way to learn Smalltalk in a Linux environment?
-
-*https://www.quora.com/What-would-be-the-best-way-to-learn-Smalltalk-in-a-Linux-environment/answer/Alan-Kay-11*
+## [What would be the best way to learn Smalltalk in a Linux environment?](https://www.quora.com/What-would-be-the-best-way-to-learn-Smalltalk-in-a-Linux-environment/answer/Alan-Kay-11)
 
 The most used Smalltalks — for example, Squeak Smalltalk — are “bit-identical” — meaning they present *exactly* the same GUI, system, and computation on any of the dozens of platforms they run on.
 
 ---
-## Who is called the father of modern computers?
-
-*https://www.quora.comhttps://mdwahedjitustechnology.quora.com/Who-is-called-the-father-of-modern-computers-3*
+## [Who is called the father of modern computers?](https://www.quora.comhttps://mdwahedjitustechnology.quora.com/Who-is-called-the-father-of-modern-computers-3)
 
 Please tell me in a comment what time frame you mean by “modern” and what you mean by “called the father” (the way it is phrased here implies something like a social vote rather than an appeal to history.
 
@@ -542,9 +496,7 @@ As von Neumann later pointed out, it was the universality of interpreting symbol
 Both for engineering and philosophy, it turned to be very important that the design suggested “almost no machinery” coupled with lots of “simple marking memory” — this greatly helped both practical building of physical computers *and* ways to thing very large thoughts about layers of abstration.
 
 ---
-## In the early days of personal computing, what one platform - if successfully commercialized - could have set computing on a better trajectory than the 1980s micros did? - Details in comments.
-
-*https://www.quora.com/In-the-early-days-of-personal-computing-what-one-platform-if-successfully-commercialized-could-have-set-computing-on-a-better-trajectory-than-the-1980s-micros-did-Details-in-comments/answer/Alan-Kay-11*
+## [In the early days of personal computing, what one platform - if successfully commercialized - could have set computing on a better trajectory than the 1980s micros did? - Details in comments.](https://www.quora.com/In-the-early-days-of-personal-computing-what-one-platform-if-successfully-commercialized-could-have-set-computing-on-a-better-trajectory-than-the-1980s-micros-did-Details-in-comments/answer/Alan-Kay-11)
 
 I have an urge to provide a decent answer here, but I don’t think I know how to.
 
@@ -577,9 +529,7 @@ A really interesting question — I think — is whether the general unsophistic
 It just hasn’t mattered that — for many important things — experts often do have better ideas about issues, directions and methods. The bizbiz coupled with unsophisticated markets is and has been driving.
 
 ---
-## How did early software developers manage to create efficient programs with such limited computing resources?
-
-*https://www.quora.com/How-did-early-software-developers-manage-to-create-efficient-programs-with-such-limited-computing-resources/answer/Alan-Kay-11*
+## [How did early software developers manage to create efficient programs with such limited computing resources?](https://www.quora.com/How-did-early-software-developers-manage-to-create-efficient-programs-with-such-limited-computing-resources/answer/Alan-Kay-11)
 
 Basically: “every which way” they could think of — and this was actually “highly motivated” by the limitations of computing resources.
 
@@ -604,9 +554,7 @@ This is the link to the entire paper
 Basic idea here is that there is often — even “usually” — some “meta math” under most problems. Spending some time trying to articulate and represent this will often result in much tinier, easier to understand and debug systems.
 
 ---
-## Computer scientist Edsger W. Dijkstra said that “It is far more likely that the programming occupation will become extinct than that programmers will ever approach professional status.” What did Dijkstra mean by that and do you agree with Dijkstra?
-
-*https://www.quora.com/Computer-scientist-Edsger-W-Dijkstra-said-that-It-is-far-more-likely-that-the-programming-occupation-will-become-extinct-than-that-programmers-will-ever-approach-professional-status-What-did-Dijkstra-mean-by-that/answer/Alan-Kay-11*
+## [Computer scientist Edsger W. Dijkstra said that “It is far more likely that the programming occupation will become extinct than that programmers will ever approach professional status.” What did Dijkstra mean by that and do you agree with Dijkstra?](https://www.quora.com/Computer-scientist-Edsger-W-Dijkstra-said-that-It-is-far-more-likely-that-the-programming-occupation-will-become-extinct-than-that-programmers-will-ever-approach-professional-status-What-did-Dijkstra-mean-by-that/answer/Alan-Kay-11)
 
 I’ll start by saying that I don’t clearly understand the English as simply stated.
 
@@ -623,9 +571,7 @@ He had “bitten the apple” and gotten hooked. And the dual attractions and re
 It was his pristineness towards the former that got him to disparage the latter — even though that was the path he also had taken …
 
 ---
-## Was one byte ever less than eight bits in the past?
-
-*https://www.quora.com/Was-one-byte-ever-less-than-eight-bits-in-the-past/answer/Alan-Kay-11*
+## [Was one byte ever less than eight bits in the past?](https://www.quora.com/Was-one-byte-ever-less-than-eight-bits-in-the-past/answer/Alan-Kay-11)
 
 When I started “programming as a job” in the US Air Force (ca 1962), the most general meaning for a “byte” was “a contiguous field of bits in a word that was smaller in size than the word”.
 
@@ -634,9 +580,7 @@ I still remember feeling annoyed when IBM redefined the term to mean an 8-bit en
 The Wikipedia article is rather wishy-washy about this. I think that my definition in the first paragraph is actually correct.
 
 ---
-## Is programming learned inductively or deductively?
-
-*https://www.quora.com/Is-programming-learned-inductively-or-deductively-1/answer/Alan-Kay-11*
+## [Is programming learned inductively or deductively?](https://www.quora.com/Is-programming-learned-inductively-or-deductively-1/answer/Alan-Kay-11)
 
 I don’t feel I completely understand this question (or, perhaps, don’t understand the intention behind the question).
 
@@ -651,9 +595,7 @@ From my own personal experience, I would say the answer to this question is “A
 I think I might instead say that “Learning programming is both learning how to “solve problems”, and especially how to “find problems”, mixed in with much more “design” than one appreciates at first”.
 
 ---
-## What are your thoughts on a future where code is represented as a structured model, rather than text? Do you think that AI-powered coding assistants benefit from that?
-
-*https://www.quora.com/What-are-your-thoughts-on-a-future-where-code-is-represented-as-a-structured-model-rather-than-text-Do-you-think-that-AI-powered-coding-assistants-benefit-from-that/answer/Alan-Kay-11*
+## [What are your thoughts on a future where code is represented as a structured model, rather than text? Do you think that AI-powered coding assistants benefit from that?](https://www.quora.com/What-are-your-thoughts-on-a-future-where-code-is-represented-as-a-structured-model-rather-than-text-Do-you-think-that-AI-powered-coding-assistants-benefit-from-that/answer/Alan-Kay-11)
 
 First, it’s worth noting that the “syntax recognition” phase of most compilers already does build a “structured model”, often in what used to be called a “canonical form” (an example of this might be a “pseudo-function tree” where every elementary process description is put into the same form — so both “a + b” and “for i := 1 to x do […]” are rendered as
 
@@ -684,9 +626,7 @@ A slogan that might help you get past the current fads is:
 NOT DATA … BUT MEANING!
 
 ---
-## Why did Japan’s Fifth Generation Computer Systems project fail commercially? Are any of its concepts and advances presently being utilized?
-
-*https://www.quora.com/Why-did-Japan-s-Fifth-Generation-Computer-Systems-project-fail-commercially-Are-any-of-its-concepts-and-advances-presently-being-utilized/answer/Alan-Kay-11*
+## [Why did Japan’s Fifth Generation Computer Systems project fail commercially? Are any of its concepts and advances presently being utilized?](https://www.quora.com/Why-did-Japan-s-Fifth-Generation-Computer-Systems-project-fail-commercially-Are-any-of-its-concepts-and-advances-presently-being-utilized/answer/Alan-Kay-11)
 
 The answer by Marcus Triska sums up much of the history and context rather well
 
@@ -705,9 +645,7 @@ A perhaps too simple bottom line is that quite a bit of good research got done �
 I think this project — overall — helped computer science in general and Japanese computer science in particular. To me it was a research project, and did turn up considerable knowledge of various useful kinds.
 
 ---
-## How does Alan Kay describe the nature of his way of collaboration? Would he be willing to work with teams that are below average, which could diminish the quality of his work and lower his motivation?
-
-*https://www.quora.com/How-does-Alan-Kay-describe-the-nature-of-his-way-of-collaboration-Would-he-be-willing-to-work-with-teams-that-are-below-average-which-could-diminish-the-quality-of-his-work-and-lower-his-motivation/answer/Alan-Kay-11*
+## [How does Alan Kay describe the nature of his way of collaboration? Would he be willing to work with teams that are below average, which could diminish the quality of his work and lower his motivation?](https://www.quora.com/How-does-Alan-Kay-describe-the-nature-of-his-way-of-collaboration-Would-he-be-willing-to-work-with-teams-that-are-below-average-which-could-diminish-the-quality-of-his-work-and-lower-his-motivation/answer/Alan-Kay-11)
 
 I don’t know the answer to this (I’ve always tried to work with colleagues who are more able than I am — going back to playing in bands, theatre, tennis, science, etc.). Also, ARPA-IPTO had the interesting idea of creating groups of smart people where no-one was the smartest in the room (I think most of us still thought it was Butler Lampson).
 
@@ -720,9 +658,7 @@ A big shift I made in my 20s was from changing my self rating as to how I was do
 Sorry for the not very good answer.
 
 ---
-## Since von Neumann invented the merge sort algo in 1945, just before ENIAC was introduced in 1946, what does Alan Kay think motivated him to explore sorting algos when computers were still so new and HLL didn't yet exist?
-
-*https://www.quora.com/Since-von-Neumann-invented-the-merge-sort-algo-in-1945-just-before-ENIAC-was-introduced-in-1946-what-does-Alan-Kay-think-motivated-him-to-explore-sorting-algos-when-computers-were-still-so-new-and-HLL-didnt-yet/answer/Alan-Kay-11*
+## [Since von Neumann invented the merge sort algo in 1945, just before ENIAC was introduced in 1946, what does Alan Kay think motivated him to explore sorting algos when computers were still so new and HLL didn't yet exist?](https://www.quora.com/Since-von-Neumann-invented-the-merge-sort-algo-in-1945-just-before-ENIAC-was-introduced-in-1946-what-does-Alan-Kay-think-motivated-him-to-explore-sorting-algos-when-computers-were-still-so-new-and-HLL-didnt-yet/answer/Alan-Kay-11)
 
 Richard Norman has already provided a nice short accurate answer to this question.
 
@@ -735,9 +671,7 @@ Many of the early processes that ENIAC ran were ballistic calculations that had 
 HLLs are not needed for programming or for carrying out algorithms. However, a kind of HLL (Flowcharting) was used in many areas to provide an HL portrayal of various calculation schemes.
 
 ---
-## "Great visions are not goals, but the ultimate cat toy". What does this idea mean to Alan Kay? And could it relate to your belief that ‘you don’t truly understand something if you only understand it one way’?"
-
-*https://www.quora.com/Great-visions-are-not-goals-but-the-ultimate-cat-toy-What-does-this-idea-mean-to-Alan-Kay-And-could-it-relate-to-your-belief-that-you-don-t-truly-understand-something-if-you-only-understand-it-one-way/answer/Alan-Kay-11*
+## ["Great visions are not goals, but the ultimate cat toy". What does this idea mean to Alan Kay? And could it relate to your belief that ‘you don’t truly understand something if you only understand it one way’?"](https://www.quora.com/Great-visions-are-not-goals-but-the-ultimate-cat-toy-What-does-this-idea-mean-to-Alan-Kay-And-could-it-relate-to-your-belief-that-you-don-t-truly-understand-something-if-you-only-understand-it-one-way/answer/Alan-Kay-11)
 
 I’m trying to understand this question. I used the quoted phrase above in several talks (many are on YouTube), to explain how JCR Licklider in the 60s, was able to get so many highly talented researchers to work on interactive computing and world-wide networking.
 
@@ -754,9 +688,7 @@ Come up with a vision that attracts them and they will start working on it — e
 (I think you can see that this line of attack is only peripherally related to the second quote (which was by Marvin Minsky) and which relates in some way to most other ideas …. )
 
 ---
-## What does Alan Kay suggest here: "Computing is not about clocks, it's about biology". How come the essence of computing is more about the way living organisms evolve?
-
-*https://www.quora.com/What-does-Alan-Kay-suggest-here-Computing-is-not-about-clocks-its-about-biology-How-come-the-essence-of-computing-is-more-about-the-way-living-organisms-evolve/answer/Alan-Kay-11*
+## [What does Alan Kay suggest here: "Computing is not about clocks, it's about biology". How come the essence of computing is more about the way living organisms evolve?](https://www.quora.com/What-does-Alan-Kay-suggest-here-Computing-is-not-about-clocks-its-about-biology-How-come-the-essence-of-computing-is-more-about-the-way-living-organisms-evolve/answer/Alan-Kay-11)
 
 I wouldn’t have said the “quoted phrase” in the way it is stated (so the quotes likely mean something else). And I wouldn’t have said “The essence of computing is more about the way living things evolve” (I would have used a term like “work”, instead of “evolve”).
 
@@ -767,9 +699,7 @@ We can see the difficulties that general computing has had in adjusting to the g
 Pondering the qualitative differences between gear-like systems and biology-like systems can be very helpful in thinking more clearly about dealing with great scalings in computing systems.
 
 ---
-## What does Alan Kay think about ADHD in adults? Should it be controlled with medication?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-ADHD-in-adults-Should-it-be-controlled-with-medication/answer/Alan-Kay-11*
+## [What does Alan Kay think about ADHD in adults? Should it be controlled with medication?](https://www.quora.com/What-does-Alan-Kay-think-about-ADHD-in-adults-Should-it-be-controlled-with-medication/answer/Alan-Kay-11)
 
 I don’t have the medical background to answer generally.
 
@@ -782,9 +712,7 @@ These are just annecdotes, and certainly don’t cover the general case.
 However, all of my ADHD friends look at the drugs as a godsend, and all whom I know use the drugs wisely.
 
 ---
-## What is Alan Kay’s view on analytic idealism by Bernardo Kastrup?
-
-*https://www.quora.com/What-is-Alan-Kay-s-view-on-analytic-idealism-by-Bernardo-Kastrup/answer/Alan-Kay-11*
+## [What is Alan Kay’s view on analytic idealism by Bernardo Kastrup?](https://www.quora.com/What-is-Alan-Kay-s-view-on-analytic-idealism-by-Bernardo-Kastrup/answer/Alan-Kay-11)
 
 I’m sure that I need to read his forthcoming book in order to attempt an answer:
 
@@ -857,9 +785,7 @@ A book that I’ve enjoyed very much — and which provoked much mulling — was
 Analytic Idealism In A Nutshell is also a book that provokes mulling. The subject matter is a few levels more murky and abstract than TOOCITBOTBM, but trying to understand what is being attempted and pondering whether its arguments actually hold water can be quite enjoyable, and to some extent, illuminating.
 
 ---
-## How does Alan Kay view Don Norman's perspective on humanity-centered design?
-
-*https://www.quora.com/How-does-Alan-Kay-view-Don-Normans-perspective-on-humanity-centered-design/answer/Alan-Kay-11*
+## [How does Alan Kay view Don Norman's perspective on humanity-centered design?](https://www.quora.com/How-does-Alan-Kay-view-Don-Normans-perspective-on-humanity-centered-design/answer/Alan-Kay-11)
 
 I’ve known Don Norman as a colleague and friend for more than 50 years, and I value all his perspectives whether I agree (most of the time I do) or not (sometimes I don’t).
 
@@ -876,9 +802,7 @@ I’m being a bit elliptical here because the area of “actual UI design” —
 Don’s perspectives are thus deeply important to learn and understand.
 
 ---
-## Why didn't Doug Engelbart's chording keyset become a standard interface like the mouse did? It requires more training, but would have a dramatic impact on user performance.
-
-*https://www.quora.com/Why-didnt-Doug-Engelbarts-chording-keyset-become-a-standard-interface-like-the-mouse-did-It-requires-more-training-but-would-have-a-dramatic-impact-on-user-performance/answer/Alan-Kay-11*
+## [Why didn't Doug Engelbart's chording keyset become a standard interface like the mouse did? It requires more training, but would have a dramatic impact on user performance.](https://www.quora.com/Why-didnt-Doug-Engelbarts-chording-keyset-become-a-standard-interface-like-the-mouse-did-It-requires-more-training-but-would-have-a-dramatic-impact-on-user-performance/answer/Alan-Kay-11)
 
 Here’s the classic Engelbart NLS interface:
 
@@ -917,9 +841,7 @@ We find it in many school subjects, where the early versions are presented so ba
 It is not unfair to point out that “marketing people” do not like to sell anything that has a real learning curve — and this has gotten even more restrictive over the years. If we extend that idea to schooling (most teachers and educational institutions don’t like to teach subjects that have real learning curves), then we can see why so many children and adults are “in deep stew” today …
 
 ---
-## How valuable is it to apply concepts like the Curry-Howard correspondence (proofs as programs) and inductive proofs to the development of dynamic/complex systems, considering their correlation with type systems?
-
-*https://www.quora.com/How-valuable-is-it-to-apply-concepts-like-the-Curry-Howard-correspondence-proofs-as-programs-and-inductive-proofs-to-the-development-of-dynamic-complex-systems-considering-their-correlation-with-type-systems/answer/Alan-Kay-11*
+## [How valuable is it to apply concepts like the Curry-Howard correspondence (proofs as programs) and inductive proofs to the development of dynamic/complex systems, considering their correlation with type systems?](https://www.quora.com/How-valuable-is-it-to-apply-concepts-like-the-Curry-Howard-correspondence-proofs-as-programs-and-inductive-proofs-to-the-development-of-dynamic-complex-systems-considering-their-correlation-with-type-systems/answer/Alan-Kay-11)
 
 One of Marvin Minsky’s many thought provoking sayings was “The trouble with ‘New Math’ is that you have to understand it every time you use it!”. (Meaning, there is an important pragmatic place for mentally caching “rules that work” rather than working through the reasons for every use. Both are important, and some separation helps.)
 
@@ -938,9 +860,7 @@ An interesting wrinkle here is that Sketchpad partially succeeded by including t
 So: an extremely important “Grand Challenge” for (real) Computer Science and (real) computer scientists!
 
 ---
-## What is the importance of Christopher Alexander’s work for system/software designers?
-
-*https://www.quora.com/What-is-the-importance-of-Christopher-Alexander-s-work-for-system-software-designers/answer/Alan-Kay-11*
+## [What is the importance of Christopher Alexander’s work for system/software designers?](https://www.quora.com/What-is-the-importance-of-Christopher-Alexander-s-work-for-system-software-designers/answer/Alan-Kay-11)
 
 I think the most useful of the Alexander books is the first one “Notes on a Synthesis of Form”. It was his PhD thesis at Harvard, and has thought provoking discussions of *systems* and *design*.
 
@@ -971,9 +891,7 @@ Prompted by a comment of Ali Krgn, here is an overall observation:
 Architecture is definitely a good source of analogies for other subjects, including computing. However, I very much prefer “comfortable surroundings” to “comfortable ideas” (I’d rather be around “uncomfortable ideas” much of the time, but would not like this much in my surroundings). This is why I take C. Alexander with grains of salt — too much analogy can start missing the main points by miles.
 
 ---
-## What is the difference between soft computing and nano computing?
-
-*https://www.quora.com/What-is-the-difference-between-soft-computing-and-nano-computing/answer/Alan-Kay-11*
+## [What is the difference between soft computing and nano computing?](https://www.quora.com/What-is-the-difference-between-soft-computing-and-nano-computing/answer/Alan-Kay-11)
 
 I had to look up both of these terms (neither was in use back when I was most active).
 
@@ -984,9 +902,7 @@ You could look them up yourself, but as long as I’m already writing …
 (b) “nano computing” is defined completely differently: the use of very small components making a very small computer. (I thought it would relate to some modern version of “microcoding”, but apparently not.
 
 ---
-## How much RAM did computers typically have when you first started using them?
-
-*https://www.quora.com/How-much-RAM-did-computers-typically-have-when-you-first-started-using-them/answer/Alan-Kay-11*
+## [How much RAM did computers typically have when you first started using them?](https://www.quora.com/How-much-RAM-did-computers-typically-have-when-you-first-started-using-them/answer/Alan-Kay-11)
 
 I realize that I didn’t completely answer this question. I’ve now split it into 2 parts: [1] my personal experience in 1962, and [2] the more general state of things in the US at that time.
 
@@ -1033,16 +949,12 @@ I wrote quite a few programs for this at the National Center for Atmospheric Res
 This was developed into a whole line of 3000 series machines, and CDC made a lot of money during this time period.
 
 ---
-## What happened to the "parc copies" created by Xerox at PARC? Have they been preserved or recycled?
-
-*https://www.quora.com/What-happened-to-the-parc-copies-created-by-Xerox-at-PARC-Have-they-been-preserved-or-recycled/answer/Alan-Kay-11*
+## [What happened to the "parc copies" created by Xerox at PARC? Have they been preserved or recycled?](https://www.quora.com/What-happened-to-the-parc-copies-created-by-Xerox-at-PARC-Have-they-been-preserved-or-recycled/answer/Alan-Kay-11)
 
 I wrote an answer to an equivalent question:
 
 ---
-## What is the origin of the name "The Internet"? Was it chosen as a play on words with "interconnected networks"? Were there any other names considered before "The Internet" was chosen?
-
-*https://www.quora.com/What-is-the-origin-of-the-name-The-Internet-Was-it-chosen-as-a-play-on-words-with-interconnected-networks-Were-there-any-other-names-considered-before-The-Internet-was-chosen/answer/Alan-Kay-11*
+## [What is the origin of the name "The Internet"? Was it chosen as a play on words with "interconnected networks"? Were there any other names considered before "The Internet" was chosen?](https://www.quora.com/What-is-the-origin-of-the-name-The-Internet-Was-it-chosen-as-a-play-on-words-with-interconnected-networks-Were-there-any-other-names-considered-before-The-Internet-was-chosen/answer/Alan-Kay-11)
 
 JCR Licklider — an experimental psychologist and (ca 1959/60s) fan of interactive computing — was given a lot of money by the DoD to set up a long range computer research community. One of his first memos looked like this:
 
@@ -1067,9 +979,7 @@ The Ethernet was done at Parc ca 1973 to connect computing resources there, and 
 There is also a somewhat funny story told by others and myself about how the first wireless use of the ARPAnet (using an old Ford bread truck full of gear) was used to transmit reports to Washington DC from one of Palo Alto’s outdoor beer gardens. This was soon used to connect to Don Davies’ packet network at the National Physical Labs in the UK. Here’s a talk I did that summarises a fair amount of the work back then:
 
 ---
-## How would Alan Kay go about designing a systems design course? What contents should be covered, and what knowledge or skills should one gain? Which exemplary projects/papers should be included to facilitate understanding?
-
-*https://www.quora.com/How-would-Alan-Kay-go-about-designing-a-systems-design-course-What-contents-should-be-covered-and-what-knowledge-or-skills-should-one-gain-Which-exemplary-projects-papers-should-be-included-to-facilitate/answer/Alan-Kay-11*
+## [How would Alan Kay go about designing a systems design course? What contents should be covered, and what knowledge or skills should one gain? Which exemplary projects/papers should be included to facilitate understanding?](https://www.quora.com/How-would-Alan-Kay-go-about-designing-a-systems-design-course-What-contents-should-be-covered-and-what-knowledge-or-skills-should-one-gain-Which-exemplary-projects-papers-should-be-included-to-facilitate/answer/Alan-Kay-11)
 
 In the true fashion of the 1960s-thru-1970s ARPA-IPTO research community (which included Parc), I would try to find the best people who could do this, and help find funds to support them.
 
@@ -1102,9 +1012,7 @@ There would be much more to this — and far beyond the scope of Quora (and my p
 It would be a great “grand challenge” project!
 
 ---
-## What is Alan Kay's perspective on the obsession with learning memory management and other "low-level" aspects when it comes to programming education?
-
-*https://www.quora.com/What-is-Alan-Kays-perspective-on-the-obsession-with-learning-memory-management-and-other-low-level-aspects-when-it-comes-to-programming-education/answer/Alan-Kay-11*
+## [What is Alan Kay's perspective on the obsession with learning memory management and other "low-level" aspects when it comes to programming education?](https://www.quora.com/What-is-Alan-Kays-perspective-on-the-obsession-with-learning-memory-management-and-other-low-level-aspects-when-it-comes-to-programming-education/answer/Alan-Kay-11)
 
 I react to this question in the way I react to questions that are essentially about “how much of a subset of something important can we isolate as separate teachable subject before we destroy the connection to the “something important”?”
 
@@ -1133,16 +1041,12 @@ That would be a really interesting project, and also a good way of answering the
 The evidence is that there was never a SW failure over all the Apollo missions, despite the enormous limitations of both the HW and SW media they were required to use.
 
 ---
-## What does Alan Kay think of Ted Nelsons criticism of Xerox PARC? (Taking away the "right to program" by hiding everything behind the "PUI" and making computers into paper simulators with single-collumn text)
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-Ted-Nelsons-criticism-of-Xerox-PARC-Taking-away-the-right-to-program-by-hiding-everything-behind-the-PUI-and-making-computers-into-paper-simulators-with-single-collumn-text/answer/Alan-Kay-11*
+## [What does Alan Kay think of Ted Nelsons criticism of Xerox PARC? (Taking away the "right to program" by hiding everything behind the "PUI" and making computers into paper simulators with single-collumn text)](https://www.quora.com/What-does-Alan-Kay-think-of-Ted-Nelsons-criticism-of-Xerox-PARC-Taking-away-the-right-to-program-by-hiding-everything-behind-the-PUI-and-making-computers-into-paper-simulators-with-single-collumn-text/answer/Alan-Kay-11)
 
 Ted has done a lot for personal computing, but occasionally gets things wrong. I got invited to give a talk for his 70th or 75th birthday, and decided to use a 1978 Xerox Parc Smalltalk system to show what we really did, and to praise him at the same time. The talk starts around 2:15 if the URL doesn’t take you directly there:
 
 ---
-## What do you think is the future of software engineering? Could advancements in technology eventually render it obsolete, or will these advancements serve as valuable tools that enhance the work of software engineers rather than replacing them?
-
-*https://www.quora.com/What-do-you-think-is-the-future-of-software-engineering-Could-advancements-in-technology-eventually-render-it-obsolete-or-will-these-advancements-serve-as-valuable-tools-that-enhance-the-work-of-software-engineers/answer/Alan-Kay-11*
+## [What do you think is the future of software engineering? Could advancements in technology eventually render it obsolete, or will these advancements serve as valuable tools that enhance the work of software engineers rather than replacing them?](https://www.quora.com/What-do-you-think-is-the-future-of-software-engineering-Could-advancements-in-technology-eventually-render-it-obsolete-or-will-these-advancements-serve-as-valuable-tools-that-enhance-the-work-of-software-engineers/answer/Alan-Kay-11)
 
 Here’s part of a slide I used in a talk in 2021 expressing a kind of “Hippocratic Oath” within Engineering:
 
@@ -1183,9 +1087,7 @@ The center of what is needed is a set of processes that can represent most of th
 To my mind — maybe it is now just the mind of an old fogey — this returns us to many of the ideals and visions of the early 60s. This time around, there are enough resources to do a much more complete job at “Software Engineering with Meaning and Safety”. (It won’t look much like what is called Software Engineering today, but that is much of the point here!)
 
 ---
-## I’m currently a teenager and I started looking at philosophy. I want to start taking a dive into it but I don’t know where to start. Any certain topics or books that I should look into?
-
-*https://www.quora.com/I-m-currently-a-teenager-and-I-started-looking-at-philosophy-I-want-to-start-taking-a-dive-into-it-but-I-don-t-know-where-to-start-Any-certain-topics-or-books-that-I-should-look-into/answer/Alan-Kay-11*
+## [I’m currently a teenager and I started looking at philosophy. I want to start taking a dive into it but I don’t know where to start. Any certain topics or books that I should look into?](https://www.quora.com/I-m-currently-a-teenager-and-I-started-looking-at-philosophy-I-want-to-start-taking-a-dive-into-it-but-I-don-t-know-where-to-start-Any-certain-topics-or-books-that-I-should-look-into/answer/Alan-Kay-11)
 
 A good and somewhat tricky question …
 
@@ -1216,9 +1118,7 @@ In any case, the first cousin of philosophy is bullshit. This is both useful and
 Good luck, and have fun!
 
 ---
-## Can you provide some examples of a "thinking machine" that existed before computers were invented?
-
-*https://www.quora.com/Can-you-provide-some-examples-of-a-thinking-machine-that-existed-before-computers-were-invented/answer/Alan-Kay-11*
+## [Can you provide some examples of a "thinking machine" that existed before computers were invented?](https://www.quora.com/Can-you-provide-some-examples-of-a-thinking-machine-that-existed-before-computers-were-invented/answer/Alan-Kay-11)
 
 LexisNexis defines “machine” as
 
@@ -1247,9 +1147,7 @@ There are too many facets of “real science” for the size of a Quora answer, 
 If any attempts are made to “do AI on a computer”, they should take into account what “real science” has found it necessary to do to generate necessary levels of confidence in the results. Without this we have a combination of confabulation with credulity — often associated with belief systems, such as religion — that has been really dangerous over history, and especially dangerous today.
 
 ---
-## What would be the place of AI in Doug Engelbart's vision of 'Augmenting Human Intellect'? How can we reconsider things within current AI 'developments'?
-
-*https://www.quora.com/What-would-be-the-place-of-AI-in-Doug-Engelbarts-vision-of-Augmenting-Human-Intellect-How-can-we-reconsider-things-within-current-AI-developments/answer/Alan-Kay-11*
+## [What would be the place of AI in Doug Engelbart's vision of 'Augmenting Human Intellect'? How can we reconsider things within current AI 'developments'?](https://www.quora.com/What-would-be-the-place-of-AI-in-Doug-Engelbarts-vision-of-Augmenting-Human-Intellect-How-can-we-reconsider-things-within-current-AI-developments/answer/Alan-Kay-11)
 
 It’s very worthwhile to read Doug’s original plan in 1962. They could only work on a subset of this, and ca 1970 they wound up being identified with the subset (this often happens).
 
@@ -1266,16 +1164,12 @@ In the very late 60s the “official AI researchers” started to think that som
 For completeness, here are the references for this 1962 plan. Also, Ivan Sutherland and his work on Sketchpad are mentioned in this document, but there was no reference because Ivan wrote his thesis in Jan 1963.
 
 ---
-## How do I design an effective orientation program?
-
-*https://www.quora.com/How-do-I-design-an-effective-orientation-program/answer/Alan-Kay-11*
+## [How do I design an effective orientation program?](https://www.quora.com/How-do-I-design-an-effective-orientation-program/answer/Alan-Kay-11)
 
 I don’t understand this question — could you expand in a comment? I’m not sure I can answer it, but right now can’t tell.
 
 ---
-## Why are object-oriented classes named classes? What is the etymology of object- oriented classes?
-
-*https://www.quora.com/Why-are-object-oriented-classes-named-classes-What-is-the-etymology-of-object-oriented-classes/answer/Alan-Kay-11*
+## [Why are object-oriented classes named classes? What is the etymology of object- oriented classes?](https://www.quora.com/Why-are-object-oriented-classes-named-classes-What-is-the-etymology-of-object-oriented-classes/answer/Alan-Kay-11)
 
 The second version of Simula (Simula-67) used the term “Class” for the descriptions that could be instantiated into “objects” which carried out the descriptions. Some of the background for this term very likely came from its use in mathematics.
 
@@ -1286,16 +1180,12 @@ Other terms for “that description which can be instantiated” have been used 
 It is also worth noting that in both Simulas the description (class/activity) is not an object. A language in which every description is an actual object — e.g. Smalltalk — turned out to be a very useful idea.
 
 ---
-## If you had only 6 months to make a product using code, how would you do it? This question is inspired by Peter Thiel's approach to time management.
-
-*https://www.quora.com/If-you-had-only-6-months-to-make-a-product-using-code-how-would-you-do-it-This-question-is-inspired-by-Peter-Thiels-approach-to-time-management/answer/Alan-Kay-11*
+## [If you had only 6 months to make a product using code, how would you do it? This question is inspired by Peter Thiel's approach to time management.](https://www.quora.com/If-you-had-only-6-months-to-make-a-product-using-code-how-would-you-do-it-This-question-is-inspired-by-Peter-Thiels-approach-to-time-management/answer/Alan-Kay-11)
 
 As posed, this question doesn’t have enough information to attempt an answer.
 
 ---
-## How can I convince myself that “real OOP” is a better way to build systems? What’s the reason other than Alan Kay’s “god-given vision” — Is there any math behind these ideas or are they just a bunch of “good-looking” ideas with "cool" rhetoric?
-
-*https://www.quora.com/How-can-I-convince-myself-that-real-OOP-is-a-better-way-to-build-systems-What-s-the-reason-other-than-Alan-Kay-s-god-given-vision-Is-there-any-math-behind-these-ideas-or-are-they-just-a-bunch-of-good-looking-ideas/answer/Alan-Kay-11*
+## [How can I convince myself that “real OOP” is a better way to build systems? What’s the reason other than Alan Kay’s “god-given vision” — Is there any math behind these ideas or are they just a bunch of “good-looking” ideas with "cool" rhetoric?](https://www.quora.com/How-can-I-convince-myself-that-real-OOP-is-a-better-way-to-build-systems-What-s-the-reason-other-than-Alan-Kay-s-god-given-vision-Is-there-any-math-behind-these-ideas-or-are-they-just-a-bunch-of-good-looking-ideas/answer/Alan-Kay-11)
 
 “Interesting” question, and “way to phrase it”.
 
@@ -1322,9 +1212,7 @@ I think it will be hard to actually understand any complex thing without *modula
 It’s up to you to decide whether what I thought about 60 years ago has any bearing on this today, and whether it was a kind of “applied algebraics and logic to practical problems” (along the lines of how John McCarthy thought about things).
 
 ---
-## It has been said that Windows is Bill Gates way of helping Seagate to sell ever larger hard disk drives. If that is true, then I claim that Smalltalk is Alan Kay's way of helping Intel sell ever more computationally capacious microprocessor chips?
-
-*https://www.quora.com/It-has-been-said-that-Windows-is-Bill-Gates-way-of-helping-Seagate-to-sell-ever-larger-hard-disk-drives-If-that-is-true-then-I-claim-that-Smalltalk-is-Alan-Kays-way-of-helping-Intel-sell-ever-more-computationally/answer/Alan-Kay-11*
+## [It has been said that Windows is Bill Gates way of helping Seagate to sell ever larger hard disk drives. If that is true, then I claim that Smalltalk is Alan Kay's way of helping Intel sell ever more computationally capacious microprocessor chips?](https://www.quora.com/It-has-been-said-that-Windows-is-Bill-Gates-way-of-helping-Seagate-to-sell-ever-larger-hard-disk-drives-If-that-is-true-then-I-claim-that-Smalltalk-is-Alan-Kays-way-of-helping-Intel-sell-ever-more-computationally/answer/Alan-Kay-11)
 
 First, let me copy the OP’s answer to his own question:
 
@@ -1345,9 +1233,7 @@ I viewed Smalltalk as “something good in its timeframe and scaling”, to be s
 The opposite of my aims actually happened: (a) Intel stayed with extremely poor architectures and tried to make them faster, but not better, (b) Smalltalk did not get materially/qualitatively reinvented, and is still around today in close to original form.
 
 ---
-## What is the Chronology of Early OOP? (see self-answer for details)
-
-*https://www.quora.com/What-is-the-Chronology-of-Early-OOP-see-self-answer-for-details/answer/Alan-Kay-11*
+## [What is the Chronology of Early OOP? (see self-answer for details)](https://www.quora.com/What-is-the-Chronology-of-Early-OOP-see-self-answer-for-details/answer/Alan-Kay-11)
 
 There’s “early” and “Really Early”.
 
@@ -1386,9 +1272,7 @@ This worked out well because we were primarily trying to invent a wide-spectrum 
 Basically: scaling really called for a “knowledge based epistemological design” that would require a lot more than just combinations of inheritance and compositions and mixins, etc. We considered this necessary, but outside the scope of our research.
 
 ---
-## How can anyone who is intelligent believe in god?
-
-*https://www.quora.com/How-can-anyone-who-is-intelligent-believe-in-god/answer/Alan-Kay-11*
+## [How can anyone who is intelligent believe in god?](https://www.quora.com/How-can-anyone-who-is-intelligent-believe-in-god/answer/Alan-Kay-11)
 
 David Moore wrote a good answer:
 
@@ -1423,9 +1307,7 @@ The real question is where to put our story worlds. I don’t think we should tr
 Shouldn’t we be teaching children how to live in and use their various mental worlds, rather than being trapped in them?
 
 ---
-## How do we program a universal bootstrapper that can run any meta-circular evaluator?
-
-*https://www.quora.com/How-do-we-program-a-universal-bootstrapper-that-can-run-any-meta-circular-evaluator/answer/Alan-Kay-11*
+## [How do we program a universal bootstrapper that can run any meta-circular evaluator?](https://www.quora.com/How-do-we-program-a-universal-bootstrapper-that-can-run-any-meta-circular-evaluator/answer/Alan-Kay-11)
 
 As stated, this feels like a “trick question”, because any Turing complete mechanism can be programmed to run any meta-circular evaluator. I feel that I’m missing something here. Am I? Please tell me more …
 
@@ -1534,9 +1416,7 @@ I think this would result in a really fun and worthwhile “MacCready” phase f
 Participants in the “Notetaker Smalltalk” project 2013-14: Dan Ingalls & Vanessa Freudenberg (leads), Ted Kaehler, Yoshiki Ohshima, Long Nyguen, Alan Kay
 
 ---
-## What do You think of Smallscript (https://www.codeproject.com/Articles/5373567/Smallscript-A-Smalltalk-Inspired-Scripting-Languag) ?
-
-*https://www.quora.com/What-do-You-think-of-Smallscript-https-www-codeproject-com-Articles-5373567-Smallscript-A-Smalltalk-Inspired-Scripting-Languag/answer/Alan-Kay-11*
+## [What do You think of Smallscript (https://www.codeproject.com/Articles/5373567/Smallscript-A-Smalltalk-Inspired-Scripting-Languag) ?](https://www.quora.com/What-do-You-think-of-Smallscript-https-www-codeproject-com-Articles-5373567-Smallscript-A-Smalltalk-Inspired-Scripting-Languag/answer/Alan-Kay-11)
 
 Have fun with it!
 
@@ -1547,9 +1427,7 @@ Also, these days, I think I would take a shot at various granularities of “pse
 Cheers
 
 ---
-## How does Alan Kay perceive the recent reconstruction of the Antikythera mechanism in relation to his "Cuneiform tablets" paper?
-
-*https://www.quora.com/How-does-Alan-Kay-perceive-the-recent-reconstruction-of-the-Antikythera-mechanism-in-relation-to-his-Cuneiform-tablets-paper/answer/Alan-Kay-11*
+## [How does Alan Kay perceive the recent reconstruction of the Antikythera mechanism in relation to his "Cuneiform tablets" paper?](https://www.quora.com/How-does-Alan-Kay-perceive-the-recent-reconstruction-of-the-Antikythera-mechanism-in-relation-to-his-Cuneiform-tablets-paper/answer/Alan-Kay-11)
 
 As with many other scientists, I’ve followed the analysis and reconstructions of the Antikythera mechanism for many years — and have been lucky to have had a number of extended conversations with some of the prinicipal investigators.
 
@@ -1582,9 +1460,7 @@ Long Nguyen and I did a number of investigations about ways to do this. We did n
 So the overlap between the Antikythera mechanism and the “Cuneiform Tablets Of the Future” is pretty small: it is mainly about making reconstructions in the future of “lost” interesting past mechanisms much easier.
 
 ---
-## Has Alan Kay started any activist movements to realize his vision of personal computing? What were the hurdles? The negative impact of capitalism and corporations, etc. What one can do as a political act?
-
-*https://www.quora.com/Has-Alan-Kay-started-any-activist-movements-to-realize-his-vision-of-personal-computing-What-were-the-hurdles-The-negative-impact-of-capitalism-and-corporations-etc-What-one-can-do-as-a-political-act/answer/Alan-Kay-11*
+## [Has Alan Kay started any activist movements to realize his vision of personal computing? What were the hurdles? The negative impact of capitalism and corporations, etc. What one can do as a political act?](https://www.quora.com/Has-Alan-Kay-started-any-activist-movements-to-realize-his-vision-of-personal-computing-What-were-the-hurdles-The-negative-impact-of-capitalism-and-corporations-etc-What-one-can-do-as-a-political-act/answer/Alan-Kay-11)
 
 This is not my nature.
 
@@ -1599,9 +1475,7 @@ This used to piss Doug off. He use to say “The mouse is just a button on the c
 Eeecks!
 
 ---
-## What does Alan Kay think about collaboration as it applies to Xerox PARC? What about the structure of PARC, and the people who were there contributed to such amazing collaborations and outcomes?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-collaboration-as-it-applies-to-Xerox-PARC-What-about-the-structure-of-PARC-and-the-people-who-were-there-contributed-to-such-amazing-collaborations-and-outcomes/answer/Alan-Kay-11*
+## [What does Alan Kay think about collaboration as it applies to Xerox PARC? What about the structure of PARC, and the people who were there contributed to such amazing collaborations and outcomes?](https://www.quora.com/What-does-Alan-Kay-think-about-collaboration-as-it-applies-to-Xerox-PARC-What-about-the-structure-of-PARC-and-the-people-who-were-there-contributed-to-such-amazing-collaborations-and-outcomes/answer/Alan-Kay-11)
 
 There are parts of the answer to this question in some of my other answers about Xerox Parc. (I would put in links here if Quora were easier to search — maybe some readers will help.)
 
@@ -1638,9 +1512,7 @@ I forgot to add a different longer range slant by some of the same pioneer playe
 They had both funded Engelbart, and this is a restatement of Doug’s central idea and purpose — and in fact was central to what Parc’s vision was all about. So — looking at this from Taylor’s point of view — given that the technology to do the above was not yet invented, a main problem with Parc was going to be (a) the absolute need for “the few people who can contribute effectively” to be brought together, and (b) to stave off the likely sources of “trouble” from those “who are not likely to be team players”.
 
 ---
-## How does Alan Kay view the connection between the relational model and "real OOP"? How would you avoid “impadence mismatch” problem with RDBMS? How was with Smalltalk Systems?
-
-*https://www.quora.com/How-does-Alan-Kay-view-the-connection-between-the-relational-model-and-real-OOP-How-would-you-avoid-impadence-mismatch-problem-with-RDBMS-How-was-with-Smalltalk-Systems/answer/Alan-Kay-11*
+## [How does Alan Kay view the connection between the relational model and "real OOP"? How would you avoid “impadence mismatch” problem with RDBMS? How was with Smalltalk Systems?](https://www.quora.com/How-does-Alan-Kay-view-the-connection-between-the-relational-model-and-real-OOP-How-would-you-avoid-impadence-mismatch-problem-with-RDBMS-How-was-with-Smalltalk-Systems/answer/Alan-Kay-11)
 
 This deserves a longer answer than this.
 
@@ -1681,9 +1553,7 @@ Something weird that happened when the first version was released to the public 
 So: start with the knowledge system design you want and need, then use useful metalanguages to implement a test version, then use usefulmetalanguages to make a solid releasable version.
 
 ---
-## What does Alan Kay think about Ray Kurzweil’s concepts of Singularity and The Law of Accelerating Returns?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-Ray-Kurzweil-s-concepts-of-Singularity-and-The-Law-of-Accelerating-Returns/answer/Alan-Kay-11*
+## [What does Alan Kay think about Ray Kurzweil’s concepts of Singularity and The Law of Accelerating Returns?](https://www.quora.com/What-does-Alan-Kay-think-about-Ray-Kurzweil-s-concepts-of-Singularity-and-The-Law-of-Accelerating-Returns/answer/Alan-Kay-11)
 
 These ideas have been around for some time, and are due to many people (see the wikipedia article for a short summary).
 
@@ -1700,9 +1570,7 @@ Vi Hart has a very good line for what we need: “We must ensure that human wisd
 Humanity has done a terrible job of even recognizing this problem, much less trying to deal with it.
 
 ---
-## What is the most shocked you have been when waking up?
-
-*https://www.quora.com/What-is-the-most-shocked-you-have-been-when-waking-up/answer/Alan-Kay-11*
+## [What is the most shocked you have been when waking up?](https://www.quora.com/What-is-the-most-shocked-you-have-been-when-waking-up/answer/Alan-Kay-11)
 
 My wife and I were renting a flat in London — where she was working on a book. I woke up in the middle of the night — for “old men’s reasons” — and decided to see how much Hilary Clinton had won by.
 
@@ -1723,9 +1591,7 @@ I should have added that what jumped into my mind after the shock was a comment 
  ― H.L. Mencken, On Politics: A Carnival of Buncombe
 
 ---
-## What is Alan Kay's advice for smart people who don't yet know what they're interested in working on? How deep should people explore topics like maths and science before deciding it isn't for them?
-
-*https://www.quora.com/What-is-Alan-Kays-advice-for-smart-people-who-dont-yet-know-what-theyre-interested-in-working-on-How-deep-should-people-explore-topics-like-maths-and-science-before-deciding-it-isnt-for-them/answer/Alan-Kay-11*
+## [What is Alan Kay's advice for smart people who don't yet know what they're interested in working on? How deep should people explore topics like maths and science before deciding it isn't for them?](https://www.quora.com/What-is-Alan-Kays-advice-for-smart-people-who-dont-yet-know-what-theyre-interested-in-working-on-How-deep-should-people-explore-topics-like-maths-and-science-before-deciding-it-isnt-for-them/answer/Alan-Kay-11)
 
 The advice given by “The Valark” below is pretty good. Part of the idea is that for the most part each person is interesting and idiosyncratic enough to need “custom advice”, which is often best obtained through many experiences of their own. Einstein said “Love is a better teacher than Duty”, and this means in part that what a guy named Alan Kay might have to say is likely to be irrelevant.
 
@@ -1780,9 +1646,7 @@ I liked the altitude and climate in Boulder, so went to the library to look for 
 A fun footnote is that over the next few decades I wound up using every single thing I had learned when I didn’t know what I was doing, but was just being super curious. This could possibly be the next best thing to specific advice when you don’t know what to do: keep learning what you are interested in — you will have so many possiblities when you stumble into a good situation.
 
 ---
-## Did pipe organs develop at all during the classical period?
-
-*https://www.quora.com/Did-pipe-organs-develop-at-all-during-the-classical-period/answer/Alan-Kay-11*
+## [Did pipe organs develop at all during the classical period?](https://www.quora.com/Did-pipe-organs-develop-at-all-during-the-classical-period/answer/Alan-Kay-11)
 
 “Classical period” in history (e.g. the ancient Greeks) or “classical period” in music (e.g. Haydn, Mozart, etc.)?
 
@@ -1807,9 +1671,7 @@ This was the start of a revolution in organ building in the 19th century. Cavall
 An important point to end this too short answer is that while C-C revolutionized organ sound and building, his instruments did not obsolete the earlier 17th century instruments (though they did for awhile in the minds of the avant-garde). Today we organists think of these historical instrument types as two parallel peaks — two golden ages — in the long long history of the instrument (which indeed does go back to the ancient Greeks B.C.). Today there are many wonderful examples of original instruments from both the Golden Ages that are regularly played.
 
 ---
-## If Alan Kay could travel in time, back to the inception of computing, but could only take a notebook as a knowledge base from today, which insights would he pick/ignore, how would he approach recreating computing, and which year would he choose?
-
-*https://www.quora.com/If-Alan-Kay-could-travel-in-time-back-to-the-inception-of-computing-but-could-only-take-a-notebook-as-a-knowledge-base-from-today-which-insights-would-he-pick-ignore-how-would-he-approach-recreating-computing-and/answer/Alan-Kay-11*
+## [If Alan Kay could travel in time, back to the inception of computing, but could only take a notebook as a knowledge base from today, which insights would he pick/ignore, how would he approach recreating computing, and which year would he choose?](https://www.quora.com/If-Alan-Kay-could-travel-in-time-back-to-the-inception-of-computing-but-could-only-take-a-notebook-as-a-knowledge-base-from-today-which-insights-would-he-pick-ignore-how-would-he-approach-recreating-computing-and/answer/Alan-Kay-11)
 
 I don’t know how to answer this question directly.
 
@@ -1828,9 +1690,7 @@ My points here are (a) bringing “notebooks back from the future” are what th
 What has been learned over and over is that humans are generally resistent to ideas and tools that do not seem to benefit them directly and quickly. And — unless there is a war or equivalent enormous obvious threat — society will not fund anything that isn’t simply derivative from the “normal present” — no matter what the ROI has been in the past.
 
 ---
-## How can I get in contact with Alan Kay for an interview for my high school project? I want to interview him about the history behind the development of the GUI and his work at PARC
-
-*https://www.quora.com/How-can-I-get-in-contact-with-Alan-Kay-for-an-interview-for-my-high-school-project-I-want-to-interview-him-about-the-history-behind-the-development-of-the-GUI-and-his-work-at-PARC/answer/Alan-Kay-11*
+## [How can I get in contact with Alan Kay for an interview for my high school project? I want to interview him about the history behind the development of the GUI and his work at PARC](https://www.quora.com/How-can-I-get-in-contact-with-Alan-Kay-for-an-interview-for-my-high-school-project-I-want-to-interview-him-about-the-history-behind-the-development-of-the-GUI-and-his-work-at-PARC/answer/Alan-Kay-11)
 
 Please tell me more about your high school project …
 
@@ -1847,9 +1707,7 @@ A book about the larger context that is pretty good is “The Dream Machine” b
 ———— I’m still hoping for a comment from the student who asked the question …
 
 ---
-## If Alan Kay were starting a computing research group today, how would he think about where to locate it?
-
-*https://www.quora.com/If-Alan-Kay-were-starting-a-computing-research-group-today-how-would-he-think-about-where-to-locate-it/answer/Alan-Kay-11*
+## [If Alan Kay were starting a computing research group today, how would he think about where to locate it?](https://www.quora.com/If-Alan-Kay-were-starting-a-computing-research-group-today-how-would-he-think-about-where-to-locate-it/answer/Alan-Kay-11)
 
 Interesting query. I have only had extensive experience with one style of “research grouping” — the ARPA/Parc style was very successful — but it is quite possible that there are other styles that would also work very well.
 
@@ -1878,9 +1736,7 @@ Most universities (and companies) were slow to see that their future staffing pa
 I will add more to this after seeing a few comments.
 
 ---
-## If earning a lot of money is my target, what major should I choose? My interest was in computer science, but people are saying to me that don't do it because AI is going to replace it. What should I do?
-
-*https://www.quora.com/If-earning-a-lot-of-money-is-my-target-what-major-should-I-choose-My-interest-was-in-computer-science-but-people-are-saying-to-me-that-dont-do-it-because-AI-is-going-to-replace-it-What-should-I-do/answer/Alan-Kay-11*
+## [If earning a lot of money is my target, what major should I choose? My interest was in computer science, but people are saying to me that don't do it because AI is going to replace it. What should I do?](https://www.quora.com/If-earning-a-lot-of-money-is-my-target-what-major-should-I-choose-My-interest-was-in-computer-science-but-people-are-saying-to-me-that-dont-do-it-because-AI-is-going-to-replace-it-What-should-I-do/answer/Alan-Kay-11)
 
 I don’t think I can give you a satisfactory answer for a number of reasons. The first and largest one is that I’ve never had making money as a target.
 
@@ -1905,9 +1761,7 @@ Vi Hart has a great line for this: “We must ensure human wisdom exceeds human 
 This seems like an excellent answer when someone asks “what should I work on?”
 
 ---
-## How does Alan Kay view the use of artificial intelligence to guide diagnosis and treatment in clinical medicine? I've been invited to write a "Con" review re: AI in hypertension (someone else to provide "Pro") & I wish to learn Alan Kay's thoughts.
-
-*https://www.quora.com/How-does-Alan-Kay-view-the-use-of-artificial-intelligence-to-guide-diagnosis-and-treatment-in-clinical-medicine-Ive-been-invited-to-write-a-Con-review-re-AI-in-hypertension-someone-else-to-provide-Pro-I-wish-to/answer/Alan-Kay-11*
+## [How does Alan Kay view the use of artificial intelligence to guide diagnosis and treatment in clinical medicine? I've been invited to write a "Con" review re: AI in hypertension (someone else to provide "Pro") & I wish to learn Alan Kay's thoughts.](https://www.quora.com/How-does-Alan-Kay-view-the-use-of-artificial-intelligence-to-guide-diagnosis-and-treatment-in-clinical-medicine-Ive-been-invited-to-write-a-Con-review-re-AI-in-hypertension-someone-else-to-provide-Pro-I-wish-to/answer/Alan-Kay-11)
 
 *Actual* “artificial intelligence” could be of great use. This term today has been watered down to mean something quite different than when it was coined more than 60 years ago.
 
@@ -1932,9 +1786,7 @@ Right now, the responsible response of medicine to what is called “AI” today
 To everyone worrying about my cancer — please don’t. I’m in my middle 80s, and was expecting that this could be an “eventful decade”. Before 2013 it most likely would have killed me in months, but the introduction of “immunotherapy” has made a difference for a percentage of those with this type of cancer. There can be side-effects from the operation and the boosting of one’s immune system (and I’ve gotten a few of them). I think many diseases are tragedies when children get them, but are part and parcel of old age, and its inevitable end-game. I am very thankful that I did not get either dementia or arthritis — and so can still play music — compared to these, the cancer is much to be preferred).
 
 ---
-## Was there ever a serious attempt to a "multiple inheritance" Smalltalk cc: Alan Kay, Dan Ingalls? If there was, why didn't it work out?
-
-*https://www.quora.com/Was-there-ever-a-serious-attempt-to-a-multiple-inheritance-Smalltalk-cc-Alan-Kay-Dan-Ingalls-If-there-was-why-didnt-it-work-out/answer/Alan-Kay-11*
+## [Was there ever a serious attempt to a "multiple inheritance" Smalltalk cc: Alan Kay, Dan Ingalls? If there was, why didn't it work out?](https://www.quora.com/Was-there-ever-a-serious-attempt-to-a-multiple-inheritance-Smalltalk-cc-Alan-Kay-Dan-Ingalls-If-there-was-why-didnt-it-work-out/answer/Alan-Kay-11)
 
 Bob Taylor — who set up Parc computing research — was one of the directors of ARPA-IPTO (and, when there, among many of his good deeds were to heavily support Doug Engelbart, Dave Evans, and to get the ARPAnet started). As I’ve written elsewhere, IPTO had “visions, not goals” and “funded people, not projects”. So if anyone asked Bob what they should do, Bob would just say “Follow your instincts”.
 
@@ -1979,9 +1831,7 @@ My bottom line on all of this is that inheritance is a good idea if there is a c
 A final note here: it’s not just making a powerful system that should be the main goal, it’s “making a reformulatable system that should be the main goal”. In other words, if things are going well, there will be a learning curve that one will want to incorporate gracefully in the system. In a new discipline with a learning curve “Power is fleeting, change is required”.
 
 ---
-## Now that machines can generate and "understand" language, what would Alan Kay argue that are a set of first principles from which to rethink the human-machine interface?
-
-*https://www.quora.com/Now-that-machines-can-generate-and-understand-language-what-would-Alan-Kay-argue-that-are-a-set-of-first-principles-from-which-to-rethink-the-human-machine-interface/answer/Alan-Kay-11*
+## [Now that machines can generate and "understand" language, what would Alan Kay argue that are a set of first principles from which to rethink the human-machine interface?](https://www.quora.com/Now-that-machines-can-generate-and-understand-language-what-would-Alan-Kay-argue-that-are-a-set-of-first-principles-from-which-to-rethink-the-human-machine-interface/answer/Alan-Kay-11)
 
 One of the ways to spot many LLMs is to note that they often don’t handle “gender anaphora” well (meaning that a sentence about a man will be followed by a sentence also about that subject but using “she” instead of “he”). This is really ugly and bad (especially considering that this was done much better before ML).
 
@@ -2002,16 +1852,12 @@ What I want in a computing system I can work with, is something that is much mor
 I think that too many people are hooked on “doing something/anything” rather than taking the time and resources to find what is actually needed to do, and then to do it “well and carefully”.
 
 ---
-## How do I write a program to evaluate the arithmetic statement: 𝑥 = (𝐴 + 𝐵∗ 𝐶) / (𝐷 - 𝐸 ∗ 𝐹 + 𝐺 ∗ 𝐻) a. Using a general register computer with three address instructions. b. Using a general register computer with two address instructions?
-
-*https://www.quora.com/How-do-I-write-a-program-to-evaluate-the-arithmetic-statement-𝑥-𝐴-𝐵-𝐶-𝐷-𝐸-𝐹-𝐺-𝐻-a-Using-a-general-register-computer/answer/Alan-Kay-11*
+## [How do I write a program to evaluate the arithmetic statement: 𝑥 = (𝐴 + 𝐵∗ 𝐶) / (𝐷 - 𝐸 ∗ 𝐹 + 𝐺 ∗ 𝐻) a. Using a general register computer with three address instructions. b. Using a general register computer with two address instructions?](https://www.quora.com/How-do-I-write-a-program-to-evaluate-the-arithmetic-statement-𝑥-𝐴-𝐵-𝐶-𝐷-𝐸-𝐹-𝐺-𝐻-a-Using-a-general-register-computer/answer/Alan-Kay-11)
 
 This sounds like a homework problem. Should you really be asking such questions on Quora?
 
 ---
-## What was the first PC, Kenbak that's according to AC M and Steve Wozniac or LINK, according to Alan C. Kay?
-
-*https://www.quora.com/What-was-the-first-PC-Kenbak-thats-according-to-AC-M-and-Steve-Wozniac-or-LINK-according-to-Alan-C-Kay/answer/Alan-Kay-11*
+## [What was the first PC, Kenbak that's according to AC M and Steve Wozniac or LINK, according to Alan C. Kay?](https://www.quora.com/What-was-the-first-PC-Kenbak-thats-according-to-AC-M-and-Steve-Wozniac-or-LINK-according-to-Alan-C-Kay/answer/Alan-Kay-11)
 
 First, we have to decide on the term “personal computer”. I have defined it as something one can easily have in their house, made in some quantity, that has at least textual I/O, and real programs can be written on it.
 
@@ -2040,9 +1886,7 @@ So I don’t understand why the question above claims that the ACM thinks that t
 In any case, both the G-15, the LGP-30, and the LINC very much predate the Kenbak and they both are much more the real thing IMO.
 
 ---
-## How can anyone take math and physics seriously enough to devote a career to them, (overwhelming evidence that the material universe obeys mathematics) without positing that abstract entities have an independent existence outside the human mind?
-
-*https://www.quora.com/How-can-anyone-take-math-and-physics-seriously-enough-to-devote-a-career-to-them-overwhelming-evidence-that-the-material-universe-obeys-mathematics-without-positing-that-abstract-entities-have-an-independent/answer/Alan-Kay-11*
+## [How can anyone take math and physics seriously enough to devote a career to them, (overwhelming evidence that the material universe obeys mathematics) without positing that abstract entities have an independent existence outside the human mind?](https://www.quora.com/How-can-anyone-take-math-and-physics-seriously-enough-to-devote-a-career-to-them-overwhelming-evidence-that-the-material-universe-obeys-mathematics-without-positing-that-abstract-entities-have-an-independent/answer/Alan-Kay-11)
 
 Many of the answers to related questions are worth reading and pondering. For example, see what James Fullwood has to say.
 
@@ -2081,18 +1925,14 @@ P.S. There is no “overwhelming evidence that the material universe obeys math�
 [1] Alfred Korzybski “Science and Sanity”
 
 ---
-## What question(s) might Alan Kay like to answer that he has not yet been asked (publicly)?
-
-*https://www.quora.com/What-question-s-might-Alan-Kay-like-to-answer-that-he-has-not-yet-been-asked-publicly/answer/Alan-Kay-11*
+## [What question(s) might Alan Kay like to answer that he has not yet been asked (publicly)?](https://www.quora.com/What-question-s-might-Alan-Kay-like-to-answer-that-he-has-not-yet-been-asked-publicly/answer/Alan-Kay-11)
 
 Thanks for asking, but if it worked that way, I would be continuously writing essays, etc.
 
 My odd motivations include the desire/urge to answer questions *plus* the fun (and necessity) of getting questions from “outside”. Quora supplies these, along with the need for brief writing (which I’m trying to improve).
 
 ---
-## How did ARPA/IPTO & Xerox PARC decide who worked on what? Were there conflicts over who got to do what?
-
-*https://www.quora.com/How-did-ARPA-IPTO-Xerox-PARC-decide-who-worked-on-what-Were-there-conflicts-over-who-got-to-do-what/answer/Alan-Kay-11*
+## [How did ARPA/IPTO & Xerox PARC decide who worked on what? Were there conflicts over who got to do what?](https://www.quora.com/How-did-ARPA-IPTO-Xerox-PARC-decide-who-worked-on-what-Were-there-conflicts-over-who-got-to-do-what/answer/Alan-Kay-11)
 
 An excellent and interesting question.
 
@@ -2159,9 +1999,7 @@ This leads to *Principle 0*:
 0. The goodness of the results correlates most strongly with the goodness of the funders
 
 ---
-## How do you think the rise of AI personal computers will impact the PC industry?
-
-*https://www.quora.comhttps://aibuilders.quora.com/How-do-you-think-the-rise-of-AI-personal-computers-will-impact-the-PC-industry-5*
+## [How do you think the rise of AI personal computers will impact the PC industry?](https://www.quora.comhttps://aibuilders.quora.com/How-do-you-think-the-rise-of-AI-personal-computers-will-impact-the-PC-industry-5)
 
 Anthropology was one of my minors in college, and the head of the department had a Macaque monkey as a pet, and would occasionally bring it to class. When we asked him about his experience at home, he said “It’s like having a dozen cats with hands”.
 
@@ -2172,9 +2010,7 @@ This is a little bit like an industrial revolution version of mass produced Trum
 I advise reading the psychologist Gary Marcus, who has been commenting and chronicling the myriad failings and dangers.
 
 ---
-## To what extent did The Inner Game of Tennis shift PARC’s point of view?
-
-*https://www.quora.com/To-what-extent-did-The-Inner-Game-of-Tennis-shift-PARC-s-point-of-view/answer/Alan-Kay-11*
+## [To what extent did The Inner Game of Tennis shift PARC’s point of view?](https://www.quora.com/To-what-extent-did-The-Inner-Game-of-Tennis-shift-PARC-s-point-of-view/answer/Alan-Kay-11)
 
 It had a huge influence on my point of view — I saw the Harry Reasoner show with Tim on it and read the book ca 1975 — but I don’t think that it affected anyone else at Parc while I was there.
 
@@ -2187,9 +2023,7 @@ The question says “PARC’s point of view”, and I don’t think this was shi
 I should also mention that Tim Gallwey and TIGOT were huge influences on the research groups I set up after Parc, especially for Apple and later at Disney. I hired Tim as a consultant and advisor, and his ideas were important parts of the larger worldview of this research.
 
 ---
-## Is there any hope of a hardware company making something like bartons computer hardware now?
-
-*https://www.quora.com/Is-there-any-hope-of-a-hardware-company-making-something-like-bartons-computer-hardware-now/answer/Alan-Kay-11*
+## [Is there any hope of a hardware company making something like bartons computer hardware now?](https://www.quora.com/Is-there-any-hope-of-a-hardware-company-making-something-like-bartons-computer-hardware-now/answer/Alan-Kay-11)
 
 The central idea and issue here is that exponentially massive scaling changes the design issues and design rules every few years.
 
@@ -2214,9 +2048,7 @@ P.S.1. It’s worth noting the lag between “serious graphics” and GPUs. We c
 P.S.2. Bob was a mathematician and “systems guy”, so his instincts were aimed at places in desired HW-SW systems where key needs were creating bottlenecks (and even neglect), and where “math” (relationship insights) could be rendered in HW to make a big difference. I urge interested readers to really take a look at the “Barton architecture” (he gives Ben Dent credit for helping with the ideas) that was used in the B5000 — and to especially look beyond the use of a stack, postfix code, etc. to see how protection, processes, and virtual memory were done. His classic very short paper (4 pages of “math”) from 1961 is cryptic, but is worth grokking (alongside a more conventional account of the B5000).
 
 ---
-## Do you believe it is ever a good idea to use a GOTO in a C/C++ program, why?
-
-*https://www.quora.com/Do-you-believe-it-is-ever-a-good-idea-to-use-a-GOTO-in-a-C-C-program-why/answer/Alan-Kay-11*
+## [Do you believe it is ever a good idea to use a GOTO in a C/C++ program, why?](https://www.quora.com/Do-you-believe-it-is-ever-a-good-idea-to-use-a-GOTO-in-a-C-C-program-why/answer/Alan-Kay-11)
 
 First, check out “Zahn’s Device” (Wikipedia calls this “Zahn’s Construct”). This will take you back to this ancient controversy, and some interesting work arounds.
 
@@ -2235,9 +2067,7 @@ Then there is the observation of Tony Hoare (Turing Laureate) that “Debugging 
 When programming is looked at longitudinally, it looks (and is) often really bad. One reason for high level languages is to deal with “the programmer problem” by walling off dangerous stuff wherever possible (this will include not just control, but storage management, etc.). This should nowadays exclude most sequential “munge-variable” programming, and dangerous control constructs such as “goto”.
 
 ---
-## When was the first computer invented? Who invented the Internet?
-
-*https://www.quora.com/When-was-the-first-computer-invented-Who-invented-the-Internet/answer/Alan-Kay-11*
+## [When was the first computer invented? Who invented the Internet?](https://www.quora.com/When-was-the-first-computer-invented-Who-invented-the-Internet/answer/Alan-Kay-11)
 
 I’ve answered the first question a few times on Quora.
 
@@ -2262,9 +2092,7 @@ The Draper Prize for the Internet was awarded to Vint Cerf, Bob Kahn, Len Kleinr
 My favorite “special sparkplug” from this esteemed group is Vint Cerf, who both (a) was the co-creator of the TCP/IP protocols, and (b) ran what was perhaps the most productive of the group efforts to nail things down into workable forms.
 
 ---
-## Isn't artificial intelligence just a fancy name for sophisticated programming running in fast enough computers?
-
-*https://www.quora.comhttps://aibuilders.quora.com/Isnt-artificial-intelligence-just-a-fancy-name-for-sophisticated-programming-running-in-fast-enough-computers-4*
+## [Isn't artificial intelligence just a fancy name for sophisticated programming running in fast enough computers?](https://www.quora.comhttps://aibuilders.quora.com/Isnt-artificial-intelligence-just-a-fancy-name-for-sophisticated-programming-running-in-fast-enough-computers-4)
 
 This is a pretty good question — especially because you are trying to separate labels from actual meanings.
 
@@ -2285,9 +2113,7 @@ I think the bottom line for any kind of engineering can be taken from the Hippoc
 I think the previous paragraph is the best answer I can come up with for your question.
 
 ---
-## What was the best computer system you worked on (or with) and why? For "best" and "computer system" pick your own definitions. 🙂
-
-*https://www.quora.com/What-was-the-best-computer-system-you-worked-on-or-with-and-why-For-best-and-computer-system-pick-your-own-definitions/answer/Alan-Kay-11*
+## [What was the best computer system you worked on (or with) and why? For "best" and "computer system" pick your own definitions. 🙂](https://www.quora.com/What-was-the-best-computer-system-you-worked-on-or-with-and-why-For-best-and-computer-system-pick-your-own-definitions/answer/Alan-Kay-11)
 
 Thank you Mark!
 
@@ -2320,9 +2146,7 @@ I particularly enjoyed the aftermath of the “Disney Etoy Period” when what w
 That was one of many “Fantasticks” level eras for me.
 
 ---
-## Which personal computer was the first to use an operating system not based on Unix?
-
-*https://www.quora.com/Which-personal-computer-was-the-first-to-use-an-operating-system-not-based-on-Unix/answer/Alan-Kay-11*
+## [Which personal computer was the first to use an operating system not based on Unix?](https://www.quora.com/Which-personal-computer-was-the-first-to-use-an-operating-system-not-based-on-Unix/answer/Alan-Kay-11)
 
 As I define “Personal Computer” Wes Clarke’s LINC from the early 60s qualifies as one of the first (see “The LINC Was Early And Small” by Wes in ACM’s “History of Personal Workstations”).
 
@@ -2343,9 +2167,7 @@ Also, the Xerox PARC Alto was a personal computer, and predated 8-bit micros and
 Numerous 8-bit micros also had OSs long before Unix.
 
 ---
-## What are some good biographies that every aspiring programmer should read?
-
-*https://www.quora.com/What-are-some-good-biographies-that-every-aspiring-programmer-should-read/answer/Alan-Kay-11*
+## [What are some good biographies that every aspiring programmer should read?](https://www.quora.com/What-are-some-good-biographies-that-every-aspiring-programmer-should-read/answer/Alan-Kay-11)
 
 Sadly, as with histories of our field/profession, most are not very good.
 
@@ -2390,16 +2212,12 @@ Recently — for a 50th year celebration of this and that — the University of 
 *Biographies* are tricky — told by others they are generally quite inaccurate and often miss the point. Unfortunately, much the same obtains for *autobiographies*! Still the latter are the best if the authors have found ways to take multiple perspectives on themselves.
 
 ---
-## Discuss fully the history of computer and the operating systems. Why are Gul-based operating systems more popular than command line interface (CLI) based operating system?
-
-*https://www.quora.com/Discuss-fully-the-history-of-computer-and-the-operating-systems-Why-are-Gul-based-operating-systems-more-popular-than-command-line-interface-CLI-based-operating-system/answer/Alan-Kay-11*
+## [Discuss fully the history of computer and the operating systems. Why are Gul-based operating systems more popular than command line interface (CLI) based operating system?](https://www.quora.com/Discuss-fully-the-history-of-computer-and-the-operating-systems-Why-are-Gul-based-operating-systems-more-popular-than-command-line-interface-CLI-based-operating-system/answer/Alan-Kay-11)
 
 This sounds like a combination of a command and a homework assignment (a would be command). Please try me again with the first sentence omitted.
 
 ---
-## What profound insights did Seymour Cray have that allowed him to design faster computers than others could at the time? Do they consist of proper cooling and signal sync, which, frankly, seem to be methods that computer scientists should have known?
-
-*https://www.quora.com/What-profound-insights-did-Seymour-Cray-have-that-allowed-him-to-design-faster-computers-than-others-could-at-the-time-Do-they-consist-of-proper-cooling-and-signal-sync-which-frankly-seem-to-be-methods-that-computer/answer/Alan-Kay-11*
+## [What profound insights did Seymour Cray have that allowed him to design faster computers than others could at the time? Do they consist of proper cooling and signal sync, which, frankly, seem to be methods that computer scientists should have known?](https://www.quora.com/What-profound-insights-did-Seymour-Cray-have-that-allowed-him-to-design-faster-computers-than-others-could-at-the-time-Do-they-consist-of-proper-cooling-and-signal-sync-which-frankly-seem-to-be-methods-that-computer/answer/Alan-Kay-11)
 
 I had both the privilege and experience of working with Seymour Cray in 1965 on his CDC 6600 at his Chippewa Falls lab (when he was still with Control Data). I very strongly suggest that you first read the Wikipedia article on Seymour Cray to get a small but useful gist of his life and works. Then I suggest you read the Quora answer I wrote about “Idiosyncrasies of Old Computers”. I will probably repeat some material from this.
 
@@ -2482,9 +2300,7 @@ For example a lot of the desired programs were essentially “fluid dynamics” 
 What architectures can you come up with that address *what is actually needed* (WIAN)?
 
 ---
-## Where do you think programs begin to be a "big ball of mud"? That is where do you think programs get large enough that a person cannot track all the interactions between the parts, even if the parts are coherent abstractions?
-
-*https://www.quora.com/Where-do-you-think-programs-begin-to-be-a-big-ball-of-mud-That-is-where-do-you-think-programs-get-large-enough-that-a-person-cannot-track-all-the-interactions-between-the-parts-even-if-the-parts-are-coherent/answer/Alan-Kay-11*
+## [Where do you think programs begin to be a "big ball of mud"? That is where do you think programs get large enough that a person cannot track all the interactions between the parts, even if the parts are coherent abstractions?](https://www.quora.com/Where-do-you-think-programs-begin-to-be-a-big-ball-of-mud-That-is-where-do-you-think-programs-get-large-enough-that-a-person-cannot-track-all-the-interactions-between-the-parts-even-if-the-parts-are-coherent/answer/Alan-Kay-11)
 
 The great computer scientist — and first Turing Award winner — Alan Perlis, liked to say “One person’s constant is another person’s variable”.
 
@@ -2501,9 +2317,7 @@ The catch is that the “code” here is often different in form than the codes 
 It’s sobering that what one sees on the small visual angle of a screen is usually about 50 lines of code in a window, and there is often little sense of the whole system and its possible interactions. This gets to be “mud” very quickly — and the weak module and expressive possibilities of most systems make it difficult to produce meaningful overviews.
 
 ---
-## How might Alan Kay elaborate on "You could think of it [Val Shorre's Meta II] as an active interface language on objects"?
-
-*https://www.quora.com/How-might-Alan-Kay-elaborate-on-You-could-think-of-it-Val-Shorres-Meta-II-as-an-active-interface-language-on-objects/answer/Alan-Kay-11*
+## [How might Alan Kay elaborate on "You could think of it [Val Shorre's Meta II] as an active interface language on objects"?](https://www.quora.com/How-might-Alan-Kay-elaborate-on-You-could-think-of-it-Val-Shorres-Meta-II-as-an-active-interface-language-on-objects/answer/Alan-Kay-11)
 
 Part of the context here is from the early thinking about objects (using Meta II as an example of a pattern matcher), and part is very relevant to today and its scalings.
 
@@ -2528,9 +2342,7 @@ Note: a wonderful thing about programming languages in general is that a rather 
 But what if a “message language” was designed much much better? And the use of it was much less ad hoc than programming too often is?
 
 ---
-## Is it necessary to make a GUI version for a simple program?
-
-*https://www.quora.com/Is-it-necessary-to-make-a-GUI-version-for-a-simple-program/answer/Alan-Kay-11*
+## [Is it necessary to make a GUI version for a simple program?](https://www.quora.com/Is-it-necessary-to-make-a-GUI-version-for-a-simple-program/answer/Alan-Kay-11)
 
 In the spirit of “Context is worth 80 IQ points”, let’s try a different perspective. A UI is the meeting ground between processes, especially between humans and media (where the “process” is sometimes the description of another “process”).
 
@@ -2579,9 +2391,7 @@ I.e. “We don’t need no stinkin’ bitmap!” to make an overlapping window i
 One conclusion relating to the original question is that any reasonable IDE in 2024 should automatically provide a UI for any code written. There were a number of past examples from the 60s and 70s, and a white paper that attempted to be provocative written in 1984 with the title “Opening The Hood Of A Word Processor” …
 
 ---
-## Is the most important thing for programming "readable code"? If you had to name only one thing.
-
-*https://www.quora.com/Is-the-most-important-thing-for-programming-readable-code-If-you-had-to-name-only-one-thing/answer/Alan-Kay-11*
+## [Is the most important thing for programming "readable code"? If you had to name only one thing.](https://www.quora.com/Is-the-most-important-thing-for-programming-readable-code-If-you-had-to-name-only-one-thing/answer/Alan-Kay-11)
 
 I wouldn’t name just one thing: this is a bit like asking “which leg of a three legged stool is the most important one?”
 
@@ -2592,9 +2402,7 @@ If we are only picking three, there are lots of “(c)”s. For example (c) safe
 I would still want a (d) that has to do with “creating and controlling world-lines and histories”. This would be required for a significant part of (c), so maybe that is where this hugely important, much neglected criterion could reside …
 
 ---
-## What is Alan Kay's alternative solution for the web which he mentioned in OOPSLA '97?
-
-*https://www.quora.com/What-is-Alan-Kays-alternative-solution-for-the-web-which-he-mentioned-in-OOPSLA-97/answer/Alan-Kay-11*
+## [What is Alan Kay's alternative solution for the web which he mentioned in OOPSLA '97?](https://www.quora.com/What-is-Alan-Kays-alternative-solution-for-the-web-which-he-mentioned-in-OOPSLA-97/answer/Alan-Kay-11)
 
 —— Some additions and edits made Dec 3 2023 ——
 
@@ -2641,9 +2449,7 @@ What part of “computer” did the web and browser people not understand? (Note
 A no less shocking thing today is that (anecdotal) I’ve found that most people who claim to be computerists are stumped when they are asked to criticize e.g. the browers, or the standard OSs, etc. They have become normalized to “poor” and think it is “normal” and “OK”. To me this is not only sad but dangerous.
 
 ---
-## How is math translated into code? For example, ray tracing in computer graphics, how is the math and physics equation of that translated into a code?
-
-*https://www.quora.com/How-is-math-translated-into-code-For-example-ray-tracing-in-computer-graphics-how-is-the-math-and-physics-equation-of-that-translated-into-a-code/answer/Alan-Kay-11*
+## [How is math translated into code? For example, ray tracing in computer graphics, how is the math and physics equation of that translated into a code?](https://www.quora.com/How-is-math-translated-into-code-For-example-ray-tracing-in-computer-graphics-how-is-the-math-and-physics-equation-of-that-translated-into-a-code/answer/Alan-Kay-11)
 
 The answer by Jim Lux will help.
 
@@ -2704,9 +2510,7 @@ Bottom line is that human conventions for “formulas” can be used in a progra
 A very early famous (and famously simple) system for translating from grammars of programming languages to runnable code is “Meta II” by Val Shorre. The wikipedia article has an explanation of it and also has links to the original papers (read this one, it is a classic).
 
 ---
-## What programming language does Alan Kay consider to be the most advanced?
-
-*https://www.quora.com/What-programming-language-does-Alan-Kay-consider-to-be-the-most-advanced/answer/Alan-Kay-11*
+## [What programming language does Alan Kay consider to be the most advanced?](https://www.quora.com/What-programming-language-does-Alan-Kay-consider-to-be-the-most-advanced/answer/Alan-Kay-11)
 
 I used to track programming languages as well as I could (but as Jean Sammet pointed out in the late 60s, “There already have been over 3000 PLs designed and made. How can we sort them?”).
 
@@ -2739,9 +2543,7 @@ ADDENDA
 <to appear>
 
 ---
-## What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today/answer/Alan-Kay-11*
+## [What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today/answer/Alan-Kay-11)
 
 A little context and bias before I attempt to give an answer: I started programming as a job ca 1961 in the USAF. The programming style was “data munged by imperatives with loops” (sound familiar?). An interesting wrinkle was that the machines we used at that time (and most computers) did not have what would be called an “operating system” — but there were yearnings, and also interesting subsets of code that helped “operators” run “jobs”. In just a few years, as the result of many different forces, a number of different operating systems started to appear, and most of them had as one of their main goals to be able to run multiple processes, including processes written by different people for different reasons.
 
@@ -2784,9 +2586,7 @@ Finally, I think the big deal here is vastly larger than the vast disasters in c
 Robert Heinlein once warned: “The bull wears itself out on the cape and fails to see the sword”.
 
 ---
-## What is machine code? Is it really the lowest level of programming? If it is, how does this make sense as we still have assembly languages and high-level languages like C++ and Java?
-
-*https://www.quora.com/What-is-machine-code-Is-it-really-the-lowest-level-of-programming-If-it-is-how-does-this-make-sense-as-we-still-have-assembly-languages-and-high-level-languages-like-C-and-Java/answer/Alan-Kay-11*
+## [What is machine code? Is it really the lowest level of programming? If it is, how does this make sense as we still have assembly languages and high-level languages like C++ and Java?](https://www.quora.com/What-is-machine-code-Is-it-really-the-lowest-level-of-programming-If-it-is-how-does-this-make-sense-as-we-still-have-assembly-languages-and-high-level-languages-like-C-and-Java/answer/Alan-Kay-11)
 
 This is a pretty good question.
 
@@ -2831,9 +2631,7 @@ The only reasonable and reliable vehicle IMO was a FORTRAN that ran on the unive
 However, the double debugging problem here — both the emulator and then the emulated program running under it — motivated me to write an actual assembler (also in FORTRAN) for the emulated machine. This was an additional pain, but wound up paying dividends in getting the whole system to meet Dave Evans’ requirements without burning out too many brain cells.
 
 ---
-## How did the first computers look like and what could they do, compared to modern-day machines?
-
-*https://www.quora.com/How-did-the-first-computers-look-like-and-what-could-they-do-compared-to-modern-day-machines/answer/Alan-Kay-11*
+## [How did the first computers look like and what could they do, compared to modern-day machines?](https://www.quora.com/How-did-the-first-computers-look-like-and-what-could-they-do-compared-to-modern-day-machines/answer/Alan-Kay-11)
 
 The question explicitly says “first computers” — so, for anyone with a taste for history, this should rule out answers for computers that happened after 1955 or so, and I will concentrate on “first programmable computers”.
 
@@ -2850,9 +2648,7 @@ Here’s a picture of one of the blockhouses:
 Just to emphasize again: it does not take much of a CPU plus a lot of simple memory to allow any and all computations to be expressed.
 
 ---
-## Does Alan Kay have any updated thoughts on "People who are really serious about software should make their own hardware"?
-
-*https://www.quora.com/Does-Alan-Kay-have-any-updated-thoughts-on-People-who-are-really-serious-about-software-should-make-their-own-hardware/answer/Alan-Kay-11*
+## [Does Alan Kay have any updated thoughts on "People who are really serious about software should make their own hardware"?](https://www.quora.com/Does-Alan-Kay-have-any-updated-thoughts-on-People-who-are-really-serious-about-software-should-make-their-own-hardware/answer/Alan-Kay-11)
 
 In brief: I’ve pointed out — long ago now — that “hardware is just software crystallized early”. If we combine this with why we want computers that can take on and run software (so we don’t have to go to the trouble of making special hardware for each functions), we can see that the slogan is actually requesting more reasonable tradeoffs.
 
@@ -2875,9 +2671,7 @@ The other thing we tried to explain back then is that if you have new ideas and 
 I think this is still the case today.
 
 ---
-## What were the main ideas that eventually led to the design of modeless human computer interaction and modeless interfaces?
-
-*https://www.quora.com/What-were-the-main-ideas-that-eventually-led-to-the-design-of-modeless-human-computer-interaction-and-modeless-interfaces/answer/Alan-Kay-11*
+## [What were the main ideas that eventually led to the design of modeless human computer interaction and modeless interfaces?](https://www.quora.com/What-were-the-main-ideas-that-eventually-led-to-the-design-of-modeless-human-computer-interaction-and-modeless-interfaces/answer/Alan-Kay-11)
 
 The other answers are pretty good, and I’ve already answered this in Quora somewhere else (see if you can find it), but just to be brief here.
 
@@ -2896,9 +2690,7 @@ This was a lot like the window idea and some of the good GRAIL ideas, etc., so w
 This is what we called “modeless”. Larry eventually had a license plate for his car saying “NO MODES”
 
 ---
-## Why does Alan Kay call his youth misspent?
-
-*https://www.quora.com/Why-does-Alan-Kay-call-his-youth-misspent/answer/Alan-Kay-11*
+## [Why does Alan Kay call his youth misspent?](https://www.quora.com/Why-does-Alan-Kay-call-his-youth-misspent/answer/Alan-Kay-11)
 
 That was a joke about how many things I did that *weren’t* computing.
 
@@ -2911,9 +2703,7 @@ I should point out here that “there was no plan, grand or otherwise” — I w
 One way to look at all this is that the more you get fluent in, the more ways and things you will have to make analogies to, and these can lead to very different important new thoughts.
 
 ---
-## When Alan Kay conceived of object-oriented programming as being about objects that hide their state and send messages to other objects, how large were these objects imagined to be, and how closely does current teaching and programming reflect this?
-
-*https://www.quora.com/When-Alan-Kay-conceived-of-object-oriented-programming-as-being-about-objects-that-hide-their-state-and-send-messages-to-other-objects-how-large-were-these-objects-imagined-to-be-and-how-closely-does-current/answer/Alan-Kay-11*
+## [When Alan Kay conceived of object-oriented programming as being about objects that hide their state and send messages to other objects, how large were these objects imagined to be, and how closely does current teaching and programming reflect this?](https://www.quora.com/When-Alan-Kay-conceived-of-object-oriented-programming-as-being-about-objects-that-hide-their-state-and-send-messages-to-other-objects-how-large-were-these-objects-imagined-to-be-and-how-closely-does-current/answer/Alan-Kay-11)
 
 Summary: they were always thought of as “all sizes” — this is what messaging allows one to think — but it took awhile to invent all the software engineering needed to make the nice idea practical enough for real system building.
 
@@ -2942,9 +2732,7 @@ I’ve noted elsewhere that “object-oriented” to me is not a programming par
 We got away with using inheritance in the later Smalltalks at Parc because we — and especially Dan Ingalls — were very careful with it. A later experience with Morphic in Squeak was not so happy.
 
 ---
-## Why did Alan Kay move to London?
-
-*https://www.quora.com/Why-did-Alan-Kay-move-to-London/answer/Alan-Kay-11*
+## [Why did Alan Kay move to London?](https://www.quora.com/Why-did-Alan-Kay-move-to-London/answer/Alan-Kay-11)
 
 Short answer is that my wife — the amazing Bonnie MacBird — decided she wanted to write a Sherlock Holmes novel in the authentic voice of Doyle’s Watson. She had been a super fan since childhood, and this project had been on the back burner for years.
 
@@ -2971,9 +2759,7 @@ Then I wound up getting a very rare and bad kind of cancer, and one of the world
 So: “London” was not a plan, but just gradually happened, and we are both happy how it turned out.
 
 ---
-## Why did you major in mathematics?
-
-*https://www.quora.com/Why-did-you-major-in-mathematics/answer/Alan-Kay-11*
+## [Why did you major in mathematics?](https://www.quora.com/Why-did-you-major-in-mathematics/answer/Alan-Kay-11)
 
 I always was interested in math, and especially after reading in a Robert Heinlein scifi book for youngsters that “No matter how or where you wind up you should understand mathematics”
 
@@ -2990,9 +2776,7 @@ There was only one — at the U of Utah across the Rockies on the other slope. I
 I arrived “knowing nothing” and found that I’d wandered into the ARPA research community and one of its best venues.
 
 ---
-## Since Smalltalk programming language has roots in biology, is it a perfect match for various computational biology applications(like system biology, agent-based modeling)? If so, what are some good examples of existing applications?
-
-*https://www.quora.com/Since-Smalltalk-programming-language-has-roots-in-biology-is-it-a-perfect-match-for-various-computational-biology-applications-like-system-biology-agent-based-modeling-If-so-what-are-some-good-examples-of-existing/answer/Alan-Kay-11*
+## [Since Smalltalk programming language has roots in biology, is it a perfect match for various computational biology applications(like system biology, agent-based modeling)? If so, what are some good examples of existing applications?](https://www.quora.com/Since-Smalltalk-programming-language-has-roots-in-biology-is-it-a-perfect-match-for-various-computational-biology-applications-like-system-biology-agent-based-modeling-If-so-what-are-some-good-examples-of-existing/answer/Alan-Kay-11)
 
 Smalltalk does have some of its roots in biology — but certainly when I was thinking about this kind of language in the mid to late 60s, I was not using much — if anything — of what I understood about molecular biology (a really early book on Mol-Bio was Watson’s “Molecular Biology of the Gene” in 1965 — which was wonderful, but at scalings that weren’t very applicable to computing at that time).
 
@@ -3007,9 +2791,7 @@ There were already quite a few “module schemes” in computing — most of the
 I think Smalltalk is still worth understanding. However, I personally would start from scratch with a new language that is much more in accord with “what is actually needed?”. I.e. it would also have modules, but they would be rather different from Smalltalk’s of more than 50 years ago now.
 
 ---
-## Alan, you have written numerous essays and given many talks on the topic of computing, but you have never published a book on the subject. Is there any particular reason behind this decision? Is it related to your idea of the Dynabook?
-
-*https://www.quora.com/Alan-you-have-written-numerous-essays-and-given-many-talks-on-the-topic-of-computing-but-you-have-never-published-a-book-on-the-subject-Is-there-any-particular-reason-behind-this-decision-Is-it-related-to-your-idea/answer/Alan-Kay-11*
+## [Alan, you have written numerous essays and given many talks on the topic of computing, but you have never published a book on the subject. Is there any particular reason behind this decision? Is it related to your idea of the Dynabook?](https://www.quora.com/Alan-you-have-written-numerous-essays-and-given-many-talks-on-the-topic-of-computing-but-you-have-never-published-a-book-on-the-subject-Is-there-any-particular-reason-behind-this-decision-Is-it-related-to-your-idea/answer/Alan-Kay-11)
 
 Probably the simplest answer to the question is that I like to work on things I have “urges” to do, and I’ve never had the “urge” to write a book.
 
@@ -3050,9 +2832,7 @@ A “really good book” about our field would need to take a deep and reasonabl
 P.S. I now realize I shouldn’t have mentioned the cancer, and just should have said, “not the energy I used to have”. I sincerely thank the commenters who have wished me well — but let’s get past this if we can: it’s just a “cycle of life” thing that is part of an inevitable process for all human beings.
 
 ---
-## Does Alan Kay see the educational goals behind the Dynabook concept furthered by AI systems, especially in light of developments like GPT-4? Can this improve computer interaction and computer aided learning?
-
-*https://www.quora.com/Does-Alan-Kay-see-the-educational-goals-behind-the-Dynabook-concept-furthered-by-AI-systems-especially-in-light-of-developments-like-GPT-4-Can-this-improve-computer-interaction-and-computer-aided-learning/answer/Alan-Kay-11*
+## [Does Alan Kay see the educational goals behind the Dynabook concept furthered by AI systems, especially in light of developments like GPT-4? Can this improve computer interaction and computer aided learning?](https://www.quora.com/Does-Alan-Kay-see-the-educational-goals-behind-the-Dynabook-concept-furthered-by-AI-systems-especially-in-light-of-developments-like-GPT-4-Can-this-improve-computer-interaction-and-computer-aided-learning/answer/Alan-Kay-11)
 
 One of the earliest stated goals — in the late 60s — for real education for children, perhaps helped along with a “Dynabook”, was: to have children grow up to think better than most adults do today.
 
@@ -3077,16 +2857,12 @@ After trying to understand this area and find ways to get it above the “What i
 P.S. Much the same kind of response could be given today about questions regarding “What happened to Doug Engelbart’s real insights and goals?”
 
 ---
-## What is the specific reference for Alan Kay's discussion related to people in business not wanting to hear complaints and why they should welcome them?
-
-*https://www.quora.com/What-is-the-specific-reference-for-Alan-Kays-discussion-related-to-people-in-business-not-wanting-to-hear-complaints-and-why-they-should-welcome-them/answer/Alan-Kay-11*
+## [What is the specific reference for Alan Kay's discussion related to people in business not wanting to hear complaints and why they should welcome them?](https://www.quora.com/What-is-the-specific-reference-for-Alan-Kays-discussion-related-to-people-in-business-not-wanting-to-hear-complaints-and-why-they-should-welcome-them/answer/Alan-Kay-11)
 
 I don’t recall saying this.
 
 ---
-## What is the meaning of Alan Kay's quote "the best way to predict the future is to invent it"? How can this be applied to any field of work?
-
-*https://www.quora.com/What-is-the-meaning-of-Alan-Kays-quote-the-best-way-to-predict-the-future-is-to-invent-it-How-can-this-be-applied-to-any-field-of-work/answer/Alan-Kay-11*
+## [What is the meaning of Alan Kay's quote "the best way to predict the future is to invent it"? How can this be applied to any field of work?](https://www.quora.com/What-is-the-meaning-of-Alan-Kays-quote-the-best-way-to-predict-the-future-is-to-invent-it-How-can-this-be-applied-to-any-field-of-work/answer/Alan-Kay-11)
 
 This came out in a fit of frustration during a meeting in the early days of Parc with the Xerox corporate planning group.
 
@@ -3115,9 +2891,7 @@ As far as the laws of mathematics refer to reality, they are not certain, and as
 This one really gets to the heart of many important matters — far beyond both math and science — and works extremely well just as he stated it.
 
 ---
-## What does it mean to be an "Alan Kay" programmer? What are some ways to become more creative in programming?
-
-*https://www.quora.com/What-does-it-mean-to-be-an-Alan-Kay-programmer-What-are-some-ways-to-become-more-creative-in-programming/answer/Alan-Kay-11*
+## [What does it mean to be an "Alan Kay" programmer? What are some ways to become more creative in programming?](https://www.quora.com/What-does-it-mean-to-be-an-Alan-Kay-programmer-What-are-some-ways-to-become-more-creative-in-programming/answer/Alan-Kay-11)
 
 An “Alan Kay programmer” is a person with a few odd, potentially worthwhile, ideas, and deep enough knowledge and skills to work with a group of people with much deeper skills.
 
@@ -3130,9 +2904,7 @@ This group entity idea was not uncommon in the ARPA/Parc community. Even Ivan Su
 Bottom line: if you can achieve synergy in a group you will usually get exponential factors of improvement.
 
 ---
-## Do you agree with Alan Kay's comment that a computer science degree teaches students how to write bad code?
-
-*https://www.quora.com/Do-you-agree-with-Alan-Kays-comment-that-a-computer-science-degree-teaches-students-how-to-write-bad-code/answer/Alan-Kay-11*
+## [Do you agree with Alan Kay's comment that a computer science degree teaches students how to write bad code?](https://www.quora.com/Do-you-agree-with-Alan-Kays-comment-that-a-computer-science-degree-teaches-students-how-to-write-bad-code/answer/Alan-Kay-11)
 
 I never said that — we should at least pose an accurate question.
 
@@ -3163,9 +2935,7 @@ Tear it up into teeny-weeny pieces, and discard them into widely separated trash
 Kurt Vonnegut
 
 ---
-## How did Alan Kay recruit and interview his researchers at VPRI?
-
-*https://www.quora.com/How-did-Alan-Kay-recruit-and-interview-his-researchers-at-VPRI/answer/Alan-Kay-11*
+## [How did Alan Kay recruit and interview his researchers at VPRI?](https://www.quora.com/How-did-Alan-Kay-recruit-and-interview-his-researchers-at-VPRI/answer/Alan-Kay-11)
 
 I just noticed that I have been misreading this question — or it got changed? In any case, my answer below was about my ARPA and Parc experiences. I’ve added a little bit about Viewpoints Research Institute (which I didn’t set up until the early 2000s), and put this below the main answer
 
@@ -3234,9 +3004,7 @@ This is difficult to do (because you are trying to do this with what you learned
 And it is very difficult to tell a “new great-contexter” from an actual “crazy person” (or even just a blow hard). Dave Evans liked “other side of lines” types, and he would give quite a few a chance, who eventually didn’t work out. He didn’t care when they didn’t (and ARPA only gave Dave funding, they didn’t control his process), so Dave happily kept on giving people chances — and he wound up with enough “geese who laid golden eggs — rather than lead ones or worse” to staff up a first class ARPA project. (This was very similar to ARPA’s philosophy on the big difference between “error” and “overhead” that I’ve written about elsewhere on Quora.)
 
 ---
-## Can I become competent programmer if I will start learning Computer Science without attending university lessons, only relying on textbooks, internet resources?
-
-*https://www.quora.com/Can-I-become-competent-programmer-if-I-will-start-learning-Computer-Science-without-attending-university-lessons-only-relying-on-textbooks-internet-resources/answer/Alan-Kay-11*
+## [Can I become competent programmer if I will start learning Computer Science without attending university lessons, only relying on textbooks, internet resources?](https://www.quora.com/Can-I-become-competent-programmer-if-I-will-start-learning-Computer-Science-without-attending-university-lessons-only-relying-on-textbooks-internet-resources/answer/Alan-Kay-11)
 
 I feel that this is an honestly asked question — and it is a difficult one, in part because it isn’t complete (it lacks many side conditions, such as how you are going to get experience writing programs, and especially how you are going to get feedback to help you improve both your programming and design abilities).
 
@@ -3273,9 +3041,7 @@ A central idea here is that much learning is really autodidactic, but even stron
 Gratefully borrowed from Stephen Fry
 
 ---
-## I used chatGPT to summarise some of your opinions. What does the real living human think of artificial intelligence condensation of these previously expressed opinions?
-
-*https://www.quora.com/I-used-chatGPT-to-summarise-some-of-your-opinions-What-does-the-real-living-human-think-of-artificial-intelligence-condensation-of-these-previously-expressed-opinions/answer/Alan-Kay-11*
+## [I used chatGPT to summarise some of your opinions. What does the real living human think of artificial intelligence condensation of these previously expressed opinions?](https://www.quora.com/I-used-chatGPT-to-summarise-some-of-your-opinions-What-does-the-real-living-human-think-of-artificial-intelligence-condensation-of-these-previously-expressed-opinions/answer/Alan-Kay-11)
 
 Here are two chatGPT summaries, as furnished by Mark Dickson:
 
@@ -3314,9 +3080,7 @@ Another is that I’ve repeatedly stated that I don’t think OOP is really a �
 The danger here is that “form very often rules over content” in most of human life, and the current “AI”s have been aimed at mimicking form rather than at understanding content. Given the general state of the public outlook, this is a disaster already well along.
 
 ---
-## What was the source of documentation and programming knowledge before the internet? How did daily coding look like without having access to Google?
-
-*https://www.quora.com/What-was-the-source-of-documentation-and-programming-knowledge-before-the-internet-How-did-daily-coding-look-like-without-having-access-to-Google/answer/Alan-Kay-11*
+## [What was the source of documentation and programming knowledge before the internet? How did daily coding look like without having access to Google?](https://www.quora.com/What-was-the-source-of-documentation-and-programming-knowledge-before-the-internet-How-did-daily-coding-look-like-without-having-access-to-Google/answer/Alan-Kay-11)
 
 The major HW manufacturers had “SHARE” organizations of their customers to share lore and sometimes code.
 
@@ -3331,9 +3095,7 @@ Typical code looked like this:
 This had some extreme side conditions, including a tiny slow “odd” computer, and that most of the code had to be put into a very difficult to make ROM (of “core rope” memory). But listings like this were typically what one wanted to look at, especially the semi-readable assembly code columns in the middle of each page.
 
 ---
-## Are the slides (Squeak image) available for the Alan Kay talk linked in comment?
-
-*https://www.quora.com/Are-the-slides-Squeak-image-available-for-the-Alan-Kay-talk-linked-in-comment/answer/Alan-Kay-11*
+## [Are the slides (Squeak image) available for the Alan Kay talk linked in comment?](https://www.quora.com/Are-the-slides-Squeak-image-available-for-the-Alan-Kay-talk-linked-in-comment/answer/Alan-Kay-11)
 
 They aren’t right now, but — without promising anything — something like them might be made available in 2023 or 2024. Here’s the talk in question: (starts at 2:15 if the link doesn’t do it).
 
@@ -3362,9 +3124,7 @@ However, it would be great to have all the additional scaffolding done for a his
 We are all indebted to Dan Ingalls for his many versions of the Smalltalks, and now, even more, because he has made a “Smalltalk Zoo” of live interactive versions of many of the old systems. I think the latest version of this is available through the Computer History Museum’s web site — Phillip Remaker found this link to the Zoo:
 
 ---
-## What is the history of the first personal computer?
-
-*https://www.quora.com/What-is-the-history-of-the-first-personal-computer/answer/Alan-Kay-11*
+## [What is the history of the first personal computer?](https://www.quora.com/What-is-the-history-of-the-first-personal-computer/answer/Alan-Kay-11)
 
 I think we first have to come up with an agreed on definition for “personal computer”. What most people think of is something which cost originally in the range of a television set — but I think we could extend that to include other “personally owned things” such as automobiles and houses (but not Lamborginis or office buildings, etc.).
 
@@ -3377,9 +3137,7 @@ Mary Allen Wilkes’ LINC computer in her home (invented by Wes Clark) ca ‘62.
 Please write comments to help the definition, and I’ll try to answer.
 
 ---
-## What does Alan Kay think of Ruby programming language, since it was inspired by Smalltalk?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-Ruby-programming-language-since-it-was-inspired-by-Smalltalk/answer/Alan-Kay-11*
+## [What does Alan Kay think of Ruby programming language, since it was inspired by Smalltalk?](https://www.quora.com/What-does-Alan-Kay-think-of-Ruby-programming-language-since-it-was-inspired-by-Smalltalk/answer/Alan-Kay-11)
 
 As I said to a similar question about Swift: I don’t think my opinion matters.
 
@@ -3400,9 +3158,7 @@ John McCarthy wrote a paper in 1958 “Programs with commonsense” and spelled 
 Sketchpad was a different approach to the same understanding of the need for a qualitative jump. Basically, in Sketchpad, the programming was done in terms of requirements for what you wanted, and Sketchpad had three problem solvers that could find solutions to the multiple requirements given to it. Its lower level was the first OO framework, but the programming was cosmically aimed at the future where the main programming is all done in terms of *meaning* in ways that are quite separated from any kind of optimizations.
 
 ---
-## How an object is created? What are the important parts necessary to create an object?
-
-*https://www.quora.com/How-an-object-is-created-What-are-the-important-parts-necessary-to-create-an-object/answer/Alan-Kay-11*
+## [How an object is created? What are the important parts necessary to create an object?](https://www.quora.com/How-an-object-is-created-What-are-the-important-parts-necessary-to-create-an-object/answer/Alan-Kay-11)
 
 This is an interesting question — I’ll take it to include “… on a vanilla computer with no “object language” already present”.
 
@@ -3425,9 +3181,7 @@ A more sophisticated scheme could be to send requests to a “broker” process 
 Bottom lines here are that (a) “something vaguely like an object” can easily be made from any vanilla computer resources, (b) most such things in most current “OOP” languages are neither very good renderings, nor is their use enlightened, (c) in the current day of many doublings via Moore’s Law since 1966 (about 35 doublings perhaps), a version of OOP is needed to deal with current scales and needs (d) having great objects, does not say all that is needed about how to organize them — this is one of the greatest ongoing issues (I.e. “OOP” is not really a programming paradigm, but a universal process definition scheme).
 
 ---
-## What does Alan Kay think of Neil Postman's invited talk at Apple in 1993, and are his main arguments even more pertinent & relevant now 30 years later?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-Neil-Postmans-invited-talk-at-Apple-in-1993-and-are-his-main-arguments-even-more-pertinent-relevant-now-30-years-later/answer/Alan-Kay-11*
+## [What does Alan Kay think of Neil Postman's invited talk at Apple in 1993, and are his main arguments even more pertinent & relevant now 30 years later?](https://www.quora.com/What-does-Alan-Kay-think-of-Neil-Postmans-invited-talk-at-Apple-in-1993-and-are-his-main-arguments-even-more-pertinent-relevant-now-30-years-later/answer/Alan-Kay-11)
 
 I think the referred to talk was:
 
@@ -3450,9 +3204,7 @@ He knew — as did McLuhan — that, down deep, public utterances are at best �
 So, with the above as context, what do viewers think Neil is trying to get the audience to think about?
 
 ---
-## Do you think that Alan Kay was more focused on children than education? Why?
-
-*https://www.quora.com/Do-you-think-that-Alan-Kay-was-more-focused-on-children-than-education-Why/answer/Alan-Kay-11*
+## [Do you think that Alan Kay was more focused on children than education? Why?](https://www.quora.com/Do-you-think-that-Alan-Kay-was-more-focused-on-children-than-education-Why/answer/Alan-Kay-11)
 
 H.G. Wells said it better than I can: “Civilization is in a race between education and catastrophe”. His notion that education could be a deterrent to catastrophe was part of the age old “nature vs. nurture” questions that gained ground as Anthropology and Psychology delved deeper into trying to understand humans, their cultures, and behaviors.
 
@@ -3509,9 +3261,7 @@ We should be able to see that simply “teaching and using tools” is not just 
 So, in the race between education and catastrophe, we must learn to deeply understand catastrophe, education, intermediaries, society, humanity, and children, and then take major actions for all.
 
 ---
-## What did Kay mean by “I wanted to get rid of data. The B5000 almost did this via its almost unbelievable HW architecture.”?
-
-*https://www.quora.com/What-did-Kay-mean-by-I-wanted-to-get-rid-of-data-The-B5000-almost-did-this-via-its-almost-unbelievable-HW-architecture/answer/Alan-Kay-11*
+## [What did Kay mean by “I wanted to get rid of data. The B5000 almost did this via its almost unbelievable HW architecture.”?](https://www.quora.com/What-did-Kay-mean-by-I-wanted-to-get-rid-of-data-The-B5000-almost-did-this-via-its-almost-unbelievable-HW-architecture/answer/Alan-Kay-11)
 
 One way to think about classical “data” is that it is something passive that can be munged by an assignment operation. Procedural languages generally have variables and data structures that can be munged — so-called “OOP” languages generally permit “setters”, which also allow munging.
 
@@ -3544,9 +3294,7 @@ A <- B should be something like A(“<-”, B) … which (wonderfully could actu
 In other words, the idea is to have encapsulated entities which can only receive messages as requests (not commands), and they get to control what state and state change means. I thought of this as abandoning imperative programming for “request programming”. So the entities would be much more like “servers” than passive vulnerable bits.
 
 ---
-## Why is school & college the way it is, limiting most children's potential?
-
-*https://www.quora.com/Why-is-school-college-the-way-it-is-limiting-most-childrens-potential/answer/Alan-Kay-11*
+## [Why is school & college the way it is, limiting most children's potential?](https://www.quora.com/Why-is-school-college-the-way-it-is-limiting-most-childrens-potential/answer/Alan-Kay-11)
 
 This is why good questions are very often better than answers—especially when it is about systemic problems.
 
@@ -3563,9 +3311,7 @@ I think reconciling an enlightened understanding of the best world for a child w
 It is hard to see how a start can be made without a combination of idealism and realism that is the heart of modern thinking.
 
 ---
-## What is the major obstacle in teaching computing in general and coding in particular in primary and secondary schools?
-
-*https://www.quora.com/What-is-the-major-obstacle-in-teaching-computing-in-general-and-coding-in-particular-in-primary-and-secondary-schools/answer/Alan-Kay-11*
+## [What is the major obstacle in teaching computing in general and coding in particular in primary and secondary schools?](https://www.quora.com/What-is-the-major-obstacle-in-teaching-computing-in-general-and-coding-in-particular-in-primary-and-secondary-schools/answer/Alan-Kay-11)
 
 This is a good question that can lead to even better questions.
 
@@ -3600,9 +3346,7 @@ Good answers will require not only a revolution in public schooling, but a revol
 Lots of real deep work ahead.
 
 ---
-## What was the staff size at Parc?
-
-*https://www.quora.com/What-was-the-staff-size-at-Parc/answer/Alan-Kay-11*
+## [What was the staff size at Parc?](https://www.quora.com/What-was-the-staff-size-at-Parc/answer/Alan-Kay-11)
 
 Parc had 4 labs: computer science, systems, physics, optical. The ARPA culture that formed most of the computer part of Parc pervaded most of the first two, and none of the others. My group and I were in the Systems Lab and both Systems and Computer Science labs worked closely with each other (the reason for two labs instead of one was mostly a funding ploy by Bob Taylor).
 
@@ -3617,9 +3361,7 @@ The other two labs were similar in size and support. A simple calculation shows 
 A possibly interesting side note is that the salaries were not high at Parc, but that the average yearly hardware support for each researcher was very high: much more than their salaries. This is because the aim and reality of Parc was to spend enough money to “live in the future” by anticipating what would be possible with Moore’s Law in 15 years, and to duplicate those conditions for the researchers by inventing and building that future. This was relatively expensive per person, but the low head count made it affordable.
 
 ---
-## Could Xerox PARC have been done remotely with today's technology (not necessarily methods)? What does Alan Kay think about "remote work" for collaborative research?
-
-*https://www.quora.com/Could-Xerox-PARC-have-been-done-remotely-with-todays-technology-not-necessarily-methods-What-does-Alan-Kay-think-about-remote-work-for-collaborative-research/answer/Alan-Kay-11*
+## [Could Xerox PARC have been done remotely with today's technology (not necessarily methods)? What does Alan Kay think about "remote work" for collaborative research?](https://www.quora.com/Could-Xerox-PARC-have-been-done-remotely-with-todays-technology-not-necessarily-methods-What-does-Alan-Kay-think-about-remote-work-for-collaborative-research/answer/Alan-Kay-11)
 
 This is an interesting — and tricky — question. For one thing, attempts to create “a Xerox Parc” in any form have not been successful. I think the previous ARPA community was critical to helping shape most of the researchers who formed Parc, and that many of the critical researchers at Parc were not replaceable.
 
@@ -3638,9 +3380,7 @@ There have also been enough experiments in eye contact and how to do it, to go f
 Both “goofing around with each other” and the nature of the “goofing” were critical to Parc, and quite a few of the most important visceral processes are not readily subsumed by any kind of technology.
 
 ---
-## What are some notable reimplementations of SketchPad by Sutherland?
-
-*https://www.quora.com/What-are-some-notable-reimplementations-of-SketchPad-by-Sutherland/answer/Alan-Kay-11*
+## [What are some notable reimplementations of SketchPad by Sutherland?](https://www.quora.com/What-are-some-notable-reimplementations-of-SketchPad-by-Sutherland/answer/Alan-Kay-11)
 
 I don’t know of any reimplimentations — but I wish there were.
 
@@ -3655,9 +3395,7 @@ Brian Silverman has wanted to emulate the TX-2 to run the original Sketchpad ass
 Ivan’s thesis is likely clear enough so that a reengineered version of it could probably accomplish a lot. This would be a good target for an MS degree I think.
 
 ---
-## How did Alan Kay decide to take inspiration from a biological system - (operations of a biological cell) to an (human) engineering system namely object oriented programming…was it just random inspiration or was he intentional about it?
-
-*https://www.quora.com/How-did-Alan-Kay-decide-to-take-inspiration-from-a-biological-system-operations-of-a-biological-cell-to-an-human-engineering-system-namely-object-oriented-programming-was-it-just-random-inspiration-or-was-he/answer/Alan-Kay-11*
+## [How did Alan Kay decide to take inspiration from a biological system - (operations of a biological cell) to an (human) engineering system namely object oriented programming…was it just random inspiration or was he intentional about it?](https://www.quora.com/How-did-Alan-Kay-decide-to-take-inspiration-from-a-biological-system-operations-of-a-biological-cell-to-an-human-engineering-system-namely-object-oriented-programming-was-it-just-random-inspiration-or-was-he/answer/Alan-Kay-11)
 
 The actual history of the particular set of inspirations is given in “The Early History Of Smalltalk” written for the ACM “History of Programming Languages II in the early 90s.
 
@@ -3678,9 +3416,7 @@ Finally, I should mention that I was not trying to invent a programming language
 (In practice, we should have explained this distinction better.)
 
 ---
-## What can you say that everything you see in nature is governed by the patterns based on mathematical concepts and theories? What is it about mathematics that might have changed your thoughts about it?
-
-*https://www.quora.com/What-can-you-say-that-everything-you-see-in-nature-is-governed-by-the-patterns-based-on-mathematical-concepts-and-theories-What-is-it-about-mathematics-that-might-have-changed-your-thoughts-about-it/answer/Alan-Kay-11*
+## [What can you say that everything you see in nature is governed by the patterns based on mathematical concepts and theories? What is it about mathematics that might have changed your thoughts about it?](https://www.quora.com/What-can-you-say-that-everything-you-see-in-nature-is-governed-by-the-patterns-based-on-mathematical-concepts-and-theories-What-is-it-about-mathematics-that-might-have-changed-your-thoughts-about-it/answer/Alan-Kay-11)
 
 IMO, this question seems backwards — it is far more likely that nature is just the way it is, and we are the “pattern assigners” to the phenomena we can detect. I say “IMO” because the overall question is more philosophical than scientific (which IMO is a higher level of opinion than this).
 
@@ -3695,9 +3431,7 @@ Two quotes frame up this point of view. The first, from Kenneth Clark: “People
 People who like pondering ideas like this should get and read the well known physicist Eugene Wigner’s essay “The unreasonable effectiveness of mathematics”.
 
 ---
-## How did Xerox PARC invent the mouse?
-
-*https://www.quora.com/How-did-Xerox-PARC-invent-the-mouse/answer/Alan-Kay-11*
+## [How did Xerox PARC invent the mouse?](https://www.quora.com/How-did-Xerox-PARC-invent-the-mouse/answer/Alan-Kay-11)
 
 Xerox Parc didn’t invent the mouse.
 
@@ -3714,27 +3448,21 @@ I really loved that mouse. However, it would get dirty, so other attempts were m
 Later, at Atari, we did a “flea” which was a very small optical mouse (it worked really well).
 
 ---
-## What became of the work done at VPRI?
-
-*https://www.quora.com/What-became-of-the-work-done-at-VPRI/answer/Alan-Kay-11*
+## [What became of the work done at VPRI?](https://www.quora.com/What-became-of-the-work-done-at-VPRI/answer/Alan-Kay-11)
 
 The website for papers still exists:
 
 You can also look at “Croquet.io” for ongoing work. Also take a look at “worrydream.com” for Bret Victor’s work.
 
 ---
-## What was the oldest computer or device you remember using? How does this compare to the machines you use today?
-
-*https://www.quora.com/What-was-the-oldest-computer-or-device-you-remember-using-How-does-this-compare-to-the-machines-you-use-today/answer/Alan-Kay-11*
+## [What was the oldest computer or device you remember using? How does this compare to the machines you use today?](https://www.quora.com/What-was-the-oldest-computer-or-device-you-remember-using-How-does-this-compare-to-the-machines-you-use-today/answer/Alan-Kay-11)
 
 The first programs I wrote that ran on a computer were done ca 1962 in the Air Force for an IBM 1401 with 8k 6 bit characters.
 
 However, while in grad school a little later I got to write a few programs for the Lincoln Labs TX-2, some of whose HW dated to ca 1956.
 
 ---
-## If Alan Kay was doing a PhD thesis today, would he write all software from scratch? Is that more than what is actually needed to get the point across?
-
-*https://www.quora.com/If-Alan-Kay-was-doing-a-PhD-thesis-today-would-he-write-all-software-from-scratch-Is-that-more-than-what-is-actually-needed-to-get-the-point-across/answer/Alan-Kay-11*
+## [If Alan Kay was doing a PhD thesis today, would he write all software from scratch? Is that more than what is actually needed to get the point across?](https://www.quora.com/If-Alan-Kay-was-doing-a-PhD-thesis-today-would-he-write-all-software-from-scratch-Is-that-more-than-what-is-actually-needed-to-get-the-point-across/answer/Alan-Kay-11)
 
 Ivan Sutherland once pointed out that “A thesis is something 3 people will sign”, and Dave Evans saw getting a PhD as a “necessary evil”, a “union card” that you needed to get but shouldn’t spend much time on. These were two of the three signers of my thesis.
 
@@ -3765,9 +3493,7 @@ So: ways to do a real PhD as part of a large real invention team would help. Bei
 Also: see the comment by Jennifer Ramirez below, and my reply.
 
 ---
-## How does Alan Kay think Ivan Illich performed as a problem-finder?
-
-*https://www.quora.com/How-does-Alan-Kay-think-Ivan-Illich-performed-as-a-problem-finder/answer/Alan-Kay-11*
+## [How does Alan Kay think Ivan Illich performed as a problem-finder?](https://www.quora.com/How-does-Alan-Kay-think-Ivan-Illich-performed-as-a-problem-finder/answer/Alan-Kay-11)
 
 I think anyone interested in education past, present, and especially future should read Illich’s books — particularly “Deschooling Society” — for an early deep critique of standard schooling — and “Convivial Tools” for crucial perspectives on our tool-based species.
 
@@ -3778,18 +3504,14 @@ Illich’s own words about the problems of schooling:
 The pupil is thereby "schooled" to confuse teaching with learning, grade advancement with education, a diploma with competence, and fluency with the ability to say something new. His imagination is "schooled" to accept service in place of value. Medical treatment is mistaken for health care, social work for the improvement of community life, police protection for safety, military poise for national security, the rat race for productive work. Health, learning, dignity, independence, and creative endeavor are defined as little more than the performance of the institutions which claim to serve these ends, and their improvement is made to depend on allocating more resources to the management of hospitals, schools, and other agencies in question.
 
 ---
-## What does Alan Kay think of James Kunstler’s “The Geography of Nowhere”?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-James-Kunstler-s-The-Geography-of-Nowhere/answer/Alan-Kay-11*
+## [What does Alan Kay think of James Kunstler’s “The Geography of Nowhere”?](https://www.quora.com/What-does-Alan-Kay-think-of-James-Kunstler-s-The-Geography-of-Nowhere/answer/Alan-Kay-11)
 
 Summary: worth reading overall, could be more aimed at *why* people/society are the way they are rather than just the nutty, even crazy things people have done and are doing without the notion of consequences.
 
 This book is on Kindle (for $0) and I encourage taking a shot at it.
 
 ---
-## Why did so many of the innovations at Xerox PARC not make it into mainstream computing until several decades later? What lessons can future innovators learn from this?
-
-*https://www.quora.com/Why-did-so-many-of-the-innovations-at-Xerox-PARC-not-make-it-into-mainstream-computing-until-several-decades-later-What-lessons-can-future-innovators-learn-from-this/answer/Alan-Kay-11*
+## [Why did so many of the innovations at Xerox PARC not make it into mainstream computing until several decades later? What lessons can future innovators learn from this?](https://www.quora.com/Why-did-so-many-of-the-innovations-at-Xerox-PARC-not-make-it-into-mainstream-computing-until-several-decades-later-What-lessons-can-future-innovators-learn-from-this/answer/Alan-Kay-11)
 
 It’s worth looking at the history of the Ethernet. It was of interest to the outside world because there wasn’t a workable solution to “local area nets” in the 70s, and the Ethernet worked nicely (if a bit oddly to conventional thinking). Still, it had a pretty straightforward path involving other companies (e.g. DEC) and making a new company (e.g. ThreeCom), and doing considerable engineering on connectors, speeding it up a little, etc.
 
@@ -3804,9 +3526,7 @@ My bottom line is that I think there is a general aversion to really learning ne
 The ARPA/Parc community was generally better at being willing to learn and use most already existing good ideas, and especially to share new results. I think this might have been partly due to the long history of this community, which stretched back to the WWII years.
 
 ---
-## Why was Charles Babbage unsuccessful in creating a working mechanical computer, when the Jacquard loom had already been invented?
-
-*https://www.quora.com/Why-was-Charles-Babbage-unsuccessful-in-creating-a-working-mechanical-computer-when-the-Jacquard-loom-had-already-been-invented/answer/Alan-Kay-11*
+## [Why was Charles Babbage unsuccessful in creating a working mechanical computer, when the Jacquard loom had already been invented?](https://www.quora.com/Why-was-Charles-Babbage-unsuccessful-in-creating-a-working-mechanical-computer-when-the-Jacquard-loom-had-already-been-invented/answer/Alan-Kay-11)
 
 It’s interesting to compare the recreation of “the difference engine” with the Jacquard loom. The approach to engineering and practicality could hardly be more different. The difference engine was much simpler than the analytical engine, but could barely be cranked because of the amount of backlash in the scheme (I’ve cranked both recreations …).
 
@@ -3833,9 +3553,7 @@ It’s also worth pondering the likely negative influence of the difference engi
 The problem is that the scheme doesn’t scale mechanically, yet it is how Babbage was thinking at the time. With his new thoughts about programmability, he also needed a very different physical paradigm to make a programmable engine. The Jacquard loom had more than the cards to offer: what was so interesting about it was how it handled much larger scales of information, noise, and mechanisms. The difference engine made it difficult for him to discard it in favor of what the new problem needed.
 
 ---
-## Hi Alan, I am a huge fan of yours. I'm just a regular computer/phone user who is trying to get a job in the industry, but I want to help advance computing in the ways you described. What can I do? I'm interested in utilizing today's powerful hardware
-
-*https://www.quora.com/Hi-Alan-I-am-a-huge-fan-of-yours-Im-just-a-regular-computer-phone-user-who-is-trying-to-get-a-job-in-the-industry-but-I-want-to-help-advance-computing-in-the-ways-you-described-What-can-I-do-Im-interested-in/answer/Alan-Kay-11*
+## [Hi Alan, I am a huge fan of yours. I'm just a regular computer/phone user who is trying to get a job in the industry, but I want to help advance computing in the ways you described. What can I do? I'm interested in utilizing today's powerful hardware](https://www.quora.com/Hi-Alan-I-am-a-huge-fan-of-yours-Im-just-a-regular-computer-phone-user-who-is-trying-to-get-a-job-in-the-industry-but-I-want-to-help-advance-computing-in-the-ways-you-described-What-can-I-do-Im-interested-in/answer/Alan-Kay-11)
 
 I suggest looking at the idea of “What Is Actually Needed” (WIAN), which I’ve written about in Quora, and occasionally described in talks. The center of the idea is that just trying to improve something often doesn’t take enough context into account, and may wind up making the larger situations worse — especially if the larger situation is already a bad idea.
 
@@ -3850,9 +3568,7 @@ Etc.
 In order to find which knowledge you need to learn and invent, you first have to imagine the qualitatively better contexts that require that knowledge.
 
 ---
-## What is the list of civilization's most "powerful ideas"?
-
-*https://www.quora.com/What-is-the-list-of-civilizations-most-powerful-ideas/answer/Alan-Kay-11*
+## [What is the list of civilization's most "powerful ideas"?](https://www.quora.com/What-is-the-list-of-civilizations-most-powerful-ideas/answer/Alan-Kay-11)
 
 I think the top of the list is
 
@@ -3879,9 +3595,7 @@ it was number 4 that was even more powerful …
 and so forth … (you can see why these are difficult to organize!)
 
 ---
-## Where does Alan Kay draw the line between tinkering and inverse vandalism?
-
-*https://www.quora.com/Where-does-Alan-Kay-draw-the-line-between-tinkering-and-inverse-vandalism/answer/Alan-Kay-11*
+## [Where does Alan Kay draw the line between tinkering and inverse vandalism?](https://www.quora.com/Where-does-Alan-Kay-draw-the-line-between-tinkering-and-inverse-vandalism/answer/Alan-Kay-11)
 
 I don’t think it matters where I draw the line, but having a real sense of “inverse vandalism” (making things just because you can) can be very important in an age where the industrial revolution can not just make in quantity, but can oversupply.
 
@@ -3892,9 +3606,7 @@ It’s striking, and sometimes fun, to go to a large flea market (like Portobell
 I don’t think tinkering is the main problem (it is very useful in so many ways). For tinkering, a big problem is to confuse it with engineering (they should work together). The larger problem is to avoid overproducing underthought things that can “redefine ‘normal’ lower”.
 
 ---
-## What is considered an early version of a graphical user interface (GUI)?
-
-*https://www.quora.com/What-is-considered-an-early-version-of-a-graphical-user-interface-GUI/answer/Alan-Kay-11*
+## [What is considered an early version of a graphical user interface (GUI)?](https://www.quora.com/What-is-considered-an-early-version-of-a-graphical-user-interface-GUI/answer/Alan-Kay-11)
 
 There were a number of excellent GUIs before Parc (most of which provided ideas we used at Parc). My favorites were Ivan Sutherland’s Sketchpad system (ca 1962–3) and the RAND Corp’s GRAIL (GRAphical Input Language) system).
 
@@ -3931,9 +3643,7 @@ The Engelbart NLS Lap Control Setup
 Some of us thought that this would work for GRAIL even better (with the mouse being replaced by the stylus). We also thought that two-handed UIs were generally better for any system one was going to spend hours each day on.
 
 ---
-## What does Alan Kay think independent researchers in computing should do for money if commercialization was part of the problem? What if "good funding" for research isn't available, but your ideas are worth pursuing?
-
-*https://www.quora.com/What-does-Alan-Kay-think-independent-researchers-in-computing-should-do-for-money-if-commercialization-was-part-of-the-problem-What-if-good-funding-for-research-isnt-available-but-your-ideas-are-worth-pursuing/answer/Alan-Kay-11*
+## [What does Alan Kay think independent researchers in computing should do for money if commercialization was part of the problem? What if "good funding" for research isn't available, but your ideas are worth pursuing?](https://www.quora.com/What-does-Alan-Kay-think-independent-researchers-in-computing-should-do-for-money-if-commercialization-was-part-of-the-problem-What-if-good-funding-for-research-isnt-available-but-your-ideas-are-worth-pursuing/answer/Alan-Kay-11)
 
 I don’t know. There is no lack of money, especially when one looks at what the computer part of Xerox Parc cost, or even what the ARPA-IPTO community cost.
 
@@ -3950,9 +3660,7 @@ As an old fogey now, it’s worth pondering the roles of business, government, a
 If we look at these three, we can easily come up with great improvements not just on the current situation, but also in the past. For example, the “golden age funding” for computing came mostly from hot and cold wars, the government/citizenry has a hard time with “research for progress” per se. Universities became businesses from the baby boom, and essentially became more and more like trade schools and sellers of degrees. And businesses in the US form of capitalization and its markets have a hard time seeing that they must have higher aspirations than just making money.
 
 ---
-## Why wasn't the GUI by Xerox PARC or Xerox Star developed earlier? There was Sketchpad in 1963, which was a predecessor of a GUI, 20 years before.
-
-*https://www.quora.com/Why-wasnt-the-GUI-by-Xerox-PARC-or-Xerox-Star-developed-earlier-There-was-Sketchpad-in-1963-which-was-a-predecessor-of-a-GUI-20-years-before/answer/Alan-Kay-11*
+## [Why wasn't the GUI by Xerox PARC or Xerox Star developed earlier? There was Sketchpad in 1963, which was a predecessor of a GUI, 20 years before.](https://www.quora.com/Why-wasnt-the-GUI-by-Xerox-PARC-or-Xerox-Star-developed-earlier-There-was-Sketchpad-in-1963-which-was-a-predecessor-of-a-GUI-20-years-before/answer/Alan-Kay-11)
 
 The other answers are pretty good.
 
@@ -3961,9 +3669,7 @@ Let me first point out that the Alto at Parc with its bitmap display and overlap
 Second, there were some truly excellent GUIs done in the 60s after Sketchpad and before bitmap displays, for example GRAIL at RAND Corp, which used a terrific tablet and gesture recognition to go along with great UI ideas. It had to use calligraphic CRT displays. Another system with many great ideas at the same time was NLS by the Engelbart group at SRI. Also a calligraphic display, but used video as a scanning conversion multiplying device, and had multiple panes, etc.
 
 ---
-## How could Xerox come up with advanced innovation tech (i.e. GUI) since their managements or leaders know nothing?
-
-*https://www.quora.com/How-could-Xerox-come-up-with-advanced-innovation-tech-i-e-GUI-since-their-managements-or-leaders-know-nothing/answer/Alan-Kay-11*
+## [How could Xerox come up with advanced innovation tech (i.e. GUI) since their managements or leaders know nothing?](https://www.quora.com/How-could-Xerox-come-up-with-advanced-innovation-tech-i-e-GUI-since-their-managements-or-leaders-know-nothing/answer/Alan-Kay-11)
 
 First, *some* of their management *did know things*. For example, the new Chief Scientist they got from Ford — Jack Goldman — was a first class physicist who also had a good feeling for what large companies needed. He urged Xerox to set up a Long Range Research Center away from corporate headquarters that would look at doing “critical inventions” in a wide range of sciences and technologies (including computing).
 
@@ -3974,9 +3680,7 @@ By early 1971 he already had a critical mass of some of the best computerists in
 Part of the deal was that Xerox management was not to be in top down control of Parc — nor was Taylor — instead the top scientists “followed their instincts” and cooperated to do the “advanced inventions” (most were beyond “innovation”).
 
 ---
-## In the movie “Hidden Figures” is the depiction of the delivery of an IBM computer. Did the components actually not fit into the computer room as depicted in the movie, or is that “artistic licence”?
-
-*https://www.quora.com/In-the-movie-Hidden-Figures-is-the-depiction-of-the-delivery-of-an-IBM-computer-Did-the-components-actually-not-fit-into-the-computer-room-as-depicted-in-the-movie-or-is-that-artistic-licence/answer/Alan-Kay-11*
+## [In the movie “Hidden Figures” is the depiction of the delivery of an IBM computer. Did the components actually not fit into the computer room as depicted in the movie, or is that “artistic licence”?](https://www.quora.com/In-the-movie-Hidden-Figures-is-the-depiction-of-the-delivery-of-an-IBM-computer-Did-the-components-actually-not-fit-into-the-computer-room-as-depicted-in-the-movie-or-is-that-artistic-licence/answer/Alan-Kay-11)
 
 My original answer (that the movie scene was “unlikely”) starts with the third paragraph. I then got interested in the movie and liked the characters and the acting, but didn’t think the writing and directing did justice to the historical characters or the science. Comments on the movie follow the original answer. Then I decided to get the book “Hidden Figures” (which I found to be much better than the movie (comments on this follow). And then I decided to get more historical documents, especially including the autobiography of Katherine Johnson.
 
@@ -4073,9 +3777,7 @@ This book is pure gold on so many levels, and I wish the movie (or a movie) had 
 This picture is of Melba Roy Mouton, Program Production Section Chief at NASA Goddard Space Flight Center in 1964
 
 ---
-## What is the significance of Butler Lampson's work?
-
-*https://www.quora.com/What-is-the-significance-of-Butler-Lampsons-work/answer/Alan-Kay-11*
+## [What is the significance of Butler Lampson's work?](https://www.quora.com/What-is-the-significance-of-Butler-Lampsons-work/answer/Alan-Kay-11)
 
 A good reply is much too large for a Quora sized reply.
 
@@ -4132,9 +3834,7 @@ On Reliable And Extendable Operating Systems (1969) gives a clear account of the
 <more to come>
 
 ---
-## How does a computer know what to do with binary code 01000001? How does the computer know this means A who told the computer?
-
-*https://www.quora.com/How-does-a-computer-know-what-to-do-with-binary-code-01000001-How-does-the-computer-know-this-means-A-who-told-the-computer/answer/Alan-Kay-11*
+## [How does a computer know what to do with binary code 01000001? How does the computer know this means A who told the computer?](https://www.quora.com/How-does-a-computer-know-what-to-do-with-binary-code-01000001-How-does-the-computer-know-this-means-A-who-told-the-computer/answer/Alan-Kay-11)
 
 To get started thinking about this, it would be a good idea to not use the word “know”. A better really simple analogy is how keys and locks work, where the lock is set up physically to accept or resist the carved patterns on keys. We generally would not say — except perhaps in poetry — that the lock “knew” the key.
 
@@ -4165,9 +3865,7 @@ Most transistors in a computer act like switches that can be thrown off and on v
 At some point it should be possible to make something just out of patterns that behaves like a mind — even a simple animal mind — but this has turned out to be surprisingly difficult, and is still a ways off.
 
 ---
-## How does a computer work? Explain with an example.
-
-*https://www.quora.comhttps://desperatelyseekinganswers.quora.com/How-do-I-explain-how-a-computer-works-in-my-own-words-1*
+## [How does a computer work? Explain with an example.](https://www.quora.comhttps://desperatelyseekinganswers.quora.com/How-do-I-explain-how-a-computer-works-in-my-own-words-1)
 
 In the answer to the parent question, Jay Nabonne gives an excellent suggestion: to find ways to understand computers, then try to explain them yourself to others (which will generate your own words for this).
 
@@ -4176,9 +3874,7 @@ So I think your question is mostly: “How do I understand how a computer works?
 There are many answers on Quora already for this (including from me). When people ask me for something good to read to start off absolutely from scratch, I usually recommend “The Pattern In The Stone” by Danny Hillis. It is a small masterpiece.
 
 ---
-## What does Alan Kay think about the harmony-oriented programming paradigm (https://dl.acm.org/doi/abs/10.1145/1449814.1449872)?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-the-harmony-oriented-programming-paradigm-https-dl-acm-org-doi-abs-10-1145-1449814-1449872/answer/Alan-Kay-11*
+## [What does Alan Kay think about the harmony-oriented programming paradigm (https://dl.acm.org/doi/abs/10.1145/1449814.1449872)?](https://www.quora.com/What-does-Alan-Kay-think-about-the-harmony-oriented-programming-paradigm-https-dl-acm-org-doi-abs-10-1145-1449814-1449872/answer/Alan-Kay-11)
 
 This URL results in a 404 error (the correct URL is in a comment). This is a very short speculative paper. In the same comment is a reference to a 2 page poster, and a Master’s thesis by Kyle Martin - “Harmony Oriented Architecture” https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=2765&context=etd, which has more content.
 
@@ -4205,9 +3901,7 @@ I also feel that much too much of the discussion is trying to preserve “bad ol
 However, I would definitely sign Kyle Martin’s MS thesis because it is a good enough, wide enough discussion to count as an intellectual contribution to an ongoing discussion of very important issues.
 
 ---
-## What are some tips for a 16-year-old that wants to be a professor in computer science, specifically in type theory and programming language theory?
-
-*https://www.quora.com/What-are-some-tips-for-a-16-year-old-that-wants-to-be-a-professor-in-computer-science-specifically-in-type-theory-and-programming-language-theory/answer/Alan-Kay-11*
+## [What are some tips for a 16-year-old that wants to be a professor in computer science, specifically in type theory and programming language theory?](https://www.quora.com/What-are-some-tips-for-a-16-year-old-that-wants-to-be-a-professor-in-computer-science-specifically-in-type-theory-and-programming-language-theory/answer/Alan-Kay-11)
 
 I think the best way to be a professor in a subject is to first become a first class practitioner in the subject, and gradually learn how to explain it and help all levels of interested people to learn it. A good doer does not automatically become a good teacher — both parts require amazing amounts of work (and I think the “good teacher” part is the hardest).
 
@@ -4232,9 +3926,7 @@ Basically, he destroyed the existing field for us (including some of the things 
 This could be tough today because even the “leading” CS departments do much too much training for jobs in existing business rather than actually helping students become real computer scientists and teaching then not just to think for themselves, but how to really think well.
 
 ---
-## Is it possible to have a computer without critical section?
-
-*https://www.quora.com/Is-it-possible-to-have-a-computer-without-critical-section/answer/Alan-Kay-11*
+## [Is it possible to have a computer without critical section?](https://www.quora.com/Is-it-possible-to-have-a-computer-without-critical-section/answer/Alan-Kay-11)
 
 Somebody (a gremlin?) changed the question after my answer to include the word “multiprocessing” (which makes a different context).
 
@@ -4261,9 +3953,7 @@ Meanwhile, in the late 50s John McCarthy was specializing in “great ideas that
 Soapbox: computing has a strong tendency to hang onto an idea — often by patching — long after it has become obsolete — and also tends to avoid learning new ideas, even when tremendously useful. This usually results in dangerous bloated messes.
 
 ---
-## What is the origin of model-view-controller?
-
-*https://www.quora.com/What-is-the-origin-of-model-view-controller/answer/Alan-Kay-11*
+## [What is the origin of model-view-controller?](https://www.quora.com/What-is-the-origin-of-model-view-controller/answer/Alan-Kay-11)
 
 Ivan Sutherland — the inventor-originator of interactive computer graphics — had the idea of a clipping window to see a part of the very large Sketchpad world. This wound up being a program structure roughly like a camera which had an aperture that could be of any size relative to the world, and would show that portion of the world on the screen. Each Sketchpad object had a method that would render the object in the world, and the windowing apparatus did the job of transforming world coordinates to window coordinates (this was done as part of the rendering operation).
 
@@ -4298,9 +3988,7 @@ And so forth. For the “simple things should be simple” part, there needed to
 The whole framework was a very useful way to separate concerns (and I think even more should be done pragmatically with the details of creating MVC subsystems).
 
 ---
-## What was the output of the computer when there was no screen and speaker?
-
-*https://www.quora.com/What-was-the-output-of-the-computer-when-there-was-no-screen-and-speaker/answer/Alan-Kay-11*
+## [What was the output of the computer when there was no screen and speaker?](https://www.quora.com/What-was-the-output-of-the-computer-when-there-was-no-screen-and-speaker/answer/Alan-Kay-11)
 
 My vote for the first really working programmable computer is the EDSAC by Maurice Wilkes. One of its intrinsic output devices was three CRT display tubes that looked at various portions of the machine, including the memory.
 
@@ -4309,9 +3997,7 @@ Using bits in memory to show a tic-tac-toe board.
 So: the first real computer did have displays — and used standard paper tape inputs and printer (from earlier teletype technologies)
 
 ---
-## Computer Scientists: if you had to recommend just a single book to try and teach someone computer science what would it be?
-
-*https://www.quora.com/Computer-Scientists-if-you-had-to-recommend-just-a-single-book-to-try-and-teach-someone-computer-science-what-would-it-be/answer/Alan-Kay-11*
+## [Computer Scientists: if you had to recommend just a single book to try and teach someone computer science what would it be?](https://www.quora.com/Computer-Scientists-if-you-had-to-recommend-just-a-single-book-to-try-and-teach-someone-computer-science-what-would-it-be/answer/Alan-Kay-11)
 
 My parallel to this question would be to replace “computer science” with “Physics”.
 
@@ -4330,18 +4016,14 @@ And so forth. I’d love to see a single book that has that level of sweep! And 
 The lack of this makes me think that we don’t quite have a real field yet, in the sense of “science field”. But I do think that you could do a lot by fleshing out Hillis’ approach to encompass Perlis’ early posit. For example, you could look at an amalgam of approaches like that of Nissan & Schocken, and of SICP, and general systems (and these can be simplified without removing depth, etc.).
 
 ---
-## Aside from programming, can they discover a way for programming digital devices without programming languages? If yes, like what?
-
-*https://www.quora.com/Aside-from-programming-can-they-discover-a-way-for-programming-digital-devices-without-programming-languages-If-yes-like-what/answer/Alan-Kay-11*
+## [Aside from programming, can they discover a way for programming digital devices without programming languages? If yes, like what?](https://www.quora.com/Aside-from-programming-can-they-discover-a-way-for-programming-digital-devices-without-programming-languages-If-yes-like-what/answer/Alan-Kay-11)
 
 Punched card machines, e.g. from IBM were digital devices that were programmed with plug board wiring, not programming languages. Some of them were quite capable.
 
 I did a little of this in the early 60s before learning the 1401 in the Air Force …
 
 ---
-## The dominant paradigm is modern programming languages is Object-Oriented. Why should developers abandon this paradigm and adopt Golang if their application doesn't have huge number of concurrent IO requests?
-
-*https://www.quora.com/The-dominant-paradigm-is-modern-programming-languages-is-Object-Oriented-Why-should-developers-abandon-this-paradigm-and-adopt-Golang-if-their-application-doesnt-have-huge-number-of-concurrent-IO-requests/answer/Alan-Kay-11*
+## [The dominant paradigm is modern programming languages is Object-Oriented. Why should developers abandon this paradigm and adopt Golang if their application doesn't have huge number of concurrent IO requests?](https://www.quora.com/The-dominant-paradigm-is-modern-programming-languages-is-Object-Oriented-Why-should-developers-abandon-this-paradigm-and-adopt-Golang-if-their-application-doesnt-have-huge-number-of-concurrent-IO-requests/answer/Alan-Kay-11)
 
 As I tried to point out in a previous answer, I don’t think that “object-oriented” is a “programming paradigm”; instead it is a way to define computational things at will (because the building blocks are semantically whole computers). So it is basically a meta-framework.
 
@@ -4358,9 +4040,7 @@ This has been experimented with over the years by various top researchers (one t
 The key idea is nicely independent of the exact methods used, so there is more leeway than most people think. I think this whole question is a difficult area for the computing of today to contemplate without feeling overwhelmed, because it is so design intensive, and today’s general approach is very “agglutinative” with less forethought and overview than most situations actually need.
 
 ---
-## What does a computer without an operating system look like?
-
-*https://www.quora.com/What-does-a-computer-without-an-operating-system-look-like/answer/Alan-Kay-11*
+## [What does a computer without an operating system look like?](https://www.quora.com/What-does-a-computer-without-an-operating-system-look-like/answer/Alan-Kay-11)
 
 Like many computers of the late 40s, the 50s, and into the 60s. They were “bare” HW plus a few external utility programs, for example, the IBM 1401, or early DEC computers.
 
@@ -4375,9 +4055,7 @@ The ca 1960 desire to share resources for multiprocessing and time-sharing force
 On the other hand the early Burroughs B5000 had a quite elegant fine grain memory allocation and control scheme, and early in the 60s, not only had a resource shared OS but multiple physical processors, all controlled by the first OS written in a higher level language.
 
 ---
-## How did Ada start programming when computers were not invented?
-
-*https://www.quora.com/How-did-Ada-start-programming-when-computers-were-not-invented/answer/Alan-Kay-11*
+## [How did Ada start programming when computers were not invented?](https://www.quora.com/How-did-Ada-start-programming-when-computers-were-not-invented/answer/Alan-Kay-11)
 
 You don’t need a computer to write a program, or to execute it. For example, an early algorithm that was done by hand for many years was the greatest common divider (one of the earliest is attributed to Euclid).
 
@@ -4388,9 +4066,7 @@ to get more of a feel for this program.
 A side note here is that in the early days of computing, most programmers did most of their debugging at their desks, via hand execution (I certainly did when I started in the early 60s).
 
 ---
-## What guidelines would Alan Kay recommend to model something confusing?
-
-*https://www.quora.com/What-guidelines-would-Alan-Kay-recommend-to-model-something-confusing/answer/Alan-Kay-11*
+## [What guidelines would Alan Kay recommend to model something confusing?](https://www.quora.com/What-guidelines-would-Alan-Kay-recommend-to-model-something-confusing/answer/Alan-Kay-11)
 
 First, is the area “intrinsically confusing” or can the modeling clear things up?
 
@@ -4413,9 +4089,7 @@ Ken Kahn directed my attention to the excellent, very recent, paper by Doug Lena
 This is an interesting example of how to think about and deal with “modeling something confusing” i.e. human common sense reasoning — and it is also an example of the kind of system that should be behind the programming systems of the future.
 
 ---
-## What paradigm is the successor to OOP?
-
-*https://www.quora.comhttps://declarative.quora.com/What-paradigm-is-the-successor-to-OOP-1*
+## [What paradigm is the successor to OOP?](https://www.quora.comhttps://declarative.quora.com/What-paradigm-is-the-successor-to-OOP-1)
 
 “OOP” (as I think of it at least) is not really a programming paradigm, but is much more a workable “universal definition” scheme, and that is especially suited for defining large systems.
 
@@ -4450,9 +4124,7 @@ I don’t see much taste for this amount of work and invention in the field toda
 Paradigms in Physics are large qualitatively separated and different whole points of view (like Newtonian Physics vs. Quantum Physics). If we take that to heart with our field, then we should be looking for something revolutionary (and likely: large).
 
 ---
-## What does Alan Kay think about Douglas Lenat's Cyc?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-Douglas-Lenats-Cyc/answer/Alan-Kay-11*
+## [What does Alan Kay think about Douglas Lenat's Cyc?](https://www.quora.com/What-does-Alan-Kay-think-about-Douglas-Lenats-Cyc/answer/Alan-Kay-11)
 
 CYC is such a large complex and long lasting effort, that it doesn’t fit within the scope of a Quora answer. But as with most artifacts in computing, commentary can be somewhat separated into the *idea* of a system, and the processes to *implement* the system.
 
@@ -4479,9 +4151,7 @@ And the paper ends with a nice example of how ML and Cyc can work together as Al
 One minor quibble is the discussion of expert systems which while it was popular at Stanford, a few other places, and some startups Lenat describes, but it was NOT popular at the MIT AI Lab, Yale AI, or some parts of CMU AI.
 
 ---
-## Where does Alan Kay see computing in both science and industry going, in terms of systems and how we think about them?
-
-*https://www.quora.com/Where-does-Alan-Kay-see-computing-in-both-science-and-industry-going-in-terms-of-systems-and-how-we-think-about-them/answer/Alan-Kay-11*
+## [Where does Alan Kay see computing in both science and industry going, in terms of systems and how we think about them?](https://www.quora.com/Where-does-Alan-Kay-see-computing-in-both-science-and-industry-going-in-terms-of-systems-and-how-we-think-about-them/answer/Alan-Kay-11)
 
 I’ve been much more effective at doing things than in armchair predicting, so I don’t know what to say here.
 
@@ -4508,30 +4178,22 @@ In theory — looking at our present from the past — today’s and tomorrow’
 This fits into another large facet of “systems research” and it is a good one.
 
 ---
-## What's the point of life?
-
-*https://www.quora.com/Whats-the-point-of-life/answer/Alan-Kay-11*
+## [What's the point of life?](https://www.quora.com/Whats-the-point-of-life/answer/Alan-Kay-11)
 
 The point of life is to live life with a point
 
 ---
-## Has Alan Kay voiced any opinions about cryptoeconomics, blockchains, and related "crypto" ideas currently gaining a lot of exposure?
-
-*https://www.quora.com/Has-Alan-Kay-voiced-any-opinions-about-cryptoeconomics-blockchains-and-related-crypto-ideas-currently-gaining-a-lot-of-exposure/answer/Alan-Kay-11*
+## [Has Alan Kay voiced any opinions about cryptoeconomics, blockchains, and related "crypto" ideas currently gaining a lot of exposure?](https://www.quora.com/Has-Alan-Kay-voiced-any-opinions-about-cryptoeconomics-blockchains-and-related-crypto-ideas-currently-gaining-a-lot-of-exposure/answer/Alan-Kay-11)
 
 I haven’t. I feel I need more supported opinions — right now I have “feelings”
 
 ---
-## Is it true that the first computer was a loom? How is a loom a computer?
-
-*https://www.quora.com/Is-it-true-that-the-first-computer-was-a-loom-How-is-a-loom-a-computer/answer/Alan-Kay-11*
+## [Is it true that the first computer was a loom? How is a loom a computer?](https://www.quora.com/Is-it-true-that-the-first-computer-was-a-loom-How-is-a-loom-a-computer/answer/Alan-Kay-11)
 
 Here is an answer that specifically covers your question about looms:
 
 ---
-## How and when did digital computers come into existence?
-
-*https://www.quora.com/How-and-when-did-digital-computers-come-into-existence/answer/Alan-Kay-11*
+## [How and when did digital computers come into existence?](https://www.quora.com/How-and-when-did-digital-computers-come-into-existence/answer/Alan-Kay-11)
 
 This question needs to be crisped up a bit. “Digital” happened before computing. And many computers were not programmable. Computing was done long before computing machinery was made and worked.
 
@@ -4540,43 +4202,33 @@ Etc.
 Lots of people realized it was possible, and wanted it. I tend to give the prizes to the first all around “everything” with both hardware and software, etc. I like three groups of pioneers: Konrad Zuse in Germany during WWII, Maurice Wilkes at Cambridge, and Williams et al at Manchester, with the latter two groups setting up the earliest working foundations after the war.
 
 ---
-## What do you think about the idea of writing at least parts of law (some legal acts) in a technical language that would actually be a programming language? (So "computable law")
-
-*https://www.quora.com/What-do-you-think-about-the-idea-of-writing-at-least-parts-of-law-some-legal-acts-in-a-technical-language-that-would-actually-be-a-programming-language-So-computable-law/answer/Alan-Kay-11*
+## [What do you think about the idea of writing at least parts of law (some legal acts) in a technical language that would actually be a programming language? (So "computable law")](https://www.quora.com/What-do-you-think-about-the-idea-of-writing-at-least-parts-of-law-some-legal-acts-in-a-technical-language-that-would-actually-be-a-programming-language-So-computable-law/answer/Alan-Kay-11)
 
 I got asked to give a keynote last year at the Stanford FutureLaw conference on Computational Law (yes there is one).
 
 Start at 1:25 if needed.
 
 ---
-## All of the existing programming languages are based on English. And some are far more problematic, as seen by the code poem "Black Perl." What would an inclusive, progressive programming language look like?
-
-*https://www.quora.com/All-of-the-existing-programming-languages-are-based-on-English-And-some-are-far-more-problematic-as-seen-by-the-code-poem-Black-Perl-What-would-an-inclusive-progressive-programming-language-look-like/answer/Alan-Kay-11*
+## [All of the existing programming languages are based on English. And some are far more problematic, as seen by the code poem "Black Perl." What would an inclusive, progressive programming language look like?](https://www.quora.com/All-of-the-existing-programming-languages-are-based-on-English-And-some-are-far-more-problematic-as-seen-by-the-code-poem-Black-Perl-What-would-an-inclusive-progressive-programming-language-look-like/answer/Alan-Kay-11)
 
 Start by looking at “chimera” artificial languages, such as Esperanto or Interlingua.
 
 Personally, I don’t think this helps much if at all for programming.
 
 ---
-## What does Alan Kay think are the most interesting people, projects, and organizations working on education today?
-
-*https://www.quora.com/What-does-Alan-Kay-think-are-the-most-interesting-people-projects-and-organizations-working-on-education-today/answer/Alan-Kay-11*
+## [What does Alan Kay think are the most interesting people, projects, and organizations working on education today?](https://www.quora.com/What-does-Alan-Kay-think-are-the-most-interesting-people-projects-and-organizations-working-on-education-today/answer/Alan-Kay-11)
 
 I’m not comprehensive enough to give a good answer.
 
 But the most interesting computer related one is definitely Bret Victor’s “Dynamicland” (check it out on YouTube).
 
 ---
-## Why did the designers of Smalltalk decide not to have traditional operator precedence for basic arithmetic? Did this decision lead to a more efficient interpreter?
-
-*https://www.quora.com/Why-did-the-designers-of-Smalltalk-decide-not-to-have-traditional-operator-precedence-for-basic-arithmetic-Did-this-decision-lead-to-a-more-efficient-interpreter/answer/Alan-Kay-11*
+## [Why did the designers of Smalltalk decide not to have traditional operator precedence for basic arithmetic? Did this decision lead to a more efficient interpreter?](https://www.quora.com/Why-did-the-designers-of-Smalltalk-decide-not-to-have-traditional-operator-precedence-for-basic-arithmetic-Did-this-decision-lead-to-a-more-efficient-interpreter/answer/Alan-Kay-11)
 
 For the same reason as Ken Iverson chose for APL. When you have an operator rich expression language, it’s better to have one rule than 100. Lisp did it the other way: by explicitly showing the bracketing of scope.
 
 ---
-## Why did Dijkstra say that “Object-oriented programming is an exceptionally bad idea which could only have originated in California.”?
-
-*https://www.quora.com/Why-did-Dijkstra-say-that-“Object-oriented-programming-is-an-exceptionally-bad-idea-which-could-only-have-originated-in-California-”/answer/Alan-Kay-11*
+## [Why did Dijkstra say that “Object-oriented programming is an exceptionally bad idea which could only have originated in California.”?](https://www.quora.com/Why-did-Dijkstra-say-that-“Object-oriented-programming-is-an-exceptionally-bad-idea-which-could-only-have-originated-in-California-”/answer/Alan-Kay-11)
 
 When I heard this, I thought it was really funny for a number of reasons — Edsger and I were friendly (via Bob Barton) and he loved to come up with snide funny comments.
 
@@ -4593,9 +4245,7 @@ The other fun side-note is that McCarthy had invented “fluents” a bit earlie
 He did like to pull chains …
 
 ---
-## How might computer science evolve to be worthy of winning a Field Medal or a Nobel Prize?
-
-*https://www.quora.com/How-might-computer-science-evolve-to-be-worthy-of-winning-a-Field-Medal-or-a-Nobel-Prize/answer/Alan-Kay-11*
+## [How might computer science evolve to be worthy of winning a Field Medal or a Nobel Prize?](https://www.quora.com/How-might-computer-science-evolve-to-be-worthy-of-winning-a-Field-Medal-or-a-Nobel-Prize/answer/Alan-Kay-11)
 
 Or vice versa? That would be interesting also.
 
@@ -4604,9 +4254,7 @@ In any case, it is strongly rumored that Nobel didn’t like mathematicians, so 
 And there is this to contemplate (which equates a variety of prizes that the Nobels don’t cover):
 
 ---
-## What are Dijkstra's major objectives for the development of structured programs?
-
-*https://www.quora.com/What-are-Dijkstras-major-objectives-for-the-development-of-structured-programs/answer/Alan-Kay-11*
+## [What are Dijkstra's major objectives for the development of structured programs?](https://www.quora.com/What-are-Dijkstras-major-objectives-for-the-development-of-structured-programs/answer/Alan-Kay-11)
 
 It’s very difficult to do sufficient justice to Edsger. Besides being a foundational computer scientist — in the original strict senses of the term — he was also one of just a few critical gadflies for our whole field, and especially both CS and SE.
 
@@ -4665,9 +4313,7 @@ And compare this with the amount of “noise-limiting and correction” in almos
 Note that this doesn’t invalidate Edsger’s large goals, but it shows how poorly the early conceptions of programming have scaled. This non-system view is present in most programming languages in heavy use today, and just doesn’t match up to what is actually needed.
 
 ---
-## What were interviews like at Xerox PARC?
-
-*https://www.quora.com/What-were-interviews-like-at-Xerox-PARC/answer/Alan-Kay-11*
+## [What were interviews like at Xerox PARC?](https://www.quora.com/What-were-interviews-like-at-Xerox-PARC/answer/Alan-Kay-11)
 
 In brief: in the first few years of Parc, Bob Taylor wanted “only top people” (meaning “really top people”), and wanted to eliminate rivalries as much as possible.
 
@@ -4676,9 +4322,7 @@ So he set up a laborious process in which everyone had to interview a candidate,
 Of course we all bitched about this, but Taylor’s process really worked. Each new star was greeted with open armed warmth, and they immediately fit into the somewhat ad hoc non-managed research collaboration that Parc enjoyed.
 
 ---
-## Why is human communication being advanced by so many revolutionary and very popular technologies while human collaboration isn't? In order to communicate, one must first collaborate, right? Why so much help to "share" and (almost?) none to promise?
-
-*https://www.quora.com/Why-is-human-communication-being-advanced-by-so-many-revolutionary-and-very-popular-technologies-while-human-collaboration-isnt-In-order-to-communicate-one-must-first-collaborate-right-Why-so-much-help-to-share-and/answer/Alan-Kay-11*
+## [Why is human communication being advanced by so many revolutionary and very popular technologies while human collaboration isn't? In order to communicate, one must first collaborate, right? Why so much help to "share" and (almost?) none to promise?](https://www.quora.com/Why-is-human-communication-being-advanced-by-so-many-revolutionary-and-very-popular-technologies-while-human-collaboration-isnt-In-order-to-communicate-one-must-first-collaborate-right-Why-so-much-help-to-share-and/answer/Alan-Kay-11)
 
 There is a lot of excellent content related to this question already on Quora.
 
@@ -4705,9 +4349,7 @@ So — to gesture at the question — I would say that “human communication”
 McLuhan pointed out in the early 60s that a networked world would produce a kind of “global village” (which he was not in favor of) where, among many results, would be that everyone would know what everyone else was doing. A disastrous consequence would be massive loss of identity, and fierce efforts — including war — to reclaim a feeling of it. One of the manifestations would be demands to *participate* but not coupled with interests to “cooperate”.
 
 ---
-## Who is the person to whom the invention of the computer is really credited to? There are different views on this particular issue; Alan Turing, John Von Neumann, Charles Babbage?
-
-*https://www.quora.com/Who-is-the-person-to-whom-the-invention-of-the-computer-is-really-credited-to-There-are-different-views-on-this-particular-issue-Alan-Turing-John-Von-Neumann-Charles-Babbage/answer/Alan-Kay-11*
+## [Who is the person to whom the invention of the computer is really credited to? There are different views on this particular issue; Alan Turing, John Von Neumann, Charles Babbage?](https://www.quora.com/Who-is-the-person-to-whom-the-invention-of-the-computer-is-really-credited-to-There-are-different-views-on-this-particular-issue-Alan-Turing-John-Von-Neumann-Charles-Babbage/answer/Alan-Kay-11)
 
 Goethe once wrote: “We should all share in the excitement of discovery, without vain attempts to claim priority”. I like this because it invites celebration of many ideas from many sources at many times. And it also still allows us to identify real “superheroes” whose efforts made significant qualitative leaps — these people have been critical for progress, and I think it is important to identify as many as we can.
 
@@ -4732,9 +4374,7 @@ An interesting sidelight is that making the “simple general memory” turned o
 So let’s just “share the excitement of discovery without vain attempts to claim priority”!
 
 ---
-## Why do some media amplify cognition more than others?
-
-*https://www.quora.com/Why-do-some-media-amplify-cognition-more-than-others/answer/Alan-Kay-11*
+## [Why do some media amplify cognition more than others?](https://www.quora.com/Why-do-some-media-amplify-cognition-more-than-others/answer/Alan-Kay-11)
 
 A comprehensive answer is beyond the size of a Quora response.
 
@@ -4765,9 +4405,7 @@ Simple answer to the question here is that all media amplify cognition but in di
 It’s worth learning which and making choices …
 
 ---
-## How can I incorporate a historic/literary approach to a topic about computer science?
-
-*https://www.quora.com/How-can-I-incorporate-a-historic-literary-approach-to-a-topic-about-computer-science/answer/Alan-Kay-11*
+## [How can I incorporate a historic/literary approach to a topic about computer science?](https://www.quora.com/How-can-I-incorporate-a-historic-literary-approach-to-a-topic-about-computer-science/answer/Alan-Kay-11)
 
 I like to bring in important events in the history of computing when writing about contemporary issues. The main reason is that a very high percentage of computerists are quite ignorant of what has happened — especially since things got rolling in the 40s.
 
@@ -4778,18 +4416,14 @@ If you are looking for examples, you first have to delve into the history of the
 As to the “literary” part of the question, I’m not sure quite what is meant — but one part of it could be to encourage computerists to learn how to write well, and especially to include computer processes and interactions as part of the media they write with.
 
 ---
-## According to Alan Kay, LISP's metacircular interpreter serves as the "Maxwell's equations of software". What are then the Einstein's field equations of software?
-
-*https://www.quora.com/According-to-Alan-Kay-LISPs-metacircular-interpreter-serves-as-the-Maxwells-equations-of-software-What-are-then-the-Einsteins-field-equations-of-software/answer/Alan-Kay-11*
+## [According to Alan Kay, LISP's metacircular interpreter serves as the "Maxwell's equations of software". What are then the Einstein's field equations of software?](https://www.quora.com/According-to-Alan-Kay-LISPs-metacircular-interpreter-serves-as-the-Maxwells-equations-of-software-What-are-then-the-Einsteins-field-equations-of-software/answer/Alan-Kay-11)
 
 I think I said “Maxwell’s Equations of programming” … and I think this metaphor works pretty well for the late 50s and early 60s when Lisp appeared. It showed “in one eyeful” a very powerful way to model a superset of the kind of programming that was being done then.
 
 Metaphors only go so far, so bringing Einstein in might violate the spirit of the original observation. But one could imagine a similar deep succinct treatment of “process-oriented programming systems” that would capture the essence of “internetworked processes”.
 
 ---
-## What did people at Xerox PARC think of the work Apple was doing?
-
-*https://www.quora.com/What-did-people-at-Xerox-PARC-think-of-the-work-Apple-was-doing/answer/Alan-Kay-11*
+## [What did people at Xerox PARC think of the work Apple was doing?](https://www.quora.com/What-did-people-at-Xerox-PARC-think-of-the-work-Apple-was-doing/answer/Alan-Kay-11)
 
 Here is a different way things could have gone …
 
@@ -4834,9 +4468,7 @@ Sic transit gloria mundi
 * note that Tim Berners-Lee did not know about Engelbart when he patched together what was to become the WWW. He has apologized for this since. But the fact that a computer person did not know prime history is as usual as it would be unusual for a physicist not to know about Newton and what he did. This is the difference between a “pop culture”, and a “developed culture”. And it has hurt computing terribly, almost to the death of its best ideas.
 
 ---
-## How did people at Xerox PARC navigate dealing with the corporate side of Xerox?
-
-*https://www.quora.com/How-did-people-at-Xerox-PARC-navigate-dealing-with-the-corporate-side-of-Xerox/answer/Alan-Kay-11*
+## [How did people at Xerox PARC navigate dealing with the corporate side of Xerox?](https://www.quora.com/How-did-people-at-Xerox-PARC-navigate-dealing-with-the-corporate-side-of-Xerox/answer/Alan-Kay-11)
 
 There were different personalities at Parc with differing relationships and needs with corporate; likewise, Xerox was a large rich corporation with many divisions and somewhat like “England before the Magna Carta”.
 
@@ -4849,9 +4481,7 @@ I had pleasant relations with Jack Goldman — a New Yorker and a half — the C
 In other words, the usual human circus that happens when some of the participants are not very high minded. All this intensified as Xerox moved from the could do no wrong phase to starting to have difficulties in its markets. Money issues often bring out the worse in limited horizons.
 
 ---
-## How was software complexity changing as new technologies were introduced from machine code, through assembler to high-level languages and beyond?
-
-*https://www.quora.com/How-was-software-complexity-changing-as-new-technologies-were-introduced-from-machine-code-through-assembler-to-high-level-languages-and-beyond/answer/Alan-Kay-11*
+## [How was software complexity changing as new technologies were introduced from machine code, through assembler to high-level languages and beyond?](https://www.quora.com/How-was-software-complexity-changing-as-new-technologies-were-introduced-from-machine-code-through-assembler-to-high-level-languages-and-beyond/answer/Alan-Kay-11)
 
 A too short but pretty accurate answer is that HLL languages and architectures “almost always” lagged the demands of the software, and this resulted in more complexity than could have been the case.
 
@@ -4860,9 +4490,7 @@ Some of the exceptions are interesting. E.g. the B5000 HL machine with OS writte
 But most projects try to tackle newer larger problems with older, often obsolete languages and tools which add on a lot of gratuitous complexity
 
 ---
-## What is the idea that is better than semphores from John McCarthy in 60s? KEYNOTE 1: Alan Kay - Rethinking Design, Risk, and software watching this on YouTube 38:00
-
-*https://www.quora.com/What-is-the-idea-that-is-better-than-semphores-from-John-McCarthy-in-60s-KEYNOTE-1-Alan-Kay-Rethinking-Design-Risk-and-software-watching-this-on-YouTube-38-00/answer/Alan-Kay-11*
+## [What is the idea that is better than semphores from John McCarthy in 60s? KEYNOTE 1: Alan Kay - Rethinking Design, Risk, and software watching this on YouTube 38:00](https://www.quora.com/What-is-the-idea-that-is-better-than-semphores-from-John-McCarthy-in-60s-KEYNOTE-1-Alan-Kay-Rethinking-Design-Risk-and-software-watching-this-on-YouTube-38-00/answer/Alan-Kay-11)
 
 I’ve explained John’s idea of “pseudotime” in a number of Quora answers. Perhaps you or someone might locate these …
 
@@ -4875,9 +4503,7 @@ Alan Kay's answer to What will happen if one rewrites the entire Linux using Sma
 Alan Kay's answer to Rich Hickey, creator of Clojure has said that object-oriented programming is unable to model “time” properly. What does "modeling time" actually mean?
 
 ---
-## Why hasn't Xerox PARC explored the stylus in the Alto era?
-
-*https://www.quora.com/Why-hasnt-Xerox-PARC-explored-the-stylus-in-the-Alto-era/answer/Alan-Kay-11*
+## [Why hasn't Xerox PARC explored the stylus in the Alto era?](https://www.quora.com/Why-hasnt-Xerox-PARC-explored-the-stylus-in-the-Alto-era/answer/Alan-Kay-11)
 
 We did aim for the stylus at Parc, and this was from experience with the GRAIL system at RAND especially (and GRAIL featured dragging via a stylus).
 
@@ -4894,16 +4520,12 @@ Parc also did a variety of touch sensors for displays — the Notetaker came wit
 The mouse for the Mac was mostly about reliability — it was large and low res.
 
 ---
-## Why didn't Alan Kay show up when Adele Goldberg arranged the meeting with Carl Helmers in PARC?
-
-*https://www.quora.com/Why-didnt-Alan-Kay-show-up-when-Adele-Goldberg-arranged-the-meeting-with-Carl-Helmers-in-PARC/answer/Alan-Kay-11*
+## [Why didn't Alan Kay show up when Adele Goldberg arranged the meeting with Carl Helmers in PARC?](https://www.quora.com/Why-didnt-Alan-Kay-show-up-when-Adele-Goldberg-arranged-the-meeting-with-Carl-Helmers-in-PARC/answer/Alan-Kay-11)
 
 First, I’ve heard of it. When was the meeting?
 
 ---
-## Why was there a mismatch between Xerox management and PARC?
-
-*https://www.quora.com/Why-was-there-a-mismatch-between-Xerox-management-and-PARC/answer/Alan-Kay-11*
+## [Why was there a mismatch between Xerox management and PARC?](https://www.quora.com/Why-was-there-a-mismatch-between-Xerox-management-and-PARC/answer/Alan-Kay-11)
 
 Parc was set up in mid-1970 as an initiative of the Chief Scientist Jack Goldman and backed by CEO Peter McCullough.
 
@@ -4926,16 +4548,12 @@ Taylor sacrificed his career to hold the ship together, and most of the edge of 
 Things were quite tough around the late 70s, and Taylor was eventually fired in 1982 — his entire lab resigned with him.
 
 ---
-## Is Alan Kay the most influential person in the CS and IT fields?
-
-*https://www.quora.com/Is-Alan-Kay-the-most-influential-person-in-the-CS-and-IT-fields/answer/Alan-Kay-11*
+## [Is Alan Kay the most influential person in the CS and IT fields?](https://www.quora.com/Is-Alan-Kay-the-most-influential-person-in-the-CS-and-IT-fields/answer/Alan-Kay-11)
 
 I couldn’t possibly be …
 
 ---
-## How is it that "coding" is a superior term to "conceptualize", if they mean essentially the same?
-
-*https://www.quora.com/How-is-it-that-coding-is-a-superior-term-to-conceptualize-if-they-mean-essentially-the-same/answer/Alan-Kay-11*
+## [How is it that "coding" is a superior term to "conceptualize", if they mean essentially the same?](https://www.quora.com/How-is-it-that-coding-is-a-superior-term-to-conceptualize-if-they-mean-essentially-the-same/answer/Alan-Kay-11)
 
 As far as my 60+ years of experience goes, the two terms don’t at all mean the same.
 
@@ -4946,9 +4564,7 @@ Typically, one started off as a “coder”, essentially hand compiling designs 
 Today, I think that most people use “coding” and “programming” interchangeably.
 
 ---
-## What is Alan Kay's opinion on the Akka actor library?
-
-*https://www.quora.com/What-is-Alan-Kays-opinion-on-the-Akka-actor-library/answer/Alan-Kay-11*
+## [What is Alan Kay's opinion on the Akka actor library?](https://www.quora.com/What-is-Alan-Kays-opinion-on-the-Akka-actor-library/answer/Alan-Kay-11)
 
 Hard to have an opinion without trying something major.
 
@@ -4959,9 +4575,7 @@ Both of these paths worked out (we did write the systems we wanted, and the acto
 A simple-minded theory of mine is that every research project needs a genius like Dan Ingalls, who can successfully turn big ideas into whole systems. The Smalltalk work at Parc benefited from this, and most other interesting languages haven’t (e.g. the lack of whole systems for (say) Haskell, Clojure, Akka, etc).
 
 ---
-## How do I master the art of Smalltalk?
-
-*https://www.quora.com/How-do-I-master-the-art-of-Smalltalk/answer/Alan-Kay-11*
+## [How do I master the art of Smalltalk?](https://www.quora.com/How-do-I-master-the-art-of-Smalltalk/answer/Alan-Kay-11)
 
 Let’s widen the question to: “How can I understand and use Smalltalk-like language/systems?”
 
@@ -5016,9 +4630,7 @@ There are many more considerations that come with a “scaling of a billion plus
 This is a really important long known research problem for which almost nothing has been done or funded over the last 40+ years.
 
 ---
-## Are there any known jazz guitarists who prefer playing on nylon string guitars, and if so, why do they prefer it, the sound or the feel of the instrument?
-
-*https://www.quora.com/Are-there-any-known-jazz-guitarists-who-prefer-playing-on-nylon-string-guitars-and-if-so-why-do-they-prefer-it-the-sound-or-the-feel-of-the-instrument/answer/Alan-Kay-11*
+## [Are there any known jazz guitarists who prefer playing on nylon string guitars, and if so, why do they prefer it, the sound or the feel of the instrument?](https://www.quora.com/Are-there-any-known-jazz-guitarists-who-prefer-playing-on-nylon-string-guitars-and-if-so-why-do-they-prefer-it-the-sound-or-the-feel-of-the-instrument/answer/Alan-Kay-11)
 
 Sure: e.g. Charlie Byrd and more.
 
@@ -5035,9 +4647,7 @@ Eventually age got me and my left thumb joint wore out to “nothing” — some
 It happens that much of early classical music requires improvisation as part of the art, and this is especially true of the lute. In fact, 17th century music in general is rather “jazzy” in many ways, some just like 20th century jazz, and some that are parallels to 20th century jazz. So it’s been fun learning and adapting to this as well.
 
 ---
-## What is the big difference between a computer scientist and a software engineer?
-
-*https://www.quora.com/What-is-the-big-difference-between-a-computer-scientist-and-a-software-engineer/answer/Alan-Kay-11*
+## [What is the big difference between a computer scientist and a software engineer?](https://www.quora.com/What-is-the-big-difference-between-a-computer-scientist-and-a-software-engineer/answer/Alan-Kay-11)
 
 Worth starting with “differences between Engineering and Science, in general”.
 
@@ -5084,9 +4694,7 @@ Just as pop cultures can’t deal with non-linear processes such as the pandemic
 ** pop cultures can produce important things also — the big problem of our day is that commercialism has grown the pop cultures to be dominant rather than a small percentage for hobbies and harmless fun.
 
 ---
-## How can I implement an online microtonal adjustment algorithm to get more perfect harmonics with a method to avoid drift?
-
-*https://www.quora.com/How-can-I-implement-an-online-microtonal-adjustment-algorithm-to-get-more-perfect-harmonics-with-a-method-to-avoid-drift/answer/Alan-Kay-11*
+## [How can I implement an online microtonal adjustment algorithm to get more perfect harmonics with a method to avoid drift?](https://www.quora.com/How-can-I-implement-an-online-microtonal-adjustment-algorithm-to-get-more-perfect-harmonics-with-a-method-to-avoid-drift/answer/Alan-Kay-11)
 
 We did just that at Parc in the 70s, and not very completely. Today it could be done much better (and probably has been).
 
@@ -5121,16 +4729,12 @@ What if you want more good sounding keys? Well you could split the sharps: so in
 <to be continued>
 
 ---
-## What are the mental models, biases, and fallacies that software developers should know?
-
-*https://www.quora.com/What-are-the-mental-models-biases-and-fallacies-that-software-developers-should-know/answer/Alan-Kay-11*
+## [What are the mental models, biases, and fallacies that software developers should know?](https://www.quora.com/What-are-the-mental-models-biases-and-fallacies-that-software-developers-should-know/answer/Alan-Kay-11)
 
 Only 17?
 
 ---
-## Is there a more precise way to describe software than with programming languages?
-
-*https://www.quora.com/Is-there-a-more-precise-way-to-describe-software-than-with-programming-languages/answer/Alan-Kay-11*
+## [Is there a more precise way to describe software than with programming languages?](https://www.quora.com/Is-there-a-more-precise-way-to-describe-software-than-with-programming-languages/answer/Alan-Kay-11)
 
 I’m using the definition that “a programming language is something that can take a representation and turn it into something that a computer can carry out”. But we could also think of a language that can describe processes that don’t run on a computer (this was the case for “APL” for its first 6 or more years).
 
@@ -5151,9 +4755,7 @@ A big fun thing about “digital” were the many ways to remove noise from nois
 A simple minded answer with regard to computing is that a program in a programming language only has a precise meaning with reference to what happens when the program is executed (either relative to a machine or by a human: in possession of a “workably precise” description of the programming language). This can be made to work pragmatically enough …
 
 ---
-## What does Alan Kay think about computer algebra system (e.g. SymPy and SageMath) usage in mathematics education, before graduate school? Would widespread use of powered cognition assists like these rot younger students' brains as some people fear?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-computer-algebra-system-e-g-SymPy-and-SageMath-usage-in-mathematics-education-before-graduate-school-Would-widespread-use-of-powered-cognition-assists-like-these-rot-younger-students/answer/Alan-Kay-11*
+## [What does Alan Kay think about computer algebra system (e.g. SymPy and SageMath) usage in mathematics education, before graduate school? Would widespread use of powered cognition assists like these rot younger students' brains as some people fear?](https://www.quora.com/What-does-Alan-Kay-think-about-computer-algebra-system-e-g-SymPy-and-SageMath-usage-in-mathematics-education-before-graduate-school-Would-widespread-use-of-powered-cognition-assists-like-these-rot-younger-students/answer/Alan-Kay-11)
 
 “Education” and “Training” have some overlap — along the lines of “understanding” and “doing” — but the distinctions are quite useful to keep in mind. In all cases we want something beneficial to change/grow in the mind of the learner.
 
@@ -5194,9 +4796,7 @@ This is one entry to thinking in terms of vectors, and it works powerfully in 1,
 This is the same distinction between helping a child learn to actually play a musical instrument vs putting them in a “music appreciation” class. We should be able to see that — for many really important subjects — “standard schooling” is way off (and to the point that it actually hurts the children: i.e. it’s quite a bit worse than “neutral”).
 
 ---
-## What was the world’s first high level programming language in 1957?
-
-*https://www.quora.com/What-was-the-world-s-first-high-level-programming-language-in-1957/answer/Alan-Kay-11*
+## [What was the world’s first high level programming language in 1957?](https://www.quora.com/What-was-the-world-s-first-high-level-programming-language-in-1957/answer/Alan-Kay-11)
 
 Is this really two questions?
 
@@ -5221,9 +4821,7 @@ A strong argument in Sanjay’s — and Zuse’s — favor is that Iverson’s �
 If we follow that line of reasoning, then we have to look at Ada’s program for Bernoulli numbers, which was also just on paper. She certainly had a formal organization for this program.
 
 ---
-## Can atoms of imaginary matter be created on a computer only with software imaginary graphics?
-
-*https://www.quora.com/Can-atoms-of-imaginary-matter-be-created-on-a-computer-only-with-software-imaginary-graphics/answer/Alan-Kay-11*
+## [Can atoms of imaginary matter be created on a computer only with software imaginary graphics?](https://www.quora.com/Can-atoms-of-imaginary-matter-be-created-on-a-computer-only-with-software-imaginary-graphics/answer/Alan-Kay-11)
 
 I typed “simulated atoms” into YouTube and got many different videos showing various levels of physical simulations of atoms rendered using “software graphics”.
 
@@ -5238,16 +4836,12 @@ I don’t quite understand your phrase “using only software graphics”.
 (b) the physical simulations are mathematical — like the viewing simulations — but using somewhat different math and physical modeling (but all can be done in software — and all can be done in either a regular CPU or in a GPU).
 
 ---
-## What do you think of RMOX operating system from U Kent in England?  I am amazed it is 32 bit only and not 64 bit (maybe secretly used by Englands government) https://www.cs.kent.ac.uk/projects/ofa/kroc/rmox-cpa.pdf
-
-*https://www.quora.com/What-do-you-think-of-RMOX-operating-system-from-U-Kent-in-England-I-am-amazed-it-is-32-bit-only-and-not-64-bit-maybe-secretly-used-by-Englands-government-https-www-cs-kent-ac-uk-projects-ofa-kroc-rmox-cpa-pdf/answer/Alan-Kay-11*
+## [What do you think of RMOX operating system from U Kent in England?  I am amazed it is 32 bit only and not 64 bit (maybe secretly used by Englands government) https://www.cs.kent.ac.uk/projects/ofa/kroc/rmox-cpa.pdf](https://www.quora.com/What-do-you-think-of-RMOX-operating-system-from-U-Kent-in-England-I-am-amazed-it-is-32-bit-only-and-not-64-bit-maybe-secretly-used-by-Englands-government-https-www-cs-kent-ac-uk-projects-ofa-kroc-rmox-cpa-pdf/answer/Alan-Kay-11)
 
 This is a “CSP” influenced design. I don’t like to criticize unless I’m willing to do it in substantiated detail, so I’ll just say here that there are other styles for dealing with concurrent modules that I like more.
 
 ---
-## I want to understand and learn Lisp. I saw one of your YouTube videos where you said few understand it even today. What is the best way to learn Lisp and the creation of really good software that like the internet is reliable?
-
-*https://www.quora.com/I-want-to-understand-and-learn-Lisp-I-saw-one-of-your-YouTube-videos-where-you-said-few-understand-it-even-today-What-is-the-best-way-to-learn-Lisp-and-the-creation-of-really-good-software-that-like-the-internet-is/answer/Alan-Kay-11*
+## [I want to understand and learn Lisp. I saw one of your YouTube videos where you said few understand it even today. What is the best way to learn Lisp and the creation of really good software that like the internet is reliable?](https://www.quora.com/I-want-to-understand-and-learn-Lisp-I-saw-one-of-your-YouTube-videos-where-you-said-few-understand-it-even-today-What-is-the-best-way-to-learn-Lisp-and-the-creation-of-really-good-software-that-like-the-internet-is/answer/Alan-Kay-11)
 
 Lisp presents itself as “a kernel language with a library” and as a “metalanguage” and “metasystem”. It’s the latter that I think few in computing — in terms of percentages — have taken the trouble to learn and ponder deeply.
 
@@ -5294,16 +4888,12 @@ Etc.
 “(b)” has a subjective side (“good” software needs “good” people), and also a number of principles. One is to separate meanings from optimizations in such a way that (i) the meanings/intentions are debuggable and are readily readable and understandable by the humans involved, (ii) the system will run as desired with the optimizations turned off (a supercomputer may be required). This is a computing version of the CAD<->SIM<->FAB process in established Engineering (with a Big E) disciplines.
 
 ---
-## Are business interests and principled engineering often at odds?
-
-*https://www.quora.com/Are-business-interests-and-principled-engineering-often-at-odds/answer/Alan-Kay-11*
+## [Are business interests and principled engineering often at odds?](https://www.quora.com/Are-business-interests-and-principled-engineering-often-at-odds/answer/Alan-Kay-11)
 
 Take a look at “Challenger” and Thiokol, and the 737 Max and Boeing — as starters …
 
 ---
-## What would "software CAD/SIM" look like?
-
-*https://www.quora.com/What-would-software-CAD-SIM-look-like/answer/Alan-Kay-11*
+## [What would "software CAD/SIM" look like?](https://www.quora.com/What-would-software-CAD-SIM-look-like/answer/Alan-Kay-11)
 
 Let’s try as close an analogy to modern Engineering (with a Big “E”) as we can. One of the processes is called CAD<->SIM<->FAB(rication), and the idea is to solve as many design problems as possible in the CAD<->SIM part.
 
@@ -5330,9 +4920,7 @@ Historically, it’s worth noting that the early drive for higher level language
 The idea of separating meanings from optimizations (and to have mechanisms in the development languages for doing so) helps with the practical business of actually writing software.
 
 ---
-## Has Lisp ever been implemented iteratively?
-
-*https://www.quora.com/Has-Lisp-ever-been-implemented-iteratively/answer/Alan-Kay-11*
+## [Has Lisp ever been implemented iteratively?](https://www.quora.com/Has-Lisp-ever-been-implemented-iteratively/answer/Alan-Kay-11)
 
 I’m not sure I understand this question clearly.
 
@@ -5341,16 +4929,12 @@ But the first implementation by Steve Russell — and many since — was done by
 The entire machine code of the classic graceful Peter Deutsch Lisp implementation on the BBN PDP-1 is given in the book “The Programming Language Lisp” (Bobrow and Berkeley ed.). The PDP-1 didn’t have a built-in stack, etc.
 
 ---
-## What language was ALGOL 58 written in?
-
-*https://www.quora.com/What-language-was-ALGOL-58-written-in/answer/Alan-Kay-11*
+## [What language was ALGOL 58 written in?](https://www.quora.com/What-language-was-ALGOL-58-written-in/answer/Alan-Kay-11)
 
 “BALGOL” (Burroughs Algol) was a version of Algol 58 that was implemented on the Burroughs 205 and 220 computers in pretty much the same machine code — the two machines were quite similar (good portions of this by Don Knuth).
 
 ---
-## How does one get as close as possible to mastering software engineering?
-
-*https://www.quora.com/How-does-one-get-as-close-as-possible-to-mastering-software-engineering/answer/Alan-Kay-11*
+## [How does one get as close as possible to mastering software engineering?](https://www.quora.com/How-does-one-get-as-close-as-possible-to-mastering-software-engineering/answer/Alan-Kay-11)
 
 “Engineering” is making something in a principled way — so there is definitely a “software engineering” of a sort.
 
@@ -5377,9 +4961,7 @@ I think this is a good starting place for rethinking all of this.
 I think “software engineering” — like the existing developed fields — should be actively aspiring to find “What Is Actually Needed” (WIAN) for both its projects and for the field itself. “Mastery” is then the process of continually moving closer to the ideals of the field — it is not a location.
 
 ---
-## What are the limitations discovered in the early programming language that triggered the need for OOP?
-
-*https://www.quora.com/What-are-the-limitations-discovered-in-the-early-programming-language-that-triggered-the-need-for-OOP/answer/Alan-Kay-11*
+## [What are the limitations discovered in the early programming language that triggered the need for OOP?](https://www.quora.com/What-are-the-limitations-discovered-in-the-early-programming-language-that-triggered-the-need-for-OOP/answer/Alan-Kay-11)
 
 The earliest programming was in the forms of the earliest computers: to find resources in memory — usually numbers, or numbers standing for something (like a text character) — and doing something with them: often changing them or making something and putting the results in memory. Control was done by simple instructions that could test and compare, and branch to one part of code or another: often to a part of code that had already been done to create a loop. An instruction not in the hardware could be simulated if there was a way to branch and capture where the branch originated, thus producing the idea of “subroutine” (first used in full glory with a “library” on arguably the first working programmable computer, the EDSAC by Maurice Wilkes at Cambridge, late 40s).
 
@@ -5434,9 +5016,7 @@ The 5th version of this process was released to the public in the 80s, and to ou
 To answer the current question after the “long wind” here: there are usually enough things “not right enough” in computing to need new inventions to help. Most people try to patch their favorite ways of doing things. A few will try to raise the outlook and come up with new ways to look at things. The deep “object” idea, being one of “universal definition” can be used for both purposes. Using it for the former tends to just put off real trouble a little bit. I think programming is in real trouble, and needs another round of deep rethinking and reinventing. Good results from this will be relatively easy to model using “real objects”.
 
 ---
-## Did Xerox PARC have time constraints?
-
-*https://www.quora.com/Did-Xerox-PARC-have-time-constraints/answer/Alan-Kay-11*
+## [Did Xerox PARC have time constraints?](https://www.quora.com/Did-Xerox-PARC-have-time-constraints/answer/Alan-Kay-11)
 
 I was not aware of any during the period I was there, from late ’70 to ‘81.
 
@@ -5451,16 +5031,12 @@ The tensions between Parc and corporate was less pleasant than our previous expe
 But the situation at Parc was overwhelmingly set up for positive processes nontheless.
 
 ---
-## Did the Xerox PARC children had any problems context-switching between traditional math precedence rules and Smalltalk alternative left-to-right evaluation order? Would Mathematics change significantly if left-to-right evaluation were widely adopted?
-
-*https://www.quora.com/Did-the-Xerox-PARC-children-had-any-problems-context-switching-between-traditional-math-precedence-rules-and-Smalltalk-alternative-left-to-right-evaluation-order-Would-Mathematics-change-significantly-if-left-to/answer/Alan-Kay-11*
+## [Did the Xerox PARC children had any problems context-switching between traditional math precedence rules and Smalltalk alternative left-to-right evaluation order? Would Mathematics change significantly if left-to-right evaluation were widely adopted?](https://www.quora.com/Did-the-Xerox-PARC-children-had-any-problems-context-switching-between-traditional-math-precedence-rules-and-Smalltalk-alternative-left-to-right-evaluation-order-Would-Mathematics-change-significantly-if-left-to/answer/Alan-Kay-11)
 
 We made the decision not to have precedence for the very same reason APL did: if you have lots of operators, just remembering precedence starts to become a burden. The kids had no trouble dealing with the (easier) left to right “consumption” idea, and I never heard any complaints about the conflict with precedence in school. These were 12 and 13 year olds.
 
 ---
-## How can a beginner develop thinking (computational and algorithmic) in programming?
-
-*https://www.quora.com/How-can-a-beginner-develop-thinking-computational-and-algorithmic-in-programming/answer/Alan-Kay-11*
+## [How can a beginner develop thinking (computational and algorithmic) in programming?](https://www.quora.com/How-can-a-beginner-develop-thinking-computational-and-algorithmic-in-programming/answer/Alan-Kay-11)
 
 This question was asked by “Leonardo da Vinci”, and I wouldn’t like to deprive Leonardo of the pleasure of finding this out for himself.
 
@@ -5481,9 +5057,7 @@ A bit redundant — but perhaps useful to say it this way — one of the things 
 Of course, there are more than 6 perspectives needed to become a decent computerist, but these are 6 important and non-ignorable ones that will start you off.
 
 ---
-## What are some examples that demonstrate the usefulness of homoiconicity in programming?
-
-*https://www.quora.com/What-are-some-examples-that-demonstrate-the-usefulness-of-homoiconicity-in-programming/answer/Alan-Kay-11*
+## [What are some examples that demonstrate the usefulness of homoiconicity in programming?](https://www.quora.com/What-are-some-examples-that-demonstrate-the-usefulness-of-homoiconicity-in-programming/answer/Alan-Kay-11)
 
 I don’t think it is that useful per se (the most important aspects of a programming language are to have both (a) the most powerful semantic frameworks for expressing meaning, and (b) to be as learnable and readable and “gistable” as possible for human users.
 
@@ -5508,9 +5082,7 @@ The overlap between beginners and these programs is that the fewer concepts and 
 So it’s possible that the homoiconic approach for meta is a kind of cognitive sweet spot. On the other hand (I think) you get something much nicer in many ways to go with the way Smalltalk dealt with reflection and meta. It is less of a hack etc. and requires a bit more learning before diving in. But this approach scales more gracefully, and starts with much more protection.
 
 ---
-## What caused the ADA to be created?
-
-*https://www.quora.com/What-caused-the-ADA-to-be-created/answer/Alan-Kay-11*
+## [What caused the ADA to be created?](https://www.quora.com/What-caused-the-ADA-to-be-created/answer/Alan-Kay-11)
 
 The Wikipedia article is a good place to start:
 
@@ -5533,9 +5105,7 @@ Bottom line: a lot can be learned about both language design, software engineeri
 As Robert Heinlein remarked, a really bad committee is “the only form of life with 10 bellies and no brain”. This wasn’t that bad, nor was it as bad as a “typical committee”: “whose collective IQ is the minimum of the individuals in the group”. I think that ADA turned out a lot better than the earlier comparable project of IBM — PL/1 — another language that took forever, delivered not so well, and is still around (I know of at least one major insurance company in the US that still employs 2000 PL/1 programmers!)
 
 ---
-## To what extent does each invention require the invention of jargon for that invention?
-
-*https://www.quora.com/To-what-extent-does-each-invention-require-the-invention-of-jargon-for-that-invention/answer/Alan-Kay-11*
+## [To what extent does each invention require the invention of jargon for that invention?](https://www.quora.com/To-what-extent-does-each-invention-require-the-invention-of-jargon-for-that-invention/answer/Alan-Kay-11)
 
 Great question!
 
@@ -5550,9 +5120,7 @@ Interesting examples abound in fields that are supposed to be technical — such
 Just to round this out … it’s worth contemplating that science itself was initially also guilty of redefining earlier terms in attempts to make contact with outsiders, and reworked terms such as “know”, “proof”, “truth”, “theory”, etc in ways that still confuse non-scientists today. I think it is much better to just make up new terms for new meanings to help people realize there are important differences, and which have to be learned.
 
 ---
-## What is the best book for Research Methods in Computing?
-
-*https://www.quora.com/What-is-the-best-book-for-Research-Methods-in-Computing/answer/Alan-Kay-11*
+## [What is the best book for Research Methods in Computing?](https://www.quora.com/What-is-the-best-book-for-Research-Methods-in-Computing/answer/Alan-Kay-11)
 
 It would be fun and illuminating to see the opinions of others — either as answers or comments here.
 
@@ -5569,16 +5137,12 @@ The Waldrop book is mostly about *what*, but does give some glimpses of *how*.
 I got asked to do several lectures at Stanford a few years ago about “How To Invent The Future”, and these have quite a bit more about methods used.
 
 ---
-## Did Alan Kay give advice to Guido van Rossum on the design of Python? The language is said to have a object model that leans toward the original late-binding, kaynesian definition, instead of the abstract datatypes route taken by e.g. Java and C++.
-
-*https://www.quora.com/Did-Alan-Kay-give-advice-to-Guido-van-Rossum-on-the-design-of-Python-The-language-is-said-to-have-a-object-model-that-leans-toward-the-original-late-binding-kaynesian-definition-instead-of-the-abstract-datatypes/answer/Alan-Kay-11*
+## [Did Alan Kay give advice to Guido van Rossum on the design of Python? The language is said to have a object model that leans toward the original late-binding, kaynesian definition, instead of the abstract datatypes route taken by e.g. Java and C++.](https://www.quora.com/Did-Alan-Kay-give-advice-to-Guido-van-Rossum-on-the-design-of-Python-The-language-is-said-to-have-a-object-model-that-leans-toward-the-original-late-binding-kaynesian-definition-instead-of-the-abstract-datatypes/answer/Alan-Kay-11)
 
 I didn’t give Guido any advice on the design of Python. The aims of Python and its early history are easy to find with Google. Guido also wrote a blog with many articles about different aspects of Python history and development.
 
 ---
-## In software engineering, when might pragmatism be harmful in the short term?
-
-*https://www.quora.com/In-software-engineering-when-might-pragmatism-be-harmful-in-the-short-term/answer/Alan-Kay-11*
+## [In software engineering, when might pragmatism be harmful in the short term?](https://www.quora.com/In-software-engineering-when-might-pragmatism-be-harmful-in-the-short-term/answer/Alan-Kay-11)
 
 Almost always. As Don Knuth wrote long ago “Premature optimization is the root of all evil”.
 
@@ -5587,25 +5151,19 @@ If the term “engineering” is to mean anything in “software engineering”,
 One way to think of a well designed system is that the semantics will be separated from the optimizations as much as possible (one can imagine tools to help do just that) so that the system can be debugged and changed, etc., in terms of the semantics and will run — perhaps too slowly — with the optimizations turned off.
 
 ---
-## Did Atari use the Forth language for any of their software?
-
-*https://www.quora.com/Did-Atari-use-the-Forth-language-for-any-of-their-software/answer/Alan-Kay-11*
+## [Did Atari use the Forth language for any of their software?](https://www.quora.com/Did-Atari-use-the-Forth-language-for-any-of-their-software/answer/Alan-Kay-11)
 
 I was there from late 1981 to early 1984, and was not aware that FORTH was used in any Atari systems. However, it is certainly possible that a use escaped my notice.
 
 ---
-## Is it important to turn what is actually needed into a pop culture?
-
-*https://www.quora.com/Is-it-important-to-turn-what-is-actually-needed-into-a-pop-culture/answer/Alan-Kay-11*
+## [Is it important to turn what is actually needed into a pop culture?](https://www.quora.com/Is-it-important-to-turn-what-is-actually-needed-into-a-pop-culture/answer/Alan-Kay-11)
 
 I think “just the opposite”.
 
 It’s important to turn pop cultures into “what is actually needed”.
 
 ---
-## Did UNIX fulfill or exceed the vision of the Multics project?
-
-*https://www.quora.com/Did-UNIX-fulfill-or-exceed-the-vision-of-the-Multics-project/answer/Alan-Kay-11*
+## [Did UNIX fulfill or exceed the vision of the Multics project?](https://www.quora.com/Did-UNIX-fulfill-or-exceed-the-vision-of-the-Multics-project/answer/Alan-Kay-11)
 
 I thought Paul Green provided a good answer to a related question.
 
@@ -5634,9 +5192,7 @@ By the end of the 60s it was clear (to some of us at least) that the B5500 appro
 In my view, one of the first really great systems that was a modern version of the “ARPA vision” was Gerry Popek’s distributed multi-HW “LOCUS” OS in the 80s. This was really good. (It did use a modified Unix, but this was not a critical component of the design: any encapsulated process architecture would have worked, and some would have worked even better.)
 
 ---
-## What are the must-read books for software engineers?
-
-*https://www.quora.com/What-are-the-must-read-books-for-software-engineers/answer/Alan-Kay-11*
+## [What are the must-read books for software engineers?](https://www.quora.com/What-are-the-must-read-books-for-software-engineers/answer/Alan-Kay-11)
 
 I’ve been trying to find some (I got invited to do a keynote at a large upcoming Software Engineering conference, and have been looking to see if there is more of a consensus and higher level view already in the literature).
 
@@ -5647,9 +5203,7 @@ I welcome helpful comments and suggestions!
 Added Aug 12th: no helpful suggestions from readers yet. Does this mean you don’t think there are any “what is actually needed” books for “software engineering”?
 
 ---
-## What is your review of The Pragmatic Programmer (1999 book)?
-
-*https://www.quora.com/What-is-your-review-of-The-Pragmatic-Programmer-1999-book/answer/Alan-Kay-11*
+## [What is your review of The Pragmatic Programmer (1999 book)?](https://www.quora.com/What-is-your-review-of-The-Pragmatic-Programmer-1999-book/answer/Alan-Kay-11)
 
 I don’t have a detailed memory of the details of this 1999 book, but do remember some impressions.
 
@@ -5664,9 +5218,7 @@ My view is that this kind of pragmatism is quite harmful in the long term, and o
 I think the book became quite popular and successful.
 
 ---
-## Can processes notify operating system that their stack and heap will need this much of memory prior to starting? Or is it operating system's decision to give a predetermined amount of space for heap and stack for every process?
-
-*https://www.quora.com/Can-processes-notify-operating-system-that-their-stack-and-heap-will-need-this-much-of-memory-prior-to-starting-Or-is-it-operating-systems-decision-to-give-a-predetermined-amount-of-space-for-heap-and-stack-for/answer/Alan-Kay-11*
+## [Can processes notify operating system that their stack and heap will need this much of memory prior to starting? Or is it operating system's decision to give a predetermined amount of space for heap and stack for every process?](https://www.quora.com/Can-processes-notify-operating-system-that-their-stack-and-heap-will-need-this-much-of-memory-prior-to-starting-Or-is-it-operating-systems-decision-to-give-a-predetermined-amount-of-space-for-heap-and-stack-for/answer/Alan-Kay-11)
 
 Here is one of the many great ideas in the “Project Genie” OS (lead designer: Butler Lampson, and later used to launch commercial time-sharing, and for the Engelbart “Mother Of All Demos” towards the end of the 1960s).
 
@@ -5691,16 +5243,12 @@ It’s worth noting that even today, most OSs are quite rooted in the early 60s 
 Why would people not do learning and take actions that would help them? A look at the pandemic — and many other situations in normal human life — reveals that, for many, “comfort even with high ultimate costs” is worth more than the “discomfort of learning and changing”.
 
 ---
-## What is objective quality?
-
-*https://www.quora.com/What-is-objective-quality/answer/Alan-Kay-11*
+## [What is objective quality?](https://www.quora.com/What-is-objective-quality/answer/Alan-Kay-11)
 
 Try typing it into Google and looking at the first hit (that’s what I did …)
 
 ---
-## How was personal computing influenced by the hippie movement?
-
-*https://www.quora.com/How-was-personal-computing-influenced-by-the-hippie-movement/answer/Alan-Kay-11*
+## [How was personal computing influenced by the hippie movement?](https://www.quora.com/How-was-personal-computing-influenced-by-the-hippie-movement/answer/Alan-Kay-11)
 
 The larger category of interest here is “the counterculture”, of which the hippies could be considered one branch (or possibly a parallel “counterculture”). For example, I think “The Whole Earth Catalog” is a “counterculture” medium rather than a “hippie” one. The “Free University” in Palo Alto and Menlo Park in the late 60s into the 70s was “counterculture” much more than “hippies”.
 
@@ -5709,9 +5257,7 @@ One view related to your question can be found in John Markoff’s book: What th
 My view — from having started to visit Palo Alto in the late 60s and living there from 1969 on — is that “hippies” had essentially nothing to do with the development of personal computing, but that the surrounding context of counterculture “helped”. You could look at my Quora answer about The Whole Earth Catalog for more info.
 
 ---
-## In the STEPS report, an unresolved problem of massive intermodule coordination and communication is mentioned. Is it more of a hardware problem, or a software/design problem?
-
-*https://www.quora.com/In-the-STEPS-report-an-unresolved-problem-of-massive-intermodule-coordination-and-communication-is-mentioned-Is-it-more-of-a-hardware-problem-or-a-software-design-problem/answer/Alan-Kay-11*
+## [In the STEPS report, an unresolved problem of massive intermodule coordination and communication is mentioned. Is it more of a hardware problem, or a software/design problem?](https://www.quora.com/In-the-STEPS-report-an-unresolved-problem-of-massive-intermodule-coordination-and-communication-is-mentioned-Is-it-more-of-a-hardware-problem-or-a-software-design-problem/answer/Alan-Kay-11)
 
 For a long time, this was a problem that never quite got worked on — it lost out to other problems — but one I thought “someone” should do (maybe us).
 
@@ -5732,9 +5278,7 @@ I’m a bit surprised that no modern day Kaehler, Lenat, or Gerlernter has stepp
 It’s similar to “communicating with Aliens” in the stars, but quite a bit easier.
 
 ---
-## Could some kind of analogy be made up between object-orientation and set theory?
-
-*https://www.quora.com/Could-some-kind-of-analogy-be-made-up-between-object-orientation-and-set-theory/answer/Alan-Kay-11*
+## [Could some kind of analogy be made up between object-orientation and set theory?](https://www.quora.com/Could-some-kind-of-analogy-be-made-up-between-object-orientation-and-set-theory/answer/Alan-Kay-11)
 
 At Parc, we put some thought into this. One idea was to see about relationships between the set of objects you retrieve in a search and that a Smalltalk class generates a set of objects which obey the description in the class.
 
@@ -5753,9 +5297,7 @@ In the spirit of “not multiplying entities unnecessarily” (what Occam actual
 I wrote a paper about what it might be like to unify the two kinds of sets. Some form of this is still an interesting idea …
 
 ---
-## Can the concept of Unix pipes be added to apps and GUI's?
-
-*https://www.quora.com/Can-the-concept-of-Unix-pipes-be-added-to-apps-and-GUIs/answer/Alan-Kay-11*
+## [Can the concept of Unix pipes be added to apps and GUI's?](https://www.quora.com/Can-the-concept-of-Unix-pipes-be-added-to-apps-and-GUIs/answer/Alan-Kay-11)
 
 The “pipe” idea in Unix was originated by Doug McIlroy in the early 70s, but the notion of interprocess communication was much earlier, and one of the first systems to use interprocess communication (and to invent “data-flow programming”) was by Bert Sutherland (Ivan’s brother) at Lincoln Labs ca 1965.
 
@@ -5764,9 +5306,7 @@ Parallel Data-flow programming with graphical programs ca 1965
 I forgot to say: so the answer is “Yes”!
 
 ---
-## What is the relationship among programming paradigm, object-oriented programming, and event-driven programming?
-
-*https://www.quora.com/What-is-the-relationship-among-programming-paradigm-object-oriented-programming-and-event-driven-programming/answer/Alan-Kay-11*
+## [What is the relationship among programming paradigm, object-oriented programming, and event-driven programming?](https://www.quora.com/What-is-the-relationship-among-programming-paradigm-object-oriented-programming-and-event-driven-programming/answer/Alan-Kay-11)
 
 “OOP”, especially in its original form, is a comprehensive way to define any computational idea by using intercommunicating entities that are a single kind of universal building block with the semantics of a whole computer.
 
@@ -5777,9 +5317,7 @@ In OOP, a message between entities is an “event”.
 To do “event-driven programming” one would organize one or more “event-driver objects”, that entities which desire to be “event-driven” would initially subscribe to. When an event-driver object senses an event, it will send wake-up messages to all objects that have subscribed to it.
 
 ---
-## What's the difference between levels and paradigms in programming? Can we talk about declarative and imperative paradigms only when talking about high level programming languages?
-
-*https://www.quora.com/Whats-the-difference-between-levels-and-paradigms-in-programming-Can-we-talk-about-declarative-and-imperative-paradigms-only-when-talking-about-high-level-programming-languages/answer/Alan-Kay-11*
+## [What's the difference between levels and paradigms in programming? Can we talk about declarative and imperative paradigms only when talking about high level programming languages?](https://www.quora.com/Whats-the-difference-between-levels-and-paradigms-in-programming-Can-we-talk-about-declarative-and-imperative-paradigms-only-when-talking-about-high-level-programming-languages/answer/Alan-Kay-11)
 
 Most computers in history, including most today, are set up to have many of their lowest level instructions be “commands” (in other words “imperative”), and especially with regard to rewriting lowest level memories.
 
@@ -5788,9 +5326,7 @@ A “declarative” form at the lowest level would be something in which the des
 So I think we just did talk about “declarative” and “imperative” ‘paradigms’ without mentioning “higher level programming languages” (until just now).
 
 ---
-## What progress have computer scientists made toward solving the symbol grounding problem?
-
-*https://www.quora.com/What-progress-have-computer-scientists-made-toward-solving-the-symbol-grounding-problem/answer/Alan-Kay-11*
+## [What progress have computer scientists made toward solving the symbol grounding problem?](https://www.quora.com/What-progress-have-computer-scientists-made-toward-solving-the-symbol-grounding-problem/answer/Alan-Kay-11)
 
 Excellent question! Simple answers are “some”, “not a lot”, and “not a lot of work is going on these days on this problem”.
 
@@ -5801,27 +5337,21 @@ A preliminary question is “how do humans seem to do ‘symbol grounding’ ?�
 A place to start that has considerable thought and many examples is the CYC system of Doug Lenat, which is a very large working model of an attempt to capture much of human commonsense reasoning and beliefs. It’s worth poking into this work to see how it accomplishes “grounding of its symbolic representations”.
 
 ---
-## Would a computer scientist from 1985 understand an iPhone and how it worked? Would they be able to take it apart and advance our civilization?
-
-*https://www.quora.com/Would-a-computer-scientist-from-1985-understand-an-iPhone-and-how-it-worked-Would-they-be-able-to-take-it-apart-and-advance-our-civilization/answer/Alan-Kay-11*
+## [Would a computer scientist from 1985 understand an iPhone and how it worked? Would they be able to take it apart and advance our civilization?](https://www.quora.com/Would-a-computer-scientist-from-1985-understand-an-iPhone-and-how-it-worked-Would-they-be-able-to-take-it-apart-and-advance-our-civilization/answer/Alan-Kay-11)
 
 Sure
 
 Remove Twitter and Facebook?
 
 ---
-## What elements of syntax should always be taken into account?
-
-*https://www.quora.com/What-elements-of-syntax-should-always-be-taken-into-account/answer/Alan-Kay-11*
+## [What elements of syntax should always be taken into account?](https://www.quora.com/What-elements-of-syntax-should-always-be-taken-into-account/answer/Alan-Kay-11)
 
 “Syntax” is the position of something relative to the position of something else. It can be any dimension. It’s usually thought of as 1-dimension (as a string of characters or words, etc.) but in a GUI, quite a bit has to do with nearness and enclosures, and occasionally overlaps (another .5 D).
 
 It is a very good idea to learn how to be very flexible with regard to syntax because this helps learning new organizations of things. (This seems to be a rather lost trait for most computerists today.)
 
 ---
-## How does a desktop environment work? How does a GUI work? Does the OS recognize where the mouse is and on top of what? Does it depend on the pixels color?
-
-*https://www.quora.com/How-does-a-desktop-environment-work-How-does-a-GUI-work-Does-the-OS-recognize-where-the-mouse-is-and-on-top-of-what-Does-it-depend-on-the-pixels-color/answer/Alan-Kay-11*
+## [How does a desktop environment work? How does a GUI work? Does the OS recognize where the mouse is and on top of what? Does it depend on the pixels color?](https://www.quora.com/How-does-a-desktop-environment-work-How-does-a-GUI-work-Does-the-OS-recognize-where-the-mouse-is-and-on-top-of-what-Does-it-depend-on-the-pixels-color/answer/Alan-Kay-11)
 
 Here is the entire memory of the Xerox Parc Alto computer in the early 70s showing every bit. You can see that half of it was used to hold the bits (1 bit per pixel) that would show up on the 606x808 screen as black or white pixels).
 
@@ -5848,9 +5378,7 @@ then the mouse is enclosed by the rectangle.
 If so, then it wakes up the program that deals with that rectangle and asks it to find where the mouse is pointing to things *inside* the rectangle (these are also always things with rectangular boundaries). At some point, a rectangle is found that knows what should be done when it is pointed at, and another program is awakened to cause the desired action.
 
 ---
-## What's the best way of combining functional and OO programming in practice?
-
-*https://www.quora.com/Whats-the-best-way-of-combining-functional-and-OO-programming-in-practice/answer/Alan-Kay-11*
+## [What's the best way of combining functional and OO programming in practice?](https://www.quora.com/Whats-the-best-way-of-combining-functional-and-OO-programming-in-practice/answer/Alan-Kay-11)
 
 I’m assuming that the terms in the question are contemporary “code words” for very particular practices that now have the labels “functional programming” and “object-oriented programming”.
 
@@ -5917,9 +5445,7 @@ John McCarthy showed us how to do this 60 years ago this year and wrote it down 
 So: both OOP and functional computation can be completely compatible (and should be!). There is no reason to munge state in objects, and there is no reason to invent “monads” in FP. We just have to realize that “computers are simulators” and figure out what to simulate.
 
 ---
-## How did Smalltalk-80 manage to work with only 32,000 objects maximum (roughly)?
-
-*https://www.quora.com/How-did-Smalltalk-80-manage-to-work-with-only-32-000-objects-maximum-roughly/answer/Alan-Kay-11*
+## [How did Smalltalk-80 manage to work with only 32,000 objects maximum (roughly)?](https://www.quora.com/How-did-Smalltalk-80-manage-to-work-with-only-32-000-objects-maximum-roughly/answer/Alan-Kay-11)
 
 The simplest answers are that “it had to” and “we really wanted it to” and “we had Dan Ingalls”.
 
@@ -5958,18 +5484,14 @@ It was clear back then that inheritance in the way that Simula used it was on th
 Bottom line: you don’t need a lot of code in a well designed language and system to do a lot. So: besides getting a lot in about 10K lines of code, this also translated into getting a lot from less than 32K objects.
 
 ---
-## Is Object-Oriented Analysis to object-oriented design an easy transition?
-
-*https://www.quora.com/Is-Object-Oriented-Analysis-to-object-oriented-design-an-easy-transition/answer/Alan-Kay-11*
+## [Is Object-Oriented Analysis to object-oriented design an easy transition?](https://www.quora.com/Is-Object-Oriented-Analysis-to-object-oriented-design-an-easy-transition/answer/Alan-Kay-11)
 
 I’m pretty sure I don’t understand this question.
 
 I think *design* in general is extremely difficult to do well. Most things that can be designed have a systems nature, and a good perspective on this will quite often lead to organizations that can be rendered on computers using a good enough object oriented environment.
 
 ---
-## Papers about the Smalltalk history refer to the importance of the Xerox Alto's design as a "meta-computer", in which many unanticipated needs could be emulated in microcode. Why modern computer architectures are not microcoded?
-
-*https://www.quora.com/Papers-about-the-Smalltalk-history-refer-to-the-importance-of-the-Xerox-Altos-design-as-a-meta-computer-in-which-many-unanticipated-needs-could-be-emulated-in-microcode-Why-modern-computer-architectures-are-not/answer/Alan-Kay-11*
+## [Papers about the Smalltalk history refer to the importance of the Xerox Alto's design as a "meta-computer", in which many unanticipated needs could be emulated in microcode. Why modern computer architectures are not microcoded?](https://www.quora.com/Papers-about-the-Smalltalk-history-refer-to-the-importance-of-the-Xerox-Altos-design-as-a-meta-computer-in-which-many-unanticipated-needs-could-be-emulated-in-microcode-Why-modern-computer-architectures-are-not/answer/Alan-Kay-11)
 
 The idea of microcode was invented by Maurice Wilkes, a great pioneer who arguably made the earliest programmable computer — the EDSAC (pace Manchester Baby). The idea depends partly on the existence of a “large enough” memory that is much faster (3–10 times) than the 1st level RAM of the computer.
 
@@ -6010,9 +5532,7 @@ And so forth. We won’t be able to be perfect in our hardware designs or to ant
 The simple sum up here is that “hardware is just software crystallized early”, and a good systems designer should be able to design at all levels needed, and have the chops to make any of the levels if they can’t be purchased …
 
 ---
-## Who created the first computer with GUI and in which language?
-
-*https://www.quora.com/Who-created-the-first-computer-with-GUI-and-in-which-language/answer/Alan-Kay-11*
+## [Who created the first computer with GUI and in which language?](https://www.quora.com/Who-created-the-first-computer-with-GUI-and-in-which-language/answer/Alan-Kay-11)
 
 I’ve written elsewhere on Quora about this and similar questions.
 
@@ -6035,9 +5555,7 @@ For example, the article wrongly states that the Parc GUI didn’t have icons, d
 Here is one of the systems at Parc done in Smalltalk ca 1974) showing many important aspects of what could be done, including multiple windows, icons, dragging, drawing, real-time animation, etc.
 
 ---
-## When hobbyists built their own computers back in the 70s what applications did they write?
-
-*https://www.quora.com/When-hobbyists-built-their-own-computers-back-in-the-70s-what-applications-did-they-write/answer/Alan-Kay-11*
+## [When hobbyists built their own computers back in the 70s what applications did they write?](https://www.quora.com/When-hobbyists-built-their-own-computers-back-in-the-70s-what-applications-did-they-write/answer/Alan-Kay-11)
 
 That was a tough time for personal computing. Amongst the disenfranchised, there was a hunger for participation, and most did not have access or the funds to rent time-sharing terminals.
 
@@ -6056,9 +5574,7 @@ In practice, most of the hobbiests didn’t learn what Shorre and Deutsch knew a
 In the 80s, when Apple released HyperCard, there was a huge surge of home-built useful applications, some really interesting, and some quite terrific.
 
 ---
-## What are the pitfalls in implementing QFD?
-
-*https://www.quora.com/What-are-the-pitfalls-in-implementing-QFD/answer/Alan-Kay-11*
+## [What are the pitfalls in implementing QFD?](https://www.quora.com/What-are-the-pitfalls-in-implementing-QFD/answer/Alan-Kay-11)
 
 In *Marketing* “the customer is always right”. In *Education* “the customer doesn’t know enough and needs to be taught stronger ideas”.
 
@@ -6069,9 +5585,7 @@ So the real pitfalls in schemes like QFD is that real progress often doesn’t g
 A much better idea is to not think of “customers” — but *human beings* — and not what they *want* but what they actually *need*. Then figure out how to get them to learn it.
 
 ---
-## What was the problem that HyperCard solved?
-
-*https://www.quora.com/What-was-the-problem-that-HyperCard-solved/answer/Alan-Kay-11*
+## [What was the problem that HyperCard solved?](https://www.quora.com/What-was-the-problem-that-HyperCard-solved/answer/Alan-Kay-11)
 
 The question should be rephrased as “For what vital parts of Personal Computing was HyperCard a great advance?”
 
@@ -6164,9 +5678,7 @@ Really great people are “vitally interesting” regardless of what you agree w
 That is the nature of Art and Artists.
 
 ---
-## Are DSLs a good way to represent complex object hierarchies?
-
-*https://www.quora.com/Are-DSLs-a-good-way-to-represent-complex-object-hierarchies/answer/Alan-Kay-11*
+## [Are DSLs a good way to represent complex object hierarchies?](https://www.quora.com/Are-DSLs-a-good-way-to-represent-complex-object-hierarchies/answer/Alan-Kay-11)
 
 This question seems to assume that “complex object hierarchies” are worth better representation schemes.
 
@@ -6185,18 +5697,14 @@ A key idea — which had its first experiments in the Flavors system at MIT — 
 If, instead, there is enough freedom to “hack definitions” — analogous to being able to mess with pointers at runtime with code — then “clever people” will eventually (and soon) make messes that are both non-understandable and dangerous.
 
 ---
-## How is the food at CU Boulder?
-
-*https://www.quora.com/How-is-the-food-at-CU-Boulder/answer/Alan-Kay-11*
+## [How is the food at CU Boulder?](https://www.quora.com/How-is-the-food-at-CU-Boulder/answer/Alan-Kay-11)
 
 I graduated from CU Boulder in 1966, so hope there is no food from back then still around!
 
 I was a “starving student” back then so my options were limited.
 
 ---
-## What does Alan Kay think about the Commodore Amiga (1985) as a multimedia computer or an appealing tool for artists? How does it compare with Alto or Star, or with Sierra machine Atari was working on as you were Chief Scientist at SRL?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-the-Commodore-Amiga-1985-as-a-multimedia-computer-or-an-appealing-tool-for-artists-How-does-it-compare-with-Alto-or-Star-or-with-Sierra-machine-Atari-was-working-on-as-you-were-Chief/answer/Alan-Kay-11*
+## [What does Alan Kay think about the Commodore Amiga (1985) as a multimedia computer or an appealing tool for artists? How does it compare with Alto or Star, or with Sierra machine Atari was working on as you were Chief Scientist at SRL?](https://www.quora.com/What-does-Alan-Kay-think-about-the-Commodore-Amiga-1985-as-a-multimedia-computer-or-an-appealing-tool-for-artists-How-does-it-compare-with-Alto-or-Star-or-with-Sierra-machine-Atari-was-working-on-as-you-were-Chief/answer/Alan-Kay-11)
 
 I haven’t found a good history of all this — but there might be one somewhere. It is a very complex set of interactions and much of the context needed to get a good picture is beyond the scope of a Quora answer. Part of the complexity is due to the many idiosyncratic and aggressive personalities involved, and the zeitgeist of the entertainment industries in general.
 
@@ -6225,16 +5733,12 @@ As yet another part of this complex history, it should be noted that IBM had suc
 As I said, even an attempt at a summary is too complex …
 
 ---
-## What does Alan Kay think about considering the creation of software as a design activity, putting it as a third item on the same level as science and art?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-considering-the-creation-of-software-as-a-design-activity-putting-it-as-a-third-item-on-the-same-level-as-science-and-art/answer/Alan-Kay-11*
+## [What does Alan Kay think about considering the creation of software as a design activity, putting it as a third item on the same level as science and art?](https://www.quora.com/What-does-Alan-Kay-think-about-considering-the-creation-of-software-as-a-design-activity-putting-it-as-a-third-item-on-the-same-level-as-science-and-art/answer/Alan-Kay-11)
 
 This is another case, where instead of a simple question, what is needed are “10 Things” and “20 examples”.
 
 ---
-## What does Alan Kay think about Problem Frames (by Michael Jackson)?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-Problem-Frames-by-Michael-Jackson/answer/Alan-Kay-11*
+## [What does Alan Kay think about Problem Frames (by Michael Jackson)?](https://www.quora.com/What-does-Alan-Kay-think-about-Problem-Frames-by-Michael-Jackson/answer/Alan-Kay-11)
 
 I try to avoid either praising or criticizing areas that I have not spent some time in dealing with the details. This is one of them. I remember reading at least one of Jackson’s books on his approach to Requirements (but I’ve been living quite a bit in London the last few years and don’t have this material at hand).
 
@@ -6249,9 +5753,7 @@ Two of the good ideas I remember from back then were the insistence that the hum
 I most definitely agree that being able to do “requirements” qualitatively better — and as part of the intrinsic design process —is one of the most dominant needs in software engineering today.
 
 ---
-## What does Alan Kay think about the following research proposal notes about a new software world? (https://osoco.es/thoughts/2020/06/notes-about-a-new-software-world/)
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-the-following-research-proposal-notes-about-a-new-software-world-https-osoco-es-thoughts-2020-06-notes-about-a-new-software-world/answer/Alan-Kay-11*
+## [What does Alan Kay think about the following research proposal notes about a new software world? (https://osoco.es/thoughts/2020/06/notes-about-a-new-software-world/)](https://www.quora.com/What-does-Alan-Kay-think-about-the-following-research-proposal-notes-about-a-new-software-world-https-osoco-es-thoughts-2020-06-notes-about-a-new-software-world/answer/Alan-Kay-11)
 
 We definitely need a new software world …
 
@@ -6262,9 +5764,7 @@ Two heuristics I’ve used for more than 50 years now when thinking about “som
 Then there is a basis for discussion and further comment.
 
 ---
-## What does Alan Kay think about the development of software libraries adopting Seymour Papert's constructivism and "microworlds" concepts as described in these articles?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-the-development-of-software-libraries-adopting-Seymour-Paperts-constructivism-and-microworlds-concepts-as-described-in-these-articles/answer/Alan-Kay-11*
+## [What does Alan Kay think about the development of software libraries adopting Seymour Papert's constructivism and "microworlds" concepts as described in these articles?](https://www.quora.com/What-does-Alan-Kay-think-about-the-development-of-software-libraries-adopting-Seymour-Paperts-constructivism-and-microworlds-concepts-as-described-in-these-articles/answer/Alan-Kay-11)
 
 “Sure!”
 
@@ -6275,9 +5775,7 @@ Two heuristics I’ve used for more than 50 years now when thinking about “som
 Then there is a basis for discussion and further comment.
 
 ---
-## What does Alan Kay think of the "programming as interaction" perspective? (http://tomasp.net/blog/2018/programming-interaction/)
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-the-programming-as-interaction-perspective-http-tomasp-net-blog-2018-programming-interaction/answer/Alan-Kay-11*
+## [What does Alan Kay think of the "programming as interaction" perspective? (http://tomasp.net/blog/2018/programming-interaction/)](https://www.quora.com/What-does-Alan-Kay-think-of-the-programming-as-interaction-perspective-http-tomasp-net-blog-2018-programming-interaction/answer/Alan-Kay-11)
 
 As the author of the blog — Tomas Petricek — mentions, Smalltalk 50 years ago had a very large number of the things he wants to do (and still does).
 
@@ -6286,9 +5784,7 @@ However, it is possible that he is not aware of earlier — and even larger alon
 For example, you can get Warren’s (1965?) “Pilot” PhD thesis from MIT’s CSAIL historical collection.
 
 ---
-## What will be the potential of a Smalltalk system based on declarative programming instead of imperative?
-
-*https://www.quora.com/What-will-be-the-potential-of-a-Smalltalk-system-based-on-declarative-programming-instead-of-imperative/answer/Alan-Kay-11*
+## [What will be the potential of a Smalltalk system based on declarative programming instead of imperative?](https://www.quora.com/What-will-be-the-potential-of-a-Smalltalk-system-based-on-declarative-programming-instead-of-imperative/answer/Alan-Kay-11)
 
 Could it then be called a “Smalltalk”?
 
@@ -6307,9 +5803,7 @@ A few simultaneous relations are usually easy to think of when we try to program
 Sometimes it is both necessary and difficult to provide “advice” to solvers …
 
 ---
-## What does Alan Kay think of a new Smalltalk system more focused on the problem than in the solution space (e.g., using the ideas proposed by Michael Jackson or David Harel)?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-a-new-Smalltalk-system-more-focused-on-the-problem-than-in-the-solution-space-e-g-using-the-ideas-proposed-by-Michael-Jackson-or-David-Harel/answer/Alan-Kay-11*
+## [What does Alan Kay think of a new Smalltalk system more focused on the problem than in the solution space (e.g., using the ideas proposed by Michael Jackson or David Harel)?](https://www.quora.com/What-does-Alan-Kay-think-of-a-new-Smalltalk-system-more-focused-on-the-problem-than-in-the-solution-space-e-g-using-the-ideas-proposed-by-Michael-Jackson-or-David-Harel/answer/Alan-Kay-11)
 
 Any highly extensible language can be made into what was called a “Problem Oriented Language” (POL) in the 60s (and many of the languages back then were in fact POLs — even Algol).
 
@@ -6320,9 +5814,7 @@ Some of the variants of Smalltalk-80 can handle the pragmatics (because they inc
 However, the version of Squeak Smalltalk that we used in the naughts had a very nice implementation of Alex Warth’s OMeta as part of its live system, and this coupled with the late binding and live turtles all the way down of Smalltalk, would allow a wide range of POLs to be done (we did a variety for the STEPS project).
 
 ---
-## Are there other "it's turtles all the way down" programming languages apart from the Lisps and Smalltalks?
-
-*https://www.quora.com/Are-there-other-its-turtles-all-the-way-down-programming-languages-apart-from-the-Lisps-and-Smalltalks/answer/Alan-Kay-11*
+## [Are there other "it's turtles all the way down" programming languages apart from the Lisps and Smalltalks?](https://www.quora.com/Are-there-other-its-turtles-all-the-way-down-programming-languages-apart-from-the-Lisps-and-Smalltalks/answer/Alan-Kay-11)
 
 I’m not sure exactly what you mean by “turtles all the way down” here. It is sometimes used with regard to Smalltalk because every kind of entity in it is a Smalltalk object.
 
@@ -6339,9 +5831,7 @@ At Parc — where we had microcodable hardware — we could tailor the HW to be 
 I have left out the “Turing Turtle” idea: that most languages can be used to make a scratch interpreter for themselves — or any other language.
 
 ---
-## What happened to the children exposed to Smalltalk at an early age in Xerox PARC, back in the 1970s-1980s? Did some of them grow to become great programmers/scientists. Do they use Smalltalk to this day? Or was there just no follow-up study?
-
-*https://www.quora.com/What-happened-to-the-children-exposed-to-Smalltalk-at-an-early-age-in-Xerox-PARC-back-in-the-1970s-1980s-Did-some-of-them-grow-to-become-great-programmers-scientists-Do-they-use-Smalltalk-to-this-day-Or-was-there/answer/Alan-Kay-11*
+## [What happened to the children exposed to Smalltalk at an early age in Xerox PARC, back in the 1970s-1980s? Did some of them grow to become great programmers/scientists. Do they use Smalltalk to this day? Or was there just no follow-up study?](https://www.quora.com/What-happened-to-the-children-exposed-to-Smalltalk-at-an-early-age-in-Xerox-PARC-back-in-the-1970s-1980s-Did-some-of-them-grow-to-become-great-programmers-scientists-Do-they-use-Smalltalk-to-this-day-Or-was-there/answer/Alan-Kay-11)
 
 There were no follow-up studies (we couldn’t even get funding from either Xerox or NSF to do the longitudinal learning experiments that we thought were crucial to the research).
 
@@ -6376,9 +5866,7 @@ Another great exemplar was an LA high school teacher I became very friendly with
 He wound up being so successful that he was pretty much driven to resign from Garfield High School. Given how things actually work in the public education systems in the US, this is not at all surprising.
 
 ---
-## Why do many projects done by computer researchers (eg. Bret Victor or the VPRI) remain closed-source, even though papers get published about them?
-
-*https://www.quora.com/Why-do-many-projects-done-by-computer-researchers-eg-Bret-Victor-or-the-VPRI-remain-closed-source-even-though-papers-get-published-about-them/answer/Alan-Kay-11*
+## [Why do many projects done by computer researchers (eg. Bret Victor or the VPRI) remain closed-source, even though papers get published about them?](https://www.quora.com/Why-do-many-projects-done-by-computer-researchers-eg-Bret-Victor-or-the-VPRI-remain-closed-source-even-though-papers-get-published-about-them/answer/Alan-Kay-11)
 
 Because many kinds of experimentation are aimed at finding out things, not to produce tools for others to use. This is especially true in the user interface area, where a large number of different experiments are required with different kinds of users, and there is often never a complete system actually built.
 
@@ -6395,9 +5883,7 @@ The “Etoys” system for children was done in Squeak and also made open source
 Basically, seasoned researchers, especially on the fringes of knowledge, have to decide how to use their limited amount of time on the planet to best advance the research, while still holding to the scientific ideals of sharing what is powerful and interesting about the results. I think Bret Victor, VPRI and many other deep research efforts have done well at finding good balances for this.
 
 ---
-## What would be the necessary elements for setting up a biomedical equivalent to PARC?
-
-*https://www.quora.com/What-would-be-the-necessary-elements-for-setting-up-a-biomedical-equivalent-to-PARC/answer/Alan-Kay-11*
+## [What would be the necessary elements for setting up a biomedical equivalent to PARC?](https://www.quora.com/What-would-be-the-necessary-elements-for-setting-up-a-biomedical-equivalent-to-PARC/answer/Alan-Kay-11)
 
 Before I write too much, I need to know if you are familiar with Janelia Labs (near Dulles Airport in Virginia).
 
@@ -6406,18 +5892,14 @@ Or any of the other research organizations that Sidney Brenner helped set up …
 He had a sure sense of “how to go about things”. He was one of my heroes when I was in molecular biology (briefly before getting seduced by computing), and years later I had a very long chat with him in 2004 when we both happened to be at the Kyoto Prize festivities.
 
 ---
-## Why were nearly all the cases of early computers made of plastics?
-
-*https://www.quora.com/Why-were-nearly-all-the-cases-of-early-computers-made-of-plastics/answer/Alan-Kay-11*
+## [Why were nearly all the cases of early computers made of plastics?](https://www.quora.com/Why-were-nearly-all-the-cases-of-early-computers-made-of-plastics/answer/Alan-Kay-11)
 
 “Early” as in “actually early”? As in 1945 to the 1970s? Or “early” as in “relative to your age”?
 
 “Actually early” were basically metal as far as I know and mostly by direct experience. The Control Data 3600 (ca 1963) on which I spent a few years, had a very beautiful greenish glass and metal case ….
 
 ---
-## What should be learned to deeply understand the 20th and 21st centuries?
-
-*https://www.quora.com/What-should-be-learned-to-deeply-understand-the-20th-and-21st-centuries/answer/Alan-Kay-11*
+## [What should be learned to deeply understand the 20th and 21st centuries?](https://www.quora.com/What-should-be-learned-to-deeply-understand-the-20th-and-21st-centuries/answer/Alan-Kay-11)
 
 Eric Naughton’s answer is very much pointed in a fruitful direction.
 
@@ -6442,9 +5924,7 @@ On a slightly smaller scale we can see that the tragic responses to the pandemic
 The climate crisis was identified in 1963, has been verified many times, is now an actual war in which invasions are continuously happening, and yet the story world of most people can still not allow what’s actually going on to be thought about. Schools like to “teach to the test” — a kind of stupid idea — but the real tests are horrific disasters that require very different kinds of thinking than our bare genetics endows us with. Unless we can learn the “uncommonsenses” of the sciences and the ways of thinking that have to be learned to deal with these ideas, humanity will flunk the real tests (and the grade given out will be quite a bit worse than an “F”).
 
 ---
-## When you say, "the computer revolution hasn't happened yet" do you mean that in the sense that, "the printing press hasn't been invented yet" or that, "the printing press has been invented but it will take time before a, "literary culture" emerges?
-
-*https://www.quora.com/When-you-say-the-computer-revolution-hasnt-happened-yet-do-you-mean-that-in-the-sense-that-the-printing-press-hasnt-been-invented-yet-or-that-the-printing-press-has-been-invented-but-it-will-take-time-before-a/answer/Alan-Kay-11*
+## [When you say, "the computer revolution hasn't happened yet" do you mean that in the sense that, "the printing press hasn't been invented yet" or that, "the printing press has been invented but it will take time before a, "literary culture" emerges?](https://www.quora.com/When-you-say-the-computer-revolution-hasnt-happened-yet-do-you-mean-that-in-the-sense-that-the-printing-press-hasnt-been-invented-yet-or-that-the-printing-press-has-been-invented-but-it-will-take-time-before-a/answer/Alan-Kay-11)
 
 I’ve done a number of talks and written a few essays on this subject — these will give a more expansive answer.
 
@@ -6475,9 +5955,7 @@ On the other hand, today billions of people in the world do have personal comput
 This is why I gave talks and wrote essays about “The computer revolution hasn’t happened yet”. The lag in uptake with the real fruits of the press is quite understandable: there was nothing really to use as an analogy. But not to be able to look at the computer — given the analogies to the past — can be thought of as one of many massive failures of public education, to which can be added the failures regarding the climate and the much simpler to understand dynamics of contagious incurable diseases, and what should be even easier to learn about: the dynamics of scaling itself.
 
 ---
-## How did they program the first computer knowing that programming a computer requires a computer?
-
-*https://www.quora.com/How-did-they-program-the-first-computer-knowing-that-programming-a-computer-requires-a-computer/answer/Alan-Kay-11*
+## [How did they program the first computer knowing that programming a computer requires a computer?](https://www.quora.com/How-did-they-program-the-first-computer-knowing-that-programming-a-computer-requires-a-computer/answer/Alan-Kay-11)
 
 There’s writing the program, and there’s getting the program into the computer in a form that will run it.
 
@@ -6488,18 +5966,14 @@ To get started from “dead” there was usually some way to enter a short progr
 For example, here is an example in another answer I did for Quora:
 
 ---
-## How much about physics, mechanics, and electronics should a computer scientist know about?
-
-*https://www.quora.com/How-much-about-physics-mechanics-and-electronics-should-a-computer-scientist-know-about/answer/Alan-Kay-11*
+## [How much about physics, mechanics, and electronics should a computer scientist know about?](https://www.quora.com/How-much-about-physics-mechanics-and-electronics-should-a-computer-scientist-know-about/answer/Alan-Kay-11)
 
 I think it’s a very good idea for computerists to have done the work to attain deep fluency in a well established scientific discipline (Physics is a good one). Most people in computing use the “science” in “computer science” more like “library science” than in any modern sense of what “real science” is all about. The lack of this understanding has really hurt progress in computing since the big explosion of the field starting in the 80s.
 
 Similar remarks can be made about the “engineering” in “software engineering”. Most people who claim they are doing this have very little idea about the levels that “real engineering” goes to in the established engineering disciplines. (And these days you can’t be a “real engineer” without gaining considerable fluency in “real science”.)
 
 ---
-## How often does Alan Kay find that the real problem is found at a level of abstraction that can’t be addressed by individuals, such as ‘the human condition’ or ‘societal values’?
-
-*https://www.quora.com/How-often-does-Alan-Kay-find-that-the-real-problem-is-found-at-a-level-of-abstraction-that-can-t-be-addressed-by-individuals-such-as-the-human-condition-or-societal-values/answer/Alan-Kay-11*
+## [How often does Alan Kay find that the real problem is found at a level of abstraction that can’t be addressed by individuals, such as ‘the human condition’ or ‘societal values’?](https://www.quora.com/How-often-does-Alan-Kay-find-that-the-real-problem-is-found-at-a-level-of-abstraction-that-can-t-be-addressed-by-individuals-such-as-the-human-condition-or-societal-values/answer/Alan-Kay-11)
 
 I’m not sure about all of the question, so please comment to explain more.
 
@@ -6508,9 +5982,7 @@ Generally speaking the “real problem” is almost always “the human conditio
 But these problems can be addressed by both individuals and groups — for example, in trying to improve levels of learning and “enlightenment” in the general population and also in those who have gotten power in one way or another.
 
 ---
-## Were all Wirth languages Algol-like (e.g. Pascal), or were any of them Lisp-like, or even something completely different?
-
-*https://www.quora.com/Were-all-Wirth-languages-Algol-like-e-g-Pascal-or-were-any-of-them-Lisp-like-or-even-something-completely-different/answer/Alan-Kay-11*
+## [Were all Wirth languages Algol-like (e.g. Pascal), or were any of them Lisp-like, or even something completely different?](https://www.quora.com/Were-all-Wirth-languages-Algol-like-e-g-Pascal-or-were-any-of-them-Lisp-like-or-even-something-completely-different/answer/Alan-Kay-11)
 
 A fun question!
 
@@ -6541,9 +6013,7 @@ Klaus liked to be “practical” so he started to abandon these ideas for less 
 But a great end to this story is that he eventually wound up visiting at Xerox Parc, saw how we dealt with “practicality” by making machines suited for higher levels, and decided to do one of these himself. This was the genesis of “Lilith” and eventually the “Oberon” system.
 
 ---
-## Should writing code be fun?
-
-*https://www.quora.com/Should-writing-code-be-fun/answer/Alan-Kay-11*
+## [Should writing code be fun?](https://www.quora.com/Should-writing-code-be-fun/answer/Alan-Kay-11)
 
 I wrote this in a comment to Ian Joyner’s answer. Here it is as an answer. Ian used a great quote by Al Perlis (the first Turing Award winner) about “Computer Science”:
 
@@ -6556,16 +6026,12 @@ Note that in the larger world of highly developed disciplines, we want the airpl
 The “fun” of engineering — and boy it really is fun to design and make things that really work well and help humanity along — is very different from the “fun” of science and math. Having “fun” is very much being able to do what you choose to do really well.
 
 ---
-## When, and in what degree was today's level of abstraction in programming predicted?
-
-*https://www.quora.com/When-and-in-what-degree-was-todays-level-of-abstraction-in-programming-predicted/answer/Alan-Kay-11*
+## [When, and in what degree was today's level of abstraction in programming predicted?](https://www.quora.com/When-and-in-what-degree-was-todays-level-of-abstraction-in-programming-predicted/answer/Alan-Kay-11)
 
 If you explain just what you mean by “abstraction” here (and “level”), I will be happy to attempt an answer.
 
 ---
-## Have you ever studied optical illusions to use similar principles in your UX designs?
-
-*https://www.quora.com/Have-you-ever-studied-optical-illusions-to-use-similar-principles-in-your-UX-designs/answer/Alan-Kay-11*
+## [Have you ever studied optical illusions to use similar principles in your UX designs?](https://www.quora.com/Have-you-ever-studied-optical-illusions-to-use-similar-principles-in-your-UX-designs/answer/Alan-Kay-11)
 
 I have studied them quite a bit — as well as many books by research psychologists, including by Richard Gregory, Roger Shepard, etc. But not to use the principles in the UI designs per se, but as one of the most available routes to understand and test the many ways “our minds don’t work very well” — or to paraphrase Francis Bacon, “We humans have bad brains”.
 
@@ -6576,9 +6042,7 @@ When I started to invent and design UIs in the ARPA/Parc community, I realized t
 I called what we were designing: “the user illusion”, and I think that term is still in use.
 
 ---
-## I searched YouTube for Alan Kay with Donald Knuth and found nothing. How does Alan Kay understand the essence of literate programming? Is it to design code like you would have to teach it?
-
-*https://www.quora.com/I-searched-YouTube-for-Alan-Kay-with-Donald-Knuth-and-found-nothing-How-does-Alan-Kay-understand-the-essence-of-literate-programming-Is-it-to-design-code-like-you-would-have-to-teach-it/answer/Alan-Kay-11*
+## [I searched YouTube for Alan Kay with Donald Knuth and found nothing. How does Alan Kay understand the essence of literate programming? Is it to design code like you would have to teach it?](https://www.quora.com/I-searched-YouTube-for-Alan-Kay-with-Donald-Knuth-and-found-nothing-How-does-Alan-Kay-understand-the-essence-of-literate-programming-Is-it-to-design-code-like-you-would-have-to-teach-it/answer/Alan-Kay-11)
 
 Don and I have been friends for more than 50 years now. The simple summary of “literate programming” is that “Don is amazing”, both in “many ways” and in how he goes about programming, and what he thinks a program *is*.
 
@@ -6597,9 +6061,7 @@ As one moves from procedures and data structures to systems, especially at scale
 There have been experiments with organizing “narrative threads” through system descriptions, none of which I’m aware of quite delivered enough value. Since we humans are organized around stories and narrative, finding ways to bridge this gap for systems would not only “be nice”, but I think it has to be a critical part of making further progress,
 
 ---
-## Is it a good way to get an indirect tip on an invention by looking at a software program running, that is morphing into different shapes? If easier to get ideas this way than language, does that prove our language is too simple and must be developed?
-
-*https://www.quora.com/Is-it-a-good-way-to-get-an-indirect-tip-on-an-invention-by-looking-at-a-software-program-running-that-is-morphing-into-different-shapes-If-easier-to-get-ideas-this-way-than-language-does-that-prove-our-language-is/answer/Alan-Kay-11*
+## [Is it a good way to get an indirect tip on an invention by looking at a software program running, that is morphing into different shapes? If easier to get ideas this way than language, does that prove our language is too simple and must be developed?](https://www.quora.com/Is-it-a-good-way-to-get-an-indirect-tip-on-an-invention-by-looking-at-a-software-program-running-that-is-morphing-into-different-shapes-If-easier-to-get-ideas-this-way-than-language-does-that-prove-our-language-is/answer/Alan-Kay-11)
 
 I don’t quite understand the first part of your question, but as to the second part, there is quite a bit of evidence that we have what one of the inventors of cognitive psychology — Jerome Bruner — called “multiple ways of learning and knowing and remembering and thinking”.
 
@@ -6618,9 +6080,7 @@ I used this “multiple mentalities” idea as part of the foundation of the Xer
 I think the answer to your question in this light is that there are many dimensions on which to find ideas, and it’s a good idea to use as many as possible.
 
 ---
-## What are the differences between social science, natural science, and humanities?
-
-*https://www.quora.com/What-are-the-differences-between-social-science-natural-science-and-humanities/answer/Alan-Kay-11*
+## [What are the differences between social science, natural science, and humanities?](https://www.quora.com/What-are-the-differences-between-social-science-natural-science-and-humanities/answer/Alan-Kay-11)
 
 Several good answers here already, so this will attempt to add more perspective.
 
@@ -6657,9 +6117,7 @@ An interesting deep area of study is how emotions are intertwined with our commu
 Music is a very good example. At its heart it is about feelings and alternative ways to express them. A famous quote is: “Talking about music is like dancing about architecture”. And to wind up where we started — with a story — the 19th century composer Robert Schumann was asked after playing a new piece what it was about. He thought for a second, sat down at the piano, and played it again.
 
 ---
-## Are there any areas apart from user interfaces in which the Model - View - Controller (MVC) pattern could be applied in spirit?
-
-*https://www.quora.com/Are-there-any-areas-apart-from-user-interfaces-in-which-the-Model-View-Controller-MVC-pattern-could-be-applied-in-spirit/answer/Alan-Kay-11*
+## [Are there any areas apart from user interfaces in which the Model - View - Controller (MVC) pattern could be applied in spirit?](https://www.quora.com/Are-there-any-areas-apart-from-user-interfaces-in-which-the-Model-View-Controller-MVC-pattern-could-be-applied-in-spirit/answer/Alan-Kay-11)
 
 Sure.
 
@@ -6670,9 +6128,7 @@ I don’t think I have a copy of this paper, but it was for an “Infotech State
 It’s worth thinking about what the terms could actually mean as abstractly as you can …
 
 ---
-## Why can't programming languages be written in plain English?
-
-*https://www.quora.com/Why-cant-programming-languages-be-written-in-plain-English/answer/Alan-Kay-11*
+## [Why can't programming languages be written in plain English?](https://www.quora.com/Why-cant-programming-languages-be-written-in-plain-English/answer/Alan-Kay-11)
 
 My boss at the National Center for Atmospheric Research in the 60s — Glenn Lewis — in the 50s was a Princeton grad student of von Neumann’s, who — among his many personality idiosyncrasies — was famous for pooh-poohing “higher level languages”.
 
@@ -6681,9 +6137,7 @@ A great story from Glenn: one time when asked about this, von Neumann summoned a
 This should also be all that is needed to figure out the answer to your question.
 
 ---
-## What does Alan Kay think about the paperclip maximizer thought experiment?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-the-paperclip-maximizer-thought-experiment/answer/Alan-Kay-11*
+## [What does Alan Kay think about the paperclip maximizer thought experiment?](https://www.quora.com/What-does-Alan-Kay-think-about-the-paperclip-maximizer-thought-experiment/answer/Alan-Kay-11)
 
 Of course, this is a very old idea in classic science fiction — that Ais, robots, etc., could destroy humans if that would help some goal of theirs.
 
@@ -6694,9 +6148,7 @@ Or consider e.g. the climate crisis of today as “intelligence destroying human
 An “intelligence” doesn’t need to be “artificial” in order to be a deep existential threat.
 
 ---
-## Why do we use digital computers for machine learning, AI applications, and natural language and speech processing, if our brains are analog not digital, would it be better if we use analog Computing to mimic our brains?
-
-*https://www.quora.com/Why-do-we-use-digital-computers-for-machine-learning-AI-applications-and-natural-language-and-speech-processing-if-our-brains-are-analog-not-digital-would-it-be-better-if-we-use-analog-Computing-to-mimic-our-brains/answer/Alan-Kay-11*
+## [Why do we use digital computers for machine learning, AI applications, and natural language and speech processing, if our brains are analog not digital, would it be better if we use analog Computing to mimic our brains?](https://www.quora.com/Why-do-we-use-digital-computers-for-machine-learning-AI-applications-and-natural-language-and-speech-processing-if-our-brains-are-analog-not-digital-would-it-be-better-if-we-use-analog-Computing-to-mimic-our-brains/answer/Alan-Kay-11)
 
 “Digital” is “Analog handled carefully”. Quite a bit of work in design and technology has to be done to make the noisy voltage levels (or any other means of transmitting a signal) be interpreted as discrete values.
 
@@ -6709,9 +6161,7 @@ So we can take the analog world and design it to be discrete. But we can take wh
 And we can also make hybrid devices that use both. For example, the first ever optical mouse was done by Dick Lyon at Parc using a custom chip he designed and made which had an analog section for rapid computing where perfect accuracy was not important, and it had a digital section where things needed to be more nailed down (I think there are some Machine Learning chips that use analog values because the ML schemes are correlative and don’t require perfect accuracy).
 
 ---
-## What was the first computer with a graphical user interface?
-
-*https://www.quora.com/What-was-the-first-computer-with-a-graphical-user-interface/answer/Alan-Kay-11*
+## [What was the first computer with a graphical user interface?](https://www.quora.com/What-was-the-first-computer-with-a-graphical-user-interface/answer/Alan-Kay-11)
 
 It is really annoying to have “someone” change a question after it has been answered — especially if the answer no longer fits the new question. That is what happened here. The original question asked about “personal computers” and my answer is below. Now the question says “first computer”.
 
@@ -6738,9 +6188,7 @@ The Xerox Parc Alto was a personal computer, and it was available outside of Xer
 If we think of “GUI” as meaning overlapping windows, icons, pointing devices, bit-mapped screens, etc., then I think choosing the “Xerox Parc Alto” as the answer to the question would be quite accurate.
 
 ---
-## I heard today that there are some advantages of using a formal language to write a software specification. What are they?
-
-*https://www.quora.com/I-heard-today-that-there-are-some-advantages-of-using-a-formal-language-to-write-a-software-specification-What-are-they/answer/Alan-Kay-11*
+## [I heard today that there are some advantages of using a formal language to write a software specification. What are they?](https://www.quora.com/I-heard-today-that-there-are-some-advantages-of-using-a-formal-language-to-write-a-software-specification-What-are-they/answer/Alan-Kay-11)
 
 All computer languages are “formal languages”, so we want something that will allow us to express the meaning of what we want without pragmatics (unless part of the meaning has requirements for certain pragmatics). We’d like it to be as clear as possible, and we’d like to be able to debug it as well (a spec that is not debuggable might not actually represent what is desired).
 
@@ -6761,9 +6209,7 @@ We can see that a really good “spec”/requirements” language would make a b
 In practice, not enough smart people have worked on this problem over the years, and the funders never got interested enough in it. I think it should be one of the “grand challenges” of the next few years in Software Engineering.
 
 ---
-## Were Xerox PARC systems like the Star robust for third-party application development?
-
-*https://www.quora.com/Were-Xerox-PARC-systems-like-the-Star-robust-for-third-party-application-development/answer/Alan-Kay-11*
+## [Were Xerox PARC systems like the Star robust for third-party application development?](https://www.quora.com/Were-Xerox-PARC-systems-like-the-Star-robust-for-third-party-application-development/answer/Alan-Kay-11)
 
 As the question is phrased, the answer would be “yes”.
 
@@ -6788,9 +6234,7 @@ There were several software “religions” (or at least belief systems or “pa
 But we will never know.
 
 ---
-## How were multi-user programs (e.g., MUDs) implemented on time-share systems? Shared memory? IPC?
-
-*https://www.quora.com/How-were-multi-user-programs-e-g-MUDs-implemented-on-time-share-systems-Shared-memory-IPC/answer/Alan-Kay-11*
+## [How were multi-user programs (e.g., MUDs) implemented on time-share systems? Shared memory? IPC?](https://www.quora.com/How-were-multi-user-programs-e-g-MUDs-implemented-on-time-share-systems-Shared-memory-IPC/answer/Alan-Kay-11)
 
 Every which way …
 
@@ -6805,9 +6249,7 @@ An interesting exception — and a very early one — was the Burroughs B5000, w
 Finally, certain programming language/systems, including several at Parc, were designed successfully to be highly safe, and thus were able to do in software (usually microcode and the VHLLs) what normally would require specific HW to accomplish.
 
 ---
-## Does abstraction in computer science use mathematics as a basis?
-
-*https://www.quora.com/Does-abstraction-in-computer-science-use-mathematics-as-a-basis/answer/Alan-Kay-11*
+## [Does abstraction in computer science use mathematics as a basis?](https://www.quora.com/Does-abstraction-in-computer-science-use-mathematics-as-a-basis/answer/Alan-Kay-11)
 
 “Mathematics” doesn’t have a crisp definition, and its plural form has admitted many new thinking schemes over the years.
 
@@ -6820,9 +6262,7 @@ If “mathematics” in the question is supposed to mean “already existing for
 * When I was learning “mathematics” more than 70 years ago, many logicians held that Logic was a separate field and earlier efforts in the century had been made to “get Mathematics from Logic”. This division could still be the case (but in my view they are all part of the same set of ideas and ways to approach things).
 
 ---
-## How does the brain interpret computer languages?
-
-*https://www.quora.com/How-does-the-brain-interpret-computer-languages/answer/Alan-Kay-11*
+## [How does the brain interpret computer languages?](https://www.quora.com/How-does-the-brain-interpret-computer-languages/answer/Alan-Kay-11)
 
 There is not much definitive understanding about how the brain does most things, including traditional languages, mathematical languages, music, computer languages, etc.
 
@@ -6833,9 +6273,7 @@ In all cases, the “projecting out” that manifests “possibilities” is a c
 In a logic system, this would be called “forward inferencing” or “aggressive inferencing”. It puts many more things in play than were in the the original stimuli and offered knowledge.
 
 ---
-## . Do you agree with Myers and Rosson's statement that 'nearly half of entire software development effort relates to the user interface'? Defend your answer.
-
-*https://www.quora.com/Do-you-agree-with-Myers-and-Rossons-statement-that-nearly-half-of-entire-software-development-effort-relates-to-the-user-interface-Defend-your-answer/answer/Alan-Kay-11*
+## [. Do you agree with Myers and Rosson's statement that 'nearly half of entire software development effort relates to the user interface'? Defend your answer.](https://www.quora.com/Do-you-agree-with-Myers-and-Rossons-statement-that-nearly-half-of-entire-software-development-effort-relates-to-the-user-interface-Defend-your-answer/answer/Alan-Kay-11)
 
 This sounds like a homework assignment.
 
@@ -6846,9 +6284,7 @@ And to give you more of an idea about then vs today, he said they got quite a wi
 I think this is an excellent paper, but for the purpose of the question, you need to find a much more recent claim so you can ask the question more accurately.
 
 ---
-## When Alan Kay invented the user interface (screwdriver metaphor), had he in mind disabled people too?
-
-*https://www.quora.com/When-Alan-Kay-invented-the-user-interface-screwdriver-metaphor-had-he-in-mind-disabled-people-too/answer/Alan-Kay-11*
+## [When Alan Kay invented the user interface (screwdriver metaphor), had he in mind disabled people too?](https://www.quora.com/When-Alan-Kay-invented-the-user-interface-screwdriver-metaphor-had-he-in-mind-disabled-people-too/answer/Alan-Kay-11)
 
 I didn’t invent the user interface — or the graphical user interface — many of the basic ideas were first invented and implemented in the 50s, and especially in the first half of the 60s — and quite a few of these were done by DoD supported research, especially by ARPA.
 
@@ -6873,9 +6309,7 @@ Today, it is really a shame — and worse — that with tiny cameras in so many 
 However, the general art of UI itself has diminished gradually and now greatly as the commercialization of personal computing “progressed”, starting in the 80s.
 
 ---
-## How do computers work? I am 16 and I love programming, but I feel like I should know what really happens on the inside, the physics of it.
-
-*https://www.quora.com/How-do-computers-work-I-am-16-and-I-love-programming-but-I-feel-like-I-should-know-what-really-happens-on-the-inside-the-physics-of-it/answer/Alan-Kay-11*
+## [How do computers work? I am 16 and I love programming, but I feel like I should know what really happens on the inside, the physics of it.](https://www.quora.com/How-do-computers-work-I-am-16-and-I-love-programming-but-I-feel-like-I-should-know-what-really-happens-on-the-inside-the-physics-of-it/answer/Alan-Kay-11)
 
 I’ve answered various parts of this question elsewhere in Quora. Try this one to get started. You will see that the fundamental building blocks for making a computer can be made in many ways, and often from completely common materials.
 
@@ -6884,9 +6318,7 @@ Alan Kay's answer to How do computers work the way they do? When does electricit
 Check back here every few days for a few more references that will help.
 
 ---
-## How do computers work the way they do? When does electricity become executable logic and how?
-
-*https://www.quora.com/How-do-computers-work-the-way-they-do-When-does-electricity-become-executable-logic-and-how/answer/Alan-Kay-11*
+## [How do computers work the way they do? When does electricity become executable logic and how?](https://www.quora.com/How-do-computers-work-the-way-they-do-When-does-electricity-become-executable-logic-and-how/answer/Alan-Kay-11)
 
 Many of the answers here have more elements than needed — for example, transistors and how they work are not required.
 
@@ -6955,23 +6387,17 @@ Some early computers were made from relays, and they were pretty reliable — bu
 If you are interested in this, there are a host of books and other online material, including interactive building kits.
 
 ---
-## What would happen if a computer was made for two users, with a monitor in common and two keyboards? Would it make programming more sociable?
-
-*https://www.quora.com/What-would-happen-if-a-computer-was-made-for-two-users-with-a-monitor-in-common-and-two-keyboards-Would-it-make-programming-more-sociable/answer/Alan-Kay-11*
+## [What would happen if a computer was made for two users, with a monitor in common and two keyboards? Would it make programming more sociable?](https://www.quora.com/What-would-happen-if-a-computer-was-made-for-two-users-with-a-monitor-in-common-and-two-keyboards-Would-it-make-programming-more-sociable/answer/Alan-Kay-11)
 
 To just pick two gems from the past, take a look at Doug Engelbart and NLS, and Horishi Ishii, especially his work at NTT and “Clearpane”.
 
 ---
-## If advanced software is technically just made up of lots of really simple components, why can't we replicate them using AI or no-code platforms?
-
-*https://www.quora.com/If-advanced-software-is-technically-just-made-up-of-lots-of-really-simple-components-why-cant-we-replicate-them-using-AI-or-no-code-platforms/answer/Alan-Kay-11*
+## [If advanced software is technically just made up of lots of really simple components, why can't we replicate them using AI or no-code platforms?](https://www.quora.com/If-advanced-software-is-technically-just-made-up-of-lots-of-really-simple-components-why-cant-we-replicate-them-using-AI-or-no-code-platforms/answer/Alan-Kay-11)
 
 Living things are made mostly from 6 simple atoms plus a few trace elements. What’s “interesting” is the unusual organization of them. This is also the main difficulty with software, whether written by humans or other software (i.e. “AI”).
 
 ---
-## How is an Operating System run on Transistors? Like how is software put on it and getting a graphical output from all of this?
-
-*https://www.quora.com/How-is-an-Operating-System-run-on-Transistors-Like-how-is-software-put-on-it-and-getting-a-graphical-output-from-all-of-this/answer/Alan-Kay-11*
+## [How is an Operating System run on Transistors? Like how is software put on it and getting a graphical output from all of this?](https://www.quora.com/How-is-an-Operating-System-run-on-Transistors-Like-how-is-software-put-on-it-and-getting-a-graphical-output-from-all-of-this/answer/Alan-Kay-11)
 
 I’ve answered much of this question already on Quora. I’ve put a few of these links below.
 
@@ -6994,16 +6420,12 @@ Alan Kay's answer to How do computers deal with images, written texts, videos, e
 Alan Kay's answer to How were computer programs and languages like COBOL installed into computers back in the 50s before software?
 
 ---
-## What is the revolution of computers?
-
-*https://www.quora.com/What-is-the-revolution-of-computers/answer/Alan-Kay-11*
+## [What is the revolution of computers?](https://www.quora.com/What-is-the-revolution-of-computers/answer/Alan-Kay-11)
 
 Questions similar to this have been asked a few times (I’ve already answered two of them — take a look). And here’s one of the answers: Alan Kay's answer to At OOPSLA 1997 Alan Kay gave a talk titled "The computer revolution hasn't happened yet". What parts have materialized thus far and if not why not?
 
 ---
-## What is a program, and why do computers need programs?
-
-*https://www.quora.com/What-is-a-program-and-why-do-computers-need-programs/answer/Alan-Kay-11*
+## [What is a program, and why do computers need programs?](https://www.quora.com/What-is-a-program-and-why-do-computers-need-programs/answer/Alan-Kay-11)
 
 A “computer” is any system that manipulates information, most often to help generate inferences. It was first used to refer to people who did this, especially in the case where the information was numeric and the inferences were arithmetical.
 
@@ -7028,9 +6450,7 @@ The particular way this was organized — as a relatively small simple fixed mec
 To answer your question: a “computer” doesn’t need to be programmable to be useful, but “programmable computers” greatly expand the ease of making computing mechanisms by providing (a) a fixed part that can read and follow instructions, and (b) sets of instructions — programs — that create desired behaviors when followed.
 
 ---
-## Is computer science a real science like physics or is it a Cargo Cult Science with fields like machine learning having no deep theory behind it ? Can you explain the reason why computer science is a science?
-
-*https://www.quora.com/Is-computer-science-a-real-science-like-physics-or-is-it-a-Cargo-Cult-Science-with-fields-like-machine-learning-having-no-deep-theory-behind-it-Can-you-explain-the-reason-why-computer-science-is-a-science/answer/Alan-Kay-11*
+## [Is computer science a real science like physics or is it a Cargo Cult Science with fields like machine learning having no deep theory behind it ? Can you explain the reason why computer science is a science?](https://www.quora.com/Is-computer-science-a-real-science-like-physics-or-is-it-a-Cargo-Cult-Science-with-fields-like-machine-learning-having-no-deep-theory-behind-it-Can-you-explain-the-reason-why-computer-science-is-a-science/answer/Alan-Kay-11)
 
 I think we have to get to more precision of terms to approach this question. For example, we need to agree at least on what we mean by “Science” and what is meant today by “Computer Science”.
 
@@ -7073,9 +6493,7 @@ I think I can see these behaviors in many places in computing. Can you?
 * cf Herb Simon “The Sciences Of The Artificial”
 
 ---
-## Is there anyone out there capable of writing a guitar tab from audio alone? I have a riff that I really want to play, but I only have 1 video recording of it and think tab would help.
-
-*https://www.quora.com/Is-there-anyone-out-there-capable-of-writing-a-guitar-tab-from-audio-alone-I-have-a-riff-that-I-really-want-to-play-but-I-only-have-1-video-recording-of-it-and-think-tab-would-help/answer/Alan-Kay-11*
+## [Is there anyone out there capable of writing a guitar tab from audio alone? I have a riff that I really want to play, but I only have 1 video recording of it and think tab would help.](https://www.quora.com/Is-there-anyone-out-there-capable-of-writing-a-guitar-tab-from-audio-alone-I-have-a-riff-that-I-really-want-to-play-but-I-only-have-1-video-recording-of-it-and-think-tab-would-help/answer/Alan-Kay-11)
 
 There is a profession called “take downing” with pros called “take-downers” who listen to music and write out the musical scores of what happened, and what is needed to play it. Most musicians can do this to one extent or another — the pros can do it really well and really quickly. The fees are generally quite reasonable.
 
@@ -7098,9 +6516,7 @@ The durations of the “note slots” are given by the flags over the staff. A b
 The bar lines have a slightly different meaning (a whole measure is a kind of a single pulse — called a “tactus”). This invites more freedom within each measure (note the larger size of the measures in the TAB).
 
 ---
-## Should web browsers have stuck to being document viewers?
-
-*https://www.quora.com/Should-web-browsers-have-stuck-to-being-document-viewers/answer/Alan-Kay-11*
+## [Should web browsers have stuck to being document viewers?](https://www.quora.com/Should-web-browsers-have-stuck-to-being-document-viewers/answer/Alan-Kay-11)
 
 Actually quite the opposite, if “document” means an imitation of old static text media (and later including pictures, and audio and video recordings).
 
@@ -7169,9 +6585,7 @@ This provides a much better match up between a desktop publishing system (which 
 Key Point: “sending a program, not a data structure” is a very big idea (and also scales really well if some thought is put into just how the program is set up).
 
 ---
-## What old computers were way ahead of their time?
-
-*https://www.quora.com/What-old-computers-were-way-ahead-of-their-time/answer/Alan-Kay-11*
+## [What old computers were way ahead of their time?](https://www.quora.com/What-old-computers-were-way-ahead-of-their-time/answer/Alan-Kay-11)
 
 If the early 80s is “old”, then what are the early 50s or early 60s?
 
@@ -7182,9 +6596,7 @@ If the early 80s is “old”, then what are the early 50s or early 60s?
 Whirlwind’s designs established hardware patterns after it, but the B5000 ran up against the inability of most HW (and most SW) people of most eras not understanding anything important about software. We used many of the B5000 ideas in the Xerox Parc microcoded machines, both in “HW” and “SW”, and they were one of the major reasons for the Parc successes.
 
 ---
-## What books would you recommend for an autodidact who is interested in the field of human-computer interaction?
-
-*https://www.quora.com/What-books-would-you-recommend-for-an-autodidact-who-is-interested-in-the-field-of-human-computer-interaction/answer/Alan-Kay-11*
+## [What books would you recommend for an autodidact who is interested in the field of human-computer interaction?](https://www.quora.com/What-books-would-you-recommend-for-an-autodidact-who-is-interested-in-the-field-of-human-computer-interaction/answer/Alan-Kay-11)
 
 All learning — in the end — is autodidactic (*we* have to do the work to learn: no one can give us a transfusion). The main thing that is required for any learning is a sense of threshold — *where* you have to get beyond in process, knowledge, skill, etc. before you are actually fluent. Next you have to have a sense of sweep and range and depth, to attain a larger sense of the field. This is why most autodidacts who get above all these thresholds in a subject also have gone to school of some kind (this can help a lot, especially if it is not thought of as the center source of all knowledge).
 
@@ -7219,9 +6631,7 @@ One of the biggest breakthroughs in UI design as it was getting invented was to 
 This POV has greatly diminished in recent years, and the generally poor UIs around now reflect this (e.g. where are UNDO and HELP on the iPhone and iPad, etc ? ……)
 
 ---
-## When did cloud computing start?
-
-*https://www.quora.com/When-did-cloud-computing-start/answer/Alan-Kay-11*
+## [When did cloud computing start?](https://www.quora.com/When-did-cloud-computing-start/answer/Alan-Kay-11)
 
 There are always contenders for “first” — which often cannot be reasonably sorted out — so I like to use “early” instead.
 
@@ -7238,9 +6648,7 @@ IPTO expanded to more than 15 projects devoted to various aspects of the dream, 
 The story of ARPA-IPTO (which includes the later creation of Parc as part of it), is well told in the book “The Dream Machine”, by Mitchell Waldrop.
 
 ---
-## What is the history behind Alan Kay’s quote, “Point of view is worth 80 IQ points.”?
-
-*https://www.quora.com/What-is-the-history-behind-Alan-Kay-s-quote-Point-of-view-is-worth-80-IQ-points/answer/Alan-Kay-11*
+## [What is the history behind Alan Kay’s quote, “Point of view is worth 80 IQ points.”?](https://www.quora.com/What-is-the-history-behind-Alan-Kay-s-quote-Point-of-view-is-worth-80-IQ-points/answer/Alan-Kay-11)
 
 We humans are set up by our nature — and the cultures to which our nature gives rise — to deal with much of our lives and memories in stories and story-like forms. Proverbs are very short stories, and as such they are much more memorable than careful descriptive and expositional paragraphs.
 
@@ -7283,9 +6691,7 @@ But small parts of science are much more careful about beliefs than the general 
 A great metaphor is not just a commercial for *more* thinking, but also can be a door into *stronger contexts* for thinking. And, it can also be used as an even more opaque blinder (especially if the proverb above is not used to help!).
 
 ---
-## What was it like programming an IBM 1401 back in the 60’s?
-
-*https://www.quora.com/What-was-it-like-programming-an-IBM-1401-back-in-the-60-s/answer/Alan-Kay-11*
+## [What was it like programming an IBM 1401 back in the 60’s?](https://www.quora.com/What-was-it-like-programming-an-IBM-1401-back-in-the-60-s/answer/Alan-Kay-11)
 
 The IBM 1401 was the first computer I programmed as part of a real job (an enlisted man in the US Air Force at Air Training Command (ATG), Randolph AFB, San Antonio, Texas).
 
@@ -7356,9 +6762,7 @@ The next machine in line for ATC was to be a Burroughs B5000, a truly amazing ma
 I was able to get back in school for the fall of 1963, and the AF let people out up to 100 days early to not miss a term. I was able to get a good part time job programming for the National Center for Atmospheric Research (NCAR) in Boulder, that would pay my tuition and room and board for the rest of my undergrad years at the U of Colorado.
 
 ---
-## If one starts with a state of the art object-oriented programming from the late 80s and early 90s (Smalltalk, Self, CLOS), what could have been the next breakthrough in that style of programming, but never happened?
-
-*https://www.quora.com/If-one-starts-with-a-state-of-the-art-object-oriented-programming-from-the-late-80s-and-early-90s-Smalltalk-Self-CLOS-what-could-have-been-the-next-breakthrough-in-that-style-of-programming-but-never-happened/answer/Alan-Kay-11*
+## [If one starts with a state of the art object-oriented programming from the late 80s and early 90s (Smalltalk, Self, CLOS), what could have been the next breakthrough in that style of programming, but never happened?](https://www.quora.com/If-one-starts-with-a-state-of-the-art-object-oriented-programming-from-the-late-80s-and-early-90s-Smalltalk-Self-CLOS-what-could-have-been-the-next-breakthrough-in-that-style-of-programming-but-never-happened/answer/Alan-Kay-11)
 
 For September 1984, I was invited to write the cover article for the Scientific American special issue on “Computer Software” — back in the heyday when SciAm was a much more serious attempt to bridge the gaps between science and the general public. Within the bounds of this audience, I took a look at some present and future possibilities.
 
@@ -7385,9 +6789,7 @@ And so forth. The breakthrough that is needed in programming has to come from a 
 As Doug Engelbart pointed out in 1962, you have to create not just “augmented individuals” but “augmented groups of augmented individuals” in order to be serious about next steps. The augmentations are not just computers and computer tools, but also education, new methods and languages for representation: these have to reflect back into the “augments” that can be manifested on the computer parts of this more complex organization.
 
 ---
-## What is your review of The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal?
-
-*https://www.quora.com/What-is-your-review-of-The-Dream-Machine-J-C-R-Licklider-and-the-Revolution-That-Made-Computing-Personal/answer/Alan-Kay-11*
+## [What is your review of The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal?](https://www.quora.com/What-is-your-review-of-The-Dream-Machine-J-C-R-Licklider-and-the-Revolution-That-Made-Computing-Personal/answer/Alan-Kay-11)
 
 Bottom Line: The best single book about the inventions of personal computing and the Internet, as judged by those who were involved.
 
@@ -7406,18 +6808,14 @@ A book to read afterwards, especially for stories, is Michael Hiltzik’s “Dea
 All of the attempts at historical accounts missed capturing one of the most important elements of this community: its ability to cooperate in so many ways. Part of this was due to actual intentions and actions of the funders, and part was due to the particular nature of the grad students and interns — then young PhDs — that ARPA created as part of its “research results”. A very large number of these from the many ARPA projects wound up as friends and colleagues, and being PIs themselves. This was powerful for the culminating phases of personal computing and the Internet, where much of the main work was done by the “second generation” researchers ARPA created.
 
 ---
-## Why is Machine Learning so hard to explain?
-
-*https://www.quora.com/Why-is-Machine-Learning-so-hard-to-explain/answer/Alan-Kay-11*
+## [Why is Machine Learning so hard to explain?](https://www.quora.com/Why-is-Machine-Learning-so-hard-to-explain/answer/Alan-Kay-11)
 
 Here is an explanation of “conditioned learning” for complete beginners.
 
 How would one explain AI to a complete beginner?
 
 ---
-## What would Alan Kay think about a future U.S. President immediately scaling up the circular economy?
-
-*https://www.quora.com/What-would-Alan-Kay-think-about-a-future-U-S-President-immediately-scaling-up-the-circular-economy/answer/Alan-Kay-11*
+## [What would Alan Kay think about a future U.S. President immediately scaling up the circular economy?](https://www.quora.com/What-would-Alan-Kay-think-about-a-future-U-S-President-immediately-scaling-up-the-circular-economy/answer/Alan-Kay-11)
 
 The technical issues are many, longstanding, and systems related — and there are many complications from most Americans not understanding them, or the grave dangers the world has been in for several decades now. If this were a conventional war, the enemies have already been allowed to land and establish beachheads.
 
@@ -7442,16 +6840,12 @@ This will be the most complex challenge of science and systems thinking ever att
 The bottle that is the Earth could tip over.
 
 ---
-## What is the best way for 2 independent programs to communicate with each other? One program reading while other program writes to a file? Or opening a local TCP connection and communicate through it? And which is commonly used method?
-
-*https://www.quora.com/What-is-the-best-way-for-2-independent-programs-to-communicate-with-each-other-One-program-reading-while-other-program-writes-to-a-file-Or-opening-a-local-TCP-connection-and-communicate-through-it-And-which-is/answer/Alan-Kay-11*
+## [What is the best way for 2 independent programs to communicate with each other? One program reading while other program writes to a file? Or opening a local TCP connection and communicate through it? And which is commonly used method?](https://www.quora.com/What-is-the-best-way-for-2-independent-programs-to-communicate-with-each-other-One-program-reading-while-other-program-writes-to-a-file-Or-opening-a-local-TCP-connection-and-communicate-through-it-And-which-is/answer/Alan-Kay-11)
 
 This looks like a class homework problem. In any case, it’s the kind of question for which many useful answers are readily available via Google, StackOverflow, etc.
 
 ---
-## What is declarative programming?
-
-*https://www.quora.com/What-is-declarative-programming/answer/Alan-Kay-11*
+## [What is declarative programming?](https://www.quora.com/What-is-declarative-programming/answer/Alan-Kay-11)
 
 One way to think about this is the distinction between “hows” and “whats” (and perhaps a middle ground of “almost whats”).
 
@@ -7504,9 +6898,7 @@ One way to look at a great leap forward would combine a carefully designed langu
 I hope I don’t sound like a complete old fart and fuddy-duddy if I note that the taste for these really hard, semantically rich, problems seems quite lacking in the field today, and especially in the universities where one would hope that the funding, encouragement and freedom to deal with hard problems would still strongly exist.
 
 ---
-## Should schools be remote learning only until fall 2021?
-
-*https://www.quora.com/Should-schools-be-remote-learning-only-until-fall-2021/answer/Alan-Kay-11*
+## [Should schools be remote learning only until fall 2021?](https://www.quora.com/Should-schools-be-remote-learning-only-until-fall-2021/answer/Alan-Kay-11)
 
 New section added Jan 29th 2021
 
@@ -7575,9 +6967,7 @@ The “interest costs” of producing ignorant unprepared “so-called-adult”-
 One of many things that needs to be done to start turn-arounds, is for the levels of government that are appropriate, to officially characterize all real schooling as “home schooling” (perhaps aided by schools) and to prepare the materials etc. to help parents really take seriously, and learn, how they can make a qualitative difference, not just for their children, but actually to wind up saving the entire world (do I have to again mention the still almost-invisible-to-most climate crisis whose import dwarfs the pandemic?)
 
 ---
-## What are some historic examples of elegant, streamlined operating systems?
-
-*https://www.quora.com/What-are-some-historic-examples-of-elegant-streamlined-operating-systems/answer/Alan-Kay-11*
+## [What are some historic examples of elegant, streamlined operating systems?](https://www.quora.com/What-are-some-historic-examples-of-elegant-streamlined-operating-systems/answer/Alan-Kay-11)
 
 A fabulous super-efficient elegantly designed HW/OS was “Project Genie”, an ARPA Project at Berkeley in the mid to late 60s. Project Genie - Wikipedia
 
@@ -7600,9 +6990,7 @@ Another interesting wrinkle to the design is that Butler “designed the system 
 There were many other interesting features for inter-process protection and communication, and the particular way the “user machine illusion” was presented to programmers.
 
 ---
-## What kind of thought process do you need to understand programming?
-
-*https://www.quora.com/What-kind-of-thought-process-do-you-need-to-understand-programming/answer/Alan-Kay-11*
+## [What kind of thought process do you need to understand programming?](https://www.quora.com/What-kind-of-thought-process-do-you-need-to-understand-programming/answer/Alan-Kay-11)
 
 Even if you are programming in a declarative language, you are organizing a structure of interacting relationships whose realization on a computer will cause desired effects to happen.
 
@@ -7613,9 +7001,7 @@ However, for the purpose of this question, I think the simplest dimensions to po
 A much more subtle, and ultimately all important, dimension is (d) the one whose rich direction points to “real science”. This is where the kind of thinking can be done that leads to “real inventions” and “really new perspectives” on what programming could mean.
 
 ---
-## How do computers deal with images, written texts, videos, etc.? Does it transform them into 0 and 1 codes?
-
-*https://www.quora.com/How-do-computers-deal-with-images-written-texts-videos-etc-Does-it-transform-them-into-0-and-1-codes/answer/Alan-Kay-11*
+## [How do computers deal with images, written texts, videos, etc.? Does it transform them into 0 and 1 codes?](https://www.quora.com/How-do-computers-deal-with-images-written-texts-videos-etc-Does-it-transform-them-into-0-and-1-codes/answer/Alan-Kay-11)
 
 Yes. A good way to think of this is that a binary digit — a bit — is not really a “0” or a “1” but just “off” or “on” (or “not there” or “there”). In other words, it is like a simple mark on a wall or paper. So a bit is more intuitively represented by symbols that look more like “not there” and “there”, for example: ☐ and ◼︎
 
@@ -7642,9 +7028,7 @@ Using 8 bits — so 256 heights (+ or - 128 heights from zero) — can work but 
 (Analogy) A way to reconcile all this to the world of human senses is to note that all we need is paper and the presence or absence of ink to represent words, pictures, music, etc. What’s on the paper are patterns that are supposed to signify meanings that we can “look up” in our minds. The computer versions of these are quite similar, with the really interesting and added property that the computer can read and write its own markings (to make “a book that can read and write itself”). This is extremely important.
 
 ---
-## Since programming ultimately comes to controlling computer hardware (even if we don't usually think of it that way), how is it that the same programming languages work on many different type of computers with different hardware?
-
-*https://www.quora.com/Since-programming-ultimately-comes-to-controlling-computer-hardware-even-if-we-dont-usually-think-of-it-that-way-how-is-it-that-the-same-programming-languages-work-on-many-different-type-of-computers-with-different/answer/Alan-Kay-11*
+## [Since programming ultimately comes to controlling computer hardware (even if we don't usually think of it that way), how is it that the same programming languages work on many different type of computers with different hardware?](https://www.quora.com/Since-programming-ultimately-comes-to-controlling-computer-hardware-even-if-we-dont-usually-think-of-it-that-way-how-is-it-that-the-same-programming-languages-work-on-many-different-type-of-computers-with-different/answer/Alan-Kay-11)
 
 A good way to start thinking about this is that most computers are “universal”: meaning that given enough memory and time, they can compute anything that can be computed. This means that — for any imagined effect — there exist combinations of each computer’s hardware instructions that can cause that effect.
 
@@ -7659,9 +7043,7 @@ The job of the program that translates from the *ideas* to a particular computer
 In computerish terms, the “front-end” of a programming language will look the same from computer to computer, but the “back-end” will be specific to each specific hardware used.
 
 ---
-## What is Alan Kay's MBTI type?
-
-*https://www.quora.com/What-is-Alan-Kays-MBTI-type/answer/Alan-Kay-11*
+## [What is Alan Kay's MBTI type?](https://www.quora.com/What-is-Alan-Kays-MBTI-type/answer/Alan-Kay-11)
 
 Astrology posits 12 “types”. But this particular sorting doesn’t work well, so “epicycles” are introduced, and these allow pretty much any observed fact to be rationalized to the system.
 
@@ -7682,9 +7064,7 @@ One technique for “sophistication” is to collect different perspectives on a
 Along these lines, in a comment below, Robert Mudry gives us a link to another trait analysis. I was vaguely aware of this from decades ago but had forgotten it. If you put it in collection with other schemes, the group of perspectives does help think about and talk about this complex subject: Big Five personality traits - Wikipedia
 
 ---
-## Since everything can be represented by objects, what is the successor of Smalltalk? What system could be comparably minimal, yet more powerful?
-
-*https://www.quora.com/Since-everything-can-be-represented-by-objects-what-is-the-successor-of-Smalltalk-What-system-could-be-comparably-minimal-yet-more-powerful/answer/Alan-Kay-11*
+## [Since everything can be represented by objects, what is the successor of Smalltalk? What system could be comparably minimal, yet more powerful?](https://www.quora.com/Since-everything-can-be-represented-by-objects-what-is-the-successor-of-Smalltalk-What-system-could-be-comparably-minimal-yet-more-powerful/answer/Alan-Kay-11)
 
 Kernel systems that are written in themselves — like Lisp or Smalltalk — can morph into any new idea and claim that “the potential” was always there …
 
@@ -7707,9 +7087,7 @@ And there are more.
 Such a “Smalltalk-20” could be gradually made out of one of the existing Smalltalks that has full reflection and something like SLANG in it to bootstrap the kernel (e.g. some Squeak derivative).
 
 ---
-## What are the five features of the object-oriented paradigm that you consider to be important for good software engineering practice?
-
-*https://www.quora.com/What-are-the-five-features-of-the-object-oriented-paradigm-that-you-consider-to-be-important-for-good-software-engineering-practice/answer/Alan-Kay-11*
+## [What are the five features of the object-oriented paradigm that you consider to be important for good software engineering practice?](https://www.quora.com/What-are-the-five-features-of-the-object-oriented-paradigm-that-you-consider-to-be-important-for-good-software-engineering-practice/answer/Alan-Kay-11)
 
 “Engineering” is the *principled* process of creating working systems that are in accord with both our immediate goals and requirements, and also in accord with contextual requirements (such as integrity, safety, predictability, maintainability, etc).
 
@@ -7746,9 +7124,7 @@ The “Oop” that was done in the ARPA/Parc community (e.g. Smalltalk) was just
 Some of the things not carried through as far as they could be had to do with dealing with large scalings (e.g. this can be done better in Smalltalk than we did, but our priorities were to get maximum expression within the tiny computing resources we had in the 70s, and these aspects worked out well with our approach).
 
 ---
-## How much computer science knowledge has been lost because it was not published or documented, or no working code has been shared?
-
-*https://www.quora.com/How-much-computer-science-knowledge-has-been-lost-because-it-was-not-published-or-documented-or-no-working-code-has-been-shared/answer/Alan-Kay-11*
+## [How much computer science knowledge has been lost because it was not published or documented, or no working code has been shared?](https://www.quora.com/How-much-computer-science-knowledge-has-been-lost-because-it-was-not-published-or-documented-or-no-working-code-has-been-shared/answer/Alan-Kay-11)
 
 If truly lost, then we can’t know enough to answer the question in any era.
 
@@ -7763,9 +7139,7 @@ This is worth comparing with the almost blind building on top of the Internet by
 Andrew Carnegie had context and helped others to acquire it, but the web today — in a memorable phrase — is “the context of no context”.
 
 ---
-## What is Seed7 programming language about?
-
-*https://www.quora.com/What-is-Seed7-programming-language-about/answer/Alan-Kay-11*
+## [What is Seed7 programming language about?](https://www.quora.com/What-is-Seed7-programming-language-about/answer/Alan-Kay-11)
 
 With programming languages, quite a bit of assessment should be done by writing various kinds of systems (and especially “reference systems”). I haven’t done that, so I’ve little to say here.
 
@@ -7778,9 +7152,7 @@ Most extensible languages — including the ones we did at Parc — lack “fenc
 It would be great to see a modern extensible language done in the light of what is actually known today about what is needed.
 
 ---
-## Does Alan Kay know about Brightmark? The company that is taking recycled waste and making renewable fuel. The company already partnered with BP. If not, I hope this reaches him.
-
-*https://www.quora.com/Does-Alan-Kay-know-about-Brightmark-The-company-that-is-taking-recycled-waste-and-making-renewable-fuel-The-company-already-partnered-with-BP-If-not-I-hope-this-reaches-him/answer/Alan-Kay-11*
+## [Does Alan Kay know about Brightmark? The company that is taking recycled waste and making renewable fuel. The company already partnered with BP. If not, I hope this reaches him.](https://www.quora.com/Does-Alan-Kay-know-about-Brightmark-The-company-that-is-taking-recycled-waste-and-making-renewable-fuel-The-company-already-partnered-with-BP-If-not-I-hope-this-reaches-him/answer/Alan-Kay-11)
 
 Yes, I am aware of Brightmark, but not in detail.
 
@@ -7789,16 +7161,12 @@ For the last several years I have been helping The Ellen MacArthur Foundation of
 The world is almost 60 years late addressing these deep issues (first scientific climate warning by NSF was in 1963), and only a fraction of what is needed is being done today.
 
 ---
-## I’ve been quite interested in playing the lyre, but I have no knowledge on it and since it’s not a very popular instrument, there aren’t guides. My question is, what’s a good amount of strings? I see 7 string, 10 string, 16 string etc., so which?
-
-*https://www.quora.com/I-ve-been-quite-interested-in-playing-the-lyre-but-I-have-no-knowledge-on-it-and-since-it-s-not-a-very-popular-instrument-there-aren-t-guides-My-question-is-what-s-a-good-amount-of-strings-I-see-7-string-10-string/answer/Alan-Kay-11*
+## [I’ve been quite interested in playing the lyre, but I have no knowledge on it and since it’s not a very popular instrument, there aren’t guides. My question is, what’s a good amount of strings? I see 7 string, 10 string, 16 string etc., so which?](https://www.quora.com/I-ve-been-quite-interested-in-playing-the-lyre-but-I-have-no-knowledge-on-it-and-since-it-s-not-a-very-popular-instrument-there-aren-t-guides-My-question-is-what-s-a-good-amount-of-strings-I-see-7-string-10-string/answer/Alan-Kay-11)
 
 There are guides on YouTube, and some very good examples of different kinds of lyres. There is a family in Greece that makes historical replicas. Take a look.
 
 ---
-## Does Alan Kay know or even have met Russell Ackoff on Idealized Design?
-
-*https://www.quora.com/Does-Alan-Kay-know-or-even-have-met-Russell-Ackoff-on-Idealized-Design/answer/Alan-Kay-11*
+## [Does Alan Kay know or even have met Russell Ackoff on Idealized Design?](https://www.quora.com/Does-Alan-Kay-know-or-even-have-met-Russell-Ackoff-on-Idealized-Design/answer/Alan-Kay-11)
 
 Interesting question!
 
@@ -7831,9 +7199,7 @@ Similarly, the “Idealized Design” book is about a principle that is well kno
 One way to lift all the areas with regard to what they leave out, would be to try to help practitioners to put some of the effort they now put into quick local solutions to simple seeming local problems, into ramifying out possible and likely consequences into larger environments and longer time periods.
 
 ---
-## Would artificial intelligence be possible if computer programming was not invented?
-
-*https://www.quora.com/Would-artificial-intelligence-be-possible-if-computer-programming-was-not-invented/answer/Alan-Kay-11*
+## [Would artificial intelligence be possible if computer programming was not invented?](https://www.quora.com/Would-artificial-intelligence-be-possible-if-computer-programming-was-not-invented/answer/Alan-Kay-11)
 
 Here’s a somewhat different perspective on this.
 
@@ -7850,9 +7216,7 @@ I will be happy to explain this idea in response to comments, but I think it wil
 And then many of the other things on my list will be easily discoverable. It’s very worthwhile going back in history (and prehistory) to think about the earliest human inventions of “artificial intelligence”.
 
 ---
-## Have you ever been asked to teach someone how to program computers by a person with no such background and how did you respond?
-
-*https://www.quora.com/Have-you-ever-been-asked-to-teach-someone-how-to-program-computers-by-a-person-with-no-such-background-and-how-did-you-respond/answer/Alan-Kay-11*
+## [Have you ever been asked to teach someone how to program computers by a person with no such background and how did you respond?](https://www.quora.com/Have-you-ever-been-asked-to-teach-someone-how-to-program-computers-by-a-person-with-no-such-background-and-how-did-you-respond/answer/Alan-Kay-11)
 
 This hasn’t happened for some years now, but I’ve always tried to help them (we all started “with no such background” …).
 
@@ -7865,9 +7229,7 @@ I have always done my work in the context of a group that is set up to maximize 
 Really learning to program — etc. — is really learning about how to be part of a scientific/engineering/design team. As with a sport like basketball, there are lots of fundamentals that all need to do extremely well, and there are also “special abilities” that not every member will have, but which the whole team will have — plus the extras of synergy — when the group is functioning well as a team.
 
 ---
-## How was the first graphical user interface (GUI) made on a computer in the absence of any other graphic software?
-
-*https://www.quora.com/How-was-the-first-graphical-user-interface-GUI-made-on-a-computer-in-the-absence-of-any-other-graphic-software/answer/Alan-Kay-11*
+## [How was the first graphical user interface (GUI) made on a computer in the absence of any other graphic software?](https://www.quora.com/How-was-the-first-graphical-user-interface-GUI-made-on-a-computer-in-the-absence-of-any-other-graphic-software/answer/Alan-Kay-11)
 
 I’m writing this because the 4 already existing answers — well meaning perhaps — range from being “pretty wrong” to “very wrong”. They all appear to have been done without any checking of history (and are perhaps mostly “just made up” from scraps that the authors have come by).
 
@@ -7898,9 +7260,7 @@ Ivan was not the first to create a whole graphics system in software from a HW p
 So: as with most things regarding computing, just the tiniest bit of HW/SW connection to I/O plus SW is enough to make a GUI. The key ingredients are insight and design.
 
 ---
-## Why is it so important to invent the future from the future rather than incrementing from the present?
-
-*https://www.quora.com/Why-is-it-so-important-to-invent-the-future-from-the-future-rather-than-incrementing-from-the-present/answer/Alan-Kay-11*
+## [Why is it so important to invent the future from the future rather than incrementing from the present?](https://www.quora.com/Why-is-it-so-important-to-invent-the-future-from-the-future-rather-than-incrementing-from-the-present/answer/Alan-Kay-11)
 
 Incrementing from the present and inventing in the future both have their useful niches.
 
@@ -7945,9 +7305,7 @@ So:
 Sounds like a paradox — and it is not generally done today — but take a look at the results …
 
 ---
-## Has the real computer revolution happened yet?
-
-*https://www.quora.com/Has-the-real-computer-revolution-happened-yet/answer/Alan-Kay-11*
+## [Has the real computer revolution happened yet?](https://www.quora.com/Has-the-real-computer-revolution-happened-yet/answer/Alan-Kay-11)
 
 I’ve answered versions of this question before on Quora.
 
@@ -7960,9 +7318,7 @@ If we try to shape future qualitative leaps that are reasonable analogies to the
 So, a kind of “computer revolution” has happened — and it is having consequences in the general public — but the one we were sure was possible — and partially invented — hasn’t happened for the public (for whom most of the previous revolution of “writing, printing, math and science” hasn’t happened yet either).
 
 ---
-## How was version control handled in the early days of PARC?
-
-*https://www.quora.com/How-was-version-control-handled-in-the-early-days-of-PARC/answer/Alan-Kay-11*
+## [How was version control handled in the early days of PARC?](https://www.quora.com/How-was-version-control-handled-in-the-early-days-of-PARC/answer/Alan-Kay-11)
 
 “In the early days of Parc” would be when there were Altos, Ethernet, Laser Printer service, but not yet a comprehensive set of remote file services. (I’m leaving out here the simulated PDP-10 mainframe — “MAXC” — that we built, which had quite a few versioning features, because these came with the “Tenex” OS.)
 
@@ -7975,9 +7331,7 @@ Smalltalk kept an automatic history of “changes” to code and could revert. I
 A later more elaborate — and terrific — fine grain dynamic versioning system was done for Smalltalk — called “PIE” (by Ira Goldstein and Danny Bobrow) — but this was not in “the early days”.
 
 ---
-## Why isn't meta-programming more common in software development?
-
-*https://www.quora.com/Why-isnt-meta-programming-more-common-in-software-development/answer/Alan-Kay-11*
+## [Why isn't meta-programming more common in software development?](https://www.quora.com/Why-isnt-meta-programming-more-common-in-software-development/answer/Alan-Kay-11)
 
 There are 4 existing answers as I write this, each of which has something useful to say.
 
@@ -8028,16 +7382,12 @@ Good advice from Picasso: “Learn the Rules like an Expert so you can break the
 Meaning: “Just breaking things doesn’t usually produce Art”.
 
 ---
-## If the two digits of a number are multiplied together, the result is one third of the number itself. What is the number?
-
-*https://www.quora.com/If-the-two-digits-of-a-number-are-multiplied-together-the-result-is-one-third-of-the-number-itself-What-is-the-number/answer/Alan-Kay-11*
+## [If the two digits of a number are multiplied together, the result is one third of the number itself. What is the number?](https://www.quora.com/If-the-two-digits-of-a-number-are-multiplied-together-the-result-is-one-third-of-the-number-itself-What-is-the-number/answer/Alan-Kay-11)
 
 15 = 1x5x3
 
 ---
-## Is it mostly a myth that computing advancements happened in a garage?
-
-*https://www.quora.com/Is-it-mostly-a-myth-that-computing-advancements-happened-in-a-garage/answer/Alan-Kay-11*
+## [Is it mostly a myth that computing advancements happened in a garage?](https://www.quora.com/Is-it-mostly-a-myth-that-computing-advancements-happened-in-a-garage/answer/Alan-Kay-11)
 
 Well, HP started in a home garage, but their computer advances didn’t.
 
@@ -8056,9 +7406,7 @@ In going down this long list, I couldn’t find any garages (there might still b
 In the ~ 60 years that I’ve personally been in computing (starting in 1961), I’m not aware of anything significant from a “garage” (but, again, I don’t claim to be comprehensive here).
 
 ---
-## Why did 4th Generation programming languages like SuperTalk not catch on?
-
-*https://www.quora.com/Why-did-4th-Generation-programming-languages-like-SuperTalk-not-catch-on/answer/Alan-Kay-11*
+## [Why did 4th Generation programming languages like SuperTalk not catch on?](https://www.quora.com/Why-did-4th-Generation-programming-languages-like-SuperTalk-not-catch-on/answer/Alan-Kay-11)
 
 I would not call SuperTalk a “4th Generation” Language, but a “different generation” language.
 
@@ -8077,9 +7425,7 @@ And then there was the opportunity completely wasted — squandered — by Apple
 In any case, my experience over the last almost 60 years now, convinces me that the general audience for “programming languages” does not choose them because they are “good” (like pop culture and the consumer business, it is not generally a “value market”).
 
 ---
-## What benefits do you get from thinking of something (tech, etc.) as a medium rather than a tool?
-
-*https://www.quora.com/What-benefits-do-you-get-from-thinking-of-something-tech-etc-as-a-medium-rather-than-a-tool/answer/Alan-Kay-11*
+## [What benefits do you get from thinking of something (tech, etc.) as a medium rather than a tool?](https://www.quora.com/What-benefits-do-you-get-from-thinking-of-something-tech-etc-as-a-medium-rather-than-a-tool/answer/Alan-Kay-11)
 
 The way I thought about this in the 60s was that one way to define a tool is as something that helps control some of the degrees of freedom in a medium while allowing concentration on selected others.
 
@@ -8094,9 +7440,7 @@ This is “the small point” about computing, but misses the larger more import
 It’s “a shame” that most of the “profession” of computing has also missed being able to see just what it is they are dealing with.
 
 ---
-## What is the significance of late binding?
-
-*https://www.quora.com/What-is-the-significance-of-late-binding/answer/Alan-Kay-11*
+## [What is the significance of late binding?](https://www.quora.com/What-is-the-significance-of-late-binding/answer/Alan-Kay-11)
 
 “Late-binding” is an idea about having desired functionality while retaining as much flexibility and safety as possible.
 
@@ -8129,9 +7473,7 @@ Similarly, interactions between modules can also be handled in this dual way. (F
 It’s worth noting that deep enemies of graceful and useful late-bindings are pernicious — and especially gratuitous — dependencies. These can happen in an early bound system, but there are more possibilities in a late-bound one (so much more design is required to really take advantage of the idea — this will pay off in many ways …).
 
 ---
-## What needs to be done in order to improve Anki to reach the promise of the Dynabook's "teacher for every learner"?
-
-*https://www.quora.com/What-needs-to-be-done-in-order-to-improve-Anki-to-reach-the-promise-of-the-Dynabooks-teacher-for-every-learner/answer/Alan-Kay-11*
+## [What needs to be done in order to improve Anki to reach the promise of the Dynabook's "teacher for every learner"?](https://www.quora.com/What-needs-to-be-done-in-order-to-improve-Anki-to-reach-the-promise-of-the-Dynabooks-teacher-for-every-learner/answer/Alan-Kay-11)
 
 There’s definitely a way to think of learning as ultimately being able to remember — and every culture has found a lot of things that need to be remembered, are able to get children to eventually remember them, and have some of their behaviors be in accordance with their memories.
 
@@ -8220,9 +7562,7 @@ To use this weirder way to look at things:
 *** See Hadamard’s “The Psychology of Invention in the Mathematical Field”, and Koestler’s “Act of Creation”.
 
 ---
-## How do I lay out my software architecture before I code if the requirements change every day?
-
-*https://www.quora.com/How-do-I-lay-out-my-software-architecture-before-I-code-if-the-requirements-change-every-day/answer/Alan-Kay-11*
+## [How do I lay out my software architecture before I code if the requirements change every day?](https://www.quora.com/How-do-I-lay-out-my-software-architecture-before-I-code-if-the-requirements-change-every-day/answer/Alan-Kay-11)
 
 Here’s an exemplary process from the past that is a good start on how to think about the present, and even more importantly about the future.
 
@@ -8261,9 +7601,7 @@ We could imagine a future system much better than Smalltalk at doing the CAD<->S
 But I think, more than 30 years later, the BUG/AAC system design and process to create it stands up very well compared to anything I’ve seen more recently in large companies.
 
 ---
-## If a robot can achieve independent evolving thinking like a human being, shall we treat them like a human being instead of a machine?
-
-*https://www.quora.com/If-a-robot-can-achieve-independent-evolving-thinking-like-a-human-being-shall-we-treat-them-like-a-human-being-instead-of-a-machine/answer/Alan-Kay-11*
+## [If a robot can achieve independent evolving thinking like a human being, shall we treat them like a human being instead of a machine?](https://www.quora.com/If-a-robot-can-achieve-independent-evolving-thinking-like-a-human-being-shall-we-treat-them-like-a-human-being-instead-of-a-machine/answer/Alan-Kay-11)
 
 An interesting dimension and question is “rights and standing”.
 
@@ -8272,9 +7610,7 @@ Robert Heinlein took up this question in the larger sense in his 1947 short stor
 Worth reading — as are so many of Heinlein’s writings (especially the earlier ones).
 
 ---
-## Is software engineering culture based on traditional engineering culture?
-
-*https://www.quora.com/Is-software-engineering-culture-based-on-traditional-engineering-culture/answer/Alan-Kay-11*
+## [Is software engineering culture based on traditional engineering culture?](https://www.quora.com/Is-software-engineering-culture-based-on-traditional-engineering-culture/answer/Alan-Kay-11)
 
 My perception is that there are so many flavors of “Software Engineering” today — including many that claim “SE is what we do by definition” — that I can’t answer this question in general. And there is certainly a wide range of approaches that is apparent, from horrendous to “more principled”.
 
@@ -8297,9 +7633,7 @@ But, looking at the work of some of the people who came up with both the term �
 So I’m holding out for at least one exception to this gloomy picture, and I’m dying to be shown it.
 
 ---
-## What part of Burroughs Systems did you work on? Did you enjoy it? What did you enjoy most, and why?
-
-*https://www.quora.com/What-part-of-Burroughs-Systems-did-you-work-on-Did-you-enjoy-it-What-did-you-enjoy-most-and-why/answer/Alan-Kay-11*
+## [What part of Burroughs Systems did you work on? Did you enjoy it? What did you enjoy most, and why?](https://www.quora.com/What-part-of-Burroughs-Systems-did-you-work-on-Did-you-enjoy-it-What-did-you-enjoy-most-and-why/answer/Alan-Kay-11)
 
 I wrote quite a few programs for the Burroughs 220 — a vacuum tube core memory computer of the late 50s — while in the US Air Force in the early 60s. This machine was a bit like the MIX machine that Don Knuth used for his “Art Of Programming” books (Don wrote a lot of code for the Burroughs 205 that was earlier but with a very similar architecture).
 
@@ -8314,9 +7648,7 @@ However, both the details and the idea of the B5000 was used over and over by me
 In a talk I once claimed that the B5000 had “7 out of the 10 best ideas in software implemented in its HW”. (Less hyperbolic than it sounds …)
 
 ---
-## Did ARPA/PARC preemptively try to measure the impact of its research projects?
-
-*https://www.quora.com/Did-ARPA-PARC-preemptively-try-to-measure-the-impact-of-its-research-projects/answer/Alan-Kay-11*
+## [Did ARPA/PARC preemptively try to measure the impact of its research projects?](https://www.quora.com/Did-ARPA-PARC-preemptively-try-to-measure-the-impact-of-its-research-projects/answer/Alan-Kay-11)
 
 I’m not sure I understand the question, but as far as I know, the answer is “no”.
 
@@ -8329,9 +7661,7 @@ There were agreed on thresholds within ARPA: e.g. for how many computers the ARP
 And so forth.
 
 ---
-## What is it like to be an Apple Fellow?
-
-*https://www.quora.com/What-is-it-like-to-be-an-Apple-Fellow/answer/Alan-Kay-11*
+## [What is it like to be an Apple Fellow?](https://www.quora.com/What-is-it-like-to-be-an-Apple-Fellow/answer/Alan-Kay-11)
 
 This was a point in time between 1984 and 1996, so I can’t speak for earlier or later.
 
@@ -8354,9 +7684,7 @@ After this I took my research group to Disney where I was a Disney Fellow, and t
 Bottom line is that Fellows programs are very good ideas if the companies can adhere to Wiesner’s original design. The type of person that got chosen to be a Fellow in the old days was brilliant in important ways, very independent, already hard at work, usually underfunded, and not a good politician. The Fellow design helped all of these considerably.
 
 ---
-## How might drawing input work on a Dynabook?
-
-*https://www.quora.com/How-might-drawing-input-work-on-a-Dynabook/answer/Alan-Kay-11*
+## [How might drawing input work on a Dynabook?](https://www.quora.com/How-might-drawing-input-work-on-a-Dynabook/answer/Alan-Kay-11)
 
 Here’s the original cartoon and cardboard model from 1968.
 
@@ -8379,18 +7707,14 @@ And, the Flex Machine was about the right size of computer for first waves of VL
 So you can see that I didn’t have to do a lot of imagining to come up with the Dynabook idea … once I saw what Papert was doing with “children and powerful ideas”, it was easy.
 
 ---
-## What are some software architecture mistakes where things were done at the wrong layer or level of abstraction?
-
-*https://www.quora.com/What-are-some-software-architecture-mistakes-where-things-were-done-at-the-wrong-layer-or-level-of-abstraction/answer/Alan-Kay-11*
+## [What are some software architecture mistakes where things were done at the wrong layer or level of abstraction?](https://www.quora.com/What-are-some-software-architecture-mistakes-where-things-were-done-at-the-wrong-layer-or-level-of-abstraction/answer/Alan-Kay-11)
 
 If you knew there was going to be an Internet with many different kinds of computers, “operating systems” etc., and you realize that software “wants to run everywhere”, could you then imagine that traditional theories of “operating systems” and “programming languages” etc are quite at odds with a good future from the standpoints of both architecture and abstraction?
 
 If you can, then you can see that “almost everything” today is way off …
 
 ---
-## Was the Plato IV system any influence on the Alto and PARC in general?
-
-*https://www.quora.com/Was-the-Plato-IV-system-any-influence-on-the-Alto-and-PARC-in-general/answer/Alan-Kay-11*
+## [Was the Plato IV system any influence on the Alto and PARC in general?](https://www.quora.com/Was-the-Plato-IV-system-any-influence-on-the-Alto-and-PARC-in-general/answer/Alan-Kay-11)
 
 I thought I had answered this a few years ago, but can’t find it.
 
@@ -8425,9 +7749,7 @@ This became a deep goal, and it was one of the motivations a few years later at 
 (The Plato people thought we were literally crazy to try this …)
 
 ---
-## What is the best way to learn Lisp in 2020?
-
-*https://www.quora.com/What-is-the-best-way-to-learn-Lisp-in-2020/answer/Alan-Kay-11*
+## [What is the best way to learn Lisp in 2020?](https://www.quora.com/What-is-the-best-way-to-learn-Lisp-in-2020/answer/Alan-Kay-11)
 
 Much of learning language today is “learning libraries”, but what’s really important about Lisp is its approach to computation, representing computations, and meta-reflection.
 
@@ -8448,16 +7770,12 @@ I would most certainly urge my students to implement McCarthy’s “fluents” 
 Many people who take the trouble to work their way through all this will have an enormous whammy along a number of important dimensions. (One will be to realize that the “normal” approach to programming and computing is disastrously meager in its outlook.)
 
 ---
-## Can we use object-oriented methodology for designing heterogeneous complex systems systems?
-
-*https://www.quora.com/Can-we-use-object-oriented-methodology-for-designing-heterogeneous-complex-systems-systems/answer/Alan-Kay-11*
+## [Can we use object-oriented methodology for designing heterogeneous complex systems systems?](https://www.quora.com/Can-we-use-object-oriented-methodology-for-designing-heterogeneous-complex-systems-systems/answer/Alan-Kay-11)
 
 Here is my answer to what is essentially the same question: Software systems are becoming more complex & highly heterogeneous therefor they require better modeling approaches &implementation using multiple programming languages & technologies.can we use OO methodology for designing such heterogeneous systems?
 
 ---
-## I read somewhere that object-oriented programming was coined by Alan Kay circa 1966 or 1967 while he was at grad school. Has anyone influenced/contributed Alan to coin such a term?
-
-*https://www.quora.com/I-read-somewhere-that-object-oriented-programming-was-coined-by-Alan-Kay-circa-1966-or-1967-while-he-was-at-grad-school-Has-anyone-influenced-contributed-Alan-to-coin-such-a-term/answer/Alan-Kay-11*
+## [I read somewhere that object-oriented programming was coined by Alan Kay circa 1966 or 1967 while he was at grad school. Has anyone influenced/contributed Alan to coin such a term?](https://www.quora.com/I-read-somewhere-that-object-oriented-programming-was-coined-by-Alan-Kay-circa-1966-or-1967-while-he-was-at-grad-school-Has-anyone-influenced-contributed-Alan-to-coin-such-a-term/answer/Alan-Kay-11)
 
 Since the question has been asked, it’s worth reading the detailed history I was asked to write by the ACM in 1992, that became one of the sections of the 2nd History Of Programming Languages conference. The Early History Of Smalltalk
 
@@ -8496,9 +7814,7 @@ You are much better off hiding how state is handled inside a “process”, only
 That is what I had in mind back then.
 
 ---
-## Software systems are becoming more complex & highly heterogeneous therefor they require better modeling approaches &implementation using multiple programming languages & technologies.can we use OO methodology for designing such heterogeneous systems?
-
-*https://www.quora.com/Software-systems-are-becoming-more-complex-highly-heterogeneous-therefor-they-require-better-modeling-approaches-implementation-using-multiple-programming-languages-technologies-can-we-use-OO-methodology-for/answer/Alan-Kay-11*
+## [Software systems are becoming more complex & highly heterogeneous therefor they require better modeling approaches &implementation using multiple programming languages & technologies.can we use OO methodology for designing such heterogeneous systems?](https://www.quora.com/Software-systems-are-becoming-more-complex-highly-heterogeneous-therefor-they-require-better-modeling-approaches-implementation-using-multiple-programming-languages-technologies-can-we-use-OO-methodology-for/answer/Alan-Kay-11)
 
 I’ll rewrite this question:
 
@@ -8535,9 +7851,7 @@ This led to the question of how you could find a library routine if you didn’t
 ** Note that CORBA and many other half-hearted attempts declined to actually try to solve these problems (but they are indeed solvable).
 
 ---
-## How important was William English to the evolution of the personal computer?
-
-*https://www.quora.com/How-important-was-William-English-to-the-evolution-of-the-personal-computer/answer/Alan-Kay-11*
+## [How important was William English to the evolution of the personal computer?](https://www.quora.com/How-important-was-William-English-to-the-evolution-of-the-personal-computer/answer/Alan-Kay-11)
 
 Bill English was one of my oldest friends and colleagues, and the simple answer is “enormously important”.
 
@@ -8558,16 +7872,12 @@ He helped me in many ways at Parc, especially in the early days when, quite fres
 We loved him then, and we love him today.
 
 ---
-## How do I make my computer more interactive?
-
-*https://www.quora.com/How-do-I-make-my-computer-more-interactive/answer/Alan-Kay-11*
+## [How do I make my computer more interactive?](https://www.quora.com/How-do-I-make-my-computer-more-interactive/answer/Alan-Kay-11)
 
 This question sounds like a homework assignment. If so, you could learn quite a bit by trying to answer it by poking around yourself. And, ditto, if it isn’t a homework assignment.
 
 ---
-## Why do good ideas often not scale?
-
-*https://www.quora.com/Why-do-good-ideas-often-not-scale/answer/Alan-Kay-11*
+## [Why do good ideas often not scale?](https://www.quora.com/Why-do-good-ideas-often-not-scale/answer/Alan-Kay-11)
 
 This was a favorite utterance of the great systems (both hardware and software) designer Bob Barton. His exact quote was:
 
@@ -8596,9 +7906,7 @@ Another one is “confirmation bias”. It can take an idea that works in limite
 Back to this as a mantra: it is one of the most helpful, and worth using. I would call “good ideas don’t often scale”, “a great observation that does scale”!
 
 ---
-## In a talk Alan Kay gave, he said there are several reasons (6 or 7 reasons) why America no longer hires and makes a good use of its smart people and scientists like it used to in WW II and in The Cold War, can he mention them?
-
-*https://www.quora.com/In-a-talk-Alan-Kay-gave-he-said-there-are-several-reasons-6-or-7-reasons-why-America-no-longer-hires-and-makes-a-good-use-of-its-smart-people-and-scientists-like-it-used-to-in-WW-II-and-in-The-Cold-War-can-he/answer/Alan-Kay-11*
+## [In a talk Alan Kay gave, he said there are several reasons (6 or 7 reasons) why America no longer hires and makes a good use of its smart people and scientists like it used to in WW II and in The Cold War, can he mention them?](https://www.quora.com/In-a-talk-Alan-Kay-gave-he-said-there-are-several-reasons-6-or-7-reasons-why-America-no-longer-hires-and-makes-a-good-use-of-its-smart-people-and-scientists-like-it-used-to-in-WW-II-and-in-The-Cold-War-can-he/answer/Alan-Kay-11)
 
 I don’t think things are as total as the question implies. But — with regard to funding for computing as an example — I don’t think there is any question that the government funding for “edge” computer science is very far from the same quality and kind as it was in the 50s and especially the 60s.
 
@@ -8639,9 +7947,7 @@ White paper: https://internetat50.com/references/Kay_How.pdf
 All the references from that talk: Alan Kay - References
 
 ---
-## What was the very first computer science fact you learned that blew your mind?
-
-*https://www.quora.com/What-was-the-very-first-computer-science-fact-you-learned-that-blew-your-mind/answer/Alan-Kay-11*
+## [What was the very first computer science fact you learned that blew your mind?](https://www.quora.com/What-was-the-very-first-computer-science-fact-you-learned-that-blew-your-mind/answer/Alan-Kay-11)
 
 My undergrad majors (in the early 60s) were pure math and molecular biology, and I worked my way through college as a “data systems” programmer for the National Center for Atmospheric Research in Boulder, Colo (basically writing sorting and retrieval routines for the mountains of weather data that were used for analysis, and for one stretch, writing systems code for the CDC 6600, including several simulators of it and for it).
 
@@ -8666,9 +7972,7 @@ I don’t know how to sort out the impact from what it was specifically (as the 
 Both of these hit me/bit me hard, and for life. The first was “it’s the kind of thing we must invent for everyone”. The second was “it’s a new artistic medium of vast scope that cosmically transcends its materials”.
 
 ---
-## Has the fixed architecture of microprocessors turned out to be a wrong turning, given that many functions can be more easily performed in a programmable gate array which are rather more flexible?
-
-*https://www.quora.com/Has-the-fixed-architecture-of-microprocessors-turned-out-to-be-a-wrong-turning-given-that-many-functions-can-be-more-easily-performed-in-a-programmable-gate-array-which-are-rather-more-flexible/answer/Alan-Kay-11*
+## [Has the fixed architecture of microprocessors turned out to be a wrong turning, given that many functions can be more easily performed in a programmable gate array which are rather more flexible?](https://www.quora.com/Has-the-fixed-architecture-of-microprocessors-turned-out-to-be-a-wrong-turning-given-that-many-functions-can-be-more-easily-performed-in-a-programmable-gate-array-which-are-rather-more-flexible/answer/Alan-Kay-11)
 
 This question preaches to this particular choir, because of the great success at Xerox Parc in the 70s of the various microcoded personal computers done there. And before this, microcode (invented by Maurice Wilkes of EDSAC fame) had also been used in significant ways on significant computers.
 
@@ -8679,23 +7983,17 @@ FPGAs overlap on some of the same territory, but with different tradeoffs — an
 Bottom line for me today: it makes a lot of sense to have hybrid systems that combine both fixed and variable low level functions (for example: Intel has a rather large line of offerings which combine an ARM-like processor with a fair amount of FPGA real-estate).
 
 ---
-## If threads were allowed to share the stack memory, what complications will this create? Please make a list and discuss it.
-
-*https://www.quora.com/If-threads-were-allowed-to-share-the-stack-memory-what-complications-will-this-create-Please-make-a-list-and-discuss-it/answer/Alan-Kay-11*
+## [If threads were allowed to share the stack memory, what complications will this create? Please make a list and discuss it.](https://www.quora.com/If-threads-were-allowed-to-share-the-stack-memory-what-complications-will-this-create-Please-make-a-list-and-discuss-it/answer/Alan-Kay-11)
 
 This sounds like a homework assignment, and — if so — I don’t think you should try to get Quorans to do the work for you.
 
 ---
-## Are there any university math departments headed by a computer scientist?
-
-*https://www.quora.com/Are-there-any-university-math-departments-headed-by-a-computer-scientist/answer/Alan-Kay-11*
+## [Are there any university math departments headed by a computer scientist?](https://www.quora.com/Are-there-any-university-math-departments-headed-by-a-computer-scientist/answer/Alan-Kay-11)
 
 Good question (and I don’t know offhand). But there are any number of computer scientists who are deep enough mathematicians to qualify (e.g. Don Knuth, etc).
 
 ---
-## Why is it hard to make software compatible for multiple operating systems?
-
-*https://www.quora.com/Why-is-it-hard-to-make-software-compatible-for-multiple-operating-systems/answer/Alan-Kay-11*
+## [Why is it hard to make software compatible for multiple operating systems?](https://www.quora.com/Why-is-it-hard-to-make-software-compatible-for-multiple-operating-systems/answer/Alan-Kay-11)
 
 It actually isn’t very hard if you are willing to put in some extra work and care (and these extras could be considered “hard”, but they are up front prep).
 
@@ -8716,9 +8014,7 @@ Now there is a second route, which is to use JavaScript as “an assembler” ta
 I think this makes a lot of sense today because — with all its flaws (and there are many) — the browser environment is the only automatic universal deployment environment available on the Internet right now, and there are more and more examples that show that the optimizations of Java, and the possibilities for WebAssembly when needed, make this a decent target for one’s own systems.
 
 ---
-## What did Jon Von Neumann contribute to computers in contrast to Alan Turing?
-
-*https://www.quora.com/What-did-Jon-Von-Neumann-contribute-to-computers-in-contrast-to-Alan-Turing/answer/Alan-Kay-11*
+## [What did Jon Von Neumann contribute to computers in contrast to Alan Turing?](https://www.quora.com/What-did-Jon-Von-Neumann-contribute-to-computers-in-contrast-to-Alan-Turing/answer/Alan-Kay-11)
 
 Alan Turing in the mid 30s explored computability*, which was triggered by interest in Goedel’s demonstration that most interesting systems of logic were not completely decidable.
 
@@ -8747,18 +8043,14 @@ This mismatch of speeds is still the case. The intermediate ground of making the
 The Manchester Mark I worked for the first time a few months after EDSAC. (Not that priority means anything, but there is still the friendly rivalry between Cambridge and Manchester …)
 
 ---
-## What are old technology systems referred to?
-
-*https://www.quora.com/What-are-old-technology-systems-referred-to/answer/Alan-Kay-11*
+## [What are old technology systems referred to?](https://www.quora.com/What-are-old-technology-systems-referred-to/answer/Alan-Kay-11)
 
 Normal
 
 (“Technology” is all that stuff that happened *after* you were born …)
 
 ---
-## Why do people often attribute inventions with only a single genius?
-
-*https://www.quora.com/Why-do-people-often-attribute-inventions-with-only-a-single-genius/answer/Alan-Kay-11*
+## [Why do people often attribute inventions with only a single genius?](https://www.quora.com/Why-do-people-often-attribute-inventions-with-only-a-single-genius/answer/Alan-Kay-11)
 
 Joseph Campbell’s book “The Hero With A Thousand Faces” provides part of an answer. In this view, humans are not only genetically wired for language and stories, but we might even have some story tropes partly built in. In any case, cultures can preserve tropes, genetics or not.
 
@@ -8773,16 +8065,12 @@ Still, the sequentiality of stories and the limitations of short term memory cat
 And … though e.g. Newton somewhat required the 17th century and some of the past, what he did by himself is so amazingly staggering that you have to consider him a single genius.
 
 ---
-## What term describes an instance of a program being executed?
-
-*https://www.quora.com/What-term-describes-an-instance-of-a-program-being-executed/answer/Alan-Kay-11*
+## [What term describes an instance of a program being executed?](https://www.quora.com/What-term-describes-an-instance-of-a-program-being-executed/answer/Alan-Kay-11)
 
 In antediluvian times it was called a “process”. I think terms have gotten mixed together and less clear these days …
 
 ---
-## Which book has provided you the most tangible benefits in your life as a computer scientist?
-
-*https://www.quora.com/Which-book-has-provided-you-the-most-tangible-benefits-in-your-life-as-a-computer-scientist/answer/Alan-Kay-11*
+## [Which book has provided you the most tangible benefits in your life as a computer scientist?](https://www.quora.com/Which-book-has-provided-you-the-most-tangible-benefits-in-your-life-as-a-computer-scientist/answer/Alan-Kay-11)
 
 Most of the writings that got me going early on (starting early in the 60s) were papers.
 
@@ -8807,9 +8095,7 @@ I’ll just stick to the 60s. Books whose ideas and perspectives had a huge infl
 “An Algol 60 Compiler” (1964) by Randell and Russell had the wonderful ideas — which were pulled off with a great implementation — of having models of programs and to have parallel semantically exact implementations for different purposes (e.g. an interpreter for programming and debugging, an optimizing compiler for production runs). This fit nicely with the advent of CAD and SIM (with Sketchpad and other early systems) along with “automatic FAB” to get a final product, that was the kind of thing that engineers concerned with computing could see happening to their fields (including the field of computing). Ironically, to this day, computing in general has done the least with CAD<->SIM->FAB (except in the remote reaches of computing research in ARPA and Parc, etc.).
 
 ---
-## Are there necessary compromises between making a computer a consumer convenience along with being a tool for augmenting intellect?
-
-*https://www.quora.com/Are-there-necessary-compromises-between-making-a-computer-a-consumer-convenience-along-with-being-a-tool-for-augmenting-intellect/answer/Alan-Kay-11*
+## [Are there necessary compromises between making a computer a consumer convenience along with being a tool for augmenting intellect?](https://www.quora.com/Are-there-necessary-compromises-between-making-a-computer-a-consumer-convenience-along-with-being-a-tool-for-augmenting-intellect/answer/Alan-Kay-11)
 
 One way for you to answer your question is to consider the technologies of reading/writing and their extension into the mass world via printing. If you start with the larger world of “augmenting intellect” via reading and writing and printing, it is very easy to also use these tools for “consumer conveniences”.
 
@@ -8820,9 +8106,7 @@ I think this applies across the board for computing. A bunch of us put in a lot 
 Some people use this full out. Far too many never realize what they are missing (this is because computers can also simulate lots of stuff that is actually “anti-augmentation of intellect” (namely “diminution of intellect”) e.g. Twitter).
 
 ---
-## How did people at PARC think about AI?
-
-*https://www.quora.com/How-did-people-at-PARC-think-about-AI/answer/Alan-Kay-11*
+## [How did people at PARC think about AI?](https://www.quora.com/How-did-people-at-PARC-think-about-AI/answer/Alan-Kay-11)
 
 A short answer here, and I’ll likely get back to this for a longer one.
 
@@ -8831,9 +8115,7 @@ Parc had from the beginning some of the top people in AI, including Danny Bobrow
 A number of impressive systems were done, including KRL, Steamer, etc.
 
 ---
-## How was the first computer operating system made if there were no programming languages?
-
-*https://www.quora.com/How-was-the-first-computer-operating-system-made-if-there-were-no-programming-languages/answer/Alan-Kay-11*
+## [How was the first computer operating system made if there were no programming languages?](https://www.quora.com/How-was-the-first-computer-operating-system-made-if-there-were-no-programming-languages/answer/Alan-Kay-11)
 
 There are two ideas here (a) “program” and (b) “computer”.
 
@@ -8878,9 +8160,7 @@ A somewhat different answer I wrote a while ago might also help:
 How were computer programs and languages like COBOL installed into computers back in the 50s before software?
 
 ---
-## Is there a programming language that uses past and future tense?
-
-*https://www.quora.com/Is-there-a-programming-language-that-uses-past-and-future-tense/answer/Alan-Kay-11*
+## [Is there a programming language that uses past and future tense?](https://www.quora.com/Is-there-a-programming-language-that-uses-past-and-future-tense/answer/Alan-Kay-11)
 
 Some very confident (why?) answers here about “no, there aren’t programming languages with past tense”. Or “there isn’t any reason for such a thing”.
 
@@ -8893,16 +8173,12 @@ These ideas are important on a number of fronts (for example, think of the many 
 Histories and tenses can be implemented in languages with a decent meta-framework (e.g. Lisp, Smalltalk, etc.). Here is a paper about such an experiment: http://www.vpri.org/pdf/tr2011001_final_worlds.pdf
 
 ---
-## What did you think of How Did We Find Out About Computers by Isaac Asimov?
-
-*https://www.quora.com/What-did-you-think-of-How-Did-We-Find-Out-About-Computers-by-Isaac-Asimov/answer/Alan-Kay-11*
+## [What did you think of How Did We Find Out About Computers by Isaac Asimov?](https://www.quora.com/What-did-you-think-of-How-Did-We-Find-Out-About-Computers-by-Isaac-Asimov/answer/Alan-Kay-11)
 
 I like Asimov, but this book doesn’t explain anything that would help a child learn how computers work — how to make them, program them, get them to do a few semi-intelligent things, etc.
 
 ---
-## What is the story behind Alan Kay’s adage “Simple things should be simple, complex things should be possible”?
-
-*https://www.quora.com/What-is-the-story-behind-Alan-Kay-s-adage-Simple-things-should-be-simple-complex-things-should-be-possible/answer/Alan-Kay-11*
+## [What is the story behind Alan Kay’s adage “Simple things should be simple, complex things should be possible”?](https://www.quora.com/What-is-the-story-behind-Alan-Kay-s-adage-Simple-things-should-be-simple-complex-things-should-be-possible/answer/Alan-Kay-11)
 
 I think I came up with this slogan at Parc during discussions wrt children, end-users, user-interfaces, and programming languages. Chuck Thacker (the genius behind the Parc hardware) also liked it and adopted it as a principle for many of his projects.
 
@@ -8921,9 +8197,7 @@ It’s worth pondering this. One argument against mine, is that “people need a
 I would say, “Well, that’s the simple part, now show me how the next idea and need the end-user has that is not directly in the surface appliance can be realized” (this is the enormous difference between a computer artifact and anything made from atoms — and it means that the analogy to appliances is not a very good one). There is just no reason not to allow and make possible safe “hood popping” …
 
 ---
-## As a software engineer, if you were the professor of an "Introduction to Programming" course at a college, what programming language would you choose to introduce newbies into the world of programming? Why?
-
-*https://www.quora.com/As-a-software-engineer-if-you-were-the-professor-of-an-Introduction-to-Programming-course-at-a-college-what-programming-language-would-you-choose-to-introduce-newbies-into-the-world-of-programming-Why/answer/Alan-Kay-11*
+## [As a software engineer, if you were the professor of an "Introduction to Programming" course at a college, what programming language would you choose to introduce newbies into the world of programming? Why?](https://www.quora.com/As-a-software-engineer-if-you-were-the-professor-of-an-Introduction-to-Programming-course-at-a-college-what-programming-language-would-you-choose-to-introduce-newbies-into-the-world-of-programming-Why/answer/Alan-Kay-11)
 
 For me, this question is out of the scope of a Quora answer.
 
@@ -8950,9 +8224,7 @@ If successful, the students would come out at the end with many different perspe
 In other words, I don’t think the primary purpose of college is for vocational training, especially in programming (there are trade schools for just this purpose). The main purpose of college is to provide enough new and different perspectives to raise one’s level of thinking both overall and with regard to the subjects taught. And this should especially be the purpose of college in the first few years.
 
 ---
-## Is the second best way to predict the future to fund it?
-
-*https://www.quora.com/Is-the-second-best-way-to-predict-the-future-to-fund-it/answer/Alan-Kay-11*
+## [Is the second best way to predict the future to fund it?](https://www.quora.com/Is-the-second-best-way-to-predict-the-future-to-fund-it/answer/Alan-Kay-11)
 
 Note that the *easiest* way to predict the future is to *prevent* it. Or do nothing. Then the future will be like the present and the past (as it was for hundreds of thousands of years after humans appeared on the planet).
 
@@ -8961,9 +8233,7 @@ And that the phrase “the best way to predict the future is to invent it” is 
 There is plenty of funding around, but what’s required is the *kind* of funding that was typified by JCR Licklider at ARPA and Marvin Dennicoff at ONR.
 
 ---
-## I saw the first half of 2001: A Space Odyssey, but it was annoyingly slow paced, and I didn't see the need for that "Dawn of Man" sequence. Is it worth watching the rest of the movie?
-
-*https://www.quora.com/I-saw-the-first-half-of-2001-A-Space-Odyssey-but-it-was-annoyingly-slow-paced-and-I-didnt-see-the-need-for-that-Dawn-of-Man-sequence-Is-it-worth-watching-the-rest-of-the-movie/answer/Alan-Kay-11*
+## [I saw the first half of 2001: A Space Odyssey, but it was annoyingly slow paced, and I didn't see the need for that "Dawn of Man" sequence. Is it worth watching the rest of the movie?](https://www.quora.com/I-saw-the-first-half-of-2001-A-Space-Odyssey-but-it-was-annoyingly-slow-paced-and-I-didnt-see-the-need-for-that-Dawn-of-Man-sequence-Is-it-worth-watching-the-rest-of-the-movie/answer/Alan-Kay-11)
 
 In Business, “the customer is always right” (this is why we buy/pay) — a large part of the process is to “find a desire and fill it”.
 
@@ -8996,9 +8266,7 @@ Her solution was to get back the elemental contact and *transport* by using imme
 Quite a bit of great art is dealing with “the world is not as it seems”, and the artists try to find ways to get beyond the quick rejections of ideas that violate what people believe and that which remains invisible to them.
 
 ---
-## What aspects of Lisp influenced Smalltalk?
-
-*https://www.quora.com/What-aspects-of-Lisp-influenced-Smalltalk/answer/Alan-Kay-11*
+## [What aspects of Lisp influenced Smalltalk?](https://www.quora.com/What-aspects-of-Lisp-influenced-Smalltalk/answer/Alan-Kay-11)
 
 I’ve written about this variously elsewhere: including in “The Early History of Smalltalk”, and I’ve emphasized especially that “the idea of Lisp” pervades the underpinnings of Smalltalk as it was developed at Xerox Parc.
 
@@ -9039,9 +8307,7 @@ In a world in which almost nothing was known about programming — even by the b
 I don’t think a lot more is known today about programming than then, though Parc did make a few important advances. But many of the advances happened precisely because Smalltalk manifested its ideas about “instantiating intercommunicating processes” by using Lisp techniques. If I had to do it again, I would retain much of this approach, but would do a very different design in place of “Lisp sharing”.
 
 ---
-## What does Alan Kay think of the proposed 50th anniversary celebration of Smalltalk in 2022?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-the-proposed-50th-anniversary-celebration-of-Smalltalk-in-2022/answer/Alan-Kay-11*
+## [What does Alan Kay think of the proposed 50th anniversary celebration of Smalltalk in 2022?](https://www.quora.com/What-does-Alan-Kay-think-of-the-proposed-50th-anniversary-celebration-of-Smalltalk-in-2022/answer/Alan-Kay-11)
 
 I think especially celebrating Dan Ingalls would be a key point in a 50th anniversary celebration (if it weren’t for him, the various Smalltalks developed at Parc would not have happened).
 
@@ -9062,18 +8328,14 @@ Finally, I would celebrate the ARPA community processes (and those of Parc which
 There’s nothing happier than working on a truly great vision with great people, and nothing easier than to solve really difficult problems when all the time you have can be spent thinking about and approaching and redefining them in any way you choose.
 
 ---
-## Why did almost no one in the US know about Charles Babbage in the 1930s, as mentioned in the book The Dream Machine?
-
-*https://www.quora.com/Why-did-almost-no-one-in-the-US-know-about-Charles-Babbage-in-the-1930s-as-mentioned-in-the-book-The-Dream-Machine/answer/Alan-Kay-11*
+## [Why did almost no one in the US know about Charles Babbage in the 1930s, as mentioned in the book The Dream Machine?](https://www.quora.com/Why-did-almost-no-one-in-the-US-know-about-Charles-Babbage-in-the-1930s-as-mentioned-in-the-book-The-Dream-Machine/answer/Alan-Kay-11)
 
 Alexis de Tocqueville wrote about Americans in the 1840s: “They have no past and no future, but live in an extended present”.
 
 I think it’s quite fair to say about most Americans that History of almost any kind is very far from their main interests or past studies.
 
 ---
-## Are modes a feature or a bug in interface design?
-
-*https://www.quora.com/Are-modes-a-feature-or-a-bug-in-interface-design/answer/Alan-Kay-11*
+## [Are modes a feature or a bug in interface design?](https://www.quora.com/Are-modes-a-feature-or-a-bug-in-interface-design/answer/Alan-Kay-11)
 
 Quite a bit of early user interface design was done by the ARPA community starting in the early 60s — as an outgrowth of JCR Licklider’s vision: “It is the destiny of computers to become interactive intellectual amplifiers for all humanity pervasively networked worldwide” — after he was asked by ARPA to fund projects to further this vision.
 
@@ -9110,16 +8372,12 @@ It’s worth noting that quite a bit of modiness has crept back into UIs in comp
 Virtually all *real modes* are a bug in UI design.
 
 ---
-## Are there problems where a solution by symbolic computation (using only computer algebra regardless of difficulty or time required to solve them) is absolutely impossible that can only be solved with numerical methods? What are some examples?
-
-*https://www.quora.com/Are-there-problems-where-a-solution-by-symbolic-computation-using-only-computer-algebra-regardless-of-difficulty-or-time-required-to-solve-them-is-absolutely-impossible-that-can-only-be-solved-with-numerical-methods/answer/Alan-Kay-11*
+## [Are there problems where a solution by symbolic computation (using only computer algebra regardless of difficulty or time required to solve them) is absolutely impossible that can only be solved with numerical methods? What are some examples?](https://www.quora.com/Are-there-problems-where-a-solution-by-symbolic-computation-using-only-computer-algebra-regardless-of-difficulty-or-time-required-to-solve-them-is-absolutely-impossible-that-can-only-be-solved-with-numerical-methods/answer/Alan-Kay-11)
 
 Many non-linear problems don’t have algebraic solutions, and numerical methods have been used starting long before computing machinery to help. For example, most orbital mechanics, perturbation problems, fluid dynamics, etc.
 
 ---
-## What are the most important elements of computing history not widely known by current CS graduates or working developers?
-
-*https://www.quora.com/What-are-the-most-important-elements-of-computing-history-not-widely-known-by-current-CS-graduates-or-working-developers/answer/Alan-Kay-11*
+## [What are the most important elements of computing history not widely known by current CS graduates or working developers?](https://www.quora.com/What-are-the-most-important-elements-of-computing-history-not-widely-known-by-current-CS-graduates-or-working-developers/answer/Alan-Kay-11)
 
 I think this question is much too large for a Quora sized answer (in part because of a combination of a lack of curiosity in the field generally, and a general lack of emphasis on history in schooling).
 
@@ -9146,9 +8404,7 @@ cf. Robert S. Barton: “A new approach to the functional design of a computer s
 Note: All four of the above early sixties ideas and insights by out and out geniuses had a great influence on subsequent work in the ARPA community, and especially at Xerox Parc.
 
 ---
-## Is our capacity for problem solving limited by abstraction? (Particularly in Computer Science)
-
-*https://www.quora.com/Is-our-capacity-for-problem-solving-limited-by-abstraction-Particularly-in-Computer-Science/answer/Alan-Kay-11*
+## [Is our capacity for problem solving limited by abstraction? (Particularly in Computer Science)](https://www.quora.com/Is-our-capacity-for-problem-solving-limited-by-abstraction-Particularly-in-Computer-Science/answer/Alan-Kay-11)
 
 Marvin Minsky liked to say “You can’t teach calculus to a cat”. So, sure, it is extremely likely that there are problems (and solutions) we can’t understand or even see.
 
@@ -9167,18 +8423,14 @@ Still, I think a better — if more cryptic — question for this would be: “I
 I think the answer has to be yes, even with computers being able to take up more and more of the capacity load. At some point we won’t be able to be helped by what they might be able to do.
 
 ---
-## How do I make an AI program that learns?
-
-*https://www.quora.com/How-do-I-make-an-AI-program-that-learns/answer/Alan-Kay-11*
+## [How do I make an AI program that learns?](https://www.quora.com/How-do-I-make-an-AI-program-that-learns/answer/Alan-Kay-11)
 
 Here is a very simple but comprehensive example. You can see what is actually going on in the learning process for “conditioned learning”, and you can deeply learn how it works by making it.
 
 How would one explain AI to a complete beginner?
 
 ---
-## Who developed idea of using vacuum tubes in computers?
-
-*https://www.quora.com/Who-developed-idea-of-using-vacuum-tubes-in-computers/answer/Alan-Kay-11*
+## [Who developed idea of using vacuum tubes in computers?](https://www.quora.com/Who-developed-idea-of-using-vacuum-tubes-in-computers/answer/Alan-Kay-11)
 
 Take a look at the legendary Tommy Flowers, who was one of the earliest to make computing machines using vacuum tubes.Tommy Flowers - Wikipedia
 
@@ -9203,9 +8455,7 @@ These insights were key in the groundbreaking work Flowers did for the Bletchley
 (And, yes, these machines did use the older Eccles & Jordan flip-flop circuits in Flowers’ designs for the Bletchley Park machines, including for Colossus in 1943 — Flowers and the Bletchley Park people were readers and did not waste time trying to reinvent things that had already been long invented …)
 
 ---
-## How do programming language designers manage language complexity?
-
-*https://www.quora.com/How-do-programming-language-designers-manage-language-complexity/answer/Alan-Kay-11*
+## [How do programming language designers manage language complexity?](https://www.quora.com/How-do-programming-language-designers-manage-language-complexity/answer/Alan-Kay-11)
 
 A specific rather than general answer. For Smalltalk at Xerox Parc in the 70s, the approach was very Lisp-like: create a universal building block, implement that, and then deal with the complexities of designing and making “useful features” i.e. everything that one uses in Smalltalk would be considered “library” in more feature-laden languages.
 
@@ -9220,9 +8470,7 @@ This could wind up in a mess, as with more conventional approaches. The two main
 This allowed a lot of flexibility and many real things to be made, but then every several years, we could also take stock of what we thought we’d learned and compare this to the gracefulness of the language at that point. When there was enough of a mismatch, we would do whole new system (but build it using the old one as environment until it could be cut free and stand alone).
 
 ---
-## How were computer programs and languages like COBOL installed into computers back in the 50s before software?
-
-*https://www.quora.com/How-were-computer-programs-and-languages-like-COBOL-installed-into-computers-back-in-the-50s-before-software-1/answer/Alan-Kay-11*
+## [How were computer programs and languages like COBOL installed into computers back in the 50s before software?](https://www.quora.com/How-were-computer-programs-and-languages-like-COBOL-installed-into-computers-back-in-the-50s-before-software-1/answer/Alan-Kay-11)
 
 There was always “software” for “programmable computers” because this was the reason such computers were made (my favorite “first” is Maurice Wilkes’ EDSAC in 1948 (the Manchester people would quibble a bit).
 
@@ -9241,9 +8489,7 @@ The first COBOL was done by Grace Hopper, Harold ‘Bud’ Lawson, etc., for the
 So: the COBOL (and FORTRAN, etc.) compilers never got actually loaded into memory, but just the parts of them needed for the parts of the compilation task being done. According to Bud Lawson, the first time an HLL program was compiled on two different machines from different manufacturers was in Dec 1960 for COBOL on both the Univac and the RCA computer.
 
 ---
-## Was computing dumbed down by the arrival of computer science in academia?
-
-*https://www.quora.com/Was-computing-dumbed-down-by-the-arrival-of-computer-science-in-academia/answer/Alan-Kay-11*
+## [Was computing dumbed down by the arrival of computer science in academia?](https://www.quora.com/Was-computing-dumbed-down-by-the-arrival-of-computer-science-in-academia/answer/Alan-Kay-11)
 
 This is an interesting question! My first reaction was “absolutely not, just the opposite” … but this is the old fogey from the 60s reaction. This is because — pound for pound — by far the best “real computer science” * in the 60s was being done in the major universities around the world (e.g. in the UK: Cambridge, Manchester, Imperial, Edinburgh, etc.; in the US: Penn, MIT, Princeton, CMU, Illinois, Stanford, Berkeley, UCLA, etc.; as well as major universities in Europe: ETH, Eindhoven, etc.).
 
@@ -9306,9 +8552,7 @@ Some of the earliest pioneers realized that the computer was “meta” in that 
 *** We are sometimes asked how Xerox Parc could have been so inventive and productive in the 70s with just a few dozen computerists. One of the answers is lurking in the above. We thought in terms of systems of processes, made models of these, and ran these models on computer architectures we invented and constructed. I would call what we did the virtuous uplifting spiral of “Computer Science” understanding things to allow various “Computer Engineerings” to make new things, and etc.
 
 ---
-## Does the Chinese Room prove that true artificial intelligence will never be developed?
-
-*https://www.quora.com/Does-the-Chinese-Room-prove-that-true-artificial-intelligence-will-never-be-developed/answer/Alan-Kay-11*
+## [Does the Chinese Room prove that true artificial intelligence will never be developed?](https://www.quora.com/Does-the-Chinese-Room-prove-that-true-artificial-intelligence-will-never-be-developed/answer/Alan-Kay-11)
 
 A less misleading situation is to ask whether there is something not “mechanical” — or something “intrinsically intelligent” — about atoms that accumulates into “intelligence” and “consciousness” when the atoms are formed into a human brain.
 
@@ -9333,9 +8577,7 @@ So: what we should be interested in here is the science and engineering of “in
 From the practical standpoint, it is hard to imagine that solutions will not be more intelligent and reflective than human beings right from the get-go (we are actually terrible thinkers, given what thinking is all about). This would open up more questions, but I think pondering about this will require a lot more depth than Searle has shown.
 
 ---
-## What is an interesting and usual historical computer architecture? Was it definitely a dead-end or could it possibly make a come-back?
-
-*https://www.quora.com/What-is-an-interesting-and-usual-historical-computer-architecture-Was-it-definitely-a-dead-end-or-could-it-possibly-make-a-come-back/answer/Alan-Kay-11*
+## [What is an interesting and usual historical computer architecture? Was it definitely a dead-end or could it possibly make a come-back?](https://www.quora.com/What-is-an-interesting-and-usual-historical-computer-architecture-Was-it-definitely-a-dead-end-or-could-it-possibly-make-a-come-back/answer/Alan-Kay-11)
 
 A really interesting “early architecture of great interest” was Wes Clark’s TX-2, the test computer at Lincoln Labs for the SAGE air defense system. This was also the machine that Ivan Sutherland used to invent a superset of modern computer graphics in 1962. One of several key features was its interleaved bottom level zero-overhead tasking architecture with about two dozen separate program counters, all tied to different conditions. This not only avoided normal interrupt processing, but also allowed many processes that were like HW peripherals to be emulated by programs (in fact, the graphics display and pointing device and knobs etc system that Sutherland used was creating by programming, and using the multiple PCs as though they were dedicated machines).
 
@@ -9350,16 +8592,12 @@ Today such an architecture might be done with hybrid FPGAs (but done better than
 The basic key to combining flexibility with speed generally has much more to do with how the memory and processing units relate, especially at the lowest levels.
 
 ---
-## Is computer program portability more important in today's mobile technology?
-
-*https://www.quora.com/Is-computer-program-portability-more-important-in-todays-mobile-technology/answer/Alan-Kay-11*
+## [Is computer program portability more important in today's mobile technology?](https://www.quora.com/Is-computer-program-portability-more-important-in-todays-mobile-technology/answer/Alan-Kay-11)
 
 I’ve always thought it was tremendously important in every era that I’ve been in computing. “Software wants to run on everything” — a huge percentage of computer people seem to bend over backwards to prevent this, but I think it’s a mistake.
 
 ---
-## Is it possible to program a word-processor or text-editor? How would I go about doing this?
-
-*https://www.quora.com/Is-it-possible-to-program-a-word-processor-or-text-editor-How-would-I-go-about-doing-this/answer/Alan-Kay-11*
+## [Is it possible to program a word-processor or text-editor? How would I go about doing this?](https://www.quora.com/Is-it-possible-to-program-a-word-processor-or-text-editor-How-would-I-go-about-doing-this/answer/Alan-Kay-11)
 
 Do you mean to make one from scratch? (They all have been made from scratch originally — more can be made).
 
@@ -9368,9 +8606,7 @@ Do you mean to have a programmable word processor? (E.g. Emacs is a famous one, 
 Etc.
 
 ---
-## What thought process would lead one to invent object-oriented programming?
-
-*https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11*
+## [What thought process would lead one to invent object-oriented programming?](https://www.quora.com/What-thought-process-would-lead-one-to-invent-object-oriented-programming/answer/Alan-Kay-11)
 
 (Per Paul Hudson: “Maybe Alan Kay would answer. Since he did!”)
 
@@ -9425,9 +8661,7 @@ The flaw in how things have played out is that very few in computing actually pu
 At Parc, we got a tremendous boost in what we could conceive and write in very few lines of code because we tried to use as much as possible about what we understood about this new way to organize and program complex systems. (Today, there is more understood about this, but even the first time around, we were constantly amazed at what was possible.)
 
 ---
-## How do you see Linus' prediction failure of parallel computing?
-
-*https://www.quora.com/How-do-you-see-Linus-prediction-failure-of-parallel-computing/answer/Alan-Kay-11*
+## [How do you see Linus' prediction failure of parallel computing?](https://www.quora.com/How-do-you-see-Linus-prediction-failure-of-parallel-computing/answer/Alan-Kay-11)
 
 I’m not sure that he is predicting the failure of parallel computing. The context of the remarks seems tiny, and seems even limited to specific tiny contexts (for example using “locks” at all is a very bad way to try to deal with race conditions, etc.).
 
@@ -9448,9 +8682,7 @@ Perhaps the poor job done in traditional HW and SW of architecture in general an
 One way to try and learn some really interesting things is to get a FPGA plug-in box for your computer and start to make highly parallel architectures with it (it’s a lot easier all around with (a) thinking parallel from the get go, and (b) realizing that many difficulties with parallel computing are actually due to the traditional von Neumann architectures which separate memories from processing. You can easily comingle these in a FPGA.
 
 ---
-## Which are the earliest real-time text editors?
-
-*https://www.quora.com/Which-are-the-earliest-real-time-text-editors-1/answer/Alan-Kay-11*
+## [Which are the earliest real-time text editors?](https://www.quora.com/Which-are-the-earliest-real-time-text-editors-1/answer/Alan-Kay-11)
 
 It would be great to track down a precision answer to this.
 
@@ -9469,9 +8701,7 @@ I can’t put my finger on the earliest display text editor. Wes Clark’s LINC 
 Let’s see if we can track this down better …
 
 ---
-## What bottlenecks need to be addressed in order for the real computer revolution to happen?
-
-*https://www.quora.com/What-bottlenecks-need-to-be-addressed-in-order-for-the-real-computer-revolution-to-happen/answer/Alan-Kay-11*
+## [What bottlenecks need to be addressed in order for the real computer revolution to happen?](https://www.quora.com/What-bottlenecks-need-to-be-addressed-in-order-for-the-real-computer-revolution-to-happen/answer/Alan-Kay-11)
 
 I don’t think there is “one” real computer revolution, but the general premise that “it” or “these” haven’t happened yet does help pondering (and I also think that where things generally are today is so low compared to what could be done makes the phrase “the computer revolution hasn’t happened yet” quite reasonable).
 
@@ -9518,9 +8748,7 @@ Where is “the equivalent of Hypercard in 2020”?
 Is anyone in the computing field even asking this question? Or trying to find it?
 
 ---
-## If all knowledge of programming and computer science was to be gone, what 10 books/papers could restart the field and bring things back or make things better?
-
-*https://www.quora.com/If-all-knowledge-of-programming-and-computer-science-was-to-be-gone-what-10-books-papers-could-restart-the-field-and-bring-things-back-or-make-things-better/answer/Alan-Kay-11*
+## [If all knowledge of programming and computer science was to be gone, what 10 books/papers could restart the field and bring things back or make things better?](https://www.quora.com/If-all-knowledge-of-programming-and-computer-science-was-to-be-gone-what-10-books-papers-could-restart-the-field-and-bring-things-back-or-make-things-better/answer/Alan-Kay-11)
 
 This question could be about a cold start to computing — no computers around at all — or it could be about “the computers and networks we now have are around, but no one knows how to program them”. Or something somewhere in between.
 
@@ -9529,9 +8757,7 @@ This makes a difference because some of how programming got started — and some
 I have a bit of an urge to try to answer this, but I need more clarity in the question.
 
 ---
-## How many programmers were in the world in 1964?
-
-*https://www.quora.com/How-many-programmers-were-in-the-world-in-1964/answer/Alan-Kay-11*
+## [How many programmers were in the world in 1964?](https://www.quora.com/How-many-programmers-were-in-the-world-in-1964/answer/Alan-Kay-11)
 
 It would be great to find definitive answers. I just sent an email to Fred Brooks to get his opinion.
 
@@ -9558,9 +8784,7 @@ Fred Brooks wound up with the responsibility of the OS (OS/360) and wrote the cl
 The combination of programmers needed for the quite a few thousand machines in the world around 1964, plus the hundreds to thousands who worked for IBM (I can’t remember whether it was 500 or 2000 who wound up for OS/360 alone), certainly would add up to a lot more than 10,000.
 
 ---
-## How could computers develop their own language and take over the Earth?
-
-*https://www.quora.com/How-could-computers-develop-their-own-language-and-take-over-the-Earth/answer/Alan-Kay-11*
+## [How could computers develop their own language and take over the Earth?](https://www.quora.com/How-could-computers-develop-their-own-language-and-take-over-the-Earth/answer/Alan-Kay-11)
 
 Frederic Brown was a terrific science fiction writer in the 40s and 50s. He also loved to write “half-pagers”: entire sci-fi stories in a few hundred words. Here’s a favorite one from 1950:
 
@@ -9611,9 +8835,7 @@ It is well worth pondering how these three principles work at every scale from t
 Evolving a brain that can create cultures and languages within the cultures is just the tiniest part of what has happened.
 
 ---
-## How do I reason that the Single Responsibility Principle (SRP) does not violate the spirit of the Open Closed Principle (OCP)?
-
-*https://www.quora.com/How-do-I-reason-that-the-Single-Responsibility-Principle-SRP-does-not-violate-the-spirit-of-the-Open-Closed-Principle-OCP/answer/Alan-Kay-11*
+## [How do I reason that the Single Responsibility Principle (SRP) does not violate the spirit of the Open Closed Principle (OCP)?](https://www.quora.com/How-do-I-reason-that-the-Single-Responsibility-Principle-SRP-does-not-violate-the-spirit-of-the-Open-Closed-Principle-OCP/answer/Alan-Kay-11)
 
 In theory, I don’t like this question, but in practice, I do.
 
@@ -9654,16 +8876,12 @@ So it’s worth quite a bit a work in any system intended to be real and over ye
 The most important principle in using “principles” is to check whether the “principles” are actually at a level that will help overall.
 
 ---
-## Why is VSCode nearly 300 megabytes while Sublime Text is just 16 megabytes?
-
-*https://www.quora.com/Why-is-VSCode-nearly-300-megabytes-while-Sublime-Text-is-just-16-megabytes/answer/Alan-Kay-11*
+## [Why is VSCode nearly 300 megabytes while Sublime Text is just 16 megabytes?](https://www.quora.com/Why-is-VSCode-nearly-300-megabytes-while-Sublime-Text-is-just-16-megabytes/answer/Alan-Kay-11)
 
 “Ouch!” on both the 300MB and the “just 16” … yikes!
 
 ---
-## What are some good examples of liberal arts points of view brought to computing?
-
-*https://www.quora.com/What-are-some-good-examples-of-liberal-arts-points-of-view-brought-to-computing/answer/Alan-Kay-11*
+## [What are some good examples of liberal arts points of view brought to computing?](https://www.quora.com/What-are-some-good-examples-of-liberal-arts-points-of-view-brought-to-computing/answer/Alan-Kay-11)
 
 “Liberal arts points of view”?
 
@@ -9724,9 +8942,7 @@ So, from where I am in the peanut gallery, I’d say the “liberal arts” had 
 A provocative question for readers: can you see the lack of “liberal arts thinking” in where many of these early inventions have wound up today?
 
 ---
-## What is the relationship between performance and abstraction?
-
-*https://www.quora.com/What-is-the-relationship-between-performance-and-abstraction/answer/Alan-Kay-11*
+## [What is the relationship between performance and abstraction?](https://www.quora.com/What-is-the-relationship-between-performance-and-abstraction/answer/Alan-Kay-11)
 
 This question needs more to it. For example, does the “abstraction” contain requirements for certain levels of performance? (as we’d expect if the abstraction is a “runnable requirements” language). If the result meets the requirements, then the relationship is 1:1.
 
@@ -9735,9 +8951,7 @@ As another example, it was sometimes the case in the 70s that the excellent inte
 In any case, there is certainly no simple relationship between the two.
 
 ---
-## How did drawing work on the Alto?
-
-*https://www.quora.com/How-did-drawing-work-on-the-Alto/answer/Alan-Kay-11*
+## [How did drawing work on the Alto?](https://www.quora.com/How-did-drawing-work-on-the-Alto/answer/Alan-Kay-11)
 
 Parc started up in 1970–1, coincidentally with the advent of the first VLSI chips: the 1103 dynamic RAM from Intel (all of 1024 bits, but in a much: smaller package, lower voltage, and lower cost than core memory).
 
@@ -9794,9 +9008,7 @@ You can see this system being demonstrated, including the painting, in the tribu
 This system is partly of interest because it was the one that was used in the infamous “Parc Steve Jobs” demo.
 
 ---
-## To what extent did Simula influence Smalltalk?
-
-*https://www.quora.com/To-what-extent-did-Simula-influence-Smalltalk/answer/Alan-Kay-11*
+## [To what extent did Simula influence Smalltalk?](https://www.quora.com/To-what-extent-did-Simula-influence-Smalltalk/answer/Alan-Kay-11)
 
 To a large extent. Basically: Simula cannot be praised too highly — and along many dimensions.
 
@@ -9811,9 +9023,7 @@ You will also find how Lisp came to play an important role to replace the Simula
 Finally, the 4 different Smalltalk designs at Parc and how they happened are examined in some detail.
 
 ---
-## What was the historical significance of FORTRAN?
-
-*https://www.quora.com/What-was-the-historical-significance-of-FORTRAN/answer/Alan-Kay-11*
+## [What was the historical significance of FORTRAN?](https://www.quora.com/What-was-the-historical-significance-of-FORTRAN/answer/Alan-Kay-11)
 
 The historical significance of FORTRAN is primarily due to the level of software engineering in the system, but there was also a “four minute mile” effect from the combination of “early” and “efficient”.
 
@@ -9826,9 +9036,7 @@ The extent to which IBM carried this out was astonishing. For example, you could
 FORTRAN’s (relatively) efficiently running code produced two distinct kinds of user groups: (a) scientific programmers and (b) job shop programmers who wanted to get certain programs running well enough and quickly. The FORmula TRANslation part was limited to just arithmetic expressions: everything else in the early FORTRANs was quite basic and at the level of control structures and simple macros in assembler.
 
 ---
-## What are your favorite analogies to explain programming?
-
-*https://www.quora.com/What-are-your-favorite-analogies-to-explain-programming/answer/Alan-Kay-11*
+## [What are your favorite analogies to explain programming?](https://www.quora.com/What-are-your-favorite-analogies-to-explain-programming/answer/Alan-Kay-11)
 
 I have sometimes used “creating a banquet” or “organizing a restaurant”.
 
@@ -9837,9 +9045,7 @@ The “following a recipe” analogy is included as a tiny part of the larger pr
 If the above is to work as an analogy, I should not have to give more of an explanation.
 
 ---
-## Is it possible to learn two programming frameworks at the same time?
-
-*https://www.quora.com/Is-it-possible-to-learn-two-programming-frameworks-at-the-same-time/answer/Alan-Kay-11*
+## [Is it possible to learn two programming frameworks at the same time?](https://www.quora.com/Is-it-possible-to-learn-two-programming-frameworks-at-the-same-time/answer/Alan-Kay-11)
 
 In that galaxy long ago and far away (the 50s and early 60s) there were no standard operating systems, and most programming was done in assemblers that were symbolic representations of the underlying machine codes. And many “shops” had several computers of different types, and there was migration …
 
@@ -9858,32 +9064,24 @@ C’s best role was to act as this target. But currently this role is filled by 
 It should be pretty clear that learning only one programming scheme is terribly limiting, and this is already within a very (so far) limited range of options.
 
 ---
-## Why do musical artists - even the best ones - lose their ability to write a memorable new melody, far before they lose the ability to sing or play?
-
-*https://www.quora.com/Why-do-musical-artists-even-the-best-ones-lose-their-ability-to-write-a-memorable-new-melody-far-before-they-lose-the-ability-to-sing-or-play/answer/Alan-Kay-11*
+## [Why do musical artists - even the best ones - lose their ability to write a memorable new melody, far before they lose the ability to sing or play?](https://www.quora.com/Why-do-musical-artists-even-the-best-ones-lose-their-ability-to-write-a-memorable-new-melody-far-before-they-lose-the-ability-to-sing-or-play/answer/Alan-Kay-11)
 
 For the same reason that it is much easier to read one’s own language than to write in it — especially to write beautifully.
 
 ---
-## Are there pianos with more than 88 keys?
-
-*https://www.quora.com/Are-there-pianos-with-more-than-88-keys/answer/Alan-Kay-11*
+## [Are there pianos with more than 88 keys?](https://www.quora.com/Are-there-pianos-with-more-than-88-keys/answer/Alan-Kay-11)
 
 Take a look at the Boesendorfer Imperial Grand. It has 9 extra keys in the bass that extend the compass down to a low C (so 97 keys).
 
 Even more important is that Boesendorfers are wonderfully sounding instruments, with a very creamy french horns to flutes in the tenor through soprano range.
 
 ---
-## How many of ARPA/PARC’s researchers were married while they did their breakthrough work?
-
-*https://www.quora.com/How-many-of-ARPA-PARC-s-researchers-were-married-while-they-did-their-breakthrough-work/answer/Alan-Kay-11*
+## [How many of ARPA/PARC’s researchers were married while they did their breakthrough work?](https://www.quora.com/How-many-of-ARPA-PARC-s-researchers-were-married-while-they-did-their-breakthrough-work/answer/Alan-Kay-11)
 
 With regard to the computer researchers there, I’d say “quite a few” (I don’t know how to be more precise). And I would guess that the physical sciences researchers were even more so.
 
 ---
-## How would one explain AI to a complete beginner?
-
-*https://www.quora.com/How-would-one-explain-AI-to-a-complete-beginner/answer/Alan-Kay-11*
+## [How would one explain AI to a complete beginner?](https://www.quora.com/How-would-one-explain-AI-to-a-complete-beginner/answer/Alan-Kay-11)
 
 Many single-celled microorganisms are able to detect toxic conditions — temperature, acidity, etc. — and initiate a “tumbling” behavior that finds random directions that can move them away from the danger. Similarly, many can detect when “things are good” and even guess at “better” and move in that direction.
 
@@ -9926,9 +9124,7 @@ A systems organization for “artificial psychology” was suggested by Marvin M
 ***** Marvin Minsky: “The Society of Mind”, and “The Emotion Machine”
 
 ---
-## What did you think of the work being done at General Magic?
-
-*https://www.quora.com/What-did-you-think-of-the-work-being-done-at-General-Magic/answer/Alan-Kay-11*
+## [What did you think of the work being done at General Magic?](https://www.quora.com/What-did-you-think-of-the-work-being-done-at-General-Magic/answer/Alan-Kay-11)
 
 I was “in the conversation” (along with John Sculley, etc.) when this project and then company was set up. Basically, the idea was to make a hand-held device that would embody something like the next levels of HyperCard as a cradle for many kinds of services gotten via networking.
 
@@ -9945,9 +9141,7 @@ I believe this product could have been a success with the “old Apple” behind
 One could argue that it was too far ahead of its time in that it required too few actors to do so many of the myriad things that gradually happened as the Internet took hold. However, what we wound up with (via the WWW and its browser) was quite terrible by comparison, and this has been greatly limited by the limited concept of the web and its browser).
 
 ---
-## Why was Alan Kay's Smalltalk in the Xerox Alto sufficiently efficient for a desktop GUI in 1979 but it isn't sufficient today?
-
-*https://www.quora.com/Why-was-Alan-Kays-Smalltalk-in-the-Xerox-Alto-sufficiently-efficient-for-a-desktop-GUI-in-1979-but-it-isnt-sufficient-today/answer/Alan-Kay-11*
+## [Why was Alan Kay's Smalltalk in the Xerox Alto sufficiently efficient for a desktop GUI in 1979 but it isn't sufficient today?](https://www.quora.com/Why-was-Alan-Kays-Smalltalk-in-the-Xerox-Alto-sufficiently-efficient-for-a-desktop-GUI-in-1979-but-it-isnt-sufficient-today/answer/Alan-Kay-11)
 
 The two answers by Eliot Miranda and Mark Miller are very good, so there is little to add here. But I should say a few words about the general Parc approach to HW architectures (and more can be found in other answers I’ve given).
 
@@ -9968,9 +9162,7 @@ When at Apple, old Parc hands urged the development of custom CPU chips and othe
 A simple bottom line is to notice how difficult it was and how long it took for the industry to wake up to the need for GPUs, despite that screen painting was a major need for every personal computer and workstation. This kind of blindness is almost a defining characteristic of “computing” but I’ve never been able to understand quite why — especially given how successful Parc was because it was willing to do any and all hardware that advanced software required.
 
 ---
-## Is human born in sin?
-
-*https://www.quora.com/Is-human-born-in-sin/answer/Alan-Kay-11*
+## [Is human born in sin?](https://www.quora.com/Is-human-born-in-sin/answer/Alan-Kay-11)
 
 Here’s an attempt at a non-religious answer.
 
@@ -9983,9 +9175,7 @@ Another part of our genetics has to do with stories, how we use them as explanat
 A related example is the idea of “soul”, which is often reified into a thing, and also very often connected with beliefs in deities. But notice how useful this is if it is kept as an idea and concept: it is the thing about yourself that you most don’t want to lose. Similarly, “sins” are those things that go against your best conceptions of yourself and the societies you live in.
 
 ---
-## Why do Fender guitars have different headstocks than other guitars?
-
-*https://www.quora.com/Why-do-Fender-guitars-have-different-headstocks-than-other-guitars/answer/Alan-Kay-11*
+## [Why do Fender guitars have different headstocks than other guitars?](https://www.quora.com/Why-do-Fender-guitars-have-different-headstocks-than-other-guitars/answer/Alan-Kay-11)
 
 Just to introduce the concept that there were things happening before the near present … i.e. in the past.
 
@@ -9994,9 +9184,7 @@ One of the first guitars to use an inline headstock was the Fabricatore ca 1806.
 The idea was used in many guitars by the top German builder of early Romantic guitars: Stauffer. Here’s an example from 1830.
 
 ---
-## Which programming language is best for developing a website that can scale to over 100 million users?
-
-*https://www.quora.com/Which-programming-language-is-best-for-developing-a-website-that-can-scale-to-over-100-million-users/answer/Alan-Kay-11*
+## [Which programming language is best for developing a website that can scale to over 100 million users?](https://www.quora.com/Which-programming-language-is-best-for-developing-a-website-that-can-scale-to-over-100-million-users/answer/Alan-Kay-11)
 
 By the end of 2020 it is estimated that there will be about 50 billion computers connected via the Internet. How to invent such an architecture—and one that never has to be shut down for fixing and growing— was worked out by the ARPA-Parc research community over some years centering on about 45 years ago.
 
@@ -10015,9 +9203,7 @@ Once you work out a good such architecture, it is likely that really convenient 
 Etc.
 
 ---
-## What were the biggest mistakes made by Xerox?
-
-*https://www.quora.com/What-were-the-biggest-mistakes-made-by-Xerox/answer/Alan-Kay-11*
+## [What were the biggest mistakes made by Xerox?](https://www.quora.com/What-were-the-biggest-mistakes-made-by-Xerox/answer/Alan-Kay-11)
 
 It’s worth noting that IBM had no idea about personal computing (they would never have farmed out the OS if they had taken it seriously), and didn’t know how to sustain their early success.
 
@@ -10052,9 +9238,7 @@ My view, looking back, is that there were a few people in the right place at the
 So: I look at most corporate shortsightedness as “unfortunately normal” and at ARPA as “unusual” and “lucky.”
 
 ---
-## What happened to Dan Ingall's Smalltalk interpreters?
-
-*https://www.quora.com/What-happened-to-Dan-Ingalls-Smalltalk-interpreters/answer/Alan-Kay-11*
+## [What happened to Dan Ingall's Smalltalk interpreters?](https://www.quora.com/What-happened-to-Dan-Ingalls-Smalltalk-interpreters/answer/Alan-Kay-11)
 
 I think quite a few of them are around and working in different forms. Dan has given talks showing live examples from almost all of the Smalltalks for which he was the main kernel force. Many of these talks are on YouTube.
 
@@ -10063,9 +9247,7 @@ Online, there are playable versions of Smalltalk-76, and a usable version of Sma
 There are also playable versions of Smalltalk-72 in several forms, including on the excellent Alto emulators done by Josh Dersch at the Living Computer History Museum in Seattle.
 
 ---
-## What parts of Englebart's Augment/ARC work are still missing from modern groupware, and why are they important?
-
-*https://www.quora.com/What-parts-of-Englebarts-Augment-ARC-work-are-still-missing-from-modern-groupware-and-why-are-they-important/answer/Alan-Kay-11*
+## [What parts of Englebart's Augment/ARC work are still missing from modern groupware, and why are they important?](https://www.quora.com/What-parts-of-Englebarts-Augment-ARC-work-are-still-missing-from-modern-groupware-and-why-are-they-important/answer/Alan-Kay-11)
 
 A direct answer here would be much larger than “Quora sized”. This is because Doug Engelbart’s conceptions were qualitatively different than most of the much tinier ideas and visions of today’s developers.
 
@@ -10086,9 +9268,7 @@ The best way to get answers to the Quora question is to read Doug’s original p
 http://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf
 
 ---
-## What's arguably the single most amazing thing that computers have made possible?
-
-*https://www.quora.com/Whats-arguably-the-single-most-amazing-thing-that-computers-have-made-possible/answer/Alan-Kay-11*
+## [What's arguably the single most amazing thing that computers have made possible?](https://www.quora.com/Whats-arguably-the-single-most-amazing-thing-that-computers-have-made-possible/answer/Alan-Kay-11)
 
 I think the answer to this is very like the answer to “what is the single most amazing thing that writing (and then the printing press) have made possible”.
 
@@ -10119,9 +9299,7 @@ And we don’t acquire wisdom without considerable effort, especially with child
 * See “most read books over last 10 years in the US” e.g. from USA Today website.
 
 ---
-## What is extensibility in object-oriented programming?
-
-*https://www.quora.com/What-is-extensibility-in-object-oriented-programming/answer/Alan-Kay-11*
+## [What is extensibility in object-oriented programming?](https://www.quora.com/What-is-extensibility-in-object-oriented-programming/answer/Alan-Kay-11)
 
 Programming languages have appearances (“syntax”), meanings (“semantics”), and efficiencies (“pragmatics”). A really good “extensible language” will allow each of these to be extended (and in large ways when this is a good idea).
 
@@ -10144,9 +9322,7 @@ A key idea here is that when “meta” is made available, really great debuggin
 The philosophy here is a subset of a larger Parc observation about times “when a 2nd order theory is the opposite of a 1st order theory, and they are both true”. For example: the 1st order theory about not diving down the black hole of making one’s own hardware and software tools is true — but the 2nd order theory “if you have the chops to make your own tools then you should” is also true. Parc was partly based on making the 2nd order theory work.
 
 ---
-## Why do you need to use command prompt?
-
-*https://www.quora.com/Why-do-you-need-to-use-command-prompt/answer/Alan-Kay-11*
+## [Why do you need to use command prompt?](https://www.quora.com/Why-do-you-need-to-use-command-prompt/answer/Alan-Kay-11)
 
 There are a number of good end-user solutions using GUIs that lie between pure text command lines and highly graphical programming.
 
@@ -10179,9 +9355,7 @@ The advent of wide angle VR could make a big difference. Graphical programming r
 However, programming is not the same as good design — either for functionality or appearance — so at some point computerists really need to buckle down to learn how to do good systems design regardless of the means of programming …
 
 ---
-## Which books should I read to learn about the stories and anecdotes which lead us to the "modern" computer science?
-
-*https://www.quora.com/Which-books-should-I-read-to-learn-about-the-stories-and-anecdotes-which-lead-us-to-the-modern-computer-science/answer/Alan-Kay-11*
+## [Which books should I read to learn about the stories and anecdotes which lead us to the "modern" computer science?](https://www.quora.com/Which-books-should-I-read-to-learn-about-the-stories-and-anecdotes-which-lead-us-to-the-modern-computer-science/answer/Alan-Kay-11)
 
 I think the 20 or 30 books I have read about this are far less than half the books published about the history of computing. Most of the ones I have read are flimsy and inaccurate. The easy part of this for me to check was that the books that featured incidents I was a direct witness to or a direct part of are quite inaccurate.
 
@@ -10192,16 +9366,12 @@ There are a number of technical histories written by the researchers themselves,
 As for the term “computer science”, I take it literally and in its original intended meaning (where “science” is supposed to mean “science”). How this all came about would be a fascinating and worthwhile book, and there could be one that I’m not aware of.
 
 ---
-## What does Alan Kay think of Dynamicland?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-Dynamicland/answer/Alan-Kay-11*
+## [What does Alan Kay think of Dynamicland?](https://www.quora.com/What-does-Alan-Kay-think-of-Dynamicland/answer/Alan-Kay-11)
 
 A terrific and beautiful world of ideas and experiences!
 
 ---
-## How usable was composition between widgets in Smalltalk 80 on the Xerox Alto? Could full applications be developed this way?
-
-*https://www.quora.com/How-usable-was-composition-between-widgets-in-Smalltalk-80-on-the-Xerox-Alto-Could-full-applications-be-developed-this-way/answer/Alan-Kay-11*
+## [How usable was composition between widgets in Smalltalk 80 on the Xerox Alto? Could full applications be developed this way?](https://www.quora.com/How-usable-was-composition-between-widgets-in-Smalltalk-80-on-the-Xerox-Alto-Could-full-applications-be-developed-this-way/answer/Alan-Kay-11)
 
 The answers to each question are somewhat different. First, there weren’t really “applications” of the stove-piped variety people are used to today. Every object was encapsulated and could be a component of a system, and every object was viewable (and views were also objects (every kind of thing was an object)).
 
@@ -10230,9 +9400,7 @@ About 10 minutes into this there is an example of coordinating two kinds of visi
 The first question was “how usable?” was this? It was pretty usable for developing programs and systems, and could have been much more usable for casual end-user combinations. This is still an interesting set of problems that have not yet been solved all together. Hypercard contributed some important ideas for end-user scripting (though it wasn’t object-oriented enough to allow this kind of composing). Quite a bit more in some important areas was achieved by the Etoys system (done in an open source version of Smalltalk called “Squeak”).
 
 ---
-## Why were computers like the DEC PDP-10 called minicomputers, since they weren't really that small?
-
-*https://www.quora.com/Why-were-computers-like-the-DEC-PDP-10-called-minicomputers-since-they-werent-really-that-small/answer/Alan-Kay-11*
+## [Why were computers like the DEC PDP-10 called minicomputers, since they weren't really that small?](https://www.quora.com/Why-were-computers-like-the-DEC-PDP-10-called-minicomputers-since-they-werent-really-that-small/answer/Alan-Kay-11)
 
 The PDP-10 was a “mainframe computer” and was not called a minicomputer. The PDP-8 was called a minicomputer, as were most of the early PDP-11s.
 
@@ -10245,9 +9413,7 @@ One of my heroes — Steve Russell — the original implementer of both Lisp and
 Interestingly — and to the point of the above — the SDS-940, a small computer with a 24-bit word and half a MIP, was referred to as a “mainframe” (it was the machine that ran Engelbart’s “Mother of all Demos”).
 
 ---
-## How did humanity find out how to make fire?
-
-*https://www.quora.com/How-did-humanity-find-out-how-to-make-fire/answer/Alan-Kay-11*
+## [How did humanity find out how to make fire?](https://www.quora.com/How-did-humanity-find-out-how-to-make-fire/answer/Alan-Kay-11)
 
 We don’t know.
 
@@ -10262,9 +9428,7 @@ A good one that does have most of the things present, and has a good chance of p
 There are several good YouTube videos showing both a hand drill (it’s amazing that this works as well as it does) and a bow drill, which is my favorite likely answer to this question for most cultures that did discover how to make fire. Drilling something with a hand or bow drill has the nice property that the cast off material is finely granular and thus really prone to combine frictional heat with oxygen in the air to start combustion. The result will resemble the precious preserved glowing coals that the “keepers of the flame” are tending. From there the process of getting to a real fire is the same: tinder and blowing and then kindling.
 
 ---
-## Is 60Hz not fast enough for a VR headset?
-
-*https://www.quora.com/Is-60Hz-not-fast-enough-for-a-VR-headset/answer/Alan-Kay-11*
+## [Is 60Hz not fast enough for a VR headset?](https://www.quora.com/Is-60Hz-not-fast-enough-for-a-VR-headset/answer/Alan-Kay-11)
 
 There are a number of human vision characteristics that need to be handled really well to make VR a good matchup.
 
@@ -10289,9 +9453,7 @@ Addendum to (2) — added Aug 29 2023
 It’s very worth noting what Jeri Ellsworth — a super creative engineering mind — did with the Tilt 5 HMDs (look up “Tilt 5”). She wanted to be able to run her unique table-top “corner-reflective” display from personal computers that might only have 60fps. She knew this would not be enough, so she designed and made a special interpolating chip that takes in 60fps and outputs 180fps, which, for most cases, will provide a much more realistic input to the human eye. The wider the angle of view, the more the frame rate needs to be attended to (this was partially advanced for wide screen movies by using a spinning shutter that shows each frame of film 3 times — but without interpolation (which would help)).
 
 ---
-## Why do people say that Ada Lovelace was the first programmer, when Babbage wrote the first programs for his own machine?
-
-*https://www.quora.com/Why-do-people-say-that-Ada-Lovelace-was-the-first-programmer-when-Babbage-wrote-the-first-programs-for-his-own-machine/answer/Alan-Kay-11*
+## [Why do people say that Ada Lovelace was the first programmer, when Babbage wrote the first programs for his own machine?](https://www.quora.com/Why-do-people-say-that-Ada-Lovelace-was-the-first-programmer-when-Babbage-wrote-the-first-programs-for-his-own-machine/answer/Alan-Kay-11)
 
 Goethe said “We should all share in the excitement of discovery without vain attempts to claim priority”. He meant not just “early” but any time an important idea is realized by a human being.
 
@@ -10308,9 +9470,7 @@ And so forth.
 And I don’t think we should worry much about “what people say” (they say lots of things for their convenience …)
 
 ---
-## What does Alan Kay think about Joe Armstrong claiming that "Erlang might be the only object-oriented language" and also his thesis supervisor’s claim that “Erlang is extremely object oriented”?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-Joe-Armstrong-claiming-that-Erlang-might-be-the-only-object-oriented-language-and-also-his-thesis-supervisor-s-claim-that-Erlang-is-extremely-object-oriented/answer/Alan-Kay-11*
+## [What does Alan Kay think about Joe Armstrong claiming that "Erlang might be the only object-oriented language" and also his thesis supervisor’s claim that “Erlang is extremely object oriented”?](https://www.quora.com/What-does-Alan-Kay-think-about-Joe-Armstrong-claiming-that-Erlang-might-be-the-only-object-oriented-language-and-also-his-thesis-supervisor-s-claim-that-Erlang-is-extremely-object-oriented/answer/Alan-Kay-11)
 
 I love Joe Armstrong — we lost a great man when he recently left us.
 
@@ -10321,9 +9481,7 @@ However, another way to look at this is to consider “What Is Actually Needed�
 Joe would most definitely be more in favor of this idea than worrying about what either one of us did decades ago.
 
 ---
-## Who are the most influential people in the Computer industry?
-
-*https://www.quora.com/Who-are-the-most-influential-people-in-the-Computer-industry/answer/Alan-Kay-11*
+## [Who are the most influential people in the Computer industry?](https://www.quora.com/Who-are-the-most-influential-people-in-the-Computer-industry/answer/Alan-Kay-11)
 
 I think there are too many for a fair account in a Quora sized answer, especially if we give credit to insights regardless of whether they were followed up.
 
@@ -10364,9 +9522,7 @@ And also because things get really complicated from the late 50s onwards … The
 Violating the above good idea for stopping, I think I must mention Margaret Hamilton for truly singular important contributions in the period 1961 through 1969 who wound up as the eventual leader of the programming effort for the Apollo Guidance Computer, and whose revolutionary “real software engineering” designs saved the Apollo 11 moon landing. She has been recognized with the NASA Prize, the National Medal of Freedom, and a Computer History Museum Fellow, but these still seem a bit short of what is deserved
 
 ---
-## Is traditional engineering becoming a pop culture due to the modern practice of software development?
-
-*https://www.quora.com/Is-traditional-engineering-becoming-a-pop-culture-due-to-the-modern-practice-of-software-development/answer/Alan-Kay-11*
+## [Is traditional engineering becoming a pop culture due to the modern practice of software development?](https://www.quora.com/Is-traditional-engineering-becoming-a-pop-culture-due-to-the-modern-practice-of-software-development/answer/Alan-Kay-11)
 
 I don’t know, and I suspect not in the way that computing has been going.
 
@@ -10379,16 +9535,12 @@ Another part of traditional engineering is that much of it deals with the physic
 Looking into the future, more and more software is starting to affect human safety, and more traditional engineering care will be needed. I don’t see that “computing” has much of a tradition of being careful in this way, and certainly the systems building tools and methods are not very good at helping “real engineering practices”.
 
 ---
-## Is Archibald Putt a creation of Alan Kay?
-
-*https://www.quora.com/Is-Archibald-Putt-a-creation-of-Alan-Kay/answer/Alan-Kay-11*
+## [Is Archibald Putt a creation of Alan Kay?](https://www.quora.com/Is-Archibald-Putt-a-creation-of-Alan-Kay/answer/Alan-Kay-11)
 
 Not this Alan Kay …
 
 ---
-## What are Alan Kay's views on automation and technological unemployment?
-
-*https://www.quora.com/What-are-Alan-Kays-views-on-automation-and-technological-unemployment/answer/Alan-Kay-11*
+## [What are Alan Kay's views on automation and technological unemployment?](https://www.quora.com/What-are-Alan-Kays-views-on-automation-and-technological-unemployment/answer/Alan-Kay-11)
 
 I think the issues revolve around a society’s conception of itself, its main societal goals, and the tradeoffs between our genetic heritage, the traditional cultural views of “reality” and mores, and the more recent inventions that are more distinct from the past (modern science, ideas about equality and human dignity, etc.).
 
@@ -10413,18 +9565,14 @@ The current drivers of society almost completely miss that civilization and prog
 We have invented larger values than “survival of the fittest” and we need to find the means and the will to make them flourish in a richer conception of society.
 
 ---
-## How and why did Xerox fail to capitalise on PARC's inventions?
-
-*https://www.quora.com/How-and-why-did-Xerox-fail-to-capitalise-on-PARCs-inventions/answer/Alan-Kay-11*
+## [How and why did Xerox fail to capitalise on PARC's inventions?](https://www.quora.com/How-and-why-did-Xerox-fail-to-capitalise-on-PARCs-inventions/answer/Alan-Kay-11)
 
 There are good enough answers under this Quora link (this is an example of a question that has already been asked and answered).
 
 Why couldn't the management of Xerox see the goldmine that they had with inventions at Xerox PARC? Was it really about lacking money to capitalize? How about stock issuance?
 
 ---
-## What does Alan Kay think of the Tablon and similar portable practice devices (I carry mine with me almost everywhere)?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-the-Tablon-and-similar-portable-practice-devices-I-carry-mine-with-me-almost-everywhere/answer/Alan-Kay-11*
+## [What does Alan Kay think of the Tablon and similar portable practice devices (I carry mine with me almost everywhere)?](https://www.quora.com/What-does-Alan-Kay-think-of-the-Tablon-and-similar-portable-practice-devices-I-carry-mine-with-me-almost-everywhere/answer/Alan-Kay-11)
 
 Hi Lawson
 
@@ -10447,9 +9595,7 @@ The lute is not very loud and doesn’t have a lot of sustain, but it is amazing
 Some lute pieces demand quite a bit of technique, but a Tablon for the lute wouldn’t help what the right hand has to learn. But I’ve found that the light weight and small size of this style of lute is very amenable to traveling when I have to.
 
 ---
-## How can I help develop a wiki-Pharo? (Many people using and editing the same Pharo environment image in real time.)
-
-*https://www.quora.com/How-can-I-help-develop-a-wiki-Pharo-Many-people-using-and-editing-the-same-Pharo-environment-image-in-real-time/answer/Alan-Kay-11*
+## [How can I help develop a wiki-Pharo? (Many people using and editing the same Pharo environment image in real time.)](https://www.quora.com/How-can-I-help-develop-a-wiki-Pharo-Many-people-using-and-editing-the-same-Pharo-environment-image-in-real-time/answer/Alan-Kay-11)
 
 I suggest you not worry about Pharo — or any other programming environment — but do ponder scaling, “number of cooks”, dependency, and coordination issues.
 
@@ -10468,9 +9614,7 @@ If I were going to try to do what your question asks, I would aim at the two big
 Then I would make a programming system and environment that fit these needs. The methods used to invent Smalltalk (Pharo is a version of Smalltalk) at Xerox Parc will work well for creating What Is Actually Needed (WIAN). I have outlined some of the first steps above …
 
 ---
-## Rich Hickey, creator of Clojure has said that object-oriented programming is unable to model “time” properly. What does "modeling time" actually mean?
-
-*https://www.quora.com/Rich-Hickey-creator-of-Clojure-has-said-that-object-oriented-programming-is-unable-to-model-time-properly-What-does-modeling-time-actually-mean/answer/Alan-Kay-11*
+## [Rich Hickey, creator of Clojure has said that object-oriented programming is unable to model “time” properly. What does "modeling time" actually mean?](https://www.quora.com/Rich-Hickey-creator-of-Clojure-has-said-that-object-oriented-programming-is-unable-to-model-time-properly-What-does-modeling-time-actually-mean/answer/Alan-Kay-11)
 
 Most languages don’t model time — and worse, let the CPU determine what time means.
 
@@ -10497,9 +9641,7 @@ And those who are interested in this idea should definitely take a look at Lesli
 When one starts looking at things from this point of view, it should become apparent that object techniques (using encapsulation, messaging, reflection, etc.) are well suited to being upgraded to having a full model of “time”.
 
 ---
-## How can I learn more about the original spirit of computing (as alluded to by Alan Kay, et al.)?
-
-*https://www.quora.com/How-can-I-learn-more-about-the-original-spirit-of-computing-as-alluded-to-by-Alan-Kay-et-al/answer/Alan-Kay-11*
+## [How can I learn more about the original spirit of computing (as alluded to by Alan Kay, et al.)?](https://www.quora.com/How-can-I-learn-more-about-the-original-spirit-of-computing-as-alluded-to-by-Alan-Kay-et-al/answer/Alan-Kay-11)
 
 I take “the original spirit of computing” to mean “for the fun and the art of it”, and the “art” part meaning to create better works of art at all levels, especially the foundational levels.
 
@@ -10522,9 +9664,7 @@ That great funding helped to bring the vast resources of today but the great fun
 But if you want to see “The spirit of computing” alive and well today, take a look at Anselm above …
 
 ---
-## Experienced programmers and computer scientists, what are some really old (or even nearly forgotten) books you think every new programmer should read?
-
-*https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read/answer/Alan-Kay-11*
+## [Experienced programmers and computer scientists, what are some really old (or even nearly forgotten) books you think every new programmer should read?](https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read/answer/Alan-Kay-11)
 
 I love that “2006” and “2008” (in another answer) must be considered “really old” (which is what the question requests) …
 
@@ -10557,9 +9697,7 @@ Joe Armstrong’s PhD thesis — after many years of valuable experience with Er
 Lots more out there for curious minds ….
 
 ---
-## What does Alan Kay think about tension between sharing research methods and findings freely and early & preserving commercial viability so the findings can be made into products that change the world?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-tension-between-sharing-research-methods-and-findings-freely-and-early-preserving-commercial-viability-so-the-findings-can-be-made-into-products-that-change-the-world/answer/Alan-Kay-11*
+## [What does Alan Kay think about tension between sharing research methods and findings freely and early & preserving commercial viability so the findings can be made into products that change the world?](https://www.quora.com/What-does-Alan-Kay-think-about-tension-between-sharing-research-methods-and-findings-freely-and-early-preserving-commercial-viability-so-the-findings-can-be-made-into-products-that-change-the-world/answer/Alan-Kay-11)
 
 What do you think about the Internet? Etc.?
 
@@ -10574,9 +9712,7 @@ Really big ideas create new industries for the whole world.
 Most business people and politicians do not understand this at all.
 
 ---
-## American computer pioneer Alan Kay’s concept, the Dynabook, was published in 1972. How come Steve Jobs and Apple iPad get the credit for tablet invention?
-
-*https://www.quora.com/American-computer-pioneer-Alan-Kay-s-concept-the-Dynabook-was-published-in-1972-How-come-Steve-Jobs-and-Apple-iPad-get-the-credit-for-tablet-invention/answer/Alan-Kay-11*
+## [American computer pioneer Alan Kay’s concept, the Dynabook, was published in 1972. How come Steve Jobs and Apple iPad get the credit for tablet invention?](https://www.quora.com/American-computer-pioneer-Alan-Kay-s-concept-the-Dynabook-was-published-in-1972-How-come-Steve-Jobs-and-Apple-iPad-get-the-credit-for-tablet-invention/answer/Alan-Kay-11)
 
 The Dynabook idea happened in 1968.
 
@@ -10623,9 +9759,7 @@ So: don’t confuse the Dynabook idea with the physical resemblance to the iPad.
 Today the goals for this should be much larger than those I had more than 50 years ago.
 
 ---
-## Who first came with the concept of Computer Mouse, XEROX or Apple?
-
-*https://www.quora.com/Who-first-came-with-the-concept-of-Computer-Mouse-XEROX-or-Apple/answer/Alan-Kay-11*
+## [Who first came with the concept of Computer Mouse, XEROX or Apple?](https://www.quora.com/Who-first-came-with-the-concept-of-Computer-Mouse-XEROX-or-Apple/answer/Alan-Kay-11)
 
 Pointing Devices and Graphical User Interfaces (a partial history)
 
@@ -10712,9 +9846,7 @@ The larger Parc display that can show two full pages.
 An essay by a 14 year old girl about her programming experiences with Smalltalk that includes live coding in the bottom left, and a picture of the drawing system that she invented and programmed.
 
 ---
-## In retrospect, what were some funny idiosyncrasies of older computers?
-
-*https://www.quora.com/In-retrospect-what-were-some-funny-idiosyncrasies-of-older-computers/answer/Alan-Kay-11*
+## [In retrospect, what were some funny idiosyncrasies of older computers?](https://www.quora.com/In-retrospect-what-were-some-funny-idiosyncrasies-of-older-computers/answer/Alan-Kay-11)
 
 Besides crashing randomly?
 
@@ -10747,9 +9879,7 @@ One day, just by luck, someone noticed a bit flickering on and off when the cent
 I would call this an idiosyncrasy! And only funny after it was tracked down and fixed! There’s nothing all that funny about unreliably repeatable errors when they are happening to you …
 
 ---
-## What did the early room sized super computers do? And how powerful are they relative to modern day computers?
-
-*https://www.quora.com/What-did-the-early-room-sized-super-computers-do-And-how-powerful-are-they-relative-to-modern-day-computers/answer/Alan-Kay-11*
+## [What did the early room sized super computers do? And how powerful are they relative to modern day computers?](https://www.quora.com/What-did-the-early-room-sized-super-computers-do-And-how-powerful-are-they-relative-to-modern-day-computers/answer/Alan-Kay-11)
 
 We could look at the AN/FSQ-7 — known as the “Q7” — which was the main computing architecture for the SAGE air defense system in the 50s.
 
@@ -10790,9 +9920,7 @@ Perhaps a single iPhone XS is about 16,000 Q7s?
 I would be curious to see more careful comparisons.
 
 ---
-## How important was Ada Lovelace for computer science?
-
-*https://www.quora.com/How-important-was-Ada-Lovelace-for-computer-science/answer/Alan-Kay-11*
+## [How important was Ada Lovelace for computer science?](https://www.quora.com/How-important-was-Ada-Lovelace-for-computer-science/answer/Alan-Kay-11)
 
 This is a fascinating question about a “synthetic” or “artifactual” science (math is one of these also). This is a parallel to asking “how many times was the arch invented?”, and “for a particular arch e.g. in the Arc de Triomphe, would it have mattered if the ultimate ancestor of that arch had died before the invention?” i.e. the arch is so useful that it probably was invented several times and once seen, was appropriated.
 
@@ -10821,9 +9949,7 @@ I think this is the case of Ada and Babbage. The question asked here probably ca
 But she and Babbage should get full marks — as we give Zuse — for what they did do: very early insights and examples into many important parts central to what later became computer science.
 
 ---
-## Were the compilers of the first programming languages written in machine code?
-
-*https://www.quora.com/Were-the-compilers-of-the-first-programming-languages-written-in-machine-code/answer/Alan-Kay-11*
+## [Were the compilers of the first programming languages written in machine code?](https://www.quora.com/Were-the-compilers-of-the-first-programming-languages-written-in-machine-code/answer/Alan-Kay-11)
 
 I wonder if “machine code” here means “in on-or-off-bits” or “assembler”? And whether “programming languages” includes “assembler”?
 
@@ -10880,9 +10006,7 @@ The B5000 was designed to run programs from very high level languages like Algol
 All this was possible so early on because this was one of the few instances in computing history where all parts of the end problem — including hardware, OS, languages, and deployable applications software, were all deeply considered in the overall designs of the whole system. Bob Barton was arguably the key figure for this project, but as with most great things, there were quite a few high talents involved. This whole systems approach to design was an inspiration for several subsequent projects, most notably those at Xerox Parc.
 
 ---
-## Who invented the computer?
-
-*https://www.quora.com/Who-invented-the-computer-1/answer/Alan-Kay-11*
+## [Who invented the computer?](https://www.quora.com/Who-invented-the-computer-1/answer/Alan-Kay-11)
 
 There have been similar questions on Quora, and I’ve given a variety of answers. (Which I’ll try to find and reference here (would be really usable if Quora used that strange invention of “windows” to allow this kind of perusal on this page while writing an answer …).)
 
@@ -10917,9 +10041,7 @@ MIT Whirlwind console room ca early 50s.
 * This is not to omit “Baby” at Manchester, which was a small test machine that did get working a little before EDSAC. However, EDSAC was not a test computer, but the thing itself.
 
 ---
-## Why were computer monitors not rectangular to begin with?
-
-*https://www.quora.com/Why-were-computer-monitors-not-rectangular-to-begin-with/answer/Alan-Kay-11*
+## [Why were computer monitors not rectangular to begin with?](https://www.quora.com/Why-were-computer-monitors-not-rectangular-to-begin-with/answer/Alan-Kay-11)
 
 I’m not sure I understand this question. Do you mean “as opposed to being circular” or “as opposed to being square”? If you clarify your question I might be able to answer.
 
@@ -10944,9 +10066,7 @@ The Xerox Alto Display at PARC was a high quality magnetic yoke display that cam
 Our main complaint when the 1980s came around is that the display sizes of commercial personal computers were greatly reduced but kept landscape so that full pages couldn’t be displayed. Apple or one of its after market companies made a display that could be rotated from portrait to landscape (and would tell the computer so the image could be changed accordingly).
 
 ---
-## What is your hobby that has the best bang for the buck in happiness per dollar?
-
-*https://www.quora.com/What-is-your-hobby-that-has-the-best-bang-for-the-buck-in-happiness-per-dollar/answer/Alan-Kay-11*
+## [What is your hobby that has the best bang for the buck in happiness per dollar?](https://www.quora.com/What-is-your-hobby-that-has-the-best-bang-for-the-buck-in-happiness-per-dollar/answer/Alan-Kay-11)
 
 I’ve never thought about hobbies in terms of cost — they are all about passion and “work/play” for the sheer fun of it. And my main ones are about “life itself” and non-optional. So the “happiness” part from these is enormously high.
 
@@ -10965,9 +10085,7 @@ Even if we don’t amortize the lute over multiple years, it roughly breaks even
 Both of these seem like incredible bargains to me (and most certainly not at all deserving of money worries).
 
 ---
-## What is the oldest or most unique computer you have ever used?
-
-*https://www.quora.com/What-is-the-oldest-or-most-unique-computer-you-have-ever-used/answer/Alan-Kay-11*
+## [What is the oldest or most unique computer you have ever used?](https://www.quora.com/What-is-the-oldest-or-most-unique-computer-you-have-ever-used/answer/Alan-Kay-11)
 
 The “oldest” -or- “most unique” computer I’ve ever used? Let’s take “programmable digital computer” to simplify away from various kinds of analog computers and the abacus, and “written a program for” instead of “used”.
 
@@ -10980,9 +10098,7 @@ For me the most challenging computer on which to write “good” machine code w
 And then there is microcoding. The most challenging there was the FLEX Machine that Ed Cheadle and I did ca 1967–9. This was because the microcode memories available then that could be used for a personal computer were so slow. The remedy was to have a very wide code word (120 bits wide on this machine!) and try to do as much as possible within these 120 bits before having to fetch another code word (yikes!). By contrast, the Xerox Parc Alto had a fast microcode memory with quite nice 32 bit microcode words so just a few little tricks were required.
 
 ---
-## What was the last breakthrough in computer programming?
-
-*https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11*
+## [What was the last breakthrough in computer programming?](https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11)
 
 There are lots of dimensions to “computer programming” and “programming languages”, so simple sorting won’t be satisfactory. But there is also a dilemma — I think — in that “something happened” in the 80s to what were major improvements every 11 years or so. In 1984 I was asked to write the lead article for the old Scientific American for a special issue on “Computer Software”, and included the following diagram:
 
@@ -11001,9 +10117,7 @@ And in the last 15–20 years, the real engineering fields have been increasingl
 As for programming itself, the rallying cry I’ve tried to put forth is: “It’s not BIG DATA, but BIG MEANING”. In other words, the next significant threshold that programming must achieve is for programs and programming systems to have a much deeper understanding of both what they are trying to do, and what they are actually doing. That this hasn’t happened in the last 35 years is a really unfortunate commentary on the lack of a maturation process for computing.
 
 ---
-## When Alan Kay talks about the size of the SAGE and the TX-2 computer, he uses the terms like "the size of the football field" and "the size of a building", what does it exactly mean?
-
-*https://www.quora.com/When-Alan-Kay-talks-about-the-size-of-the-SAGE-and-the-TX-2-computer-he-uses-the-terms-like-the-size-of-the-football-field-and-the-size-of-a-building-what-does-it-exactly-mean/answer/Alan-Kay-11*
+## [When Alan Kay talks about the size of the SAGE and the TX-2 computer, he uses the terms like "the size of the football field" and "the size of a building", what does it exactly mean?](https://www.quora.com/When-Alan-Kay-talks-about-the-size-of-the-SAGE-and-the-TX-2-computer-he-uses-the-terms-like-the-size-of-the-football-field-and-the-size-of-a-building-what-does-it-exactly-mean/answer/Alan-Kay-11)
 
 Here’s an example of a SAGE four story concrete “blockhouse” with “power supply” in the first floor, the two large Q-7 vacuum tube computers on the second floor — they ran in tandem as one system, the “situation rooms” with enormous display projection equipment (Hughes and Eidophors), and on the fourth floor, the many display and light gun consoles for surveillance and tactics, all next to a football field.
 
@@ -11014,9 +10128,7 @@ About 30 of these blockhouses were built (most by the end of the 50s) and distri
 Question for Quorans: where did they get the replacement vacuum tubes for the Q-7 computers the last 10 years or more?
 
 ---
-## What is it like to work at Disney as a programmer?
-
-*https://www.quora.com/What-is-it-like-to-work-at-Disney-as-a-programmer/answer/Alan-Kay-11*
+## [What is it like to work at Disney as a programmer?](https://www.quora.com/What-is-it-like-to-work-at-Disney-as-a-programmer/answer/Alan-Kay-11)
 
 I wasn’t a programmer there for the five years I spent at Disney — but the company had invited me to bring my research group to be part of Walt Disney Imagineering, and — partly because I knew and admired some of the old time Imagineers — we wound up making the transition from Apple in late 1996.
 
@@ -11025,9 +10137,7 @@ The question is asked in the present tense — and about a showbiz company that 
 I can say that in the 1996–2000 years “the creatives” at Disney were just great to work with, and that “the suits” were a mixed bag at best, with some of them being quite awful. The previous sentence was generally pretty true of movie studio companies, and is likely as true today.
 
 ---
-## Why is the guitar "easy to learn but difficult to master"?
-
-*https://www.quora.com/Why-is-the-guitar-easy-to-learn-but-difficult-to-master/answer/Alan-Kay-11*
+## [Why is the guitar "easy to learn but difficult to master"?](https://www.quora.com/Why-is-the-guitar-easy-to-learn-but-difficult-to-master/answer/Alan-Kay-11)
 
 The “difficult to master” part is common to all music because people who are deeply involved with music don’t just make it, they explore it, extend it, invent and reinvent it. Like sports, this pushes the boundaries towards human limits to the extent that even highly talented individuals have to do a lot of practice over many years to get near “mastery” (I don’t know of any really great musicians who would claim to have mastered their art).
 
@@ -11042,9 +10152,7 @@ The relatively easy “can do something early on” for guitar — compared to v
 I’m guessing that things are not so different almost 60 years later, but now we can add in keyboard synths as “can do something early on” that can soon provide barriers for really learning to play keyboards (and music).
 
 ---
-## What will Silicon Valley do once it runs out of Doug Engelbart's ideas?
-
-*https://www.quora.com/What-will-Silicon-Valley-do-once-it-runs-out-of-Doug-Engelbarts-ideas/answer/Alan-Kay-11*
+## [What will Silicon Valley do once it runs out of Doug Engelbart's ideas?](https://www.quora.com/What-will-Silicon-Valley-do-once-it-runs-out-of-Doug-Engelbarts-ideas/answer/Alan-Kay-11)
 
 I’d like to see.
 
@@ -11053,9 +10161,7 @@ However, we are in no danger at present. Silicon Valley has more or less ignored
 Right now we are also not in any close prospect to seeing his ideas understood and used, which is really a shame.
 
 ---
-## Which is the best book for teaching programming to kids (11 to 16 years)?
-
-*https://www.quora.com/Which-is-the-best-book-for-teaching-programming-to-kids-11-to-16-years/answer/Alan-Kay-11*
+## [Which is the best book for teaching programming to kids (11 to 16 years)?](https://www.quora.com/Which-is-the-best-book-for-teaching-programming-to-kids-11-to-16-years/answer/Alan-Kay-11)
 
 The “best book” right now might not be good enough. I don’t know of a “really good” book for teaching programming to 11–16 years of age, but there might be one — I’d love to see what other Quorans think are good books.
 
@@ -11088,9 +10194,7 @@ So: we need *big ideas* (could be from math, science, computing, etc.), we need 
 Why not?
 
 ---
-## What’s the difference between applicative, recursive, and imperative programming?
-
-*https://www.quora.com/What-s-the-difference-between-applicative-recursive-and-imperative-programming/answer/Alan-Kay-11*
+## [What’s the difference between applicative, recursive, and imperative programming?](https://www.quora.com/What-s-the-difference-between-applicative-recursive-and-imperative-programming/answer/Alan-Kay-11)
 
 Programming is providing a mechanism with what’s needed to achieve a goal we have.
 
@@ -11117,9 +10221,7 @@ The treatment of functions as “values” that could be passed around shows up 
 McCarthy’s ideas were so neat and clean that admirers — like Christopher Strachey and Peter Landin — looked much harder at ways to unify the simpler imperative schemes in the much safer much more powerful applicative frameworks. (One of the best of these is just a bit too far out of the scope of this note.)
 
 ---
-## Shouldn’t object-oriented “design” be studied before object-oriented “programming”? I’m sick and tired of these useless toy examples in these programming books. Why shouldn’t we learn to design first and then implement?
-
-*https://www.quora.com/Shouldn-t-object-oriented-design-be-studied-before-object-oriented-programming-I-m-sick-and-tired-of-these-useless-toy-examples-in-these-programming-books-Why-shouldn-t-we-learn-to-design-first-and-then-implement/answer/Alan-Kay-11*
+## [Shouldn’t object-oriented “design” be studied before object-oriented “programming”? I’m sick and tired of these useless toy examples in these programming books. Why shouldn’t we learn to design first and then implement?](https://www.quora.com/Shouldn-t-object-oriented-design-be-studied-before-object-oriented-programming-I-m-sick-and-tired-of-these-useless-toy-examples-in-these-programming-books-Why-shouldn-t-we-learn-to-design-first-and-then-implement/answer/Alan-Kay-11)
 
 I like Marvin Minsky’s solution to the problem of teaching programming (in this case teaching Lisp to grad students in the 60s). He would give them the previous year’s PhD theses and ask them to find how the thesis did something, and then make a change to it. Sometimes this would be solo and sometimes with several grad students.
 
@@ -11132,9 +10234,7 @@ In all these cases you are writing small programs to begin with, but in the cont
 Both the Lisp and Smalltalk situations were dealing with live incrementally improved systems, and so were especially amenable to this kind of learning (and Unix was “semi-live”, in that the Unix processes were live and the C programming was “a bit less than live”.
 
 ---
-## Does Alan Kay think about how research into human biology and medicine is conducted?
-
-*https://www.quora.com/Does-Alan-Kay-think-about-how-research-into-human-biology-and-medicine-is-conducted/answer/Alan-Kay-11*
+## [Does Alan Kay think about how research into human biology and medicine is conducted?](https://www.quora.com/Does-Alan-Kay-think-about-how-research-into-human-biology-and-medicine-is-conducted/answer/Alan-Kay-11)
 
 I’m not at all sure about the center of this question. Perhaps the questioner can clarify in a comment …. ?
 
@@ -11147,9 +10247,7 @@ I’m a bit of a hypocrite (or at least a do nothing) with regard to using anima
 I’m a scientist — even if somewhat lapsed — and so simultaneously love the knowledge about all manner of things that science has found and is finding. A large part of my lifelong interest in “cultural changing education” is from my dismay at how many humans find the weapons potential in any inventions that increase power. This is a disastrous route, and we are dangerously far along it.
 
 ---
-## What lessons were learned in aspiring towards the DynaBook, and have any of its original goals become dated?
-
-*https://www.quora.com/What-lessons-were-learned-in-aspiring-towards-the-DynaBook-and-have-any-of-its-original-goals-become-dated/answer/Alan-Kay-11*
+## [What lessons were learned in aspiring towards the DynaBook, and have any of its original goals become dated?](https://www.quora.com/What-lessons-were-learned-in-aspiring-towards-the-DynaBook-and-have-any-of-its-original-goals-become-dated/answer/Alan-Kay-11)
 
 A big subject over many years (the Dynabook idea was formed and fleshed out starting in 1968 with a cartoon I drew and a cardboard model I made — so more than 50 years ago now). The first public paper I wrote about this was in 1972.
 
@@ -11178,9 +10276,7 @@ Something that I think we understood at the time, but didn’t put a lot of effo
 There’s lots more that could be said (history is difficult because the past is so detailed), but I can sum up an answer to the question by saying: We learned many lessons — most of which were about human nature and how most people react to deep learning situations — and I think the original goals are still good, but could use a few more for better balance.
 
 ---
-## Will technological advancement continue as quickly as it has from the 2000s to now?
-
-*https://www.quora.com/Will-technological-advancement-continue-as-quickly-as-it-has-from-the-2000s-to-now/answer/Alan-Kay-11*
+## [Will technological advancement continue as quickly as it has from the 2000s to now?](https://www.quora.com/Will-technological-advancement-continue-as-quickly-as-it-has-from-the-2000s-to-now/answer/Alan-Kay-11)
 
 The keyword here is “advancement”. I think of the most important use of this in phrases such as “advancing the human condition”, etc.
 
@@ -11199,25 +10295,19 @@ This means that society is losing the battle of understanding what is happening 
 So, I think that technology will progress — because it depends on what we understand about the physical world — and that humanity will regress — because we generally refuse to try to understand ourselves and how we need to learn to handle our new powers.
 
 ---
-## How can I improve my explanation sense?
-
-*https://www.quora.com/How-can-I-improve-my-explanation-sense/answer/Alan-Kay-11*
+## [How can I improve my explanation sense?](https://www.quora.com/How-can-I-improve-my-explanation-sense/answer/Alan-Kay-11)
 
 Answering Quora questions for which you are willing to do the necessary work is great practice.
 
 ---
-## Has a robot ever smoked?
-
-*https://www.quora.com/Has-a-robot-ever-smoked/answer/Alan-Kay-11*
+## [Has a robot ever smoked?](https://www.quora.com/Has-a-robot-ever-smoked/answer/Alan-Kay-11)
 
 I think the robot shown at the 1939 world’s fair (“Elecktro”?) smoked as part of the act.
 
 Yep.
 
 ---
-## What do some not understand or know about the difference between an amateur and a professional? Has this ever affected you personally?
-
-*https://www.quora.com/What-do-some-not-understand-or-know-about-the-difference-between-an-amateur-and-a-professional-Has-this-ever-affected-you-personally/answer/Alan-Kay-11*
+## [What do some not understand or know about the difference between an amateur and a professional? Has this ever affected you personally?](https://www.quora.com/What-do-some-not-understand-or-know-about-the-difference-between-an-amateur-and-a-professional-Has-this-ever-affected-you-personally/answer/Alan-Kay-11)
 
 I’ve never liked these terms (and have been guilty of using them myself).
 
@@ -11248,9 +10338,7 @@ yes ——— yes ———— good
 Most of these are useful, and some of them could use special terms. The * flags one category that I don’t like to see in any pursuit. Both of the italicized ones are admirable (and they do both exist thank goodness!)
 
 ---
-## How do I modulate from E major to B flat major?
-
-*https://www.quora.com/How-do-I-modulate-from-E-major-to-B-flat-major/answer/Alan-Kay-11*
+## [How do I modulate from E major to B flat major?](https://www.quora.com/How-do-I-modulate-from-E-major-to-B-flat-major/answer/Alan-Kay-11)
 
 Lots of ways — let’s see if we can get answerers to contribute some of their ideas.
 
@@ -11309,9 +10397,7 @@ So: there’s a combination of existing lore and examples, plus a variety of mus
 There are lots of perspectives on this — my personal opinion is that “voice leading is the master principle” and thinking along these lines with some of harmonic theory whispering will turn up lots of beautiful pathways.
 
 ---
-## How was the Xerox Alto done in only 3 months?
-
-*https://www.quora.com/How-was-the-Xerox-Alto-done-in-only-3-months/answer/Alan-Kay-11*
+## [How was the Xerox Alto done in only 3 months?](https://www.quora.com/How-was-the-Xerox-Alto-done-in-only-3-months/answer/Alan-Kay-11)
 
 Basically: Chuck Thacker was simply amazing.
 
@@ -11366,9 +10452,7 @@ We were all shocked when Chuck went away and left us in 2017. It is a vast under
 “The Alto was originally designed by Charles P. Thacker and Edward M. McCreight, and was based on requirements and ideas contributed by Alan Kay, Butler Lampson, and other members of PARC’s Computer Sciences Laboratory and Systems Science Laboratory”
 
 ---
-## In object-oriented programming, why is it bad practice to make data members public when the get() & set() public members modify it anyway?
-
-*https://www.quora.com/In-object-oriented-programming-why-is-it-bad-practice-to-make-data-members-public-when-the-get-set-public-members-modify-it-anyway/answer/Alan-Kay-11*
+## [In object-oriented programming, why is it bad practice to make data members public when the get() & set() public members modify it anyway?](https://www.quora.com/In-object-oriented-programming-why-is-it-bad-practice-to-make-data-members-public-when-the-get-set-public-members-modify-it-anyway/answer/Alan-Kay-11)
 
 If you use setters, you are not really working with objects, but glorified data structures. This use of objects as “Abstract Data Types” is not in the spirit of Object Oriented Programming and Design. This misuse is one of the biggest misconceptions about what OOP is all about — and it also removes much of the power of organizing modules whose contents are sealed off from the outside.
 
@@ -11385,9 +10469,7 @@ A more sophisticated use of objects would be to have a “goal pool” of things
 Etc.
 
 ---
-## Why are guitars tuned with an open B when a C seems more logical?
-
-*https://www.quora.com/Why-are-guitars-tuned-with-an-open-B-when-a-C-seems-more-logical/answer/Alan-Kay-11*
+## [Why are guitars tuned with an open B when a C seems more logical?](https://www.quora.com/Why-are-guitars-tuned-with-an-open-B-when-a-C-seems-more-logical/answer/Alan-Kay-11)
 
 An interesting range of answers in the previous 9. It’s worth going back in time before the guitar to see how lutes, vihuelas, gambas, etc were tuned.
 
@@ -11422,9 +10504,7 @@ The guitar came along in fits and starts, with a 4 course version in the 16th ce
 There is a repertoire for these, but a lot of the use was to play chords to back up singing and other instruments. The guitar with 6 single strings started appearing around the end of the 18th century, and was in full use in the early 19th century. Many of these instruments were fitted with extra bass strings as with lutes. What we think of as the modern classical guitar happened around 1850 with a number of design changes by Torres: larger bodies, a different form of bracing, etc.
 
 ---
-## What does Alan Kay think of using either Squeak or Pharo as the first language for introducing programming?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-using-either-Squeak-or-Pharo-as-the-first-language-for-introducing-programming/answer/Alan-Kay-11*
+## [What does Alan Kay think of using either Squeak or Pharo as the first language for introducing programming?](https://www.quora.com/What-does-Alan-Kay-think-of-using-either-Squeak-or-Pharo-as-the-first-language-for-introducing-programming/answer/Alan-Kay-11)
 
 Helping someone learn something is a deep UI situation, and it has to start with the first word in UI.
 
@@ -11443,9 +10523,7 @@ I think in almost all cases, most languages have weak interfaces for beginners. 
 Bottom line is that I think there are enough actually important things that need to be gotten deeply when learning to program, that all other obstacles should be eliminated via making a pedagogical language for first use. It can be really powerful, but it needs to be in the mental space of the people who are trying to learn.
 
 ---
-## If you worked on pre-Unix time sharing systems such as ITS, Multics, TOPS-10, Tenex, or others, can you describe some of your experiences?
-
-*https://www.quora.com/If-you-worked-on-pre-Unix-time-sharing-systems-such-as-ITS-Multics-TOPS-10-Tenex-or-others-can-you-describe-some-of-your-experiences/answer/Alan-Kay-11*
+## [If you worked on pre-Unix time sharing systems such as ITS, Multics, TOPS-10, Tenex, or others, can you describe some of your experiences?](https://www.quora.com/If-you-worked-on-pre-Unix-time-sharing-systems-such-as-ITS-Multics-TOPS-10-Tenex-or-others-can-you-describe-some-of-your-experiences/answer/Alan-Kay-11)
 
 By accident, I entered the U of Utah Computer Science grad school in 1966, and found that it was one of the “ARPA Research Universities” (I had never heard of ARPA, etc).
 
@@ -11468,9 +10546,7 @@ The specs for the 940 should be a bit shocking today. The machine had a grand to
 Another really interesting wrinkle, is that Butler’s design rewarded programmers for predicting their working set ahead of a time quantum (and punished them severely if they missed (by running their process on the slow queue)). This made an enormous difference in efficiency because the OS could line up the next 3 or 4 users’ working set ahead of time and not need to do random paging from random page faults (etc.)
 
 ---
-## As a computer scientist, how much math do you actually use?
-
-*https://www.quora.com/As-a-computer-scientist-how-much-math-do-you-actually-use/answer/Alan-Kay-11*
+## [As a computer scientist, how much math do you actually use?](https://www.quora.com/As-a-computer-scientist-how-much-math-do-you-actually-use/answer/Alan-Kay-11)
 
 Mathematics is a plural because many ways to “represent ideas to allow reasoning about them” have been devised. That little “s” also implies that more can be invented as needed.
 
@@ -11481,9 +10557,7 @@ I don’t think a person can be a real “computer scientist” (where we take t
 I suspect that a lot of the disappointing computing we see around us has been concocted by computerists who haven’t really gotten themselves invested deeply enough in the real field (to the extent that there is one).
 
 ---
-## What is, in your opinion, the best textbook for self-studying computer architecture and programming “from the bottom up” (where the bottom is the logic gates level)?
-
-*https://www.quora.com/What-is-in-your-opinion-the-best-textbook-for-self-studying-computer-architecture-and-programming-from-the-bottom-up-where-the-bottom-is-the-logic-gates-level/answer/Alan-Kay-11*
+## [What is, in your opinion, the best textbook for self-studying computer architecture and programming “from the bottom up” (where the bottom is the logic gates level)?](https://www.quora.com/What-is-in-your-opinion-the-best-textbook-for-self-studying-computer-architecture-and-programming-from-the-bottom-up-where-the-bottom-is-the-logic-gates-level/answer/Alan-Kay-11)
 
 This is a great question! And I’ve periodically wanted to know the answer over the years — especially when I’ve wanted to teach “a whole systems” course.
 
@@ -11522,9 +10596,7 @@ One would be the absolute minimum as far as architecture goes — but superfast 
 The second would be an example of a minimal-but-practical architecture might mean today (today’s equivalent of Chuck Thacker’s Alto at Xerox Parc)
 
 ---
-## Why aren't there any books about the history of modern computer programming (like 1970 onwards)? Most books seem to delve really far back and only just touch on the present and future of programming.
-
-*https://www.quora.com/Why-arent-there-any-books-about-the-history-of-modern-computer-programming-like-1970-onwards-Most-books-seem-to-delve-really-far-back-and-only-just-touch-on-the-present-and-future-of-programming/answer/Alan-Kay-11*
+## [Why aren't there any books about the history of modern computer programming (like 1970 onwards)? Most books seem to delve really far back and only just touch on the present and future of programming.](https://www.quora.com/Why-arent-there-any-books-about-the-history-of-modern-computer-programming-like-1970-onwards-Most-books-seem-to-delve-really-far-back-and-only-just-touch-on-the-present-and-future-of-programming/answer/Alan-Kay-11)
 
 I take your question to imply “good books” (there are plenty of pop culture books about microcomputers onwards).
 
@@ -11545,9 +10617,7 @@ There’s the Smalltalk “Blue Book” by Goldberg and Robson, which includes a
 …
 
 ---
-## What is the nearest modern equivalent to Bell Labs or Xerox Parc?
-
-*https://www.quora.com/What-is-the-nearest-modern-equivalent-to-Bell-Labs-or-Xerox-Parc/answer/Alan-Kay-11*
+## [What is the nearest modern equivalent to Bell Labs or Xerox Parc?](https://www.quora.com/What-is-the-nearest-modern-equivalent-to-Bell-Labs-or-Xerox-Parc/answer/Alan-Kay-11)
 
 I take the question as being mostly about “similar process” rather than particular topics of focus.
 
@@ -11558,9 +10628,7 @@ Most of the others mentioned in the other two replies so far are much more top d
 Further side points to ponder are that some of the labs today which don’t have a similar process might very well have started with the same process. A small growing organization can add new and crazy people and groups. There is usually a size limit, and when that is reached, the only way you can continue “new and crazy” is to nudge the older groups out (this might be a bad idea). Also, there is the problem that the very process that jells a group to be highly cooperative, often establishes de facto leaders who might not be best for the next phase of “new and crazy”, and in any case, they start looking a lot like management even when they are trying to avoid it …
 
 ---
-## Why does technology tend toward complexity?
-
-*https://www.quora.com/Why-does-technology-tend-toward-complexity/answer/Alan-Kay-11*
+## [Why does technology tend toward complexity?](https://www.quora.com/Why-does-technology-tend-toward-complexity/answer/Alan-Kay-11)
 
 In talks, I’ve made the distinction between “Complex” and “Complicated”, where “Complexity” is an intrinsic property of an organization of “ingredients” to satisfy a goal, and “Complication” is extrinsic — mostly due to human poor design, execution, etc. (This is not an original idea, you will find other versions of this bifurcation.)
 
@@ -11577,9 +10645,7 @@ The real costs of “complications” in software are rarely incurred quickly, s
 Bottom line is that “complexity” is what we want to be able to handle, and we will have more brain cells for this if we do everything possible to limit “complications”.
 
 ---
-## Is there an OOP approach that uses a "milieu", not an object graph, to send messages, similar to how my voice is carried through the air and hits people who happen to be in range, rather than being addressed to a specific person?
-
-*https://www.quora.com/Is-there-an-OOP-approach-that-uses-a-milieu-not-an-object-graph-to-send-messages-similar-to-how-my-voice-is-carried-through-the-air-and-hits-people-who-happen-to-be-in-range-rather-than-being-addressed-to-a-specific/answer/Alan-Kay-11*
+## [Is there an OOP approach that uses a "milieu", not an object graph, to send messages, similar to how my voice is carried through the air and hits people who happen to be in range, rather than being addressed to a specific person?](https://www.quora.com/Is-there-an-OOP-approach-that-uses-a-milieu-not-an-object-graph-to-send-messages-similar-to-how-my-voice-is-carried-through-the-air-and-hits-people-who-happen-to-be-in-range-rather-than-being-addressed-to-a-specific/answer/Alan-Kay-11)
 
 A good early event-driven system was the “Sol” programming language by Knuth and McNeely (ca early 60s).
 
@@ -11594,9 +10660,7 @@ John Maloney’s new “GP” language (a wide spectrum up-design for Scratch) h
 Etc.
 
 ---
-## Does Alan Kay see any new ideas in computing?
-
-*https://www.quora.com/Does-Alan-Kay-see-any-new-ideas-in-computing/answer/Alan-Kay-11*
+## [Does Alan Kay see any new ideas in computing?](https://www.quora.com/Does-Alan-Kay-see-any-new-ideas-in-computing/answer/Alan-Kay-11)
 
 “New” is not what I look for. “Ideas that make a qualitative difference over past techniques” are what I’d like to see.
 
@@ -11615,9 +10679,7 @@ The above would be the minimal visions and goals that I think systems designers 
 I’m not aware of something like this being worked on at present, but these days this could be just because I haven’t come across it.
 
 ---
-## Are shallow inheritance hierarchies better?
-
-*https://www.quora.com/Are-shallow-inheritance-hierarchies-better/answer/Alan-Kay-11*
+## [Are shallow inheritance hierarchies better?](https://www.quora.com/Are-shallow-inheritance-hierarchies-better/answer/Alan-Kay-11)
 
 In English we often say “This is like that except …” and most of the time this is a plus if there is a good mapping between the two ideas and the “except” doesn’t destroy the mapping. In inheritance we are in theory saying something safer: “This comes from that via …” where the initial mapping is a form of equality or parametric equality, but where the same care has to be taken with the “via”.
 
@@ -11636,9 +10698,7 @@ One way to think about this is that one of the most important issues to try to c
 I wonder if there are any great examples these days in modern programming languages?
 
 ---
-## What are your thoughts on the free software movement?
-
-*https://www.quora.com/What-are-your-thoughts-on-the-free-software-movement/answer/Alan-Kay-11*
+## [What are your thoughts on the free software movement?](https://www.quora.com/What-are-your-thoughts-on-the-free-software-movement/answer/Alan-Kay-11)
 
 I think it’s very similar to “free speech”. It’s important to allow, but the equivalents of yelling “fire” in a theater should be curtailed.
 
@@ -11651,9 +10711,7 @@ Vi Hart said “We must ensure human wisdom exceeds human power”. We aren’t 
 The consequences of anti-social actions continues to get more and more life critical.
 
 ---
-## What makes for a great software demo?
-
-*https://www.quora.com/What-makes-for-a-great-software-demo/answer/Alan-Kay-11*
+## [What makes for a great software demo?](https://www.quora.com/What-makes-for-a-great-software-demo/answer/Alan-Kay-11)
 
 Presentations are “theater”, and always about the audience.
 
@@ -11674,9 +10732,7 @@ However, as he mentioned some years later, he missed thinking about why Dan and 
 I think this sums up what was — mostly — a pretty effective demo.
 
 ---
-## Does Sequoia Capital have enough cash from its investments to create a modern day Xerox PARC?
-
-*https://www.quora.com/Does-Sequoia-Capital-have-enough-cash-from-its-investments-to-create-a-modern-day-Xerox-PARC/answer/Alan-Kay-11*
+## [Does Sequoia Capital have enough cash from its investments to create a modern day Xerox PARC?](https://www.quora.com/Does-Sequoia-Capital-have-enough-cash-from-its-investments-to-create-a-modern-day-Xerox-PARC/answer/Alan-Kay-11)
 
 The old Don Valentine company that funded Atari, Apple, and many others …
 
@@ -11699,9 +10755,7 @@ Or even: “Are there any major universities that couldn’t afford to set up a 
 I.e. If you restrict your head count to just the very best, and support them, and there’s a great vision they can feel, and they can work together and find their own goals and problems from the vision … wow!
 
 ---
-## Did early computing necessarily have to be in binary, or could there have been another completely different concept that would have evolved into the technology we enjoy today?
-
-*https://www.quora.com/Did-early-computing-necessarily-have-to-be-in-binary-or-could-there-have-been-another-completely-different-concept-that-would-have-evolved-into-the-technology-we-enjoy-today/answer/Alan-Kay-11*
+## [Did early computing necessarily have to be in binary, or could there have been another completely different concept that would have evolved into the technology we enjoy today?](https://www.quora.com/Did-early-computing-necessarily-have-to-be-in-binary-or-could-there-have-been-another-completely-different-concept-that-would-have-evolved-into-the-technology-we-enjoy-today/answer/Alan-Kay-11)
 
 Babbage’s “Mill” (the CPU of his engines) — along with other arithmetical computers before and after — used gears, and worked in base 10. These schemes were “digital” — meaning they represented discrete values. Since the gears turned, the apparatus was “analog beneath”, and part of the apparatus had to ensure that the values were eventually quantized. (And consider the several roles of the escapement mechanism in a clock …)
 
@@ -11718,9 +10772,7 @@ So: if making “binary digits” allows much deeper engineering and ultimately 
 And, we don’t have to give up on analog ideas either, because we can use sampling to represent any waveform at any desired accuracy (even far beyond the ability of any analog system to stabilize). This is what happens these days with sound recording and reproduction (if it is really done well, you get the best of both worlds).
 
 ---
-## How do you tune the 1st string of the guitar without a tuner?
-
-*https://www.quora.com/How-do-you-tune-the-1st-string-of-the-guitar-without-a-tuner/answer/Alan-Kay-11*
+## [How do you tune the 1st string of the guitar without a tuner?](https://www.quora.com/How-do-you-tune-the-1st-string-of-the-guitar-without-a-tuner/answer/Alan-Kay-11)
 
 An old trick, which may not work so well today, was to use a fluorescent light* as a reference.
 
@@ -11729,9 +10781,7 @@ They used to emit a nice 60Hz hum (actually one or two octaves above this depend
 *I should also have mentioned that the average guitar amp still puts out a bit of 60Hz hum, so this could be the go-to solution today. (On the other hand with a computer or smart phone you can ask any Internet browser for any pitch … so that could be the gazillion transistors solution to this problem …)
 
 ---
-## Is computer science distinct from the liberal arts?
-
-*https://www.quora.com/Is-computer-science-distinct-from-the-liberal-arts/answer/Alan-Kay-11*
+## [Is computer science distinct from the liberal arts?](https://www.quora.com/Is-computer-science-distinct-from-the-liberal-arts/answer/Alan-Kay-11)
 
 Let’s first collect a few opinions on what constitutes “liberal arts”.
 
@@ -11778,9 +10828,7 @@ Today I couldn’t imagine setting up a two year “humans and civilization” c
 Could you?
 
 ---
-## What would Alan Kay suggest is the ideal way for somebody to start learning about computing at a corporate level?
-
-*https://www.quora.com/What-would-Alan-Kay-suggest-is-the-ideal-way-for-somebody-to-start-learning-about-computing-at-a-corporate-level/answer/Alan-Kay-11*
+## [What would Alan Kay suggest is the ideal way for somebody to start learning about computing at a corporate level?](https://www.quora.com/What-would-Alan-Kay-suggest-is-the-ideal-way-for-somebody-to-start-learning-about-computing-at-a-corporate-level/answer/Alan-Kay-11)
 
 After procrastinating for years I finally seriously took up classical pipe organ at age 40 while Chief Scientist at Atari and then a Fellow at Apple Computer. As with most people of that age, I was already quite busy.
 
@@ -11817,9 +10865,7 @@ I think it is much easier for a group of people to learn good versions of “rea
 So, as usual, learning something new and important is almost always going against “normal” (which if you think about it in regular society, means “doing something crazy”). This is the biggest hurdle for improving computing in corporate organizations.
 
 ---
-## What classes did Alan Kay teach at New York University’s Interactive Telecommunications Program, UCLA, Kyoto University, and MIT?
-
-*https://www.quora.com/What-classes-did-Alan-Kay-teach-at-New-York-University’s-Interactive-Telecommunications-Program-UCLA-Kyoto-University-and-MIT/answer/Alan-Kay-11*
+## [What classes did Alan Kay teach at New York University’s Interactive Telecommunications Program, UCLA, Kyoto University, and MIT?](https://www.quora.com/What-classes-did-Alan-Kay-teach-at-New-York-University’s-Interactive-Telecommunications-Program-UCLA-Kyoto-University-and-MIT/answer/Alan-Kay-11)
 
 An elliptical answer in two stories …
 
@@ -11858,9 +10904,7 @@ I hope the point of these two stories is clear. One way to think about it is tha
 Bob Barton and Marshall McLuhan both understood this.
 
 ---
-## What are the Seven Wonders of computer science?
-
-*https://www.quora.com/What-are-the-Seven-Wonders-of-computer-science/answer/Alan-Kay-11*
+## [What are the Seven Wonders of computer science?](https://www.quora.com/What-are-the-Seven-Wonders-of-computer-science/answer/Alan-Kay-11)
 
 I love this question — in no small part because I don’t think a really correct/exclusive answer is possible.
 
@@ -11883,9 +10927,7 @@ The deep implications of “symbolic computation” (now a very un-funded area) 
 The Internet. Certainly the best thing done by my research community, and the first real essay into the kinds of scaling and stabilities that all computer science should be trying to understand and improve. This was a great invention and development process in all ways, and — by looking at Biology, which inspired but we really couldn’t use — it had a reasonable chance to work. That it was able to scale stably over more than 10 (maybe 11) orders of magnitude, as indeed planned, is still kind of amazing to me (even though it should have). Judging from most software systems today not being organized like the Internet, one is forced into the opinion that most computerists don’t understand it, why it is great (and maybe don’t even think of it as the fruits of “real computer science” because it just works so much better and more reliably than most other attempted artifacts in the field).
 
 ---
-## When is incremental progress good?
-
-*https://www.quora.com/When-is-incremental-progress-good/answer/Alan-Kay-11*
+## [When is incremental progress good?](https://www.quora.com/When-is-incremental-progress-good/answer/Alan-Kay-11)
 
 “Better and Perfect are the Enemies of ‘What Is Actually Needed’ ”.
 
@@ -11902,9 +10944,7 @@ Bottom Line Heuristic: Always look for WIAN as carefully as possible — and tak
 I hope readers of this will supply examples from their own experience (I have many) but for this answer it will be more fun and instructive to collect experiences.
 
 ---
-## Does Y Combinator's "100 happy users" advice originate from Butler Lampson?
-
-*https://www.quora.com/Does-Y-Combinators-100-happy-users-advice-originate-from-Butler-Lampson/answer/Alan-Kay-11*
+## [Does Y Combinator's "100 happy users" advice originate from Butler Lampson?](https://www.quora.com/Does-Y-Combinators-100-happy-users-advice-originate-from-Butler-Lampson/answer/Alan-Kay-11)
 
 Eddie’s answer is “plausible”.
 
@@ -11915,9 +10955,7 @@ Eric Schmidt actually worked with Butler when he was at Parc, and certainly pick
 Eddie’s reference (4) seems diffuse on this point, especially regarding when one should think about scaling …
 
 ---
-## If Alan Kay made an introductory technical course syllabus to teach real computer science to undergraduates, what would be on it?
-
-*https://www.quora.com/If-Alan-Kay-made-an-introductory-technical-course-syllabus-to-teach-real-computer-science-to-undergraduates-what-would-be-on-it/answer/Alan-Kay-11*
+## [If Alan Kay made an introductory technical course syllabus to teach real computer science to undergraduates, what would be on it?](https://www.quora.com/If-Alan-Kay-made-an-introductory-technical-course-syllabus-to-teach-real-computer-science-to-undergraduates-what-would-be-on-it/answer/Alan-Kay-11)
 
 I will add to and change this from time to time because there is not enough room in a Quora-sized answer to provide a good enough answer, nor enough time to really think things through as needed, but …
 
@@ -12018,9 +11056,7 @@ A mapping to the “outside world” is eventually important, but a main aim wou
 So: one of the main purposes of any early course in anything is to help the students gain enough knowledge and perspective to start to be able to criticize the current state of knowledge in the field that they are being required to learn.
 
 ---
-## Was the Xerox Alto a prototype or a finished product?
-
-*https://www.quora.com/Was-the-Xerox-Alto-a-prototype-or-a-finished-product-1/answer/Alan-Kay-11*
+## [Was the Xerox Alto a prototype or a finished product?](https://www.quora.com/Was-the-Xerox-Alto-a-prototype-or-a-finished-product-1/answer/Alan-Kay-11)
 
 It was neither. It was a “time machine” to allow individual researchers starting in 1973 to work about 12–15 years in the future they were trying to invent rather than being forced to use and work around the hardware and software of the early 70s.
 
@@ -12045,18 +11081,14 @@ Meanwhile, Parc kept on inventing many more newer machines to stay in the future
 The viability of an Alto type machine as a product really depended on the VLSI technology for main memory. The first year that an Alto-type machine could conceivably have been made a product was ca 1976–7. It would have then been salable for about what a stand-alone “word-processing machine” would be — so not cheap, but with lots more functionality and flexibility.
 
 ---
-## How do you understand that you don't understand the understanding demanded by a problem?
-
-*https://www.quora.com/How-do-you-understand-that-you-dont-understand-the-understanding-demanded-by-a-problem/answer/Alan-Kay-11*
+## [How do you understand that you don't understand the understanding demanded by a problem?](https://www.quora.com/How-do-you-understand-that-you-dont-understand-the-understanding-demanded-by-a-problem/answer/Alan-Kay-11)
 
 I always assume I don’t have the necessary understanding to start on anything (this is a good heuristic for we humans to insert before thought and actions of any kind).
 
 One of the consequences of this is that because many “problems” are quite often not actually “the problems”, this provides better starts to “finding more appropriate problems”, and to finding better ways to deal with them.
 
 ---
-## What was computing like in the 1960’s?
-
-*https://www.quora.com/What-was-computing-like-in-the-1960-s/answer/Alan-Kay-11*
+## [What was computing like in the 1960’s?](https://www.quora.com/What-was-computing-like-in-the-1960-s/answer/Alan-Kay-11)
 
 I started computing ca 1961, and my job in the Air Force starting in 1962 was as a programmer for Air Training Command at Randolph AFB in San Antonio. I entered grad school at the University of Utah ARPA project in 1966.
 
@@ -12165,9 +11197,7 @@ Niklaus Wirth — Euler — was a compact detailed runnable example and model of
 <more to come>
 
 ---
-## How can one become a better thinker?
-
-*https://www.quora.com/How-can-one-become-a-better-thinker-1/answer/Alan-Kay-11*
+## [How can one become a better thinker?](https://www.quora.com/How-can-one-become-a-better-thinker-1/answer/Alan-Kay-11)
 
 To me, the first thing to notice about human thinking — via scrutinizing the rare examples of “first class thinking” we can identify — is that we humans are pretty much not genetically equipped for thinking at all!
 
@@ -12216,9 +11246,7 @@ Quite a bit of learning to think better is accomplished by doing the various pro
 Seymour Papert used to say “You can’t think about thinking without thinking about thinking about something”. In other words, it will really help to have important issues and ideas, and things to learn about that require much better thinking. Then, the many things that are known about thinking, how poorly we are generally at it, and what we’ve learned about doing it better, can be brought to bear.
 
 ---
-## What made APL programming so revolutionary?
-
-*https://www.quora.com/What-made-APL-programming-so-revolutionary/answer/Alan-Kay-11*
+## [What made APL programming so revolutionary?](https://www.quora.com/What-made-APL-programming-so-revolutionary/answer/Alan-Kay-11)
 
 APL stands for “A Programming Language”, the title of the book in 1962 written by Ken Iverson about what initially was called “Iverson Notation”. Part of the reason for the “notation” label was that it was used extensively a number of years as “a notation” before it was implemented as “APL/360” (on the IBM 360 series of mainframes).
 
@@ -12271,9 +11299,7 @@ There are several modern APL-like languages today — such as J and K — but I 
 This is partially low hanging fruit since mathematics does underlie computer graphics at all levels. The kinds of ideas that APL first brought to light allows “runnable mathematics” to be possible (and when it is possible, it is as wonderful as it gets!)
 
 ---
-## What does Alan Kay think about inheritance in object-oriented programming?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-inheritance-in-object-oriented-programming/answer/Alan-Kay-11*
+## [What does Alan Kay think about inheritance in object-oriented programming?](https://www.quora.com/What-does-Alan-Kay-think-about-inheritance-in-object-oriented-programming/answer/Alan-Kay-11)
 
 Simula I didn’t have inheritance (paper ca 1966) and Simula 67 did (paper ca 1968 or so). I initially liked the idea — it could be useful — but soon realized that something that would be “mathematically binding” was really needed because the mechanism itself let too many semantically different things to be “done” (aka “kluged”) by the programmer. For example, there is no restriction of any kind to have a subclass resemble a superclass, be a refinement of a superclass, etc. All relies on the cleanliness of mind of programmers (and even the most clean of these often just do things they need when in the throes of debugging).
 
@@ -12330,9 +11356,7 @@ The basic point of this comment is that in the end one wants to manifest a runni
 We want “clean reality”!
 
 ---
-## Why did Alan Kay choose rectangular shaped Windowing as the initial style of GUI? What were the considerations and impracticality of differently shaped windowing approach?
-
-*https://www.quora.com/Why-did-Alan-Kay-choose-rectangular-shaped-Windowing-as-the-initial-style-of-GUI-What-were-the-considerations-and-impracticality-of-differently-shaped-windowing-approach/answer/Alan-Kay-11*
+## [Why did Alan Kay choose rectangular shaped Windowing as the initial style of GUI? What were the considerations and impracticality of differently shaped windowing approach?](https://www.quora.com/Why-did-Alan-Kay-choose-rectangular-shaped-Windowing-as-the-initial-style-of-GUI-What-were-the-considerations-and-impracticality-of-differently-shaped-windowing-approach/answer/Alan-Kay-11)
 
 The 4 answers already given are pretty good.
 
@@ -12375,9 +11399,7 @@ At Utah and then Evans & Sutherland, and then Parc, and then Adobe, John Warnock
 If Postscript could be run fast enough, it would be a great replacement for “bit-blt”. A first try at this was on the NeWS UI for the Andrew system at CMU, which just barely worked, but was the right idea. The Nile system by Dan Amelang is a recent beautiful and comprehensive way to produce graphical images and their compositions.
 
 ---
-## If I want to improve my piano playing capabilities, are there any mathematical patterns I should be aware of?
-
-*https://www.quora.com/If-I-want-to-improve-my-piano-playing-capabilities-are-there-any-mathematical-patterns-I-should-be-aware-of/answer/Alan-Kay-11*
+## [If I want to improve my piano playing capabilities, are there any mathematical patterns I should be aware of?](https://www.quora.com/If-I-want-to-improve-my-piano-playing-capabilities-are-there-any-mathematical-patterns-I-should-be-aware-of/answer/Alan-Kay-11)
 
 John von Neumann said that mathematics is about “relationships about relationships”, and there are lots of these in most music: some of them are interesting, some even profound.
 
@@ -12410,9 +11432,7 @@ Finally, it’s worth noting a few comments from Francois Couperin, one of the g
 As I look back on my learning to play keyboards, I would have done better if I’d stayed with pieces that I could “play the notes” on, and really worked further to get them to be much more musically expressive …
 
 ---
-## How did you lose the bad habits you gained from self-learning a musical instrument?
-
-*https://www.quora.com/How-did-you-lose-the-bad-habits-you-gained-from-self-learning-a-musical-instrument/answer/Alan-Kay-11*
+## [How did you lose the bad habits you gained from self-learning a musical instrument?](https://www.quora.com/How-did-you-lose-the-bad-habits-you-gained-from-self-learning-a-musical-instrument/answer/Alan-Kay-11)
 
 See the great answers by Ben Simmons and Ed Durbrow.
 
@@ -12423,9 +11443,7 @@ This required about a year of doing about an hour of work every day, because it 
 All in all, perhaps two years to get really comfortable again. Years later I read that it takes about two years to really ingrain a habit, and about two years to really undo a ha
 
 ---
-## Among the best guitarists in the world, why aren't there any women?
-
-*https://www.quora.com/Among-the-best-guitarists-in-the-world-why-arent-there-any-women/answer/Alan-Kay-11*
+## [Among the best guitarists in the world, why aren't there any women?](https://www.quora.com/Among-the-best-guitarists-in-the-world-why-arent-there-any-women/answer/Alan-Kay-11)
 
 There are lots of well known female “best guitarists in the world” in the classical guitar world, including with truly incredible chops of the kind valued in the popular and rock world.
 
@@ -12442,9 +11460,7 @@ Even David Russell — one of the great virtuosos of our time — has a little b
 This is like magic (especially for any guitar player to hear and ponder)!
 
 ---
-## How can I improve my piano playing and learn to play faster sections? I can play them slower than proper temp but cannot seem to increase speed to 'tempo'.
-
-*https://www.quora.com/How-can-I-improve-my-piano-playing-and-learn-to-play-faster-sections-I-can-play-them-slower-than-proper-temp-but-cannot-seem-to-increase-speed-to-tempo/answer/Alan-Kay-11*
+## [How can I improve my piano playing and learn to play faster sections? I can play them slower than proper temp but cannot seem to increase speed to 'tempo'.](https://www.quora.com/How-can-I-improve-my-piano-playing-and-learn-to-play-faster-sections-I-can-play-them-slower-than-proper-temp-but-cannot-seem-to-increase-speed-to-tempo/answer/Alan-Kay-11)
 
 Here’s where a little more info from you about where you are would be helpful.
 
@@ -12461,9 +11477,7 @@ I found that playing two handed scales in octaves over four octaves with differe
 I don’t know a good book about keyboard technique that would help (it’s been many decades since I studied keyboards), but a book that is popular with classical guitarists is “Pumping Nylon” by Scott Tennant (an excellent pro who teaches at USC).
 
 ---
-## To what extent was it possible to build a digital computer during ancient Rome?
-
-*https://www.quora.com/To-what-extent-was-it-possible-to-build-a-digital-computer-during-ancient-Rome/answer/Alan-Kay-11*
+## [To what extent was it possible to build a digital computer during ancient Rome?](https://www.quora.com/To-what-extent-was-it-possible-to-build-a-digital-computer-during-ancient-Rome/answer/Alan-Kay-11)
 
 This is a very interesting question — right up there with one that I used to put to a class on computer design: “What computer would Captain Nemo have designed for the Nautilus? — Sketch out the design for this!”
 
@@ -12528,9 +11542,7 @@ We could definitely ask questions about “what did they really want to compute 
 They most definitely had the brains and much of the mathematical and physical outlook. It looks to me that they lacked the feeling of need more than anything else that would drive them to use what they knew to see how to make a machine to compute for them.
 
 ---
-## What are the most complicated concepts in computer science?
-
-*https://www.quora.com/What-are-the-most-complicated-concepts-in-computer-science/answer/Alan-Kay-11*
+## [What are the most complicated concepts in computer science?](https://www.quora.com/What-are-the-most-complicated-concepts-in-computer-science/answer/Alan-Kay-11)
 
 I’m not sure what “computer science” means to the requester. Almost 15 years ago I had occasion to give talks at a number of universities, and at each one asked the audience of students and professors for their definition of the term. Overwhelmingly, the definitions would be called “engineering ones”, and just what “science” is actually about never surfaced. When I conduct an occasional class at UCLA, I’ve gotten the same response.
 
@@ -12547,9 +11559,7 @@ Still, I think it’s worth pondering just what could be thought about and done 
 I think this would illuminate many areas of (a) what didn’t progress when it needed to as Moore’s Law exploded and (b) what didn’t happen in the understanding of how to make new media a positive force in human life.
 
 ---
-## In a chord sheet, what does the 2 chords with slash like Am/F# mean? Playing them together on a piano makes a dissonance.
-
-*https://www.quora.com/In-a-chord-sheet-what-does-the-2-chords-with-slash-like-Am-F-mean-Playing-them-together-on-a-piano-makes-a-dissonance/answer/Alan-Kay-11*
+## [In a chord sheet, what does the 2 chords with slash like Am/F# mean? Playing them together on a piano makes a dissonance.](https://www.quora.com/In-a-chord-sheet-what-does-the-2-chords-with-slash-like-Am-F-mean-Playing-them-together-on-a-piano-makes-a-dissonance/answer/Alan-Kay-11)
 
 It’s worth thinking about this chord a bit. As the other answers indicate, the slash followed by a name means play that note in the bass.
 
@@ -12574,9 +11584,7 @@ Going the other direction, to F from F#, we could expand the E up to F, so the r
 As with other ambiguous chords, you can try other roots to see if they supply more perspective. If you use C as the root, you get: C E F# A. This could be thought of as C6–5 (you don’t see this very often, but you will see its cousin C7–5 (C E F# Bb) everywhere because of its chameleon properties (of being two symmetric chords in two different keys at the same time) — can you puzzle this out?
 
 ---
-## What was the first computer you worked with, and in what language did you program it?
-
-*https://www.quora.com/What-was-the-first-computer-you-worked-with-and-in-what-language-did-you-program-it/answer/Alan-Kay-11*
+## [What was the first computer you worked with, and in what language did you program it?](https://www.quora.com/What-was-the-first-computer-you-worked-with-and-in-what-language-did-you-program-it/answer/Alan-Kay-11)
 
 I answered part of this question in a related question: When you were learning assembly language, what assembly language did you study?
 
@@ -12599,9 +11607,7 @@ At the Air Force Air Training Command computer center we had an 8K character mac
 Systems programming on the 1401 was also aided by its first class tape drives, which were both very fast and had extremely fast rewinding speeds. We had 6 drives, and would often use one as a swapping (overlay) memory device.
 
 ---
-## To what extent did the Xerox PARC Alto inspire the Apple Macintosh?
-
-*https://www.quora.com/To-what-extent-did-the-Xerox-PARC-Alto-inspire-the-Apple-Macintosh/answer/Alan-Kay-11*
+## [To what extent did the Xerox PARC Alto inspire the Apple Macintosh?](https://www.quora.com/To-what-extent-did-the-Xerox-PARC-Alto-inspire-the-Apple-Macintosh/answer/Alan-Kay-11)
 
 I wish it had beyond gross appearances. The bitmap display and mouse pointing device were the most obvious inspirations.
 
@@ -12634,9 +11640,7 @@ Both Intel and Motorola could have made chips that were more “parametric” wi
 Apple routinely blew chance after chance to have a dual strategy for the future by rejecting a number of opportunities to also have a line of workstations, which by Moore’s Law would be Apple’s future Macs 5–7 years out.
 
 ---
-## Is there static typing for a Smalltalk derivative?
-
-*https://www.quora.com/Is-there-static-typing-for-a-Smalltalk-derivative/answer/Alan-Kay-11*
+## [Is there static typing for a Smalltalk derivative?](https://www.quora.com/Is-there-static-typing-for-a-Smalltalk-derivative/answer/Alan-Kay-11)
 
 Besides looking at the past, we should look to the present and the future.
 
@@ -12681,9 +11685,7 @@ But consider all the ramifications of what it means to write a program that is a
 In short, I like “types” if they can really pay their way by dealing with the semantics that really count!
 
 ---
-## Which of your guitars would you keep if you had to give them all up, but one, for the rest of your life? Let’s assume you own multiple guitars (acoustic, electric, nylon, steel, 12-string, etc.)
-
-*https://www.quora.com/Which-of-your-guitars-would-you-keep-if-you-had-to-give-them-all-up-but-one-for-the-rest-of-your-life-Let-s-assume-you-own-multiple-guitars-acoustic-electric-nylon-steel-12-string-etc/answer/Alan-Kay-11*
+## [Which of your guitars would you keep if you had to give them all up, but one, for the rest of your life? Let’s assume you own multiple guitars (acoustic, electric, nylon, steel, 12-string, etc.)](https://www.quora.com/Which-of-your-guitars-would-you-keep-if-you-had-to-give-them-all-up-but-one-for-the-rest-of-your-life-Let-s-assume-you-own-multiple-guitars-acoustic-electric-nylon-steel-12-string-etc/answer/Alan-Kay-11)
 
 Like J Robb Wilson, I also have a 1962 Gibson Johnny Smith that I got in 1962 while in the Air Force, and played it on jobs for many years. I kept it in mint condition. Hard to imagine parting with such a source of memories.
 
@@ -12722,9 +11724,7 @@ After trying and buying quite a few lutes, I was very lucky at the end of 2019 t
 I’m very happy to be able to play this (and am paying a lot of attention to just how the left thumb feels in the hope of prolonging the joy of playing).
 
 ---
-## Did Xerox PARC write human interface guidelines?
-
-*https://www.quora.com/Did-Xerox-PARC-write-human-interface-guidelines/answer/Alan-Kay-11*
+## [Did Xerox PARC write human interface guidelines?](https://www.quora.com/Did-Xerox-PARC-write-human-interface-guidelines/answer/Alan-Kay-11)
 
 Yes.
 
@@ -12741,9 +11741,7 @@ And a little later the UI guidelines for the Star computer design were composed 
 I don’t have the internal design document at hand, so I’m a bit fuzzy on all the contributors, but they included: David Canfield Smith, William Newman, Larry Tesler, Bill Verplank, Charles Irby, et al. The retrospective document is here.
 
 ---
-## What was the Whole Earth Catalog?
-
-*https://www.quora.com/What-was-the-Whole-Earth-Catalog/answer/Alan-Kay-11*
+## [What was the Whole Earth Catalog?](https://www.quora.com/What-was-the-Whole-Earth-Catalog/answer/Alan-Kay-11)
 
 It was a series of wonderful collections of “access to tools” especially including “tools for thought” of hundreds of books worth reading (the first 500 books to go in the Xerox PARC library were *all* the books in the Whole Earth Catalog). Much of its approach was systems-based, and this gives it a very future oriented point of view.
 
@@ -12768,9 +11766,7 @@ It is worth perusing the entire Whole Earth Catalog website.
 Added July 2021 — this website now seems to be down or missing — but thanks to Frank Heile (in comments below), here is a link to the pdfs
 
 ---
-## What are the successors / continuations of the "talking typewriter" project/idea referred to by Alan Kay?
-
-*https://www.quora.com/What-are-the-successors-continuations-of-the-talking-typewriter-project-idea-referred-to-by-Alan-Kay/answer/Alan-Kay-11*
+## [What are the successors / continuations of the "talking typewriter" project/idea referred to by Alan Kay?](https://www.quora.com/What-are-the-successors-continuations-of-the-talking-typewriter-project-idea-referred-to-by-Alan-Kay/answer/Alan-Kay-11)
 
 I was hoping someone would answer this so I could find out!
 
@@ -12781,9 +11777,7 @@ I also discussed some of the things that could be done now and in the future, bu
 Any one out there aware of next steps with children learning how to read by learning how to write with a “responsive writing and reading machine”?
 
 ---
-## What did ARPA-IPTO / PARC learn about how to do good problem-finding?
-
-*https://www.quora.com/What-did-ARPA-IPTO-PARC-learn-about-how-to-do-good-problem-finding/answer/Alan-Kay-11*
+## [What did ARPA-IPTO / PARC learn about how to do good problem-finding?](https://www.quora.com/What-did-ARPA-IPTO-PARC-learn-about-how-to-do-good-problem-finding/answer/Alan-Kay-11)
 
 Interesting Quora glitch (this question didn’t automatically get sent to me — I just found it randomly).
 
@@ -12818,16 +11812,12 @@ A good modern example is Bret Victor’s “DynamicLand”, which he gestated fo
 * the original scan can be found by typing “doug engelbart augmenting human intellect pdf” into Google (e.g. Bret Victor carries it on his site)
 
 ---
-## What is creativity?
-
-*https://www.quora.com/What-is-creativity/answer/Alan-Kay-11*
+## [What is creativity?](https://www.quora.com/What-is-creativity/answer/Alan-Kay-11)
 
 Creativity is seeing wonderful things that most people can’t see.
 
 ---
-## How did you learn to play the piano with both hands independently?
-
-*https://www.quora.com/How-did-you-learn-to-play-the-piano-with-both-hands-independently/answer/Alan-Kay-11*
+## [How did you learn to play the piano with both hands independently?](https://www.quora.com/How-did-you-learn-to-play-the-piano-with-both-hands-independently/answer/Alan-Kay-11)
 
 When I started playing keyboards as a kid I was exploring how chords and melodies went together, and the approach suggested to me was to learn “the three chords” as three note chords with minimal movement of the left hand, and see how these would work with many melodies.
 
@@ -12842,9 +11832,7 @@ There are lots of things that can be learned about important parts of music and 
 Some years later when I was learning piano “for real”, I asked a teacher about good ways to get get sight reading down, and he suggested “the 5 foot stack” of “everything”, but to start with Hymn books with 4 part arrangements, and to spend 15–30 minutes each day just “moving on through them”. Eventually, one can “see” how they will sound and one’s fingers will all go where they need to. (This is very much like the left hand idea above, but for both hands playing shapes, and more kinds of shapes.)
 
 ---
-## I can tune a guitar by ear without any reference notes. Does that mean I have perfect pitch?
-
-*https://www.quora.com/I-can-tune-a-guitar-by-ear-without-any-reference-notes-Does-that-mean-I-have-perfect-pitch/answer/Alan-Kay-11*
+## [I can tune a guitar by ear without any reference notes. Does that mean I have perfect pitch?](https://www.quora.com/I-can-tune-a-guitar-by-ear-without-any-reference-notes-Does-that-mean-I-have-perfect-pitch/answer/Alan-Kay-11)
 
 “Perfect pitch” is actually “good pitch memory”.
 
@@ -12871,9 +11859,7 @@ For much music, this is much less useful than to identify “do” with the “t
 This covers a lot of music. But there is also music that is not in terms of keys, and for this more general schemes are needed.
 
 ---
-## What are your reflections on “The Mother of All Demos”?
-
-*https://www.quora.com/What-are-your-reflections-on-The-Mother-of-All-Demos/answer/Alan-Kay-11*
+## [What are your reflections on “The Mother of All Demos”?](https://www.quora.com/What-are-your-reflections-on-The-Mother-of-All-Demos/answer/Alan-Kay-11)
 
 I’ve been asked to give talks at the the 25th, the 30th, and the 40th anniversaries of the 1968 “MOAD”.
 
@@ -12888,9 +11874,7 @@ Bret Victor wrote a very good comment when Doug Englebart passed away a few year
 (b) to understand what Doug was out after, read the 1962 proposal that lays out a conceptual framework for “Augmenting Human Intellect”.
 
 ---
-## Musicians, how do you play your instruments for hours while staying entertained?
-
-*https://www.quora.com/Musicians-how-do-you-play-your-instruments-for-hours-while-staying-entertained/answer/Alan-Kay-11*
+## [Musicians, how do you play your instruments for hours while staying entertained?](https://www.quora.com/Musicians-how-do-you-play-your-instruments-for-hours-while-staying-entertained/answer/Alan-Kay-11)
 
 To a musician, music is life itself. “Entertainment” doesn’t come close to the “merging engagement” one has.
 
@@ -12899,9 +11883,7 @@ On reflection, the answer above didn’t take into account the range of “how l
 To a musician, playing music has much of the joy of falling in love and merging with one’s beloved.
 
 ---
-## Out of the inventions to come out of Xerox PARC, which were the most grossly caricatured by others and which were the most thoughtfully done?
-
-*https://www.quora.com/Out-of-the-inventions-to-come-out-of-Xerox-PARC-which-were-the-most-grossly-caricatured-by-others-and-which-were-the-most-thoughtfully-done/answer/Alan-Kay-11*
+## [Out of the inventions to come out of Xerox PARC, which were the most grossly caricatured by others and which were the most thoughtfully done?](https://www.quora.com/Out-of-the-inventions-to-come-out-of-Xerox-PARC-which-were-the-most-grossly-caricatured-by-others-and-which-were-the-most-thoughtfully-done/answer/Alan-Kay-11)
 
 Does “caricature” imply intent, or should we consider it just an observation of the result of sometimes blind processes?
 
@@ -12946,9 +11928,7 @@ So, the first question to always ask when doing UI design is “what is the ‘b
 I don’t think coming up with “Guitar Hero-like” non-guitar UIs that claim to allow you to touch “guitar” is good for anyone, and in the large they are disastrous for humanity. A little fantasy is a good thing, but human destiny requires us to get better at constructing maps for “realities” that are better matches to our actual situations (and inventing and using user-interfaces that help us learn how to do so).
 
 ---
-## Is the night shift on iPhones good for your eyes?
-
-*https://www.quora.com/Is-the-night-shift-on-iPhones-good-for-your-eyes/answer/Alan-Kay-11*
+## [Is the night shift on iPhones good for your eyes?](https://www.quora.com/Is-the-night-shift-on-iPhones-good-for-your-eyes/answer/Alan-Kay-11)
 
 Note: I only answered the original question. Some other agency changed the question without my permission, and my answer below doesn’t apply directly.
 
@@ -12963,9 +11943,7 @@ So the general answer to this question seems to be “No”,
 It is possible that in a very dark room that a mostly dark background with lighter text on a display might be easier on the eyes (but this would imply a kind of troglodytish existence that is likely not healthy for human beings …)
 
 ---
-## Why does the American educational system seem to lack confidence in teaching higher-level mathematics in primary schools, where in many other countries, math is embraced instead of avoided?
-
-*https://www.quora.com/Why-does-the-American-educational-system-seem-to-lack-confidence-in-teaching-higher-level-mathematics-in-primary-schools-where-in-many-other-countries-math-is-embraced-instead-of-avoided/answer/Alan-Kay-11*
+## [Why does the American educational system seem to lack confidence in teaching higher-level mathematics in primary schools, where in many other countries, math is embraced instead of avoided?](https://www.quora.com/Why-does-the-American-educational-system-seem-to-lack-confidence-in-teaching-higher-level-mathematics-in-primary-schools-where-in-many-other-countries-math-is-embraced-instead-of-avoided/answer/Alan-Kay-11)
 
 “higher-level mathematics”? “in many other countries ‘math’ is embraced”?
 
@@ -13014,9 +11992,7 @@ This is not the case for US elementary school teachers (not even close). In the 
 A society that understands this can readily afford to pay for it, and get it. Ours doesn’t, doesn’t, and doesn’t.
 
 ---
-## When you were learning assembly language, what assembly language did you study?
-
-*https://www.quora.com/When-you-were-learning-assembly-language-what-assembly-language-did-you-study/answer/Alan-Kay-11*
+## [When you were learning assembly language, what assembly language did you study?](https://www.quora.com/When-you-were-learning-assembly-language-what-assembly-language-did-you-study/answer/Alan-Kay-11)
 
 My first real machine for programming (and learning assembly coding) was the IBM 1401 in the US Air Force in 1962.
 
@@ -13035,9 +12011,7 @@ The big exception was the Burroughs B5000 (ca 1962) that had a HLL architecture 
 The 6600 supercomputer in 1965 was perhaps the first RISC architecture, and whose inner CPU ran 10 times faster than the main memory (100ns vs 1 us) with parallel arithmetic, fetching and storing, and a small kind of cache for sorting out sequences. It had a very rudimentary assembler, and the programmers of this machine had to do a lot of work to keep the main memory cycling and the tiny cache not exceeded. It took quite a while for the FORTRAN on this very fast machine to create code that would even run faster over all than on the 3600. (The 6600 later became a favorite target for computer scientists trying to come up with general optimizers for arbitrary machine architectures.)
 
 ---
-## What is the "proper" technique to play a classical guitar without fingernails (if there is one)?
-
-*https://www.quora.com/What-is-the-proper-technique-to-play-a-classical-guitar-without-fingernails-if-there-is-one/answer/Alan-Kay-11*
+## [What is the "proper" technique to play a classical guitar without fingernails (if there is one)?](https://www.quora.com/What-is-the-proper-technique-to-play-a-classical-guitar-without-fingernails-if-there-is-one/answer/Alan-Kay-11)
 
 Some pointers. First take a look at lute technique over many centuries, and you will find that most lute playing of all styles and eras was done without nails — the main exceptions were a few players, especially those who mainly played “continuo” (background chords and figurations in groups), where more volume helped and less subtlety was required. There is quite a bit known — much of it written down — about how to get many different kinds of tone and volume on a lute using fingertips.
 
@@ -13068,9 +12042,7 @@ The other part of this is that both real gut and synthetic gut strings at the lo
 To me, the main reason to deal with the much larger technical demands of fretted instruments compared to keyboards is that you can get much more expressive sound and ranges of sound. Fingertip playing really delivers!
 
 ---
-## Would you rather have three $1000 guitars with various characteristics (Strat/Tele/LP/semi-hollow, etc.) or one $3000 top-of-the-range guitar?
-
-*https://www.quora.com/Would-you-rather-have-three-1000-guitars-with-various-characteristics-Strat-Tele-LP-semi-hollow-etc-or-one-3000-top-of-the-range-guitar/answer/Alan-Kay-11*
+## [Would you rather have three $1000 guitars with various characteristics (Strat/Tele/LP/semi-hollow, etc.) or one $3000 top-of-the-range guitar?](https://www.quora.com/Would-you-rather-have-three-1000-guitars-with-various-characteristics-Strat-Tele-LP-semi-hollow-etc-or-one-3000-top-of-the-range-guitar/answer/Alan-Kay-11)
 
 The question is sort of aimed at the electric (even rock) guitar world, but it might be useful for a perspective from the classical guitar side of things. An additional bit of context is that I have a “nice number” of very good electric guitars of various kinds.
 
@@ -13083,9 +12055,7 @@ In this range, the price is not automatically a measure of the goodness of the i
 I want to echo and enlarge a point made by one of the other answerers: a really great piano (and not a concert grand either) these days is more than $100K (e.g. a Boesendorfer 200 and above). You can get a really great guitar for less than 1/10th of a great piano (and you can take it with you everywhere). This is one of the great musical bargains of all time.
 
 ---
-## In the early days of the computer mouse, what were the arguments for and against making it one-button versus having multiple buttons?
-
-*https://www.quora.com/In-the-early-days-of-the-computer-mouse-what-were-the-arguments-for-and-against-making-it-one-button-versus-having-multiple-buttons/answer/Alan-Kay-11*
+## [In the early days of the computer mouse, what were the arguments for and against making it one-button versus having multiple buttons?](https://www.quora.com/In-the-early-days-of-the-computer-mouse-what-were-the-arguments-for-and-against-making-it-one-button-versus-having-multiple-buttons/answer/Alan-Kay-11)
 
 The mouse was invented by Doug Engelbart and Bill English in 1964 for their proposed “oNLine System” (NLS). There were a number of other pointing devices around at that time, including the light-pen/”gun”, and several kinds of track balls. Invented the same year was the RAND tablet-and-stylus (it was really a great piece of engineering and worked wonderfully well, albeit for a very high cost).
 
@@ -13140,9 +12110,7 @@ Where we are today is that most people use their systems much more than the 6 ho
 And most of the UIs today don’t provide any learning curves for the smaller percentage who can see that learning real skills would make a big difference.
 
 ---
-## What guitar has the best tone?
-
-*https://www.quora.com/What-guitar-has-the-best-tone/answer/Alan-Kay-11*
+## [What guitar has the best tone?](https://www.quora.com/What-guitar-has-the-best-tone/answer/Alan-Kay-11)
 
 Let’s leave “best” as subjective, and look at ranges of tone as played by you (or by some very accomplished player).
 
@@ -13171,9 +12139,7 @@ And so forth. Many of these choices actually do make a difference with the sound
 In my view the differences are quite large and important, especially if one is very sensitive to sound.
 
 ---
-## What’s a good introductory instrument to learn for someone who knows nothing about music?
-
-*https://www.quora.com/What-s-a-good-introductory-instrument-to-learn-for-someone-who-knows-nothing-about-music/answer/Alan-Kay-11*
+## [What’s a good introductory instrument to learn for someone who knows nothing about music?](https://www.quora.com/What-s-a-good-introductory-instrument-to-learn-for-someone-who-knows-nothing-about-music/answer/Alan-Kay-11)
 
 Let me suggest “the voice”. This is because “musicality” has to be developed internally for any kind of musical production to be “musical”. If you take lessons on another instrument, at some point the teacher will try to get you to sing what you are trying to play (and conversely, good players are always “singing inside” and use this to help expression on what they are doing externally).
 
@@ -13196,16 +12162,12 @@ One final thought. One of the most noticeable things in teaching young children 
 So a really interesting question should be: what are the best ways to help people learn to sing both on the outside and especially on the inside?
 
 ---
-## Recently I’ve been considering trading the first “real” guitar I ever bought myself for a stratocaster, I’ve loved the sound of strats for so long but I’m scared to give away my first guitar (its a telecaster) Should I trade it?
-
-*https://www.quora.com/Recently-I-ve-been-considering-trading-the-first-real-guitar-I-ever-bought-myself-for-a-stratocaster-I-ve-loved-the-sound-of-strats-for-so-long-but-I-m-scared-to-give-away-my-first-guitar-its-a-telecaster-Should-I/answer/Alan-Kay-11*
+## [Recently I’ve been considering trading the first “real” guitar I ever bought myself for a stratocaster, I’ve loved the sound of strats for so long but I’m scared to give away my first guitar (its a telecaster) Should I trade it?](https://www.quora.com/Recently-I-ve-been-considering-trading-the-first-real-guitar-I-ever-bought-myself-for-a-stratocaster-I-ve-loved-the-sound-of-strats-for-so-long-but-I-m-scared-to-give-away-my-first-guitar-its-a-telecaster-Should-I/answer/Alan-Kay-11)
 
 I’d would urge you to keep it (and make a plan for how to get a Strat). This is because “bonding” with an instrument is more than learning to use a tool — it becomes an extension of your psyche, imagination, even soul. You don’t want to amputate anything that does this for you. But you can always bring in another that extends you in other dimensions and bond with it also.
 
 ---
-## What guitar surprised you the most (positively or negatively) when you first played it?
-
-*https://www.quora.com/What-guitar-surprised-you-the-most-positively-or-negatively-when-you-first-played-it/answer/Alan-Kay-11*
+## [What guitar surprised you the most (positively or negatively) when you first played it?](https://www.quora.com/What-guitar-surprised-you-the-most-positively-or-negatively-when-you-first-played-it/answer/Alan-Kay-11)
 
 Originally written ca. 2018
 
@@ -13248,9 +12210,7 @@ Meanwhile, I decided to really learn the lute (it turns out to be quite differen
 It is wonderful to be able to learn and play this at age 81! The lute has an immense repertoire over many centuries. I think it has many more “intermediate level” pieces of first class musical quality and beauty than any other instrument. It doesn’t produce a lot of sound, but it has more “presence” than instruments like the guitar, piano, harpsichord, etc. It does what a low level brass choir would do (where two notes around middle C will fill a room). Here’s a sample of a “tone piece” from ca 1520s (so 500 years ago) that I did as a birthday surprise for my wife last year (good headphones advised).
 
 ---
-## Why are there frets on a guitar? Wouldn't a guitar player be able to play from hearing? They seem more annoying than useful to me.
-
-*https://www.quora.com/Why-are-there-frets-on-a-guitar-Wouldnt-a-guitar-player-be-able-to-play-from-hearing-They-seem-more-annoying-than-useful-to-me/answer/Alan-Kay-11*
+## [Why are there frets on a guitar? Wouldn't a guitar player be able to play from hearing? They seem more annoying than useful to me.](https://www.quora.com/Why-are-there-frets-on-a-guitar-Wouldnt-a-guitar-player-be-able-to-play-from-hearing-They-seem-more-annoying-than-useful-to-me/answer/Alan-Kay-11)
 
 I would like to drill deeper into the issues than the other answers.
 
@@ -13323,9 +12283,7 @@ You could get a fretless guitar made, as Chet Atkins did and uses in this video 
 Jerry Reed & Chet Atkins - "Summertime" (Live)
 
 ---
-## How did the discipline of science spread after its invention?
-
-*https://www.quora.com/How-did-the-discipline-of-science-spread-after-its-invention/answer/Alan-Kay-11*
+## [How did the discipline of science spread after its invention?](https://www.quora.com/How-did-the-discipline-of-science-spread-after-its-invention/answer/Alan-Kay-11)
 
 A large question for a small space! On his landmark BBC/PBS show — “Civilization” — Kenneth Clark said: “People in the Middle Ages were as passionate about the Truth as we are, but their sense of evidence was very different”. The term “science” has meant very different things in different eras — it once mainly meant “gathering of ‘knowledge’ “ (which still requires a definition of ‘knowledge’).
 
@@ -13360,9 +12318,7 @@ One way to look at this is that science has flourished via the combination of a 
 One way to think about all this is that the “invention of science” really did take place in several stages, the most important of which were the inventions of perspectives on how to go about finding and getting and making “pretty good knowledge” and to share this knowledge in ways that transmit the deep foundations of what has been discovered (including new ways to discover).
 
 ---
-## How would you tune a guitar to match a piano with stretched tuning? Would you tune to the lower bass notes being played or just the middle C?
-
-*https://www.quora.com/How-would-you-tune-a-guitar-to-match-a-piano-with-stretched-tuning-Would-you-tune-to-the-lower-bass-notes-being-played-or-just-the-middle-C/answer/Alan-Kay-11*
+## [How would you tune a guitar to match a piano with stretched tuning? Would you tune to the lower bass notes being played or just the middle C?](https://www.quora.com/How-would-you-tune-a-guitar-to-match-a-piano-with-stretched-tuning-Would-you-tune-to-the-lower-bass-notes-being-played-or-just-the-middle-C/answer/Alan-Kay-11)
 
 Robert Preston’s answer is good. To understand what is going on, it’s worth contemplating why would tuners stretch the octaves (to make an interval sharper than a perfect octave) on a piano?
 
@@ -13381,9 +12337,7 @@ So, back to Robert Preston. If you are playing with a piano, and you are sensiti
 * I have a “fortepiano”in the style of 1795, and merely stretching the octaves is not enough (not a uniform approach to design in those days). We found that we had to tune it via 10ths to get something that would sound nicely enough in tune (especially for early Beethoven).
 
 ---
-## Which is more difficult: playing piano or playing guitar?
-
-*https://www.quora.com/Which-is-more-difficult-playing-piano-or-playing-guitar/answer/Alan-Kay-11*
+## [Which is more difficult: playing piano or playing guitar?](https://www.quora.com/Which-is-more-difficult-playing-piano-or-playing-guitar/answer/Alan-Kay-11)
 
 The answers to this question are like a cross-section of US culture. The one I thought closest to useful was by Robert Micarelli.Roberto Micarelli's answer to Which is more difficult: playing piano or playing guitar?
 
@@ -13406,16 +12360,12 @@ But just to give you an example, here is a classic piece from a century ago by t
 I like Matt Palmer’s version of this, and he is playing a truly great instrument in his YouTube recording by Michael Thames — his version of Torres’ “La Leona” guitar from 1856. Getting all of this “out to us” so well is as difficult as any more obvious “zillions of notes” virtuoso piece.
 
 ---
-## Why hasn’t Alan Kay published a book?
-
-*https://www.quora.com/Why-hasn-t-Alan-Kay-published-a-book/answer/Alan-Kay-11*
+## [Why hasn’t Alan Kay published a book?](https://www.quora.com/Why-hasn-t-Alan-Kay-published-a-book/answer/Alan-Kay-11)
 
 Ouch!
 
 ---
-## What are some good resources for learning about scientific computing?
-
-*https://www.quora.com/What-are-some-good-resources-for-learning-about-scientific-computing/answer/Alan-Kay-11*
+## [What are some good resources for learning about scientific computing?](https://www.quora.com/What-are-some-good-resources-for-learning-about-scientific-computing/answer/Alan-Kay-11)
 
 My basic answer is: read a lot outside of the computer field.
 
@@ -13454,9 +12404,7 @@ Bertrand Russell’s books are still very good just for thinking more deeply abo
 Multiple points of view are the only way to fight against human desires to believe and create religions, so my favorite current history book to read is: “Destiny Disrupted” by Tamim Ansary. He grew up in Afghanistan, moved to the US at age 16, and is able to write a clear illuminating history of the world from the time of Mohammed from the point of view of this world, and without special pleading.
 
 ---
-## 30 years ago, what were the first 5-10 steps in designing and creating a computer?
-
-*https://www.quora.com/30-years-ago-what-were-the-first-5-10-steps-in-designing-and-creating-a-computer/answer/Alan-Kay-11*
+## [30 years ago, what were the first 5-10 steps in designing and creating a computer?](https://www.quora.com/30-years-ago-what-were-the-first-5-10-steps-in-designing-and-creating-a-computer/answer/Alan-Kay-11)
 
 30 years ago was 1988, and many components for many computers (especially personal computers) were VLSI, and could to some extent be TinkerToyed together.
 
@@ -13471,9 +12419,7 @@ Looking at things today, one can learn a lot by looking at how memory architectu
 One way to learn is to design and make some computers to try out various ideas and tradeoffs. You can buy inexpensive Field Programmable Gate Array development kits that will plug into your laptop that will allow you to even create supercomputers with dozens, even hundreds, of processing elements. The gates are all the same for everything so you can get distribute storage and processing functions everywhere (and even merge them).
 
 ---
-## Why was personal computing an unusual research choice in the 1960s?
-
-*https://www.quora.com/Why-was-personal-computing-an-unusual-research-choice-in-the-1960s/answer/Alan-Kay-11*
+## [Why was personal computing an unusual research choice in the 1960s?](https://www.quora.com/Why-was-personal-computing-an-unusual-research-choice-in-the-1960s/answer/Alan-Kay-11)
 
 I think Mark Miller’s answer is pretty good. One distinction that might help is that between “personal computing” and “personal computer”. The drive for interactive time-sharing of the large mainframe computers that started right around 1960 was a drive for “being able to work on your own computer whenever you wanted day or night”.
 
@@ -13502,18 +12448,14 @@ As I’ve mentioned before in Quora, the key to the success at Parc was to be ab
 I’ll leave the story here with these tradeoffs between individuals and utilities in mind — these still exist, and are still not done well enough.
 
 ---
-## Was anything meaningful lost for good when Xerox threw out their old PARC data disks?
-
-*https://www.quora.com/Was-anything-meaningful-lost-for-good-when-Xerox-threw-out-their-old-PARC-data-disks/answer/Alan-Kay-11*
+## [Was anything meaningful lost for good when Xerox threw out their old PARC data disks?](https://www.quora.com/Was-anything-meaningful-lost-for-good-when-Xerox-threw-out-their-old-PARC-data-disks/answer/Alan-Kay-11)
 
 I don’t think that anything technical was lost. But from the standpoint of actual historical artifacts: certainly. As far as we know, the Smalltalk-78 image that we brought back to life a few years ago is the only extant version, and it was almost lost.
 
 We didn’t generally recycle our disk packs, but just got fresh ones, so quite a bit of historical work was on the stash of disk packs (I left all of mine behind when I left Parc, etc.)
 
 ---
-## Who is working on developing the Dynabook today?
-
-*https://www.quora.com/Who-is-working-on-developing-the-Dynabook-today/answer/Alan-Kay-11*
+## [Who is working on developing the Dynabook today?](https://www.quora.com/Who-is-working-on-developing-the-Dynabook-today/answer/Alan-Kay-11)
 
 I don’t know specifically if anyone is working on the larger goals of the Dynabook. (When I first wrote this, I was as trapped in the physical design and the past, as anyone. So I missed pointing out that Bret Victor and his DynamicLand group have been working on something larger than the Dynabook, and which is very much in the whole ARPA/Parc spirit of “learning to think, communicate, and act qualitatively better with the intellectual and learning amplifiers that are possible with interactive computing”. Check out the DynamicLand website.)
 
@@ -13542,16 +12484,12 @@ The entire system was programmed in the very same language that the children use
 A number of good things were done subsequently — HyperCard, Boxer, StarLogo, Etoys (the ancestor of Scratch), etc. — but today — aside from Bret Victor’s DynamicLand — I’m not aware of any current projects that try to be comprehensive in the large about “computing as a medium for powerful ideas” etc. (I don’t have positive feelings about the current fad of “everyone should learn to program” because it’s really about “Why?” rather than “What?”.)
 
 ---
-## What's the best Donald Trump joke you have heard?
-
-*https://www.quora.com/Whats-the-best-Donald-Trump-joke-you-have-heard/answer/Alan-Kay-11*
+## [What's the best Donald Trump joke you have heard?](https://www.quora.com/Whats-the-best-Donald-Trump-joke-you-have-heard/answer/Alan-Kay-11)
 
 Donald Trump!
 
 ---
-## Isn't getting rid of the evil "state" like Haskell's approach, something every programmer should follow?
-
-*https://www.quora.com/Isnt-getting-rid-of-the-evil-state-like-Haskells-approach-something-every-programmer-should-follow/answer/Alan-Kay-11*
+## [Isn't getting rid of the evil "state" like Haskell's approach, something every programmer should follow?](https://www.quora.com/Isnt-getting-rid-of-the-evil-state-like-Haskells-approach-something-every-programmer-should-follow/answer/Alan-Kay-11)
 
 I wrote a Quora answer that touched on this question: Why is functional programming seen as the opposite of OOP rather than an addition to it?
 
@@ -13560,9 +12498,7 @@ Part of John McCarthy’s long ago insight (that after 60 years I wish computer 
 John’s desire to have both unambiguous reasoning about situations and actions and causes and to have changes over time led to his powerful ways to deal with these. I think most of the confusions today stem from too limited a view on computing — very likely from taking programming practices as “computing” (whereas they are distressingly distant from each other at the present time).
 
 ---
-## How did Alan Kay first get started with computing?
-
-*https://www.quora.com/How-did-Alan-Kay-first-get-started-with-computing/answer/Alan-Kay-11*
+## [How did Alan Kay first get started with computing?](https://www.quora.com/How-did-Alan-Kay-first-get-started-with-computing/answer/Alan-Kay-11)
 
 I got started via carpet-bombing reading as a just turned teenager in the early 50s. I’m pretty sure that the catalyst wasn’t science fiction because although scifi was into robots it had very little to say about computers in those days (Robert Heinlein did mention Howard Aiken at Harvard in one of his books).
 
@@ -13593,9 +12529,7 @@ There was also a Burroughs 220 there — also a very idiosyncratic architecture 
 But that’s another story.
 
 ---
-## How would you design the perfect programming language?
-
-*https://www.quora.com/How-would-you-design-the-perfect-programming-language/answer/Alan-Kay-11*
+## [How would you design the perfect programming language?](https://www.quora.com/How-would-you-design-the-perfect-programming-language/answer/Alan-Kay-11)
 
 “ ‘Better’ and ‘Perfect’ are the enemies of ‘What Is Needed’ “
 
@@ -13622,9 +12556,7 @@ In other words, when very high visions and goals are called for, one has to do a
 The simplest heuristic is to deal with “wonderful goodness” for as long as it takes before trying to figure out just what steps are needed to start realizing “what is needed”.
 
 ---
-## What piece of hardware in a computer matters the absolute most when trying to build a super fast computer?
-
-*https://www.quora.com/What-piece-of-hardware-in-a-computer-matters-the-absolute-most-when-trying-to-build-a-super-fast-computer/answer/Alan-Kay-11*
+## [What piece of hardware in a computer matters the absolute most when trying to build a super fast computer?](https://www.quora.com/What-piece-of-hardware-in-a-computer-matters-the-absolute-most-when-trying-to-build-a-super-fast-computer/answer/Alan-Kay-11)
 
 Many of the other answers addressed a somewhat different question than the one given.
 
@@ -13633,9 +12565,7 @@ As Ivan Sutherland (the father of computer graphics and VR/AR etc) recently poin
 All these help with getting rid of and limiting the size of wires. Also, this approach can help understand just what the “action components” should actually look like.
 
 ---
-## How do I learn programming if I hate complexity?
-
-*https://www.quora.com/How-do-I-learn-programming-if-I-hate-complexity/answer/Alan-Kay-11*
+## [How do I learn programming if I hate complexity?](https://www.quora.com/How-do-I-learn-programming-if-I-hate-complexity/answer/Alan-Kay-11)
 
 If you really “hate complexity”, then perhaps you should take a shot at learning programming (really systems design) to see if you can help. Even better if what you really hate is “complication” (In several talks, I’ve made the distinction between “complication” as “noise and mess introduced by humans” and “complexity” as something intrinsic to the phenomena.
 
@@ -13650,9 +12580,7 @@ Much of real programming today should likely be in terms of meta-programming (li
 More people who “hate complexity” (“complications”) are needed!
 
 ---
-## What are Alan Kay’s Learning Labs?
-
-*https://www.quora.com/What-are-Alan-Kay-s-Learning-Labs/answer/Alan-Kay-11*
+## [What are Alan Kay’s Learning Labs?](https://www.quora.com/What-are-Alan-Kay-s-Learning-Labs/answer/Alan-Kay-11)
 
 A “Learning Lab” was a once a year (sometimes twice) for many years get-together of the most interesting people we knew to share ideas about learning, teaching, epistemology, art, etc., held away from the regular world.
 
@@ -13669,9 +12597,7 @@ Later at Apple, we started a large educational project — “The Vivarium” �
 There were perhaps as many as 20 of these, so right now I’m at a loss to compactly describe how they functioned, but I will come back to this to add a few sketches that will give at least a gist of some of the activities.
 
 ---
-## What did both PARC and the “tonerheads” at Xerox misunderstand about each other?
-
-*https://www.quora.com/What-did-both-PARC-and-the-tonerheads-at-Xerox-misunderstand-about-each-other/answer/Alan-Kay-11*
+## [What did both PARC and the “tonerheads” at Xerox misunderstand about each other?](https://www.quora.com/What-did-both-PARC-and-the-tonerheads-at-Xerox-misunderstand-about-each-other/answer/Alan-Kay-11)
 
 Xerox had many different kinds of people; I don’t think of them as “tonerheads”.
 
@@ -13694,9 +12620,7 @@ The big misunderstandings were almost entirely about what human misunderstanding
 The big tragedy was not that Xerox missed what Parc did, but that the government funding that led to the large concepts of ARPA/Parc was discontinued in the early 70s by Congress (again from a lack of understanding). Parc was able to do the next stage of the ARPA ideas, but no commercial company could handle the ideas: not Xerox, not Apple, not Microsoft. That continues to be a tragedy of the first magnitude.
 
 ---
-## What was it like to be at Xerox PARC when Bill Gates visited?
-
-*https://www.quora.com/What-was-it-like-to-be-at-Xerox-PARC-when-Bill-Gates-visited/answer/Alan-Kay-11*
+## [What was it like to be at Xerox PARC when Bill Gates visited?](https://www.quora.com/What-was-it-like-to-be-at-Xerox-PARC-when-Bill-Gates-visited/answer/Alan-Kay-11)
 
 Did he visit?
 
@@ -13713,9 +12637,7 @@ It took many years (decades) before these companies — always with immense reso
 It’s not clear that either company actually ever understood personal computing and networking at the corporate level.
 
 ---
-## How did Alan Kay read 20k books?
-
-*https://www.quora.com/How-did-Alan-Kay-read-20k-books/answer/Alan-Kay-11*
+## [How did Alan Kay read 20k books?](https://www.quora.com/How-did-Alan-Kay-read-20k-books/answer/Alan-Kay-11)
 
 What I actually said was “I’m pretty sure I haven’t read more than 20,000 books”.
 
@@ -13752,9 +12674,7 @@ I also forgot to remark about the usefulness of “not so great books”. These 
 * see Kahneman’s book “Thinking: Fast and Slow”
 
 ---
-## What was Alan Kay's experience like working at Apple?
-
-*https://www.quora.com/What-was-Alan-Kays-experience-like-working-at-Apple/answer/Alan-Kay-11*
+## [What was Alan Kay's experience like working at Apple?](https://www.quora.com/What-was-Alan-Kays-experience-like-working-at-Apple/answer/Alan-Kay-11)
 
 There were many Apples in the period I was there (from about May 1984 to about Sept 1996). This was not just the turnover in Chairmen and CEOs (from Mike Markula, to Steve Jobs to John Sculley to Mike Spindler to Gil Amelio, etc.) but also having the BoD throw out Steve in 1985 made a big difference.
 
@@ -13781,9 +12701,7 @@ An important point — I think — is that when Steve came back he was able to s
 Despite all this, he and I remained friends.
 
 ---
-## How can I practice to play a classical guitar tremolo faster?
-
-*https://www.quora.com/How-can-I-practice-to-play-a-classical-guitar-tremolo-faster/answer/Alan-Kay-11*
+## [How can I practice to play a classical guitar tremolo faster?](https://www.quora.com/How-can-I-practice-to-play-a-classical-guitar-tremolo-faster/answer/Alan-Kay-11)
 
 Lots of good advice in some of the other answers. However, perhaps we can ask a larger question: how can I practice to play a *beautiful* classical guitar tremolo?
 
@@ -13820,9 +12738,7 @@ The first few bars of this piece are very good for learning tremolo playing (one
 It’s not a competition, sport, war, body-building, or a novelty act: it’s music, it’s art.
 
 ---
-## Is there any programmer with 50 years of experience?
-
-*https://www.quora.com/Is-there-any-programmer-with-50-years-of-experience/answer/Alan-Kay-11*
+## [Is there any programmer with 50 years of experience?](https://www.quora.com/Is-there-any-programmer-with-50-years-of-experience/answer/Alan-Kay-11)
 
 I’ll nominate several of my heroes:
 
@@ -13849,9 +12765,7 @@ I would change the emphasis in that article to be more on design than writing co
 You can also get some clues from “meta”. In any kind of programming, one represents ideas and manipulates the representations. In “meta-programming” the representations are of programs and the stuff of programs and processes.
 
 ---
-## What does Alan Kay think of structural editors?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-structural-editors/answer/Alan-Kay-11*
+## [What does Alan Kay think of structural editors?](https://www.quora.com/What-does-Alan-Kay-think-of-structural-editors/answer/Alan-Kay-11)
 
 I haven’t tried a structural editor for so many decades that I don’t think I can comment on what is around today.
 
@@ -13870,9 +12784,7 @@ There are other related comments here. For example, when color helps and when it
 It’s likely that the answer — still — for today has to do with programming needing many points of view quickly and easily supplied by its UI — and I’d like to hear of any systems that really do a good job here.
 
 ---
-## What are some ways that programming was better in the past?
-
-*https://www.quora.com/What-are-some-ways-that-programming-was-better-in-the-past/answer/Alan-Kay-11*
+## [What are some ways that programming was better in the past?](https://www.quora.com/What-are-some-ways-that-programming-was-better-in-the-past/answer/Alan-Kay-11)
 
 This is the 19th answer — from someone who started programming in the early 60s, and had a sense of how things were in the 50s.
 
@@ -13895,9 +12807,7 @@ Yikes!
 And still there are a few people — as there are in every generation — who are actually trying to do more than cope. And they occasionally advance the level of art a bit, while most of the others ignore the possibilites.
 
 ---
-## Did Bell Labs and ARPA/PARC ever collaborate?
-
-*https://www.quora.com/Did-Bell-Labs-and-ARPA-PARC-ever-collaborate/answer/Alan-Kay-11*
+## [Did Bell Labs and ARPA/PARC ever collaborate?](https://www.quora.com/Did-Bell-Labs-and-ARPA-PARC-ever-collaborate/answer/Alan-Kay-11)
 
 In the 60s there weren’t a lot of computer researchers, and they were generally friendly. So more or less everyone knew everyone. If you look at the history of Unix, you will see cross fertilizations both from the MIT Multics research and from Butler Lampson and Project Genie at Berkeley.
 
@@ -13914,9 +12824,7 @@ Perhaps the biggest difference between the two organizations in the 60s is that 
 In the 70s, I think Unix, C, the DEC PDP-11, and their tools created a center of gravity that influenced most of the thinking at Bell Labs. Parc was bent on making a complete first pass on the cosmic ARPA vision, and this required it to make its own computers and displays and networks rather than buying from vendors, and to do all other parts of the hardware/software as needed — and to collaborate strongly with the ARPA researchers involved with “internetworking”.
 
 ---
-## How did Xerox PARC do engineering requirements management?
-
-*https://www.quora.com/How-did-Xerox-PARC-do-engineering-requirements-management/answer/Alan-Kay-11*
+## [How did Xerox PARC do engineering requirements management?](https://www.quora.com/How-did-Xerox-PARC-do-engineering-requirements-management/answer/Alan-Kay-11)
 
 I was one of the computing researchers at Parc (two of the four labs were devoted to this: Computer Science Lab and Systems Science Lab — the other two were devoted to optics and physics) from a few months after it started in July 1970 to 1981.
 
@@ -13935,9 +12843,7 @@ So: things are being “carefully managed” even in a larger system that has es
 In practice, the general aim of the computerists at Parc was to realize “the ARPA Dream” of pervasive personal computing internetworked worldwide with artifacts that could be and were replicated at the level of 100s to 1000s. This required a lot more engineering than just making a demo of a great idea.
 
 ---
-## Why do people see the fretlessness of the violin family as an obstacle? They miss notes just as much in fretted instruments.
-
-*https://www.quora.com/Why-do-people-see-the-fretlessness-of-the-violin-family-as-an-obstacle-They-miss-notes-just-as-much-in-fretted-instruments/answer/Alan-Kay-11*
+## [Why do people see the fretlessness of the violin family as an obstacle? They miss notes just as much in fretted instruments.](https://www.quora.com/Why-do-people-see-the-fretlessness-of-the-violin-family-as-an-obstacle-They-miss-notes-just-as-much-in-fretted-instruments/answer/Alan-Kay-11)
 
 An additional wrinkle not covered in the earlier answers is the question of playing polyphony with “as many voices as the piece demands”.
 
@@ -13958,9 +12864,7 @@ And equal temperament is not as offensive with the more mellow sound one gets fr
 Here’s a YouTube video of the wonderful Anna Kowalska playing a replica of an ca. 1820 French “parlor” guitar (after Lete). She has tuned it to 415, and is using Savarez low tension strings (which she says are “the right balance between good and evil” compared to gut). See what you think!
 
 ---
-## What is the first IDE you remember using?
-
-*https://www.quora.com/What-is-the-first-IDE-you-remember-using/answer/Alan-Kay-11*
+## [What is the first IDE you remember using?](https://www.quora.com/What-is-the-first-IDE-you-remember-using/answer/Alan-Kay-11)
 
 I think that the first UI I used that could carry out interactive development and intermingled live code and live debugging was the CAL system for the Project Genie Time Sharing System (which became the SDS-940, and was used by Engelbart for the “big demo”). CAL was ca 1965–66, and primarily made by Butler Lampson while at Berkeley.
 
@@ -13971,9 +12875,7 @@ JOSS was the first great end-user programming system. It predated — and was be
 JOSS was followed by two important systems. JOSS II was a general facility for RAND, and again with specially designed terminals — a truly beautiful system: one felt a pleasant quiver just from the knowledge that one was going to be able to use it that day. The second landmark system at RAND was GRAIL (GRaphical Input Language), which required the first great tablet-and-stylus to be invented (in 1964 — the year of the mouse) and the first great gesture recognizer to be invented and made.
 
 ---
-## Do I lose something when learning OOP in Ruby instead of C#/Java?
-
-*https://www.quora.com/Do-I-lose-something-when-learning-OOP-in-Ruby-instead-of-C-Java/answer/Alan-Kay-11*
+## [Do I lose something when learning OOP in Ruby instead of C#/Java?](https://www.quora.com/Do-I-lose-something-when-learning-OOP-in-Ruby-instead-of-C-Java/answer/Alan-Kay-11)
 
 Here’s what I think is a good analogy, but may not have universal reach. After a layoff* of about 4 years from guitar I recently started to learn lute: also with strings and frets and played with most of the fingers on both hands. But: the lute has mostly double strings, it is tuned differently, the notations are different, etc., the hand positions are different (the right hand very different), the frets are made of gut and very low, and there are many other idiosyncrasies that differ from the also many oddities of the guitar.
 
@@ -13994,9 +12896,7 @@ So: my advice is try to avoid “learning OOP” via a language. “Real OOP” 
 *I had to give up guitar playing about 4 years ago because the bracing stress on my left thumb had broken down the base joint beyond repair. The lute has the possibility of not having to use thumb bracing very much (and this is working so far).
 
 ---
-## Why does Smalltalk not become a commonly used platform for learning presentations and video lecture constructors? Squeak looks great as an interactive presentation platform for college lecturers.
-
-*https://www.quora.com/Why-does-Smalltalk-not-become-a-commonly-used-platform-for-learning-presentations-and-video-lecture-constructors-Squeak-looks-great-as-an-interactive-presentation-platform-for-college-lecturers/answer/Alan-Kay-11*
+## [Why does Smalltalk not become a commonly used platform for learning presentations and video lecture constructors? Squeak looks great as an interactive presentation platform for college lecturers.](https://www.quora.com/Why-does-Smalltalk-not-become-a-commonly-used-platform-for-learning-presentations-and-video-lecture-constructors-Squeak-looks-great-as-an-interactive-presentation-platform-for-college-lecturers/answer/Alan-Kay-11)
 
 Commenting on Eliot Miranda’s answer.
 
@@ -14027,9 +12927,7 @@ So, unless I’m mistaken, I don’t think that today there is an end-user autho
 Note: today I think the way to do this would be to use JS as an assembly language and build an entire system over the top of it, and especially to use the embedding features available to allow external media to be presented inside the system. For fun Dan Ingalls, Bert Freudenberg et al did this with the Smalltalk from 1978 — the version that was shown to Steve Jobs the next year in 1979. I used it in the same way as recounted above to do the presentation for a tribute for Ted Nelson.
 
 ---
-## Why don't more classical musicians improvise?
-
-*https://www.quora.com/Why-dont-more-classical-musicians-improvise/answer/Alan-Kay-11*
+## [Why don't more classical musicians improvise?](https://www.quora.com/Why-dont-more-classical-musicians-improvise/answer/Alan-Kay-11)
 
 Lots of very different answers here, partly depending on where in the last 600 or so years one looks. Here I’ll just mention some of the parts of early music that require improvisation, especially continuo (playing “accompaniment” on a chordal instrument such as a lute or harpsichord), and especially 17th century continuo.
 
@@ -14040,16 +12938,12 @@ Also, a lot of early music was written as “outlines” which could be played s
 Finally, as mentioned in some of the other answers, in most previous periods of classical music, a performer was also expected to be able to improvise on the spot in most forms (often by having someone in the audience sing a few notes for a theme). This art lives on, but only in a small percentage of current day classical musicians (especially organists, and some pianists — for example look up some of Richard Grayson’s wonderful improvisations in concert on YouTube).
 
 ---
-## Does a computer that has more data/information (huge amount of data) weigh more than the same type and model computer that does not have any data on it?
-
-*https://www.quora.com/Does-a-computer-that-has-more-data-information-huge-amount-of-data-weigh-more-than-the-same-type-and-model-computer-that-does-not-have-any-data-on-it/answer/Alan-Kay-11*
+## [Does a computer that has more data/information (huge amount of data) weigh more than the same type and model computer that does not have any data on it?](https://www.quora.com/Does-a-computer-that-has-more-data-information-huge-amount-of-data-weigh-more-than-the-same-type-and-model-computer-that-does-not-have-any-data-on-it/answer/Alan-Kay-11)
 
 There is an old joke — that I heard best told by Butler Lampson — about an aircraft loading engineer who was worried about “the extra weight of data” on punched cards. It was explained to him that a large amount of data actually weighed less because “the information is in the holes” !
 
 ---
-## What majors are best prepared for jobs that don't exist yet?
-
-*https://www.quora.com/What-majors-are-best-prepared-for-jobs-that-dont-exist-yet/answer/Alan-Kay-11*
+## [What majors are best prepared for jobs that don't exist yet?](https://www.quora.com/What-majors-are-best-prepared-for-jobs-that-dont-exist-yet/answer/Alan-Kay-11)
 
 I like Vishnu’s answer. I had planned to sit this question out because I don’t think “job” per se is a big enough idea or goal (just as I don’t think “making money” per se is a good enough idea or goal for business).
 
@@ -14060,9 +12954,7 @@ Pretty much everything I was interested in strongly enough to do deeper learning
 So: go for happiness for sure!
 
 ---
-## What's a uni-class?
-
-*https://www.quora.com/Whats-a-uni-class/answer/Alan-Kay-11*
+## [What's a uni-class?](https://www.quora.com/Whats-a-uni-class/answer/Alan-Kay-11)
 
 My version of “object-oriented” from 1966 on revolved around the active entities in a working system — I thought of these as being “full fledged computers” on a network and communicating via messages (this paralleled and was inspired in part by ARPA’s plans to do this with physical computers). With “virtual computers” I realized that you could do the neat thing of making everything — including the virtual networking and the messages, etc., and the stuff all this was made from — with “virtual computers” (all the way down).
 
@@ -14085,9 +12977,7 @@ One of the reasons this is really important is that design is *not* running to t
 I view the “instance producing” mechanisms and conventions in OOP as still being a not yet well enough solved problem — so it’s always good to try to get more people thinking about this.
 
 ---
-## What does Alan Kay think of this remarkable initiative?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-this-remarkable-initiative/answer/Alan-Kay-11*
+## [What does Alan Kay think of this remarkable initiative?](https://www.quora.com/What-does-Alan-Kay-think-of-this-remarkable-initiative/answer/Alan-Kay-11)
 
 I donated to this because I think some good might come from it. I’m not a fan of competitions — I prefer cooperations — so I think I would have at least cast this in terms of teams, which is also more realistic in what it takes to deal with most important issues and problems (Richard Eng reminds me in the comment below that this is cast in terms of teams — adding in the equivalent of what are sometimes called “friendlies” in soccer, or spring training games in baseball, will enrich the eventual competition).
 
@@ -14104,9 +12994,7 @@ I’ve not particularly liked any of the gestures at these problems over the yea
 There are many other things that could be done. For example, the Etoys framework in Squeak Smalltalk worked really well for late elementary school — one of its offspring was Scratch — but could vastly be improved (and Scratch even more so). This would be a good project to look at: what would be a great starting version and UI of a Smalltalk like language for beginners?
 
 ---
-## What is one moonshot project (as consequential as the ARPANET) should the US government undertake today?
-
-*https://www.quora.com/What-is-one-moonshot-project-as-consequential-as-the-ARPANET-should-the-US-government-undertake-today/answer/Alan-Kay-11*
+## [What is one moonshot project (as consequential as the ARPANET) should the US government undertake today?](https://www.quora.com/What-is-one-moonshot-project-as-consequential-as-the-ARPANET-should-the-US-government-undertake-today/answer/Alan-Kay-11)
 
 First, I think that “moonshot project” is not the metaphor you really want to use here: the actual “moonshot” was a stunt that set back real space travel by at least 25 years, and is now looking like more than 50. Also, the government — because of the poorly educated nature of the majority of Americans — is all too prone to “stunts” and other “gestures” which lack the substance and the legs to be worked out properly.
 
@@ -14131,9 +13019,7 @@ My vote for the greatest “invented curriculum” is Jerome Bruner’s “Man: 
 In the end, most children try to learn what is in the environment around them, especially at home and school. To make a qualitative difference in education — and before both the societies of the world and the world itself collapses — the environment for children must be qualitatively better understood, and qualitatively better changed.
 
 ---
-## Why couldn't the management of Xerox see the goldmine that they had with inventions at Xerox PARC? Was it really about lacking money to capitalize? How about stock issuance?
-
-*https://www.quora.com/Why-couldnt-the-management-of-Xerox-see-the-goldmine-that-they-had-with-inventions-at-Xerox-PARC-Was-it-really-about-lacking-money-to-capitalize-How-about-stock-issuance/answer/Alan-Kay-11*
+## [Why couldn't the management of Xerox see the goldmine that they had with inventions at Xerox PARC? Was it really about lacking money to capitalize? How about stock issuance?](https://www.quora.com/Why-couldnt-the-management-of-Xerox-see-the-goldmine-that-they-had-with-inventions-at-Xerox-PARC-Was-it-really-about-lacking-money-to-capitalize-How-about-stock-issuance/answer/Alan-Kay-11)
 
 Both Giordano Beretta’s and Chuck Brantingham’s answers are good, so I’ll just add a bit more context.
 
@@ -14172,9 +13058,7 @@ My conclusion from being a part of this and watching it happen over decades is t
 This idea really works — it’s another exponential — but businesses and most people don’t understand it at all, or well enough to have faith in it. Clay Christiansen’s book “The Innovator’s Dilemma” is not very good on a number of counts, but one of the worst aspects of it is that he excuses higher management for not doing well with new ideas — because they are new, because they could compete against the existing lines of business, etc. — but my view is “what else is higher management really being paid for if not for the knowledge and chops to deal with the future?” — and the context is that it is the 20th and 21st centuries that must be understood in order to have a chance at being part of and inventing the future. Higher management should not be excused for “flunking their century”!
 
 ---
-## What are some great stories from Xerox PARC?
-
-*https://www.quora.com/What-are-some-great-stories-from-Xerox-PARC/answer/Alan-Kay-11*
+## [What are some great stories from Xerox PARC?](https://www.quora.com/What-are-some-great-stories-from-Xerox-PARC/answer/Alan-Kay-11)
 
 There are quite a few online, and this would be appropriate because the ARPA-Parc research community put quite a bit of effort into inventing personal computing and pervasive networking so that people by themselves and with their friends and colleagues could find out important and interesting things online.
 
@@ -14191,9 +13075,7 @@ Then I tried “xerox parc history” with Google. This was more random — e.g.
 There’s quite a bit more, but this is the way I try to answer questions using the technology that is there. It’s surprising that I can’t explain what I’m looking for to even a semi-AI yet, but just a little digging will find pretty good primary material.
 
 ---
-## Alan Kay, could you give an example of when software development has driven hardware development?
-
-*https://www.quora.com/Alan-Kay-could-you-give-an-example-of-when-software-development-has-driven-hardware-development/answer/Alan-Kay-11*
+## [Alan Kay, could you give an example of when software development has driven hardware development?](https://www.quora.com/Alan-Kay-could-you-give-an-example-of-when-software-development-has-driven-hardware-development/answer/Alan-Kay-11)
 
 One way to think about how software helps computing is that it introduces “late-binding” into machinery. The very idea of a “changeable stored program” allows early-bound mechanisms to take on different purposes. I’m a very big fan of the Jacquard loom — not just for its ability to be driven by different programs — but for the wonderful tolerant engineering that Jacquard devised to allow it to work so well so early in the industrial revolution (ca 1800). (A lot can be learned about “how to think like a great engineer” by studying this design.)
 
@@ -14230,9 +13112,7 @@ Another thing worth pondering is how to get enough memory bandwidth to multicore
 I think it’s fair to criticize the current lashups of hardware available today as being kind of randomly helping or hurting software. From the perspective of many decades, it seems more like the hardware vendors are mostly coming up with designs that make their own processes easier rather than being interested in software development.
 
 ---
-## What did Steve Jobs mean when he said that Apple is fundamentally a software company? Was he right?
-
-*https://www.quora.com/What-did-Steve-Jobs-mean-when-he-said-that-Apple-is-fundamentally-a-software-company-Was-he-right/answer/Alan-Kay-11*
+## [What did Steve Jobs mean when he said that Apple is fundamentally a software company? Was he right?](https://www.quora.com/What-did-Steve-Jobs-mean-when-he-said-that-Apple-is-fundamentally-a-software-company-Was-he-right/answer/Alan-Kay-11)
 
 My slogan in the Xerox Parc years was: “Hardware is just software that is crystallized early”. In other words, the proper business of computerists is dealing with process and processes. Large ideas will lead to software architectures, UIs, languages, and development systems. At some point the necessary but least convenient parts of a system — the hardware — will become clear.
 
@@ -14249,9 +13129,7 @@ Steve didn’t understand this very well in the early days of Apple, but could s
 I think his stint at NeXT got him to understand SW a little more, and the Pixar folks really understood it. So he had the idea more strongly when he came back to Apple (hence his use of another slogan of mine that he liked: “People who are really serious about software should make their own hardware”.)
 
 ---
-## How much percentage of code is shared between software projects, e.g., between a video game and a word processor (in terms of STL, OS, etc)? Is this percentage comparable to the percentage of genetic similarity between mammals?
-
-*https://www.quora.com/How-much-percentage-of-code-is-shared-between-software-projects-e-g-between-a-video-game-and-a-word-processor-in-terms-of-STL-OS-etc-Is-this-percentage-comparable-to-the-percentage-of-genetic-similarity-between/answer/Alan-Kay-11*
+## [How much percentage of code is shared between software projects, e.g., between a video game and a word processor (in terms of STL, OS, etc)? Is this percentage comparable to the percentage of genetic similarity between mammals?](https://www.quora.com/How-much-percentage-of-code-is-shared-between-software-projects-e-g-between-a-video-game-and-a-word-processor-in-terms-of-STL-OS-etc-Is-this-percentage-comparable-to-the-percentage-of-genetic-similarity-between/answer/Alan-Kay-11)
 
 One answer to this question can be gleaned by asking yourself how many different text editors you have to use in a week (for example, right now I’m using the Quora editor, I use one for email, another for when I have to chat, and others for writing papers, commenting in blogs (Quora has a different UI for their comment editor …), etc.).
 
@@ -14266,9 +13144,7 @@ If you don’t have real-objects/real-views, and don’t have late-binding, etc.
 It’s puzzling and annoying that this is still the case in 2018!
 
 ---
-## Did astronauts on Apollo have the means to kill themselves in case their mission failed?
-
-*https://www.quora.com/Did-astronauts-on-Apollo-have-the-means-to-kill-themselves-in-case-their-mission-failed/answer/Alan-Kay-11*
+## [Did astronauts on Apollo have the means to kill themselves in case their mission failed?](https://www.quora.com/Did-astronauts-on-Apollo-have-the-means-to-kill-themselves-in-case-their-mission-failed/answer/Alan-Kay-11)
 
 I was in the Air Force in the early ‘60s, and part of the flight training then — and likely still today — was to experience various effects of high altitude in an “altitude chamber”. The one we had at James Connelly AFB in Waco Texas would hold about 25 people. One of the drills was to buddy up and have one of the pair take off their mask and copy some writing from a book. This was done at 18,000 feet, 25,000, 35,000, and 45,000 feet.
 
@@ -14287,9 +13163,7 @@ I wonder now whether they still do this in quite the same way as in 1962. Both o
 As to the question, regardless of how much astronauts might strive to fix the situation, they would have all gone through these experiences in the ‘60s and would know that just lowering the partial pressure of the air they were breathing would accomplish a completely sensation-free send-off.
 
 ---
-## What’s the best book about Charles Babbage in terms of technical detail?
-
-*https://www.quora.com/What-s-the-best-book-about-Charles-Babbage-in-terms-of-technical-detail/answer/Alan-Kay-11*
+## [What’s the best book about Charles Babbage in terms of technical detail?](https://www.quora.com/What-s-the-best-book-about-Charles-Babbage-in-terms-of-technical-detail/answer/Alan-Kay-11)
 
 I would also vote for the Swade book.
 
@@ -14322,9 +13196,7 @@ Fluidics on the other hand can be done by etching glass plates. The gates can be
 * I realized belatedly that I should give as reference the excellent book from which I learned the details of the Jacquard loom: (1888) The Jacquard Machine Analyzed and Explained, by E. A. Posselt. Thanks to the wonderful Brewster Kahle and his Archive.org, this book can be found and downloaded via Google (it was a lot harder for me to run down this book years ago …).
 
 ---
-## What were the best lessons learned at PARC’s Learning Research Group?
-
-*https://www.quora.com/What-were-the-best-lessons-learned-at-PARC-s-Learning-Research-Group/answer/Alan-Kay-11*
+## [What were the best lessons learned at PARC’s Learning Research Group?](https://www.quora.com/What-were-the-best-lessons-learned-at-PARC-s-Learning-Research-Group/answer/Alan-Kay-11)
 
 Too big a question for Quora-sized answers (I would have to explain what we did and how we did it, and the last time I did that it turned into a 50 page history for the ACM).
 
@@ -14339,9 +13211,7 @@ Even so, this stellar research group did 5 different Smalltalk systems — all w
 The way to solve the problem of ideas in the theater is to just do a new play with a new company, and you wind up with several plays that are worth pondering that can cause further ideas to flow. Later I realized that this path could have been taken in our group.
 
 ---
-## Can someone link me to the original white paper discussing what was eventually coined OOP? I believe it was by Alan Kay, but I'm not able to find it simply in a Google search. I'm finding it referenced, but not linked to, and I don't recall the name.
-
-*https://www.quora.com/Can-someone-link-me-to-the-original-white-paper-discussing-what-was-eventually-coined-OOP-I-believe-it-was-by-Alan-Kay-but-Im-not-able-to-find-it-simply-in-a-Google-search-Im-finding-it-referenced-but-not-linked-to/answer/Alan-Kay-11*
+## [Can someone link me to the original white paper discussing what was eventually coined OOP? I believe it was by Alan Kay, but I'm not able to find it simply in a Google search. I'm finding it referenced, but not linked to, and I don't recall the name.](https://www.quora.com/Can-someone-link-me-to-the-original-white-paper-discussing-what-was-eventually-coined-OOP-I-believe-it-was-by-Alan-Kay-but-Im-not-able-to-find-it-simply-in-a-Google-search-Im-finding-it-referenced-but-not-linked-to/answer/Alan-Kay-11)
 
 Depends on “which OOP” you mean. The kind of language that C++ is, was first created in Simula I, in the mid-60s, and Nygaard and Dahl wrote a paper about it in the CACM in 1966. They reference an earlier document they wrote in Norway in 1965.
 
@@ -14354,9 +13224,7 @@ What I called “OOP” came from the realization that (a) a “real object” s
 This wound up with an image of something rather different from Simula, and created quite a few years of work on both designing HW-SW to run something this universal, fast, and small enough.
 
 ---
-## How would Apple have benefited if Steve Jobs were technical?
-
-*https://www.quora.com/How-would-Apple-have-benefited-if-Steve-Jobs-were-technical/answer/Alan-Kay-11*
+## [How would Apple have benefited if Steve Jobs were technical?](https://www.quora.com/How-would-Apple-have-benefited-if-Steve-Jobs-were-technical/answer/Alan-Kay-11)
 
 This is a very complicated question to answer in a fair and comprehensive way. Let me apologize in advance for its length.
 
@@ -14395,9 +13263,7 @@ Marketing people would generally prefer a product not to have a learning curve, 
 Sic transit gloria mundi.
 
 ---
-## What did Alan Kay and Steve Jobs talk about at the 2007 iPhone keynote?
-
-*https://www.quora.com/What-did-Alan-Kay-and-Steve-Jobs-talk-about-at-the-2007-iPhone-keynote/answer/Alan-Kay-11*
+## [What did Alan Kay and Steve Jobs talk about at the 2007 iPhone keynote?](https://www.quora.com/What-did-Alan-Kay-and-Steve-Jobs-talk-about-at-the-2007-iPhone-keynote/answer/Alan-Kay-11)
 
 Steve and I first met during his visit to Xerox Parc in 1979 at the urging of some of his computer people to see what we’d been doing for the previous 8 years. You can get an idea of this by taking a look at a revived Smalltalk system from the year before (1978) that several of us brought back to life a few years ago after its 40 year slumber on a rescued disk pack that Xerox had thrown away.
 
@@ -14420,9 +13286,7 @@ was taken right after the event. He brought the iPhone to me, put it in my hands
 When the iPhone had been revealed a few minutes earlier I realized that they must already have done an iPad/Dynabook-like machine (easier) and that the “iPhone first” must have been a marketing/timing decision.
 
 ---
-## If programming languages are written using programming languages, how was the first language written?
-
-*https://www.quora.com/If-programming-languages-are-written-using-programming-languages-how-was-the-first-language-written/answer/Alan-Kay-11*
+## [If programming languages are written using programming languages, how was the first language written?](https://www.quora.com/If-programming-languages-are-written-using-programming-languages-how-was-the-first-language-written/answer/Alan-Kay-11)
 
 Another incomplete offering …
 
@@ -14453,9 +13317,7 @@ Bottom line here is that emulating the target HW seems like a lot of work when b
 Similarly, it is always useful to make a simulation of the language even when it is to be compiled. This helped over and over in the experience with Smalltalk and its bootstrapping adventures (e.g. how Squeak was made and deployed).
 
 ---
-## What is this "live objects" in Smalltalk? I've gotten used to that "edit-compile-test-debug" cycle, and want to understand the philosophy behind Smalltalk (Pharo).
-
-*https://www.quora.com/What-is-this-live-objects-in-Smalltalk-Ive-gotten-used-to-that-edit-compile-test-debug-cycle-and-want-to-understand-the-philosophy-behind-Smalltalk-Pharo/answer/Alan-Kay-11*
+## [What is this "live objects" in Smalltalk? I've gotten used to that "edit-compile-test-debug" cycle, and want to understand the philosophy behind Smalltalk (Pharo).](https://www.quora.com/What-is-this-live-objects-in-Smalltalk-Ive-gotten-used-to-that-edit-compile-test-debug-cycle-and-want-to-understand-the-philosophy-behind-Smalltalk-Pharo/answer/Alan-Kay-11)
 
 John Thorpe’s answer is a good start. Now extend the idea to the entire system and think of what we used to call “objects” (now we have to call them “real objects” since “objects” were co-opted in the early 80s) as software computers semantically equivalent to computers on a network like the physical computers on the Internet (these ideas were invented in the same time frame by the same research community).
 
@@ -14472,9 +13334,7 @@ There were many contributors to the design and integrity of this scheme, but the
 For completeness, I should remind that we are talking about a more than 40 year old system, and quite a bit more along these lines could be done today. Here is a revived Smalltalk from 1978 that I used in a tribute to Ted Nelson.
 
 ---
-## Why did Alan Kay once say GNU/Linux was a budget of bad ideas? What is generally wrong with GNU/Linux, and Unix-like OSes?
-
-*https://www.quora.com/Why-did-Alan-Kay-once-say-GNU-Linux-was-a-budget-of-bad-ideas-What-is-generally-wrong-with-GNU-Linux-and-Unix-like-OSes/answer/Alan-Kay-11*
+## [Why did Alan Kay once say GNU/Linux was a budget of bad ideas? What is generally wrong with GNU/Linux, and Unix-like OSes?](https://www.quora.com/Why-did-Alan-Kay-once-say-GNU-Linux-was-a-budget-of-bad-ideas-What-is-generally-wrong-with-GNU-Linux-and-Unix-like-OSes/answer/Alan-Kay-11)
 
 I should learn to keep my big mouth shut (not the first time I’ve had this thought!).
 
@@ -14505,9 +13365,7 @@ The basic meta idea here is that the more static are dependencies, the more diff
 This is not an extensive enough answer, so I apologize in advance. I’ll probably return to it a few times if I can think of better ways to help visualize the actual problems.
 
 ---
-## Why is functional programming seen as the opposite of OOP rather than an addition to it?
-
-*https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11*
+## [Why is functional programming seen as the opposite of OOP rather than an addition to it?](https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11)
 
 I hope for all our sakes that I can make this short …
 
@@ -14562,9 +13420,7 @@ So: both OOP and functional computation can be completely compatible (and should
 I will be giving a talk on these ideas in July in Amsterdam (at the “CurryOn” conference).
 
 ---
-## Why is engineering one of the hardest fields to be creative? What should engineering education look like instead?
-
-*https://www.quora.com/Why-is-engineering-one-of-the-hardest-fields-to-be-creative-What-should-engineering-education-look-like-instead/answer/Alan-Kay-11*
+## [Why is engineering one of the hardest fields to be creative? What should engineering education look like instead?](https://www.quora.com/Why-is-engineering-one-of-the-hardest-fields-to-be-creative-What-should-engineering-education-look-like-instead/answer/Alan-Kay-11)
 
 I don’t think that it is intrinsically hard to be creative in engineering.
 
@@ -14577,9 +13433,7 @@ These considerations cast a conservative tinge over most engineering. However, b
 * it really is a “calling”, as to medicine, science, religion, etc.
 
 ---
-## Do you recommend receiving a bachelors, masters or doctorate in computer science?
-
-*https://www.quora.com/Do-you-recommend-receiving-a-bachelors-masters-or-doctorate-in-computer-science/answer/Alan-Kay-11*
+## [Do you recommend receiving a bachelors, masters or doctorate in computer science?](https://www.quora.com/Do-you-recommend-receiving-a-bachelors-masters-or-doctorate-in-computer-science/answer/Alan-Kay-11)
 
 I recommend the lifelong process of becoming ever more educated, with particular attention to getting above important thresholds of perspective and knowledge.
 
@@ -14608,9 +13462,7 @@ When Ivan Sutherland was asked “What is a thesis?” he said “Something 3 pe
 And, yes, you should always finish your degrees. You can think of many reasons why. A deep one is that it is very good thing to learn how to work on extended hard projects, how to hang in there, and how to finally “stop doing real research” enough to not change your mind any more to get something done. The combination of multiple perspectives and being able to do something with them is not a bad way to think about “getting educated”.
 
 ---
-## What do you think of the statement that "an object-oriented approach to application development makes programs more intuitive to design, faster to develop, more amenable to modification, and easier to understand"?
-
-*https://www.quora.com/What-do-you-think-of-the-statement-that-an-object-oriented-approach-to-application-development-makes-programs-more-intuitive-to-design-faster-to-develop-more-amenable-to-modification-and-easier-to-understand/answer/Alan-Kay-11*
+## [What do you think of the statement that "an object-oriented approach to application development makes programs more intuitive to design, faster to develop, more amenable to modification, and easier to understand"?](https://www.quora.com/What-do-you-think-of-the-statement-that-an-object-oriented-approach-to-application-development-makes-programs-more-intuitive-to-design-faster-to-develop-more-amenable-to-modification-and-easier-to-understand/answer/Alan-Kay-11)
 
 An all encompassing answer from before objects: “You can write COBOL in any language”. (For COBOL, you can substitute Fortran, machine code, spaghetti, etc.)
 
@@ -14643,9 +13495,7 @@ His results (with the help of the whole Learning Research Group) were good exemp
 ** That being said, I think one of the biggest problems yet today — we left large parts unanswered — are the many kinds of dependencies — that pollute attempts at good systems design. I think that some of the good ways to deal with these will still involve modules, but a rather different approach to systems organization.
 
 ---
-## What is the difference between Alan Kay's definition of OOP and Carl Hewitt's Actor Model?
-
-*https://www.quora.com/What-is-the-difference-between-Alan-Kays-definition-of-OOP-and-Carl-Hewitts-Actor-Model/answer/Alan-Kay-11*
+## [What is the difference between Alan Kay's definition of OOP and Carl Hewitt's Actor Model?](https://www.quora.com/What-is-the-difference-between-Alan-Kays-definition-of-OOP-and-Carl-Hewitts-Actor-Model/answer/Alan-Kay-11)
 
 Not a lot of difference. You can find the history I wrote about all this online in “The Early History Of Smalltalk”.
 
@@ -14670,9 +13520,7 @@ A few years ago we brought back to life — from a rescued disk pack that Xerox 
 Actors research produced some very important results. (And of course, the Parc work had a large impact generally.) But the next steps for PLANNER like languages, and especially for combining PLANNER ideas with object ideas, have had less lift and success. These are still good ideas, and people should start thinking about them again.
 
 ---
-## When did the CAD->SIM->FAB engineering process become formalized?
-
-*https://www.quora.com/When-did-the-CAD-SIM-FAB-engineering-process-become-formalized/answer/Alan-Kay-11*
+## [When did the CAD->SIM->FAB engineering process become formalized?](https://www.quora.com/When-did-the-CAD-SIM-FAB-engineering-process-become-formalized/answer/Alan-Kay-11)
 
 I’m not sure it has, but I think anyone really interested in engineering should find out how things were done before digital computers, and then before analog computers.
 
@@ -14683,9 +13531,7 @@ One of the trickiest things was to be able to deal with scaling in realistic way
 The “FAB” part has always been even more difficult, so testing on the artifact was generally only done when it was as easy to make as a model.
 
 ---
-## Why is object-oriented programming more about messaging than objects?
-
-*https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11*
+## [Why is object-oriented programming more about messaging than objects?](https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11)
 
 I’ll give a short answer here and then return late for more.
 
@@ -14696,9 +13542,7 @@ If you can send messages to “something”, then you are not tightly bound to t
 If you can send messages, do you really want to try to send to specific targets? It could be better to send out requests by need, and also also tell the system that you can supply x, y, and z to the commonweal.
 
 ---
-## Is it possible to learn any programming language by doing reverse engineering?
-
-*https://www.quora.com/Is-it-possible-to-learn-any-programming-language-by-doing-reverse-engineering/answer/Alan-Kay-11*
+## [Is it possible to learn any programming language by doing reverse engineering?](https://www.quora.com/Is-it-possible-to-learn-any-programming-language-by-doing-reverse-engineering/answer/Alan-Kay-11)
 
 I’m not completely sure of your exact meaning for “reverse engineering”. But at the University of Utah ARPA project the newest grad student was given the toughest task no one there wanted to do.
 
@@ -14721,18 +13565,14 @@ Most important that the two “almost-object” models in Sketchpad and Simula �
 ** It’s worth pondering that Lisp is a kind of programmable meta-language, where the trade-offs are very different than most people are used to. It’s kind of a universal material, so it rewards deep design thinking, but many people flounder because it requires more imagination than most languages. I.e. trying to reverse engineer Lisp is very illuminating if you look at how a Lisp is made, but just trying things will likely leave most programmers quite in the dar
 
 ---
-## Are the greatest works of a field performed early on in the field’s lifetime?
-
-*https://www.quora.com/Are-the-greatest-works-of-a-field-performed-early-on-in-the-field-s-lifetime/answer/Alan-Kay-11*
+## [Are the greatest works of a field performed early on in the field’s lifetime?](https://www.quora.com/Are-the-greatest-works-of-a-field-performed-early-on-in-the-field-s-lifetime/answer/Alan-Kay-11)
 
 Well, let’s take Physics or Biology, etc., as examples, and let me ask you what do you think?
 
 This is a hallmark of a “real field”. It’s not clear that Computing has gotten there yet — one clue is that “real fields” build on the great work in their past, and “pop culture pursuits” don’t (and generally do “a variety of things” but without much growth). I think of Computing as — not completely — having devolved to the latter, but others might disagree.
 
 ---
-## How can I see my design work with a critical eye?
-
-*https://www.quora.com/How-can-I-see-my-design-work-with-a-critical-eye/answer/Alan-Kay-11*
+## [How can I see my design work with a critical eye?](https://www.quora.com/How-can-I-see-my-design-work-with-a-critical-eye/answer/Alan-Kay-11)
 
 Mark Twain advised writers looking at their own writing: “If you see a phrase you particularly love, strike it out without hesitation!”.
 
@@ -14747,9 +13587,7 @@ This takes a lot of the glitter out of the creation, and one can still be succes
 I would venture that most colleagues I’ve worked with over the years might say that I’m much too critical. I hope they would also think that I sustained efforts pretty well.
 
 ---
-## What are the best resources for learning systems and networks according to Alan Kay?
-
-*https://www.quora.com/What-are-the-best-resources-for-learning-systems-and-networks-according-to-Alan-Kay/answer/Alan-Kay-11*
+## [What are the best resources for learning systems and networks according to Alan Kay?](https://www.quora.com/What-are-the-best-resources-for-learning-systems-and-networks-according-to-Alan-Kay/answer/Alan-Kay-11)
 
 Let’s see if we pool efforts to come up with a good answer to this question — especially with more current sources than some that influenced me.
 
@@ -14764,16 +13602,12 @@ For an example of large scale systems thinking in computing, try David Reed’s 
 There are many more, but let’s see what others come up with here.
 
 ---
-## What has happened to Alan Kay's View Points Research Institute website?
-
-*https://www.quora.com/What-has-happened-to-Alan-Kays-View-Points-Research-Institute-website/answer/Alan-Kay-11*
+## [What has happened to Alan Kay's View Points Research Institute website?](https://www.quora.com/What-has-happened-to-Alan-Kays-View-Points-Research-Institute-website/answer/Alan-Kay-11)
 
 Looks like a combination of an overzealous bot plus human error. Should be back in a day or so.
 
 ---
-## What are the main successes of the AI group at Xerox PARC during the 70s and first half of the 80s? How much influence did it have on other groups (like Smalltalk group) and vice versa?
-
-*https://www.quora.com/What-are-the-main-successes-of-the-AI-group-at-Xerox-PARC-during-the-70s-and-first-half-of-the-80s-How-much-influence-did-it-have-on-other-groups-like-Smalltalk-group-and-vice-versa/answer/Alan-Kay-11*
+## [What are the main successes of the AI group at Xerox PARC during the 70s and first half of the 80s? How much influence did it have on other groups (like Smalltalk group) and vice versa?](https://www.quora.com/What-are-the-main-successes-of-the-AI-group-at-Xerox-PARC-during-the-70s-and-first-half-of-the-80s-How-much-influence-did-it-have-on-other-groups-like-Smalltalk-group-and-vice-versa/answer/Alan-Kay-11)
 
 Right now I can’t produce the level of answer this question deserves. I’ll have to do some homework and then come back to add and fix.
 
@@ -14794,9 +13628,7 @@ To just give one more example, in the PIE system, Ira Goldstein and Danny Bobrow
 I’ll leave this here for now …
 
 ---
-## What advice would Alan Kay give a curious individual to improve their ability to think and learn? Is there a place to see his library — every book, person, and research he has studied?
-
-*https://www.quora.com/What-advice-would-Alan-Kay-give-a-curious-individual-to-improve-their-ability-to-think-and-learn-Is-there-a-place-to-see-his-library-—-every-book-person-and-research-he-has-studied/answer/Alan-Kay-11*
+## [What advice would Alan Kay give a curious individual to improve their ability to think and learn? Is there a place to see his library — every book, person, and research he has studied?](https://www.quora.com/What-advice-would-Alan-Kay-give-a-curious-individual-to-improve-their-ability-to-think-and-learn-Is-there-a-place-to-see-his-library-—-every-book-person-and-research-he-has-studied/answer/Alan-Kay-11)
 
 The people I’ve admired — many from afar (such as Bertrand Russell), some as friends and colleagues (such as Jerome Bruner) — share the traits of trying to (a) find ever more perspectives on things they are aware of, (b) find more things they weren’t aware of, (c) interrelate what they’ve learned, and (d) make mental spaces for their own ideas where only the “perfume” of what they know lingers[*].
 
@@ -14833,9 +13665,7 @@ I think it’s obvious to every reader that if you only learn things that contri
 Our human context mechanisms — many of which correlate with language — want “crisp topics” — but the oldest senses, especially smell, provide superposition properties — spatial, temporal and communicative — that are extremely powerful for animals that are highly developed for this, and when thought of as a metaphor, for we humans when we are trying to deal with lots of things without getting overwhelmed.
 
 ---
-## How does Alan Kay identify talent in young researchers?
-
-*https://www.quora.com/How-does-Alan-Kay-identify-talent-in-young-researchers/answer/Alan-Kay-11*
+## [How does Alan Kay identify talent in young researchers?](https://www.quora.com/How-does-Alan-Kay-identify-talent-in-young-researchers/answer/Alan-Kay-11)
 
 The wonderful Dave Evans did not look at transcripts, but was interested in resumes and “sparks”. He over-admitted, treated his students like gods, and then (I found out later after I was on the faculty), at around the two year point, the faculty would meet to decide if the student was a “real person” (meaning were they the real deal as a researcher). If the consensus was “no”, then the student would go out one door with a Masters degree; if “yes” they would get a PhD.
 
@@ -14850,9 +13680,7 @@ I think most of my impulses for “interns and visitors” were “sparks”, an
 So the short answer is: give them chances!
 
 ---
-## Why did the federal government invest $117 million into the Radiation Lab, Servomechanism Lab, and the High Voltage Lab at MIT in the 1930s?
-
-*https://www.quora.com/Why-did-the-federal-government-invest-117-million-into-the-Radiation-Lab-Servomechanism-Lab-and-the-High-Voltage-Lab-at-MIT-in-the-1930s/answer/Alan-Kay-11*
+## [Why did the federal government invest $117 million into the Radiation Lab, Servomechanism Lab, and the High Voltage Lab at MIT in the 1930s?](https://www.quora.com/Why-did-the-federal-government-invest-117-million-into-the-Radiation-Lab-Servomechanism-Lab-and-the-High-Voltage-Lab-at-MIT-in-the-1930s/answer/Alan-Kay-11)
 
 I’m in London right now so don’t have access to my copy of Nilo Lindgren’s book about 100 years of EE at MIT.
 
@@ -14873,9 +13701,7 @@ the Whirlwind part of the Servo Lab (which has a little about the WWII role in t
 There is also a pretty good biography of Bush available, which I think is indispensable to much of the technical history of MIT from the 20s on.
 
 ---
-## Where did Alan Kay learn about how context affects the ability to think?
-
-*https://www.quora.com/Where-did-Alan-Kay-learn-about-how-context-affects-the-ability-to-think/answer/Alan-Kay-11*
+## [Where did Alan Kay learn about how context affects the ability to think?](https://www.quora.com/Where-did-Alan-Kay-learn-about-how-context-affects-the-ability-to-think/answer/Alan-Kay-11)
 
 I was lucky enough to learn to read fluently several years before attending school, and by the time I did, had read enough to have encountered different points of view on some of the ideas that were taught as hard truths in first grade. When I piped up and said “But I read this in a book”, I was not encouraged by the teacher, and I soon got the idea that school was not about “books” but about “the one book” — their book — for each subject. But, via reading, that was already too late for me — I’d gotten into the larger world of ideas.
 
@@ -14894,9 +13720,7 @@ A book that helped around the same time was Koestler’s “The Act of Creation�
 Another way to look at insights like these is as a transition from things you already know to a different world, where you realize that you understood them, but you didn’t *understand* them. That can lead to active searches for stronger more illuminating worlds.
 
 ---
-## What are examples of "Perfect" and "Better" in regards to Alan Kay's "Sweet Spot"?
-
-*https://www.quora.com/What-are-examples-of-Perfect-and-Better-in-regards-to-Alan-Kays-Sweet-Spot/answer/Alan-Kay-11*
+## [What are examples of "Perfect" and "Better" in regards to Alan Kay's "Sweet Spot"?](https://www.quora.com/What-are-examples-of-Perfect-and-Better-in-regards-to-Alan-Kays-Sweet-Spot/answer/Alan-Kay-11)
 
 Mark Miller’s answer nicely captures much of what I was trying to communicate in the aphorism “Better and Perfect are the enemies of ‘What is Actually Needed’”.
 
@@ -14923,9 +13747,7 @@ I should say something about “Perfect”. Picasso said “A work of art is nev
 For these, Picasso’s “abandoning” is good to learn. One way to do it on large projects is to associate with colleagues whose strongest urges are to “complete”, and to just let them do this as they see fit, as one gets entranced by beautiful new unreachables.
 
 ---
-## What does it mean for a language to have Smalltalk-inspired syntax?
-
-*https://www.quora.com/What-does-it-mean-for-a-language-to-have-Smalltalk-inspired-syntax/answer/Alan-Kay-11*
+## [What does it mean for a language to have Smalltalk-inspired syntax?](https://www.quora.com/What-does-it-mean-for-a-language-to-have-Smalltalk-inspired-syntax/answer/Alan-Kay-11)
 
 There are three main answers to this question because there were three somewhat different Smalltalks (‘72, ‘74, then ‘76, ‘78, then ‘80).
 
@@ -14938,16 +13760,12 @@ When Smalltalk ’80 got worked on, the designers forgot a few things about huma
 There have been a few further ideas along these lines since. For example, CodeWorks by Marc Lentzner was a very nice syntactic design for an OOP language, and noted that if you use keywords/prepositions, then you should be able to order the parameters as desired, and also be able to have defaults for omitted parameters. I made a suggestion while still at Parc that a good idea might be to have a simple grammar for making up messages (this would be a nice intermediate between a fixed syntax and the open syntax of Smalltalk ‘72). This was not taken up, but I think that something like this was done for the Grace language.
 
 ---
-## If you had to choose just one word for your gravestone, what would it be?
-
-*https://www.quora.com/If-you-had-to-choose-just-one-word-for-your-gravestone-what-would-it-be/answer/Alan-Kay-11*
+## [If you had to choose just one word for your gravestone, what would it be?](https://www.quora.com/If-you-had-to-choose-just-one-word-for-your-gravestone-what-would-it-be/answer/Alan-Kay-11)
 
 Curious
 
 ---
-## What will happen if one rewrites the entire Linux using Smalltalk?
-
-*https://www.quora.com/What-will-happen-if-one-rewrites-the-entire-Linux-using-Smalltalk/answer/Alan-Kay-11*
+## [What will happen if one rewrites the entire Linux using Smalltalk?](https://www.quora.com/What-will-happen-if-one-rewrites-the-entire-Linux-using-Smalltalk/answer/Alan-Kay-11)
 
 I’m going to translate this question into “What are good ways to rethink operating systems in our day and age?”
 
@@ -14988,9 +13806,7 @@ The idea behind the Internet (the most successful “real object” system in th
 We could have done this better when doing Smalltalk, but it was still an interesting first pass. Once done, Smalltalk shows how to use and intermodule language as a way of doing things recursively “all the way down” for making systems. But it doesn’t at all preclude having any other kind of language or mechanisms inside an object. That is a large part of the reason for having encapsulated “clusters” be thought of as “objects”.
 
 ---
-## What does WYSIWYG mean?
-
-*https://www.quora.com/What-does-WYSIWYG-mean/answer/Alan-Kay-11*
+## [What does WYSIWYG mean?](https://www.quora.com/What-does-WYSIWYG-mean/answer/Alan-Kay-11)
 
 What I am doing right now is *not* WYSIWYG.
 
@@ -15009,9 +13825,7 @@ The large idea was an ARPA-IPTO idea. At Parc, when we decided to sacrifice a lo
 In my recollection, the term was made up at Parc by Charles Simonyi when he was Butler Lampson’s grad student and did what became Microsoft Word (called Bravo there) as the example for his PhD thesis on “intentional programming” ca 1974–75.
 
 ---
-## Could a modern-day Xerox PARC be funded through Patreon?
-
-*https://www.quora.com/Could-a-modern-day-Xerox-PARC-be-funded-through-Patreon/answer/Alan-Kay-11*
+## [Could a modern-day Xerox PARC be funded through Patreon?](https://www.quora.com/Could-a-modern-day-Xerox-PARC-be-funded-through-Patreon/answer/Alan-Kay-11)
 
 There’s coming up with the funding, coming up with the visions, and coming up with the people.
 
@@ -15046,9 +13860,7 @@ Trying to sum up: when I think about this stuff in relation to questions about P
 In several lectures I gave recently at Stanford, I tried to sum up by saying “the goodness of the results correlated most strongly with the goodness of the funders”.
 
 ---
-## Why is it possible to use an object as a parameter directly?
-
-*https://www.quora.com/Why-is-it-possible-to-use-an-object-as-a-parameter-directly/answer/Alan-Kay-11*
+## [Why is it possible to use an object as a parameter directly?](https://www.quora.com/Why-is-it-possible-to-use-an-object-as-a-parameter-directly/answer/Alan-Kay-11)
 
 In Smalltalk, everything is an object and it does pass parameters, so …
 
@@ -15059,9 +13871,7 @@ If you can see that the answers are: not a lot, a lot, and a lot and not a lot, 
 You can start to see why using objects to simulate data structures is not a great idea at best, and gets worse and worse as your system gets richer and larger.
 
 ---
-## What resources does Alan Kay recommend for learning real object oriented programming?
-
-*https://www.quora.com/What-resources-does-Alan-Kay-recommend-for-learning-real-object-oriented-programming/answer/Alan-Kay-11*
+## [What resources does Alan Kay recommend for learning real object oriented programming?](https://www.quora.com/What-resources-does-Alan-Kay-recommend-for-learning-real-object-oriented-programming/answer/Alan-Kay-11)
 
 Following on to Mark Miller’s answer
 
@@ -15086,9 +13896,7 @@ simpler examples to easily be done staying with “real oop” rather then degen
 rather complex systems — like operating systems, simulations of complex engineering, scientific, and biological systems to be done without adding unnecessary complexity
 
 ---
-## What does Alan Kay think of the Swift programming language?
-
-*https://www.quora.com/What-does-Alan-Kay-think-of-the-Swift-programming-language/answer/Alan-Kay-11*
+## [What does Alan Kay think of the Swift programming language?](https://www.quora.com/What-does-Alan-Kay-think-of-the-Swift-programming-language/answer/Alan-Kay-11)
 
 I don’t think my opinion matters. But it’s worth looking at the stated goals for the particular design and implementation of any programming language and (a) see how well they match up to the system in use, and (b) what important goals have been left out.
 
@@ -15101,9 +13909,7 @@ So — for Swift — I think we could almost ignore (a) and look to see how it d
 What do you think?
 
 ---
-## If Tony Hoare said that “debugging is harder than programming and you shouldn’t use all of your cleverness to write the program” — or make anything — then what role does planning have in engineering and software design?
-
-*https://www.quora.com/If-Tony-Hoare-said-that-“debugging-is-harder-than-programming-and-you-shouldn’t-use-all-of-your-cleverness-to-write-the-program”-—-or-make-anything-—-then-what-role-does-planning-have-in-engineering-and-software-design/answer/Alan-Kay-11*
+## [If Tony Hoare said that “debugging is harder than programming and you shouldn’t use all of your cleverness to write the program” — or make anything — then what role does planning have in engineering and software design?](https://www.quora.com/If-Tony-Hoare-said-that-“debugging-is-harder-than-programming-and-you-shouldn’t-use-all-of-your-cleverness-to-write-the-program”-—-or-make-anything-—-then-what-role-does-planning-have-in-engineering-and-software-design/answer/Alan-Kay-11)
 
 The famous Tacoma Narrows bridge that vibrated itself to bits in a strong wind was planned, but the means to do a good simulation did not exist when it was built. Today, we would expect that a bridge we built would anticipate most stresses. The old joke was that “But test pilots still wear parachutes!”. With today’s planes, a parachute might not help at all, so more care needs to be taken even when testing (and better simulators help every one and every thing).
 
@@ -15116,9 +13922,7 @@ One way to think about this part is that it is like the “SIM” part of CAD->S
 Finally (for here), it’s worth thinking about what good tools for reformulation of programs might look like. I think I’d start with where Smalltalk left off, find the next set of improvements in dealing with always running code, and think a lot harder about how to deal with dependencies in graceful ways, and especially how desired dependencies can be preserved while reformulating.
 
 ---
-## Can Smalltalk code be written on "bare metal" hardware?
-
-*https://www.quora.com/Can-Smalltalk-code-be-written-on-bare-metal-hardware/answer/Alan-Kay-11*
+## [Can Smalltalk code be written on "bare metal" hardware?](https://www.quora.com/Can-Smalltalk-code-be-written-on-bare-metal-hardware/answer/Alan-Kay-11)
 
 I’m not sure I understand this question, but -sure-!
 
@@ -15145,9 +13949,7 @@ Let us suppose that the machine doesn’t have any software yet, what then? When
 BCPL, the predecessor of C, was in the form of a byte-coded machine that one would first get going on the new HW, and it had the facilities to then write more efficient machine code generators and recompile itself, so it could work as a systems language on the new HW. One of the ways to bootstrap BCPL, was to simulate the new HW (as above), and get a lot of the new system running before even the new HW got going.
 
 ---
-## What are the best books about the history of computers?
-
-*https://www.quora.com/What-are-the-best-books-about-the-history-of-computers/answer/Alan-Kay-11*
+## [What are the best books about the history of computers?](https://www.quora.com/What-are-the-best-books-about-the-history-of-computers/answer/Alan-Kay-11)
 
 This is a very good question! I’m in the UK for a while right now and don’t have access to my home library, so I’ll add to this answer incrementally as I think of more items. However, I also invite all readers of this to provide some of their favorite history sources.
 
@@ -15200,9 +14002,7 @@ There are a number of pretty good Babbage/Ada histories
 More to come … (and let’s have more contributions …!)
 
 ---
-## How does a program like Microsoft Excel get written from scratch?
-
-*https://www.quora.com/How-does-a-program-like-Microsoft-Excel-get-written-from-scratch/answer/Alan-Kay-11*
+## [How does a program like Microsoft Excel get written from scratch?](https://www.quora.com/How-does-a-program-like-Microsoft-Excel-get-written-from-scratch/answer/Alan-Kay-11)
 
 One good answer is “find out how Dan Bricklin and Bob Frankston did the original spreadsheet Visicalc on the 8-bit micro Apple II”.
 
@@ -15213,9 +14013,7 @@ While you are at it, try to think about what horrendously got missed going from 
 For ideas about spreadsheets you could also look at my Scientific American article “Software” for Sept 1984.
 
 ---
-## What does "software architecture" mean?
-
-*https://www.quora.com/What-does-software-architecture-mean/answer/Alan-Kay-11*
+## [What does "software architecture" mean?](https://www.quora.com/What-does-software-architecture-mean/answer/Alan-Kay-11)
 
 When a term is borrowed from somewhere else — for example: “science”, “engineering”, or “archtecture” — it is usually important to start with what the terms meant in the developed serious disciplines they were taken from. So we should ask “what is modern science?” and try to critique “computer science” partly on that basis. Similarly, we have “software engineering” — we need to look at what real engineers in the civil, electrical, aviation, biotech, etc disciplines actually do, how they think about it, how they go about it.
 
@@ -15238,16 +14036,12 @@ I’ve gone a bit beyond “buildings” in the above. So one question we could 
 These are good questions also with respect for SW, because sometimes a beautiful system gets done, gets popular, and then gets quite messed up in the process.
 
 ---
-## What is the best way to promote a non-traditional Smalltalk programming language implementation?
-
-*https://www.quora.com/What-is-the-best-way-to-promote-a-non-traditional-Smalltalk-programming-language-implementation/answer/Alan-Kay-11*
+## [What is the best way to promote a non-traditional Smalltalk programming language implementation?](https://www.quora.com/What-is-the-best-way-to-promote-a-non-traditional-Smalltalk-programming-language-implementation/answer/Alan-Kay-11)
 
 I don’t know, I’ve never tried to promote any kind of programming language. Certainly, the things that have attracted me to various programming languages have mainly been compelling examples. I think this is the place to start.
 
 ---
-## What did Alan Kay mean by, "Lisp is the greatest single programming language ever designed"?
-
-*https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11*
+## [What did Alan Kay mean by, "Lisp is the greatest single programming language ever designed"?](https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11)
 
 First, let me clear up a few misconceptions from the previous answers. One of them said “Try writing an operating system with Lisp”, as though this would be somehow harder. In fact, one of the nicest operating systems ever done was on “The Lisp Machines” (in Zeta-Lisp), the hardware and software following the lead of “The Parc Machines” and Smalltalk — and we in turn had been very influenced by the Lisp model of programming and implementation. (These operating systems in both Smalltalk and Lisp were both better (claim) and easier to write (simpler to demonstrate) than the standard ones of today.)
 
@@ -15286,9 +14080,7 @@ But this is like saying that once you’ve seen Newton, it becomes possible to d
 This is why “Lisp is the greatest!”
 
 ---
-## Is there a programming language that's effectively a successor to Smalltalk?
-
-*https://www.quora.com/Is-there-a-programming-language-thats-effectively-a-successor-to-Smalltalk/answer/Alan-Kay-11*
+## [Is there a programming language that's effectively a successor to Smalltalk?](https://www.quora.com/Is-there-a-programming-language-thats-effectively-a-successor-to-Smalltalk/answer/Alan-Kay-11)
 
 Well, let's see. The first usable Smalltalk was designed and implemented by the end of 1972. That makes it 45 years old, and the main ideas about OOP I contributed go back to the end of 1966 (that makes this particular line of thought — dynamic programmable OOP — 51 years old). If Moore's law represents a doubling every 18 months to 2 years (depending on what you look at), then the changes in combined scales since then are probably at least a factor of 100,000,000.
 
@@ -15311,9 +14103,7 @@ All in all, I may be missing something out in the hinterlands, but what I see wh
 We can blame bad funders for some of this. But I wonder what would happen if good funding showed up. How many computer people are thinking about "what is actually needed" rather than "what would be a little better"?
 
 ---
-## What does Alan Kay use in lieu of PowerPoint?
-
-*https://www.quora.com/What-does-Alan-Kay-use-in-lieu-of-PowerPoint/answer/Alan-Kay-11*
+## [What does Alan Kay use in lieu of PowerPoint?](https://www.quora.com/What-does-Alan-Kay-use-in-lieu-of-PowerPoint/answer/Alan-Kay-11)
 
 I’ve given a lot of talks using Etoys (in Squeak), a programming environment we made for children (starting at Disney in the late 90s) that also had decent media design. The current day Scratch is a subset descendant of Etoys, but without many of the useful media abilities. Another interesting system that I used for many years was “Frank”, the comprehensive system we built for the STEPS project in a few 10 thousand lines of code.
 
@@ -15326,9 +14116,7 @@ This was my favorite of the “engineered” Smalltalks (that came after -72), a
 Despite the one-bit-per-pixel graphics, I’ve thought about doing more talks using this. The biggest difference between then and now is that today there is much more room for images than back then: we had them but the memories were too small to use more than a few.
 
 ---
-## As a beginner, what are the best ways to approach Computer Science?
-
-*https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science/answer/Alan-Kay-11*
+## [As a beginner, what are the best ways to approach Computer Science?](https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science/answer/Alan-Kay-11)
 
 If you are just looking to get a job in computing, don’t bother to read further.
 
@@ -15361,9 +14149,7 @@ Meanwhile, since CS is about systems, you need to start learning about systems, 
 Finally, at some age you need to take responsibility for your own education. This should happen in high school or earlier (but is rare). However, you should not try to get through college via some degree factory’s notion of “certification” without having formed a personal basis for criticizing and choosing. Find out what real education is, and start working your way through it.
 
 ---
-## What are the backgrounds of engineer-scientists and scientist-engineers?
-
-*https://www.quora.com/What-are-the-backgrounds-of-engineer-scientists-and-scientist-engineers/answer/Alan-Kay-11*
+## [What are the backgrounds of engineer-scientists and scientist-engineers?](https://www.quora.com/What-are-the-backgrounds-of-engineer-scientists-and-scientist-engineers/answer/Alan-Kay-11)
 
 I don’t know how to give a reasonable answer (because there is quite a spread in personalities, skills, and knowledge across the very large fields). But, I can give a “non-reasonable” attempt at this. If you take “STEM”, realize that the “T” for “Technology” just means whatever humans make — and so is too large and diffuse a category — and look at the historical order of the fields, we can use “T” for “Tinkering”, then “Engineering”, then “Math”, then “Science” to get TEMS.
 
@@ -15374,9 +14160,7 @@ Again, I don’t know how to generalize here, but I’ve had the pleasure of wor
 The people I worked with all had gotten quite good at pretty much the same things, with regard to Math, Engineering, and Science — basically, top levels of knowledge. To me, the main differences could be put down to temperament and personality type — and what they wanted to achieve, what it meant to have done good work. The result of this was that everyone had a lot to talk about, and everyone had the background to understand the different points of view and goals. Usually the different types could work together, and there the differences created magic.
 
 ---
-## If computer science looked more like engineering, what would "software simulators" do?
-
-*https://www.quora.com/If-computer-science-looked-more-like-engineering-what-would-software-simulators-do/answer/Alan-Kay-11*
+## [If computer science looked more like engineering, what would "software simulators" do?](https://www.quora.com/If-computer-science-looked-more-like-engineering-what-would-software-simulators-do/answer/Alan-Kay-11)
 
 Let’s try to use as parallel analogies as possible to “science” (what physics, chemistry, biology, etc.) do, and to “engineering” (what civil, electrical, mechanical, bio-, etc. engineering do).
 
@@ -15395,9 +14179,7 @@ On the other hand, we are very interested in the “computer science” aspects 
 In short, we aren’t very good at computing, thinking about computing, or doing computing. We need to get better designs vetted and improved much much quicker. To do this we need to have an intermediate “simulation” phase and the tools to go with it on every worthwhile project we want to do. And having these will suggest many projects we should be doing but just can’t see.
 
 ---
-## What does Alan Kay think about Gerry Sussman's recent talk at the Strange Loop conference titled "We Really Don't Know How to Compute!"?
-
-*https://www.quora.com/What-does-Alan-Kay-think-about-Gerry-Sussmans-recent-talk-at-the-Strange-Loop-conference-titled-We-Really-Dont-Know-How-to-Compute/answer/Alan-Kay-11*
+## [What does Alan Kay think about Gerry Sussman's recent talk at the Strange Loop conference titled "We Really Don't Know How to Compute!"?](https://www.quora.com/What-does-Alan-Kay-think-about-Gerry-Sussmans-recent-talk-at-the-Strange-Loop-conference-titled-We-Really-Dont-Know-How-to-Compute/answer/Alan-Kay-11)
 
 I like to read rather than watch videos. I’ve always been a big fan of Gerry since he was a grad student at MIT, and have generally agreed with him. If he is complaining about current programming and programming languages then he is probably right and I’d probably agree with him.
 
@@ -15422,9 +14204,7 @@ Instead he argues for “really thinking things through” and this “from scra
 The “bottom line” above is substantiated. I don’t agree with every notion in this talk, but I’m very glad to have heard all of them.
 
 ---
-## How do you know when you have the chops to build your own tools?
-
-*https://www.quora.com/How-do-you-know-when-you-have-the-chops-to-build-your-own-tools/answer/Alan-Kay-11*
+## [How do you know when you have the chops to build your own tools?](https://www.quora.com/How-do-you-know-when-you-have-the-chops-to-build-your-own-tools/answer/Alan-Kay-11)
 
 I don’t know a good general answer. The ARPA-Parc gang got some sense of it by building tools, and sometimes undergoing what Butler Lampson once referred to as “bitter experience”. In those days of new computer architectures and non-standardized operating systems (or no operating systems) there was more tool building as a matter of course, and a lot of dives down ratholes never to return.
 
@@ -15443,9 +14223,7 @@ This is where the “chops” come in (and part of “chops” — when you are 
 I needed to add that having chops still doesn’t mean every endeavor is going to work … we occasionally at Parc would get into “little troubles” from biting off a bit more than we could chew that sometimes were pernicious. The recoveries from a couple of these later made for good stories around the campfire.
 
 ---
-## What did Alan Kay mean by, "I made up the term object-oriented, and I can tell you I did not have C++ in mind."?
-
-*https://www.quora.com/What-did-Alan-Kay-mean-by-I-made-up-the-term-object-oriented-and-I-can-tell-you-I-did-not-have-C++-in-mind/answer/Alan-Kay-11*
+## [What did Alan Kay mean by, "I made up the term object-oriented, and I can tell you I did not have C++ in mind."?](https://www.quora.com/What-did-Alan-Kay-mean-by-I-made-up-the-term-object-oriented-and-I-can-tell-you-I-did-not-have-C++-in-mind/answer/Alan-Kay-11)
 
 It’s hard to praise too highly the programming languages that are the bridge from one way of looking at programming to much better ways of looking at programming. The two greatest such in the 60s were Lisp and Simula. Perhaps the greatest single conception of a software system of the 60s was Sketchpad.
 
@@ -15496,9 +14274,7 @@ I don’t think that “real OOP” as we thought of it then, is the way to go i
 Stuff like this is what we should be working on!
 
 ---
-## I don't want be a specialist. How can I be a great generalist in computer science?
-
-*https://www.quora.com/I-dont-want-be-a-specialist-How-can-I-be-a-great-generalist-in-computer-science/answer/Alan-Kay-11*
+## [I don't want be a specialist. How can I be a great generalist in computer science?](https://www.quora.com/I-dont-want-be-a-specialist-How-can-I-be-a-great-generalist-in-computer-science/answer/Alan-Kay-11)
 
 Every once in a while I’m asked “What does it mean to be a Computer Scientist?”. My answer is “I don’t know exactly, but take a look at Butler Lampson. He is certainly the quintessential Computer Scientist if ever there was one”.
 
@@ -15519,9 +14295,7 @@ He wound up being the principal designer of the operating system of this compute
 Butler was and is interested in -anything- that has dynamic relationships — systems and processes — (and note the analogies with what is studied in physics). I think looking at the world this way — all systems and processes (including physical and biological) — will round you into a “generalist in computer scientist” who can be a vital contributor not just a dabbler. There are only a few people around like Butler, but how he has gone about his art can be and is an inspiration for the rest of us.
 
 ---
-## How could public libraries disrupt themselves?
-
-*https://www.quora.com/How-could-public-libraries-disrupt-themselves/answer/Alan-Kay-11*
+## [How could public libraries disrupt themselves?](https://www.quora.com/How-could-public-libraries-disrupt-themselves/answer/Alan-Kay-11)
 
 Libraries made their way in the US partly because they provided something not easily found otherwise. Still, it’s sobering to realize that about half of all the libraries in the US by about 1920 were there because they were funded by a single philanthropist (Andrew Carnegie). He was an immigrant child laborer from Scotland and started his climb to immense wealth in his early teens because his first boss opened his house library to his laborers on Saturdays.
 
@@ -15550,9 +14324,7 @@ And could online as well. And for the same reasons via the poor subsetting that 
 Finally, I think I’d take a shot at dealing with the homeless (whom are often the most numerous in libraries these days). Maybe this is too big a task to try to include therapy and hope as part of a public institution’s functions, but on the other hand, why not? The Greek lawgiver — Solon — was reputed to have said “You can judge a society by how well it treats its least fortunate citizens”. I think our society has a long way to go in this regard.
 
 ---
-## What was the total economic impact of research at Xerox parc in the 1970s?
-
-*https://www.quora.com/What-was-the-total-economic-impact-of-research-at-Xerox-parc-in-the-1970s/answer/Alan-Kay-11*
+## [What was the total economic impact of research at Xerox parc in the 1970s?](https://www.quora.com/What-was-the-total-economic-impact-of-research-at-Xerox-parc-in-the-1970s/answer/Alan-Kay-11)
 
 Hard to nail down and substantiate (and it would be good and interesting to do so). Some years ago I saw an estimate — I think from a university — that said “in excess of $30 Trillion dollars, perhaps as much as $35T”. I have no idea whether this was really drawn from comprehensive data (and how can you draw lines between (say) the impact of integrated circuits and that of personal computing, the GUI, the Internet, OOP, laser printing, etc.?).
 
@@ -15563,9 +14335,7 @@ Another way to look at it could be to assign value based on importance. Integrat
 One part of this I do know with more foundation is that Xerox paid for all of Parc many times over from the profits of just one of the inventions: the laser printer by Gary Starkweather. I don’t know exactly how much the four labs of Parc cost in the decade of the 70s, but it was probably something on the order of $200 million in today’s dollars. So even one billion of profit is a factor of 5 ROI, and the actual profits were far larger.
 
 ---
-## What was Xerox PARC's mission statement?
-
-*https://www.quora.com/What-was-Xerox-PARCs-mission-statement/answer/Alan-Kay-11*
+## [What was Xerox PARC's mission statement?](https://www.quora.com/What-was-Xerox-PARCs-mission-statement/answer/Alan-Kay-11)
 
 I don’t recall one — I’m pretty sure — not totally — that there wasn’t an “official” one. But the intent of Jack Goldman — the Chief Scientist of Xerox, a physicist, who decided to make PARC — was to devote a small percentage of Xerox’s R&D resources to “non-directed” research in the areas of Physics and Chemistry, Optics, and Computing.
 
@@ -15578,9 +14348,7 @@ It was certainly the case that “the company” (meaning the corporate executiv
 I needed to mention here that despite the disconnects, Xerox made billions from one of the Parc inventions — the laser printer by Gary Starkweather — and paid for all of Parc many times over. This is the biggest point of this story: that the multiples from new inventions are often so high that doing risky research in many areas with top people and modest resources is a not to be missed strategy.
 
 ---
-## If you had to teach ‘Computer Science 101’, how would you begin your first lecture?
-
-*https://www.quora.com/If-you-had-to-teach-‘Computer-Science-101’-how-would-you-begin-your-first-lecture/answer/Alan-Kay-11*
+## [If you had to teach ‘Computer Science 101’, how would you begin your first lecture?](https://www.quora.com/If-you-had-to-teach-‘Computer-Science-101’-how-would-you-begin-your-first-lecture/answer/Alan-Kay-11)
 
 Let’s think about this question for a bit. Some years ago I was invited by “CS Departments” to give talks at a number of universities. Almost accidentally I asked the first audience of undergrads, grad students and professors for their definition of “Computer Science”. Not one could give other than an engineering definition. I did this at each new place on the tour with identical results. Other questions I asked included “Who was Doug Engelbart?” A few said “didn’t he have something to do with the mouse?” (this was extremely upsetting since my research community had put in a lot of effort to make it possible to answer such questions with two or three clicks of the mouse that Engelbart indeed had something to do with). The problem was partly lack of curiosity, partly quite narrow internal goals not having to do with learning, partly not having the faintest idea of what a “science” might be about, etc.
 
@@ -15627,9 +14395,7 @@ So what we need to do in a good first course in computing is to take into accoun
 The students need to start by making something themselves that has most of the important characteristics I’ve discussed here. It needs to be a system of multiple dynamically interacting parts, etc. A good way to assess what language to use is whether it is simple to make something that has thousands of interacting parts! If not, you need to find one. The worst thing that can be done is to get the students on a path to a too weak fluency that is a too limited subset of the big ideas. This just kills them — and we want to grow them not kill them.
 
 ---
-## How would you interpret Marvin Minsky's idea that “Computer science already has a grammar. What it needs is a literature.”?
-
-*https://www.quora.com/How-would-you-interpret-Marvin-Minskys-idea-that-“Computer-science-already-has-a-grammar-What-it-needs-is-a-literature-”/answer/Alan-Kay-11*
+## [How would you interpret Marvin Minsky's idea that “Computer science already has a grammar. What it needs is a literature.”?](https://www.quora.com/How-would-you-interpret-Marvin-Minskys-idea-that-“Computer-science-already-has-a-grammar-What-it-needs-is-a-literature-”/answer/Alan-Kay-11)
 
 The most interesting aspect of Ken’s blog entry (including the comments) is that nowhere do we find an historical reference to this idea. In fact, more than 50 years earlier in the 60s it was a part of many a conversation, and if I recall correctly, a few papers.
 
@@ -15670,9 +14436,7 @@ Finally, a field without a real literature is almost tantamount to not being a f
 We need it!
 
 ---
-## As a true engineer, how do you figure out what are the right tools to invent to help you do your work?
-
-*https://www.quora.com/As-a-true-engineer-how-do-you-figure-out-what-are-the-right-tools-to-invent-to-help-you-do-your-work/answer/Alan-Kay-11*
+## [As a true engineer, how do you figure out what are the right tools to invent to help you do your work?](https://www.quora.com/As-a-true-engineer-how-do-you-figure-out-what-are-the-right-tools-to-invent-to-help-you-do-your-work/answer/Alan-Kay-11)
 
 I’ve worked with “true engineers” and I think of myself as an “enthusiastic hobbyist” with some “scientific leanings”. Despite this much of what I’ve done over the last 50 years has very large engineering components (you have to build things in computing to vet your ideas).
 
@@ -15697,9 +14461,7 @@ The answer to this question depends on the chops you’ve developed. (Great engi
 Meanwhile it’s worth pondering just where computing is in comparison. Could we do “the largest of something” in less than a year and muster about 3000 people to do it? I don’t know of any such happening in our history. (Maybe we don’t know very much about the engineering of our own field …)
 
 ---
-## What books would Alan Kay recommend for people who want to become true engineers? How should they go about building projects?
-
-*https://www.quora.com/What-books-would-Alan-Kay-recommend-for-people-who-want-to-become-true-engineers-How-should-they-go-about-building-projects/answer/Alan-Kay-11*
+## [What books would Alan Kay recommend for people who want to become true engineers? How should they go about building projects?](https://www.quora.com/What-books-would-Alan-Kay-recommend-for-people-who-want-to-become-true-engineers-How-should-they-go-about-building-projects/answer/Alan-Kay-11)
 
 As with science, medicine, counseling, and many other fields, I think there are issues of temperament as well as knowledge — there is a kind of “calling” here. And, I think, a kind of “attitude”.
 
@@ -15714,9 +14476,7 @@ As far as advice is concerned, I’d urge not just tinkering and making, and not
 A big revelation to me was the “attitude” part that I found when I accidentally wound up in a grad school that was part of the ARPA community. The whole community was just “used to being able to fly by visions, and to make anything that was needed to make the visions real”. In that kind of culture, with that kind of confidence, and that kind of track record, it is much easier for learners to pick goals that really matter, and to find ways and colleagues to make them happen.
 
 ---
-## In software engineering, is it better to just figure it out and hack together a solution or to understand the fundamentals and then implement it?
-
-*https://www.quora.com/In-software-engineering-is-it-better-to-just-figure-it-out-and-hack-together-a-solution-or-to-understand-the-fundamentals-and-then-implement-it/answer/Alan-Kay-11*
+## [In software engineering, is it better to just figure it out and hack together a solution or to understand the fundamentals and then implement it?](https://www.quora.com/In-software-engineering-is-it-better-to-just-figure-it-out-and-hack-together-a-solution-or-to-understand-the-fundamentals-and-then-implement-it/answer/Alan-Kay-11)
 
 Interesting range of answers so far …
 
@@ -15733,16 +14493,12 @@ As for “exploratory programming” — it is very important to do almost alway
 The last idea here is that many of the properties that help prototyping and exploration -can- be of great help in serious implementation: for example, how well does your programming language allow separation of “meaning” from “optimization”? Most languages and most programmers intertwine the two very different things, and this leads to difficult to understand and deal with dependencies, especially later in the learning curve when you are really finding out how your system should be implemented — and worse, much later when requirements have changed and the SW needs to change also. If you have a typical — bad — system for where we are in the 21st century, you will likely try to patch rather than -safely- redesign within what has been done so far (hint: this is generally not a good method for any kind of engineering, including in software).
 
 ---
-## What do you think the next great invention of the 21st century will be? One as big as the internet. This idea of synthetic realities is something I see having huge potential.
-
-*https://www.quora.com/What-do-you-think-the-next-great-invention-of-the-21st-century-will-be-One-as-big-as-the-internet-This-idea-of-synthetic-realities-is-something-I-see-having-huge-potential/answer/Alan-Kay-11*
+## [What do you think the next great invention of the 21st century will be? One as big as the internet. This idea of synthetic realities is something I see having huge potential.](https://www.quora.com/What-do-you-think-the-next-great-invention-of-the-21st-century-will-be-One-as-big-as-the-internet-This-idea-of-synthetic-realities-is-something-I-see-having-huge-potential/answer/Alan-Kay-11)
 
 Really smart people — like Ivan Sutherland — can figure out most of the implications of new ideas and technologies from the get go. Take a look at his 1965 paper The Ultimate Display and see what you think about your question. Then you could take a look to see where VR and tactile sensing, etc., actually came from, etc.
 
 ---
-## What are those "powerful ideas that basically mean the difference between life and death"?
-
-*https://www.quora.com/What-are-those-powerful-ideas-that-basically-mean-the-difference-between-life-and-death/answer/Alan-Kay-11*
+## [What are those "powerful ideas that basically mean the difference between life and death"?](https://www.quora.com/What-are-those-powerful-ideas-that-basically-mean-the-difference-between-life-and-death/answer/Alan-Kay-11)
 
 You can identify many of them. Two types are (a) “powerful ideas that have immediate benefit on life and death” — for example, the germ theory of disease and what is implied for sanitation, being able to make insulin to save diabetics, and a myriad more having to do with health and nutrition. And (b) “powerful ideas that are about ideas” — for example, “there are powerful ideas” (it’s worth finding them!), “we are mostly blind in so many ways” (so use powerful ideas to make tools of many kinds to help us “see” — one of them is “science”, etc.).
 
@@ -15751,9 +14507,7 @@ An example of a problem that involves both (a) and (b) is the estimated 100,000 
 In the large, it is making progress in (b) and forming deep habits around (b) that should be one of the main goals of education. We need to do much more “real thinking” rather than the kinds of “reacting and rationalizing” that is our genetic heritage.
 
 ---
-## Why did Xerox fail to successfully exploit any of its ideas at its Palo Alto Research Center from the 1960s and 1970s?
-
-*https://www.quora.com/Why-did-Xerox-fail-to-successfully-exploit-any-of-its-ideas-at-its-Palo-Alto-Research-Center-from-the-1960s-and-1970s/answer/Alan-Kay-11*
+## [Why did Xerox fail to successfully exploit any of its ideas at its Palo Alto Research Center from the 1960s and 1970s?](https://www.quora.com/Why-did-Xerox-fail-to-successfully-exploit-any-of-its-ideas-at-its-Palo-Alto-Research-Center-from-the-1960s-and-1970s/answer/Alan-Kay-11)
 
 A common myth (and easily exposed with a little poking of the web). The simplest one is “the 60s” (Xerox Parc started in 1970).
 
@@ -15766,9 +14520,7 @@ It’s true that Xerox could have done more with some of the other inventions, b
 My biggest complaint has been that the commercial exploitation of most of the inventions was “half-way and in pieces”, and this did not get fixed in the succeeding 35 years or so.
 
 ---
-## What is Alan Kay’s opinion of Assembly and mainstream programming languages like Google Go?
-
-*https://www.quora.com/What-is-Alan-Kay’s-opinion-of-Assembly-and-mainstream-programming-languages-like-Google-Go/answer/Alan-Kay-11*
+## [What is Alan Kay’s opinion of Assembly and mainstream programming languages like Google Go?](https://www.quora.com/What-is-Alan-Kay’s-opinion-of-Assembly-and-mainstream-programming-languages-like-Google-Go/answer/Alan-Kay-11)
 
 John von Neumann was famously against using valuable expensive computer time to automate human tasks that could be done by cheap labor. When FORTRAN came out in 1956 someone asked him about “higher level programming”. He summoned a grad student and said “Go write me a sort program”. The grad student left. von Neumann said “Either that student will come back with a sort program, or he won’t come back at all. That’s higher level programming!”
 
@@ -15789,9 +14541,7 @@ This is ironic — or worse — because one of the main points of a computer is 
 In part, that’s why we have so many languages — but for various — mostly bad — reasons they wind up as stove pipes rather than as a system of tools, each to be used where they really pay their way. But most computer people are still stuck in “algorithms and data structures” and haven’t yet really gotten around to thinking in terms of systems …
 
 ---
-## "If you don't fail at least 90 percent of the time, you're not aiming high enough." - Alan Kay. What are some things Alan Kay has aimed for and failed at?
-
-*https://www.quora.com/If-you-dont-fail-at-least-90-percent-of-the-time-youre-not-aiming-high-enough-Alan-Kay-What-are-some-things-Alan-Kay-has-aimed-for-and-failed-at/answer/Alan-Kay-11*
+## ["If you don't fail at least 90 percent of the time, you're not aiming high enough." - Alan Kay. What are some things Alan Kay has aimed for and failed at?](https://www.quora.com/If-you-dont-fail-at-least-90-percent-of-the-time-youre-not-aiming-high-enough-Alan-Kay-What-are-some-things-Alan-Kay-has-aimed-for-and-failed-at/answer/Alan-Kay-11)
 
 Most things. (Consider the world of the idealist …)
 
@@ -15804,9 +14554,7 @@ Added July 10, 2021
 Certainly one thing that I’ve put many years of effort into without making much of a dent is trying to improve education — especially public education — for elementary aged through middle school children. This definitely qualifies for “failing more than 90% of the time”! and I think also “for aiming high”.
 
 ---
-## In Alan Kay’s answer about the best books to understand CS concepts, he mentioned that he would look for an excellent follow-on book to the “The Pattern on the Stone” book. Has he found it?
-
-*https://www.quora.com/In-Alan-Kay’s-answer-about-the-best-books-to-understand-CS-concepts-he-mentioned-that-he-would-look-for-an-excellent-follow-on-book-to-the-“The-Pattern-on-the-Stone”-book-Has-he-found-it/answer/Alan-Kay-11*
+## [In Alan Kay’s answer about the best books to understand CS concepts, he mentioned that he would look for an excellent follow-on book to the “The Pattern on the Stone” book. Has he found it?](https://www.quora.com/In-Alan-Kay’s-answer-about-the-best-books-to-understand-CS-concepts-he-mentioned-that-he-would-look-for-an-excellent-follow-on-book-to-the-“The-Pattern-on-the-Stone”-book-Has-he-found-it/answer/Alan-Kay-11)
 
 There probably is at least one really good book out there that could be a follow-on to Danny’s “Pattern in the Stone” book — but I haven’t come across it. Perhaps some of the Quora readers can make suggestions.
 
@@ -15833,9 +14581,7 @@ Summing up, I think Danny did a really great job in writing a “concepts” boo
 But for learners today with the computing power available today, a lot can be done with really simple mechanisms that have the same graceful style as Danny’s and can be made and debugged and understood by the reader.
 
 ---
-## What are some new kinds of businesses you would like to see?
-
-*https://www.quora.com/What-are-some-new-kinds-of-businesses-you-would-like-to-see/answer/Alan-Kay-11*
+## [What are some new kinds of businesses you would like to see?](https://www.quora.com/What-are-some-new-kinds-of-businesses-you-would-like-to-see/answer/Alan-Kay-11)
 
 The economist Milton Friedman — perhaps the epitome of “dismal” in “the dismal science”? — famously declared that the sole purpose of business is to make money for the shareholders.
 
@@ -15862,9 +14608,7 @@ The kinds of businesses — new and old — I’d like to see are those that als
 In other words, it’s not about “hunting-and-gathering” but more like gardening, and not just for food, but is about the “gardening and nurturing of humanity”.
 
 ---
-## What are Alan Kay's favorite books?
-
-*https://www.quora.com/What-are-Alan-Kays-favorite-books/answer/Alan-Kay-11*
+## [What are Alan Kay's favorite books?](https://www.quora.com/What-are-Alan-Kays-favorite-books/answer/Alan-Kay-11)
 
 I don’t know how to give a reasonable answer to this question, but I don’t want to ignore the question either.
 
@@ -15905,9 +14649,7 @@ I should also point out that it’s the fate of most ideas — and most books �
 I will probably return to this answer a few times to tweak it up.
 
 ---
-## What if we were able to prove that AGI is beyond the computational power of the Turing machine?
-
-*https://www.quora.com/What-if-we-were-able-to-prove-that-AGI-is-beyond-the-computational-power-of-the-Turing-machine/answer/Alan-Kay-11*
+## [What if we were able to prove that AGI is beyond the computational power of the Turing machine?](https://www.quora.com/What-if-we-were-able-to-prove-that-AGI-is-beyond-the-computational-power-of-the-Turing-machine/answer/Alan-Kay-11)
 
 I think Cherie Woo below has a good approach to this (it was the philosophical approach used in the 60s for doubters of “eventual AI”).
 
@@ -15920,9 +14662,7 @@ Engineeringwise, the question is “Can we simulate AGI efficiently enough to th
 I think the answer is “probably”. (And almost certainly the solutions will not be at the level of physics.)
 
 ---
-## To what extent, if at all, did Smalltalk borrow from Lisp's philosophy or ideas?
-
-*https://www.quora.com/To-what-extent-if-at-all-did-Smalltalk-borrow-from-Lisps-philosophy-or-ideas/answer/Alan-Kay-11*
+## [To what extent, if at all, did Smalltalk borrow from Lisp's philosophy or ideas?](https://www.quora.com/To-what-extent-if-at-all-did-Smalltalk-borrow-from-Lisps-philosophy-or-ideas/answer/Alan-Kay-11)
 
 As Mark Miller noted below, a fairly complete history of Smalltalk can be found in The Early History Of Smalltalk. Part of the history is an explanation of how long it took me to see the deep implications of what was in front of me (this is because I started with a conventional mindset about computers and languages, and that made me pretty blind to what was new and important).
 
@@ -15959,9 +14699,7 @@ The other quite wonderful much more recent piece of work that needs to be mentio
 Just to mention one interesting “variant thought” to close off this too long answer: it’s worth pondering the split of “eval” and “apply” in McCarthy’s interpreter. “Apply” is tantamount to sending a message to an object, especially if parameter evaluation can be controlled on the receiving end by the object itself, and especially if the receiver is a closure. Now just make this whole mechanism as loosely bound as the rest of the ideas in Lisp, and you have a very simple basis for a different look at computation and programming. (And don’t forget to note the implications if everything were actually in the form of property lists, not just raw storage cells … .)
 
 ---
-## What tools are useful when outlining and drafting a CS dissertation?
-
-*https://www.quora.com/What-tools-are-useful-when-outlining-and-drafting-a-CS-dissertation/answer/Alan-Kay-11*
+## [What tools are useful when outlining and drafting a CS dissertation?](https://www.quora.com/What-tools-are-useful-when-outlining-and-drafting-a-CS-dissertation/answer/Alan-Kay-11)
 
 The number one tool is to have good results that are worth writing up. Too many dissertations these days are too incremental, and often from small papers done over the course of grad school — try to work on a real problem, and get real results. Dave Evans used to say that “A PhD is two years of world class research”. If it was a huge problem, then he allowed the first two years of real progress to be the dissertation. If it was a big problem, then he wanted a solution. He didn’t want anything that wasn’t a real advance to the state of the art.
 
@@ -15982,9 +14720,7 @@ Some people can plan and write top down, and some will have a much easier time t
 One of the ways to do this is to see if you can write a one or two page summary of the whole thing, or perhaps to write a slightly longer paper, as it might appear in a proceedings. This will provide an overall narrative structure than can be more useful than an outline. The two main ways to expand this are to (a) add in details, or (b) keep the short paper as the intro chapter, and think of the rest as “appendices” that contain details and references.
 
 ---
-## What are the pros and cons of developing software from the top-down and from the bottom-up?
-
-*https://www.quora.com/What-are-the-pros-and-cons-of-developing-software-from-the-top-down-and-from-the-bottom-up/answer/Alan-Kay-11*
+## [What are the pros and cons of developing software from the top-down and from the bottom-up?](https://www.quora.com/What-are-the-pros-and-cons-of-developing-software-from-the-top-down-and-from-the-bottom-up/answer/Alan-Kay-11)
 
 Somewhat harmonious with some of the other answers: try making a small scratch throwaway working model first to get an overall sense of the system design and relationships needed.
 
@@ -15997,32 +14733,24 @@ Just as an example, “workspace programming” in Smalltalk could have been eve
 And, but, … consider the difficulties involved in taking a completely malleable lump of clay and trying to debug it into something beautiful! What’s needed is a “vision/sense” of what is to be created. (This is why “sketches” need to be thrown away — their purpose is to help form the inner senses …)
 
 ---
-## What do Alan Kay and other message-oriented programming pioneers think about Ruby?
-
-*https://www.quora.com/What-do-Alan-Kay-and-other-message-oriented-programming-pioneers-think-about-Ruby/answer/Alan-Kay-11*
+## [What do Alan Kay and other message-oriented programming pioneers think about Ruby?](https://www.quora.com/What-do-Alan-Kay-and-other-message-oriented-programming-pioneers-think-about-Ruby/answer/Alan-Kay-11)
 
 The real question is: how should programming really be done ca 2017? And let’s also pick a check point around 2027 to help think about my first question.
 
 ---
-## Has PARC (formerly Xerox PARC) become just another company? Has it lost its original identity?
-
-*https://www.quora.com/Has-PARC-formerly-Xerox-PARC-become-just-another-company-Has-it-lost-its-original-identity/answer/Alan-Kay-11*
+## [Has PARC (formerly Xerox PARC) become just another company? Has it lost its original identity?](https://www.quora.com/Has-PARC-formerly-Xerox-PARC-become-just-another-company-Has-it-lost-its-original-identity/answer/Alan-Kay-11)
 
 Parc was four laboratories: Physics, Optics, Computer Science, and Systems. The last two were the most associated with what people think of as “Parc”, and the deeds most associated with “Parc” were mostly done between 1971 and 1983 when Bob Taylor and most of his lab left (I left in 1980). Some good people remained. And there were lots of very good researchers in the other two labs.
 
 In my mind “Parc” ended when Taylor and his main people left. As you can see, this is not completely fair to those who remained. Still, to me the place was about top researchers having the resources to carry out their research. When “top-downess” gradually was imposed starting in the late 70s, that was the beginning of the end.
 
 ---
-## How much cash did Xerox have on hand when it formed Xerox PARC?
-
-*https://www.quora.com/How-much-cash-did-Xerox-have-on-hand-when-it-formed-Xerox-PARC/answer/Alan-Kay-11*
+## [How much cash did Xerox have on hand when it formed Xerox PARC?](https://www.quora.com/How-much-cash-did-Xerox-have-on-hand-when-it-formed-Xerox-PARC/answer/Alan-Kay-11)
 
 Worth checking. My recollection is that they were about a $6B/year (1970–71 dollars) company at the time Parc was set up.
 
 ---
-## What kind of cheese makes the best grilled cheese sandwich? Why?
-
-*https://www.quora.com/What-kind-of-cheese-makes-the-best-grilled-cheese-sandwich-Why/answer/Alan-Kay-11*
+## [What kind of cheese makes the best grilled cheese sandwich? Why?](https://www.quora.com/What-kind-of-cheese-makes-the-best-grilled-cheese-sandwich-Why/answer/Alan-Kay-11)
 
 Kind of redundant given all the answers, but this is the kind of dish that we react to personally … a great grilled cheese sandwich is my favorite comfort food, and my notion of it is from the ones my mother used to make for us in New England in the 40s and NYC in the 50s.
 
@@ -16037,16 +14765,12 @@ It was years before I found out that “bread” could taste good (or even have 
 My favorite version 70 years later uses multigrain/nut bread which really grills up wonderfully, and the sharp cheddar of the kind my dad loved. Great French baguettes are also terrific when grilled. I like to put a plate on top to weigh the sandwich down in the pan, and to cook each side just short of burning the butter. so the result is very dark and at its tastiest.
 
 ---
-## What is the meaning of life in 5 words?
-
-*https://www.quora.com/What-is-the-meaning-of-life-in-5-words/answer/Alan-Kay-11*
+## [What is the meaning of life in 5 words?](https://www.quora.com/What-is-the-meaning-of-life-in-5-words/answer/Alan-Kay-11)
 
 “We make our own meanings”
 
 ---
-## What was it like to be at Xerox PARC when Steve Jobs visited?
-
-*https://www.quora.com/What-was-it-like-to-be-at-Xerox-PARC-when-Steve-Jobs-visited/answer/Alan-Kay-11*
+## [What was it like to be at Xerox PARC when Steve Jobs visited?](https://www.quora.com/What-was-it-like-to-be-at-Xerox-PARC-when-Steve-Jobs-visited/answer/Alan-Kay-11)
 
 A good enough answer would be longer than is reasonable for Quora, but I can supply a few comments to highlight just how little attention is paid in the media, histories, and by most people to find out what actually happened. For example, I was present at the visit and demo, and it was the work of my group and myself that Steve saw, yet the Quora question is the first time that anyone has asked me what happened. (Worth pondering that interesting fact!)
 
@@ -16073,9 +14797,7 @@ The Smalltalk used in this demo was my personal favorite (-78) that was done for
 I was able to use this rescued version to make all the visuals for a tribute to Ted Nelson without any new capabilities required. The main difference in the tribute is that the revived version had much more RAM to work with, and this allowed more bit-map images to be used. This is on YouTube, and it might be interesting for readers to see what this system could do in 1978–79.
 
 ---
-## Who was the first to introduce multiple desktops, Linux or macOS?
-
-*https://www.quora.com/Who-was-the-first-to-introduce-multiple-desktops-Linux-or-macOS/answer/Alan-Kay-11*
+## [Who was the first to introduce multiple desktops, Linux or macOS?](https://www.quora.com/Who-was-the-first-to-introduce-multiple-desktops-Linux-or-macOS/answer/Alan-Kay-11)
 
 I hate to bring up the “P” word, but Smalltalk at Parc had unlimited persistent multiple desktops starting in the mid-70s with Smalltalk-76. They were called “projects”. All Smalltalk systems since have this as part of the system’s offerings.
 
@@ -16086,9 +14808,7 @@ The multiple desktops are used heavily (note that besides supplying multiple wor
 I tried for many years to get Apple to adopt this (and a few other good ideas from the 60s and 70s) but to no avail.
 
 ---
-## What is your review of The HP Way (1995 book)?
-
-*https://www.quora.com/What-is-your-review-of-The-HP-Way-1995-book/answer/Alan-Kay-11*
+## [What is your review of The HP Way (1995 book)?](https://www.quora.com/What-is-your-review-of-The-HP-Way-1995-book/answer/Alan-Kay-11)
 
 Interesting that Quora will not allow me to write an additional answer … so I’ll flesh out what I wrote previously, which starts with:
 
@@ -16113,9 +14833,7 @@ I and my research group did work for HP — ca 2003–2006 — but this was a co
 I think a good way to finish this review would be to specifically refer the interested reader to page xvii of Collins’ foreword, and his observations about the difference between understanding the principles — and applying them — vs labeling some of the resulting processes and trying to extract further good from them (my analogy would be the difference between the ideas of a benevolent founder of a religion and the reification of the “trappings” into rituals that mostly quite miss the original intentions).
 
 ---
-## Why did Alan Kay say MS-DOS was a distressing thing?
-
-*https://www.quora.com/Why-did-Alan-Kay-say-MS-DOS-was-a-distressing-thing/answer/Alan-Kay-11*
+## [Why did Alan Kay say MS-DOS was a distressing thing?](https://www.quora.com/Why-did-Alan-Kay-say-MS-DOS-was-a-distressing-thing/answer/Alan-Kay-11)
 
 I believe that you can praise in a few sentences, but that criticism morally demands longer and more careful arguments. I don’t know how to be fair about a criticism on this subject in a Quora-sized answer, but I can point you in a few directions to see what I’m driving at.
 
@@ -16140,9 +14858,7 @@ There have been even more severe cases in software of people “reinventing the 
 Another way to look at it is that very few people are as smart and capable as Butler Lampson (or Bob Barton and the B5000 folks). Why not start with “the best so far”?
 
 ---
-## How can life form from nothing?
-
-*https://www.quora.com/How-can-life-form-from-nothing/answer/Alan-Kay-11*
+## [How can life form from nothing?](https://www.quora.com/How-can-life-form-from-nothing/answer/Alan-Kay-11)
 
 There are four parts to this.
 
@@ -16161,9 +14877,7 @@ I say might because where things are right now are still not strong enough to in
 There are a number of very good people who have been looking that these questions over many decades. One of my favorites is the Nobel Prize winner Jack W. Szostak - Wikipedia Take a look at his work (and he also has some excellent exploratory videos on YouTube).
 
 ---
-## Have screenshots of the Xerox Parc GUI ever been published?
-
-*https://www.quora.com/Have-screenshots-of-the-Xerox-Parc-GUI-ever-been-published/answer/Alan-Kay-11*
+## [Have screenshots of the Xerox Parc GUI ever been published?](https://www.quora.com/Have-screenshots-of-the-Xerox-Parc-GUI-ever-been-published/answer/Alan-Kay-11)
 
 Sure, here’s one of Smalltalk-80  and here’s a much earlier one from Smalltalk-74  Here’s an image of Smalltalk-76  from a paper Dan Ingalls wrote in 1978.
 
@@ -16178,9 +14892,7 @@ Here’s a Dorado screen with one of the Smalltalks (maybe Smalltalk-78) . There
 [4] Redirect Notice
 
 ---
-## Why haven't we been able to recreate Bell Labs or Xerox PARC today?
-
-*https://www.quora.com/Why-havent-we-been-able-to-recreate-Bell-Labs-or-Xerox-PARC-today/answer/Alan-Kay-11*
+## [Why haven't we been able to recreate Bell Labs or Xerox PARC today?](https://www.quora.com/Why-havent-we-been-able-to-recreate-Bell-Labs-or-Xerox-PARC-today/answer/Alan-Kay-11)
 
 The computer parts of Parc are best thought of as parts of the ARPA-IPTO research community, were stocked with researchers who carried the ARPA vision, and who learned their stuff and process in the ARPA community. Looking back on that experience, and at other research setups over the last 50+ years or so, I think that “the goodness of the results correlates most strongly with the goodness of the funders”.
 
@@ -16203,16 +14915,12 @@ To make this explanation more complete (or more mysterious) we need to mention t
 The mysterious part seems to have something to do with “real science” and what much of computing seems to be about today, and what investors in computing are interested in. Parc was very much a “computer science” research institution in the old meaning of the term (where the word “science” was taken to be like the existing serious sciences). Perhaps what has lapsed in the field since then is part of the answer to this most puzzling question.
 
 ---
-## What's Alan Kay’s opinion of the D programming language?
-
-*https://www.quora.com/Whats-Alan-Kay’s-opinion-of-the-D-programming-language/answer/Alan-Kay-11*
+## [What's Alan Kay’s opinion of the D programming language?](https://www.quora.com/Whats-Alan-Kay’s-opinion-of-the-D-programming-language/answer/Alan-Kay-11)
 
 I don’t think I know enough about D to have a supported opinion. I’m not a fan of C or C++ (but not because they aren’t like Smalltalk …)
 
 ---
-## How did Ivan Sutherland create Sketchpad? What programming language did he use?
-
-*https://www.quora.com/How-did-Ivan-Sutherland-create-Sketchpad-What-programming-language-did-he-use/answer/Alan-Kay-11*
+## [How did Ivan Sutherland create Sketchpad? What programming language did he use?](https://www.quora.com/How-did-Ivan-Sutherland-create-Sketchpad-What-programming-language-did-he-use/answer/Alan-Kay-11)
 
 Take a look at Ivan’s “Commemorative Lecture” for the Kyoto Prize for some insight into his special mind. Everyone should read Ivan’s thesis — Sketchpad, A Man-Machine Communication System (1963) — one of the greats of all time, and it also answers your question.
 
@@ -16243,9 +14951,7 @@ Now go read his thesis!
 [1] HOPL
 
 ---
-## What did Claude Shannon do and accomplish according to Alan Kay?
-
-*https://www.quora.com/What-did-Claude-Shannon-do-and-accomplish-according-to-Alan-Kay/answer/Alan-Kay-11*
+## [What did Claude Shannon do and accomplish according to Alan Kay?](https://www.quora.com/What-did-Claude-Shannon-do-and-accomplish-according-to-Alan-Kay/answer/Alan-Kay-11)
 
 The Wikipedia article is a good place to start, and supplies references for reading by and about Claude Shannon, in my opinion a “real genius” who ranked with just a few people in the 20th century for unique insights and ability to go to great depths with them.
 
@@ -16260,9 +14966,7 @@ My favorite way to think about this is from a constructive point of view. One wa
 This result is against most of our intuitions, and I remember being just knocked over by the coolness and profundity of it when I first went through the argument as a teenager.
 
 ---
-## When did Alan Kay first meet Douglas Engelbart? Was Alan Kay present at the mother of all demos?
-
-*https://www.quora.com/When-did-Alan-Kay-first-meet-Douglas-Engelbart-Was-Alan-Kay-present-at-the-mother-of-all-demos/answer/Alan-Kay-11*
+## [When did Alan Kay first meet Douglas Engelbart? Was Alan Kay present at the mother of all demos?](https://www.quora.com/When-did-Alan-Kay-first-meet-Douglas-Engelbart-Was-Alan-Kay-present-at-the-mother-of-all-demos/answer/Alan-Kay-11)
 
 I first met Doug when he gave a talk at Utah in early 1967. As I’ve said, he was like a “Moses opening the Red Sea”. I then visited the ARC research project at SRI in Menlo Park and met many of the principal characters in the revolution they were fomenting: especially Bill English, Jeff Rulifson, Bill Paxton, etc.
 
@@ -16275,9 +14979,7 @@ The “mother of all demos” video and the ARC papers can be found by typing �
 I see there is now a chatBOT answer to this question — and it is pretty much all wrong. (Quora, why do something this poorly thought through?)
 
 ---
-## For Alan Kay, what was Claude Shannon like?
-
-*https://www.quora.com/For-Alan-Kay-what-was-Claude-Shannon-like/answer/Alan-Kay-11*
+## [For Alan Kay, what was Claude Shannon like?](https://www.quora.com/For-Alan-Kay-what-was-Claude-Shannon-like/answer/Alan-Kay-11)
 
 I didn’t know Claude Shannon (but among other things he was Ivan Sutherland’s advisor at MIT (in part because he met the Sutherland brothers a number of times when they were youngsters when he was at Bell Labs). Marvin Minsky was a good friend of Shannon’s.
 
@@ -16286,27 +14988,21 @@ I know that he like to ride his unicycle around MIT, and also was very good at m
 A better question for Quora might be: “What did Claude Shannon do and accomplish”?
 
 ---
-## How many of the great engineers from Xerox PARC came from backgrounds with low family incomes?
-
-*https://www.quora.com/How-many-of-the-great-engineers-from-Xerox-PARC-came-from-backgrounds-with-low-family-incomes/answer/Alan-Kay-11*
+## [How many of the great engineers from Xerox PARC came from backgrounds with low family incomes?](https://www.quora.com/How-many-of-the-great-engineers-from-Xerox-PARC-came-from-backgrounds-with-low-family-incomes/answer/Alan-Kay-11)
 
 I don’t know (and most of the researchers at Parc were a mix of “scientists, engineers, mathematicians, computerists”.
 
 And I’m not sure what you mean by “low family incomes” (desperate? very little surplus?). I wound up working my way through college for a variety of reasons, including “not a lot of surplus” in our family.
 
 ---
-## Alan Kay, how should libraries be designed so scientists and engineers can work together more?
-
-*https://www.quora.com/Alan-Kay-how-should-libraries-be-designed-so-scientists-and-engineers-can-work-together-more/answer/Alan-Kay-11*
+## [Alan Kay, how should libraries be designed so scientists and engineers can work together more?](https://www.quora.com/Alan-Kay-how-should-libraries-be-designed-so-scientists-and-engineers-can-work-together-more/answer/Alan-Kay-11)
 
 This “isn’t quite a question” so here is “not quite an answer” — Doug Engelbart, who was a great thinker about the possibilities for helping humanity with the aid of shared interactive computing, wrote much and showed much about needs and ways to boost collaborative endeavors partly through shared “libraries” of knowledge.
 
 Try typing “Engelbart” into Google and follow the trail
 
 ---
-## Alan Kay: How do you identify favorable exponentials?
-
-*https://www.quora.com/Alan-Kay-How-do-you-identify-favorable-exponentials/answer/Alan-Kay-11*
+## [Alan Kay: How do you identify favorable exponentials?](https://www.quora.com/Alan-Kay-How-do-you-identify-favorable-exponentials/answer/Alan-Kay-11)
 
 I think this question happened because I used “Moore’s Law” as an example of a “favorable exponential” that could be used to help think about “progress by going out into the future and bringing it back”.
 
@@ -16315,25 +15011,19 @@ Most of the time I’ve first noted exponentials, and then tried to see what lev
 The combination and intertwining of the science and engineering exponentials is “hyper-exponential”.
 
 ---
-## Why was Bob Taylor fired from Xerox in 1983?
-
-*https://www.quora.com/Why-was-Bob-Taylor-fired-from-Xerox-in-1983/answer/Alan-Kay-11*
+## [Why was Bob Taylor fired from Xerox in 1983?](https://www.quora.com/Why-was-Bob-Taylor-fired-from-Xerox-in-1983/answer/Alan-Kay-11)
 
 There were large “differences” with the new head of Parc. I had already left by then and at that time was Chief Scientist of Atari.
 
 ---
-## For Alan Kay, if the present is distracting, then how should you optimally ignore it? What did the team do at Xerox PARC?
-
-*https://www.quora.com/For-Alan-Kay-if-the-present-is-distracting-then-how-should-you-optimally-ignore-it-What-did-the-team-do-at-Xerox-PARC/answer/Alan-Kay-11*
+## [For Alan Kay, if the present is distracting, then how should you optimally ignore it? What did the team do at Xerox PARC?](https://www.quora.com/For-Alan-Kay-if-the-present-is-distracting-then-how-should-you-optimally-ignore-it-What-did-the-team-do-at-Xerox-PARC/answer/Alan-Kay-11)
 
 By coincidence, I got asked to do several lectures (this week) at Stanford on “Escaping The Tyranny Of The Present”. I think the one from Tuesday just got posted (and perhaps even the one from today).
 
 Take a look at: How to Invent the Future I - Alan Kay
 
 ---
-## What did JCR Licklider mean when he said if the internet succeeds our biggest problem will be to communicate with aliens?
-
-*https://www.quora.com/What-did-JCR-Licklider-mean-when-he-said-if-the-internet-succeeds-our-biggest-problem-will-be-to-communicate-with-aliens/answer/Alan-Kay-11*
+## [What did JCR Licklider mean when he said if the internet succeeds our biggest problem will be to communicate with aliens?](https://www.quora.com/What-did-JCR-Licklider-mean-when-he-said-if-the-internet-succeeds-our-biggest-problem-will-be-to-communicate-with-aliens/answer/Alan-Kay-11)
 
 Lick basically meant that, as scaling increases, the chances to have the shared contexts that communication requires get thinner and scarcer.
 
@@ -16346,9 +15036,7 @@ Somewhere else in Quora I gave some other examples e.g. of what “objects that 
 In the end we were able to give Lick his "Intergalactic Network" but despite work at Parc, UCLA, MIT, etc. in the 70s and 80s we didn't manage to pull off solutions to the general problems. These are still open and more needed than ever.
 
 ---
-## What do classical music lovers think of rap?
-
-*https://www.quora.com/What-do-classical-music-lovers-think-of-rap/answer/Alan-Kay-11*
+## [What do classical music lovers think of rap?](https://www.quora.com/What-do-classical-music-lovers-think-of-rap/answer/Alan-Kay-11)
 
 I really enjoyed all of the other answers — perhaps my favorite collection of responses to date on Quora.
 
@@ -16375,9 +15063,7 @@ Perhaps the big question is will most who like rap now be interested in getting 
 “Hamilton” is a very interesting good example of using rap in a manner that resembles golden age Greek drama …
 
 ---
-## What is the most expressive piece of art that you have ever seen?
-
-*https://www.quora.com/What-is-the-most-expressive-piece-of-art-that-you-have-ever-seen/answer/Alan-Kay-11*
+## [What is the most expressive piece of art that you have ever seen?](https://www.quora.com/What-is-the-most-expressive-piece-of-art-that-you-have-ever-seen/answer/Alan-Kay-11)
 
 It’s worth asking to what extent “art” can be sorted, even by a single person. I think the latter can at least create a category called “great” and include works in it (this is harder for a group to do, but it’s possible for them to agree on some to be put in as “great”).
 
@@ -16386,23 +15072,17 @@ On the other hand, I don’t think it’s really possible to sort to a single �
 So I don’t think we can do much sorting between e.g. Bach and Beethoven, Michelangelo and Rodin, Raphael and Vermeer, etc.
 
 ---
-## Why does imperfect computation have market power?
-
-*https://www.quora.com/Why-does-imperfect-computation-have-market-power/answer/Alan-Kay-11*
+## [Why does imperfect computation have market power?](https://www.quora.com/Why-does-imperfect-computation-have-market-power/answer/Alan-Kay-11)
 
 Why does imperfect music — even bad music — have market power?
 
 ---
-## What's the point if we’re all going to die in the end?
-
-*https://www.quora.com/Whats-the-point-if-we’re-all-going-to-die-in-the-end/answer/Alan-Kay-11*
+## [What's the point if we’re all going to die in the end?](https://www.quora.com/Whats-the-point-if-we’re-all-going-to-die-in-the-end/answer/Alan-Kay-11)
 
 The point of life is to live life with a point. We are the creatures who are aware that we’ll die, but we also are the creatures who create our own reasons for living. Don’t worry about the universe. Find a point.
 
 ---
-## Why is squaring both sides of an equation allowed?
-
-*https://www.quora.com/Why-is-squaring-both-sides-of-an-equation-allowed/answer/Alan-Kay-11*
+## [Why is squaring both sides of an equation allowed?](https://www.quora.com/Why-is-squaring-both-sides-of-an-equation-allowed/answer/Alan-Kay-11)
 
 Let me confess that I’ve not read every answer. But the ones that I did read were all very concerned with “squaring” etc.
 
@@ -16415,18 +15095,14 @@ This means whatever you can do to any number can be done on both sides of the �
 This is what “=” actually means. And it’s why algebra is actually quite easy rather than mysterious or difficult.
 
 ---
-## What is the user interface of next generation messenger?
-
-*https://www.quora.com/What-is-the-user-interface-of-next-generation-messenger/answer/Alan-Kay-11*
+## [What is the user interface of next generation messenger?](https://www.quora.com/What-is-the-user-interface-of-next-generation-messenger/answer/Alan-Kay-11)
 
 Hi Jenifa
 
 Could you try asking your question in a different way? This will help me understand what you would like to know …
 
 ---
-## What are the best books to understand computer science concepts?
-
-*https://www.quora.com/What-are-the-best-books-to-understand-computer-science-concepts/answer/Alan-Kay-11*
+## [What are the best books to understand computer science concepts?](https://www.quora.com/What-are-the-best-books-to-understand-computer-science-concepts/answer/Alan-Kay-11)
 
 By far the best book for the general public — the one I always recommend — is “The Pattern on the Stone” by Danny Hillis.
 
@@ -16453,18 +15129,14 @@ A large part of “User Interface” — on computers, or just writing or teachi
 I think there could be an interesting and rewarding organization of the best methods of each of these books.
 
 ---
-## If an alien civilisation came to Earth and found computers, how long would they take to figure out exactly how they work (reverse engineer them)?
-
-*https://www.quora.com/If-an-alien-civilisation-came-to-Earth-and-found-computers-how-long-would-they-take-to-figure-out-exactly-how-they-work-reverse-engineer-them/answer/Alan-Kay-11*
+## [If an alien civilisation came to Earth and found computers, how long would they take to figure out exactly how they work (reverse engineer them)?](https://www.quora.com/If-an-alien-civilisation-came-to-Earth-and-found-computers-how-long-would-they-take-to-figure-out-exactly-how-they-work-reverse-engineer-them/answer/Alan-Kay-11)
 
 I agree with Vivian (I was just in the process of formulating something similar, but she said it shorter and better).
 
 On the other hand — not quite an answer — every computer person should be aware of what the Silverman brothers have done in making old hardware architectures work again. One of their most remarkable feats was to reverse engineer a 6502 CPU chip and to simulate it in several illuminating ways.Digging into Technology's Past
 
 ---
-## If you want to program and you can't use your smartphone and computer how you can code?
-
-*https://www.quora.com/If-you-want-to-program-and-you-cant-use-your-smartphone-and-computer-how-you-can-code/answer/Alan-Kay-11*
+## [If you want to program and you can't use your smartphone and computer how you can code?](https://www.quora.com/If-you-want-to-program-and-you-cant-use-your-smartphone-and-computer-how-you-can-code/answer/Alan-Kay-11)
 
 Programming is relatively easy, it’s debugging that’s the problem. Or as Tony Hoare once noted “Programming is easier than debugging, so don’t use all your cleverness writing the program!”
 
@@ -16481,9 +15153,7 @@ This style of really thinking the code through is actually good to learn how to 
 Finally, as suggested in some of the other answers, you can get computing power today at the level of our wildest dreams in the early 60s for much less than a pair of most shoes. Make the investment, and then train your mind to think and do in terms of processes.
 
 ---
-## What does the expression "Betcha by Golly Wow" mean?
-
-*https://www.quora.com/What-does-the-expression-Betcha-by-Golly-Wow-mean/answer/Alan-Kay-11*
+## [What does the expression "Betcha by Golly Wow" mean?](https://www.quora.com/What-does-the-expression-Betcha-by-Golly-Wow-mean/answer/Alan-Kay-11)
 
 “Betcha” comes from “you betcha” which comes from “you bet” which means “YES!”.
 
@@ -16494,16 +15164,12 @@ Finally, as suggested in some of the other answers, you can get computing power 
 The whole phrase is an hyperbolic exclamation.
 
 ---
-## How is studying undergraduate computer science at CU Boulder?
-
-*https://www.quora.com/How-is-studying-undergraduate-computer-science-at-CU-Boulder/answer/Alan-Kay-11*
+## [How is studying undergraduate computer science at CU Boulder?](https://www.quora.com/How-is-studying-undergraduate-computer-science-at-CU-Boulder/answer/Alan-Kay-11)
 
 They didn’t have it when I was there (graduated in 66 with a math degree)
 
 ---
-## How can I come up with an ISEF project relating to Computer Science?
-
-*https://www.quora.com/How-can-I-come-up-with-an-ISEF-project-relating-to-Computer-Science/answer/Alan-Kay-11*
+## [How can I come up with an ISEF project relating to Computer Science?](https://www.quora.com/How-can-I-come-up-with-an-ISEF-project-relating-to-Computer-Science/answer/Alan-Kay-11)
 
 I’m not a fan of competitions where art is a big factor (and it should be here, not just for your learning and doing, but also to carry with you later).
 
@@ -16528,9 +15194,7 @@ Val Schorre Meta II Paper (1964)
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwij-JGiz4jTAhVB6GMKHeSfD4gQFggnMAE&url=http%3A%2F%2Fwww.ibm-1401.info%2FMeta-II-schorre.pdf&usg=AFQjCNGjTqNju0YHmgWkGAz1ru8zreMlFw
 
 ---
-## Will graphical user interfaces ever be taken over by voice user interfaces?
-
-*https://www.quora.com/Will-graphical-user-interfaces-ever-be-taken-over-by-voice-user-interfaces/answer/Alan-Kay-11*
+## [Will graphical user interfaces ever be taken over by voice user interfaces?](https://www.quora.com/Will-graphical-user-interfaces-ever-be-taken-over-by-voice-user-interfaces/answer/Alan-Kay-11)
 
 Will classical pipe organs ever be supplanted by singers (or vice versa)?
 
@@ -16539,9 +15203,7 @@ Will people who like to make things with tools ever want to have servants do the
 …
 
 ---
-## What made Xerox PARC special? Who else today is like them?
-
-*https://www.quora.com/What-made-Xerox-PARC-special-Who-else-today-is-like-them/answer/Alan-Kay-11*
+## [What made Xerox PARC special? Who else today is like them?](https://www.quora.com/What-made-Xerox-PARC-special-Who-else-today-is-like-them/answer/Alan-Kay-11)
 
 A good book (pretty much the only good book) to read about the research community that Parc was a part of is “The Dream Machine” by Mitchell Waldrop. There you will find out about the ARPA (before the “D”) IPTO (Information Processing Techniques Office) set up in 1962 by the visionary JCR Licklider, who created a research community of 15 or 16 “projects”, mostly at universities, but also a few at places like RAND Corp, Lincoln Labs, Mitre, BBN, SDC, etc.
 
@@ -16584,9 +15246,7 @@ There were key figures. For example, Parc would not have succeeded without Bob T
 I would call the first 5 years “effectively idyllic”. And the second 5 years “very productive but gradually erosive” (the latter due to Xerox’s many changes of management, and not being able to grapple with either the future, or a possible grand destiny for the company).
 
 ---
-## Are Smalltalk and Pharo out-dated?
-
-*https://www.quora.com/Are-Smalltalk-and-Pharo-out-dated/answer/Alan-Kay-11*
+## [Are Smalltalk and Pharo out-dated?](https://www.quora.com/Are-Smalltalk-and-Pharo-out-dated/answer/Alan-Kay-11)
 
 Sure. What’s disappointing is that Smalltalk is still quite comparable to most programming languages in use today (and not always negatively).
 
@@ -16605,9 +15265,7 @@ But the 40 years since 1980, with the immense scalings and other happenings that
 I’ve written and talked about some of these elsewhere, so won’t iterate here. People who consider themselves to be computerists and who are interested in languages, should take a look at what languages need to be able to do. If they did, they could not just answer the question, but also start to provide some of the new problems to be solved and the start of solutions for them.
 
 ---
-## People who are really serious about software should make their own hardware. Why?
-
-*https://www.quora.com/People-who-are-really-serious-about-software-should-make-their-own-hardware-Why/answer/Alan-Kay-11*
+## [People who are really serious about software should make their own hardware. Why?](https://www.quora.com/People-who-are-really-serious-about-software-should-make-their-own-hardware-Why/answer/Alan-Kay-11)
 
 The first part of the idea is that computing is about -processes- (all kinds) both understanding them and making them.
 
@@ -16620,9 +15278,7 @@ In all of these cases, computer people should be able to deal with all the level
 This is how personal computers, bit-mapped screens, the Ethernet, the Internet, smartphones, microcode, FPGAs, and (going way back) programmable computers got invented.
 
 ---
-## How can I understand physics instead of just memorizing equations and facts?It really frustrates me how I only have to memorize equations and just work my way through school without understanding anything.
-
-*https://www.quora.com/How-can-I-understand-physics-instead-of-just-memorizing-equations-and-facts-It-really-frustrates-me-how-I-only-have-to-memorize-equations-and-just-work-my-way-through-school-without-understanding-anything/answer/Alan-Kay-11*
+## [How can I understand physics instead of just memorizing equations and facts?It really frustrates me how I only have to memorize equations and just work my way through school without understanding anything.](https://www.quora.com/How-can-I-understand-physics-instead-of-just-memorizing-equations-and-facts-It-really-frustrates-me-how-I-only-have-to-memorize-equations-and-just-work-my-way-through-school-without-understanding-anything/answer/Alan-Kay-11)
 
 There are lots of good approaches here. I’d start with thinking about -processes- rather than “relationships” or “words” — and combine this with some experiments (a great thing about the dawn of “real science” in the 17th through 19th century is that a lot of the experiments were rather simple, and done without a lot of equipment).
 
@@ -16633,9 +15289,7 @@ Even though hardware stores aren’t what they used to be, you can derive Ohm’
 Richard Feynman once said “Science means you don’t have to trust the experts”, and this is true for many of the fundamentals. If your school isn’t doing science via getting students to -start- with the experiments and then be guided to derive the formulas, then this is not really a science class, but more like a religion class, and I’d complain like mad! (You could also look at a great old high school physics curriculum done in the late 50s and 60s by top physicists — PSSC Physics — to find a lot of good ways to get into science via actually being a scientist and doing science.)
 
 ---
-## What does a good object oriented design for a football game look like?
-
-*https://www.quora.com/What-does-a-good-object-oriented-design-for-a-football-game-look-like/answer/Alan-Kay-11*
+## [What does a good object oriented design for a football game look like?](https://www.quora.com/What-does-a-good-object-oriented-design-for-a-football-game-look-like/answer/Alan-Kay-11)
 
 I left inheritance out of the first Smalltalk because I didn’t like the way Simula’s single hierarchies missed important relationships and I didn’t like the lack of expression of meaning (you could refine a superclass or create a new species, etc., and Simula didn’t care). I didn’t like the inheritance system that eventually got put into Smalltalk (too much like Simula’s).
 
@@ -16656,16 +15310,12 @@ And that “objects need to be made from systems of objects that are made from s
 But — back to the beginning here — don’t forget to start with a dog simple scratch system of just instances of relatively simple classes, and think of the more consolidated descriptions as being partially optimizations possible for later. Then think about ontologies instead of hierarchies. Then be able to criticize the language you are in if it doesn’t have enough of a meta-system to allow you build what you need as you understand more and more. (Don’t try to be tricky: Tony Hoare likes to say that “Debugging is harder than programming, so don’t use all your cleverness to write the program!”)
 
 ---
-## What are the benefits of learning to programme in Smalltalk?
-
-*https://www.quora.com/What-are-the-benefits-of-learning-to-programme-in-Smalltalk/answer/Alan-Kay-11*
+## [What are the benefits of learning to programme in Smalltalk?](https://www.quora.com/What-are-the-benefits-of-learning-to-programme-in-Smalltalk/answer/Alan-Kay-11)
 
 Take a look at In what way would learning Smalltalk make me a better programmer? for some opinions around a very similar question.
 
 ---
-## In what way would learning Smalltalk make me a better programmer?
-
-*https://www.quora.com/In-what-way-would-learning-Smalltalk-make-me-a-better-programmer/answer/Alan-Kay-11*
+## [In what way would learning Smalltalk make me a better programmer?](https://www.quora.com/In-what-way-would-learning-Smalltalk-make-me-a-better-programmer/answer/Alan-Kay-11)
 
 I think the crux of a question like this is to note the old saying that “You can do COBOL programming in any programming language!” In other words, the start is what you bring to a programming language. If it’s an already formed theory and skills about how you program, then you’ll recapitulate these in every language you try.
 
@@ -16692,9 +15342,7 @@ Almost 40 years later, we can note what we didn’t put in Smalltalk for a varie
 Some of the good things about Smalltalk are noted by the other answerers of your question. But to circle back to the opening paragraphs, you can learn a lot about how to become a better programmer from existing programming languages if you’ve built enough of a design sense to be able to both criticize and also to see what is powerful.
 
 ---
-## Did some Xerox PARC engineers understand that they had the technology that can change the world in the 70’s?
-
-*https://www.quora.com/Did-some-Xerox-PARC-engineers-understand-that-they-had-the-technology-that-can-change-the-world-in-the-70’s/answer/Alan-Kay-11*
+## [Did some Xerox PARC engineers understand that they had the technology that can change the world in the 70’s?](https://www.quora.com/Did-some-Xerox-PARC-engineers-understand-that-they-had-the-technology-that-can-change-the-world-in-the-70’s/answer/Alan-Kay-11)
 
 Sure! Lee Felsenstein is quite right that the Parc researchers — we weren’t all strictly “engineers”, but a mixture of different types who could all do some mixture of engineering, science, mathematics, computing, cognitive psychology, etc. — aimed explicitly at changing the world for the better along the lines put forth by the real pioneers such as Licklider, McCarthy, Minsky, Sutherland, Engelbart, etc.
 
@@ -16709,25 +15357,19 @@ In the first few weeks of 1971, a critical mass was achieved when Taylor convinc
 This group was so stellar that I decided not to go to CMU to work on the Dynabook but to become a full time researcher and set up a group with the rest of these wonderful characters. We were most definitely all engaged to change the world for the better.
 
 ---
-## Why does my school aged kid ask inane questions like "what is gravity made of" or what is a "field made of" rather than just learn the material? How do I discourage this so they can get good marks?
-
-*https://www.quora.com/Why-does-my-school-aged-kid-ask-inane-questions-like-what-is-gravity-made-of-or-what-is-a-field-made-of-rather-than-just-learn-the-material-How-do-I-discourage-this-so-they-can-get-good-marks/answer/Alan-Kay-11*
+## [Why does my school aged kid ask inane questions like "what is gravity made of" or what is a "field made of" rather than just learn the material? How do I discourage this so they can get good marks?](https://www.quora.com/Why-does-my-school-aged-kid-ask-inane-questions-like-what-is-gravity-made-of-or-what-is-a-field-made-of-rather-than-just-learn-the-material-How-do-I-discourage-this-so-they-can-get-good-marks/answer/Alan-Kay-11)
 
 If you assert that you are not kidding here, I’ll be happy to answer your question.
 
 ---
-## What was working at Xerox PARC in the early 1970s like?
-
-*https://www.quora.com/What-was-working-at-Xerox-PARC-in-the-early-1970s-like/answer/Alan-Kay-11*
+## [What was working at Xerox PARC in the early 1970s like?](https://www.quora.com/What-was-working-at-Xerox-PARC-in-the-early-1970s-like/answer/Alan-Kay-11)
 
 Best time ever! A truly wonderful combination of great people with great aspirations, abilities, and determination.
 
 And great (and needed) protection for the critical years by the “impressario” (as he liked to call himself) Bob Taylor.
 
 ---
-## What is Xerox PARC’s contribution to the world?
-
-*https://www.quora.com/What-is-Xerox-PARC’s-contribution-to-the-world/answer/Alan-Kay-11*
+## [What is Xerox PARC’s contribution to the world?](https://www.quora.com/What-is-Xerox-PARC’s-contribution-to-the-world/answer/Alan-Kay-11)
 
 A good book to read — which gives the larger story of the ARPA Information Processing Techniques Office (IPTO) research projects starting in 1962 and how Parc was part of this community and budded from it — is “The Dream Machine” by Mitchell Waldrop.
 
@@ -16736,16 +15378,12 @@ I think the bottom line is that the particular concentration of interests and ab
 Parc’s output included a workable personal computer powerful enough to deal with all media, a display that could handle arbitrary images, a general user interface that was reasonably learnable by all ages and types of people which could mediate hundreds of thousands of applications, WYSIWYG interactions, “desktop media” authoring and use, a super-reliable-easily-deployable local area network (Ethernet), the first laser printer, the first dynamic completely object-oriented languages, development and operating systems, and hefty contributions to the Internet (Parc had its own “internet” before the official one). There were numerous “other things” as well, but this should be sufficient to answer your question.
 
 ---
-## If I am auditioning for a Shakespeare play, should I do an English accent for an audition or should I just use my normal voice?
-
-*https://www.quora.com/If-I-am-auditioning-for-a-Shakespeare-play-should-I-do-an-English-accent-for-an-audition-or-should-I-just-use-my-normal-voice/answer/Alan-Kay-11*
+## [If I am auditioning for a Shakespeare play, should I do an English accent for an audition or should I just use my normal voice?](https://www.quora.com/If-I-am-auditioning-for-a-Shakespeare-play-should-I-do-an-English-accent-for-an-audition-or-should-I-just-use-my-normal-voice/answer/Alan-Kay-11)
 
 I agree with the other answers that you should concentrate on pulling off a speech before all else. Clarity and rhythm are the watchwords. Getting it over the footlights with “quiet conviction” and not too much movement — but with “body attitudes” — is the key to stage acting.
 
 ---
-## Is Alan Kay's statement “science is a set of heuristics to get around buggy brains” a reference to Nietzsche's knowledge-as-preservation?
-
-*https://www.quora.com/Is-Alan-Kays-statement-“science-is-a-set-of-heuristics-to-get-around-buggy-brains”-a-reference-to-Nietzsches-knowledge-as-preservation/answer/Alan-Kay-11*
+## [Is Alan Kay's statement “science is a set of heuristics to get around buggy brains” a reference to Nietzsche's knowledge-as-preservation?](https://www.quora.com/Is-Alan-Kays-statement-“science-is-a-set-of-heuristics-to-get-around-buggy-brains”-a-reference-to-Nietzsches-knowledge-as-preservation/answer/Alan-Kay-11)
 
 No — but an interesting question. This statement is my translation into modern terms of some of Francis Bacon’s observations and calls to action in his “Novum Organum Scientia” (ca 1620), where among many other things he identifies 4 “idols that humans worship”, of: the Tribe [human genetics and culture], the Cave [the internal thoughts of an individual], the Marketplace [inability of our languages to represent well enough], the Theater [basically: bad ideas promulgated by schools and academia].
 
@@ -16756,18 +15394,14 @@ Looking at “science” from this point of view, we should be able to readily s
 “The Gay Science” is one of Nietzsche’s books that I haven’t read (but now will). From the wikipedia article link you gave, some of his ideas are very similar to the earlier ones from Bacon. For many such thinkers, it was not until the 20th century that science had gotten to the place where the gap between “what’s out there?” generating phenomena, and our abilities to understand and represent the causes of the phenomena started to look as though it might not be completely bridgeable (a doubly urgent need for heuristics to get around our “bad brains”!)
 
 ---
-## I really dislike (to put it mildly) the new Quora UI/UX. Both web and mobile. Am I the only one?
-
-*https://www.quora.com/I-really-dislike-to-put-it-mildly-the-new-Quora-UI-UX-Both-web-and-mobile-Am-I-the-only-one/answer/Alan-Kay-11*
+## [I really dislike (to put it mildly) the new Quora UI/UX. Both web and mobile. Am I the only one?](https://www.quora.com/I-really-dislike-to-put-it-mildly-the-new-Quora-UI-UX-Both-web-and-mobile-Am-I-the-only-one/answer/Alan-Kay-11)
 
 Why introduce modes for expanding answers — by making a popup that forces closing to get back — when expanding them in the scrolling galley was the best solution, and that is what you had. This is “reinventing the flat tire”!
 
 Please change it back.
 
 ---
-## What is it like to work with Adele Goldberg?
-
-*https://www.quora.com/What-is-it-like-to-work-with-Adele-Goldberg/answer/Alan-Kay-11*
+## [What is it like to work with Adele Goldberg?](https://www.quora.com/What-is-it-like-to-work-with-Adele-Goldberg/answer/Alan-Kay-11)
 
 I first met Adele when I was putting together my research group at Xerox Parc in its earliest days, and she was a computer scientist (U of Chicago) finishing her PhD working with Pat Suppes at Stanford on an interactive system for helping young children learn mathematical logic. She was deeply interested in, and very able at every aspect of “computing, children, and curricula”.
 
@@ -16794,9 +15428,7 @@ As a tribute to Adele, let me just say that in my opinion she cannot be praised 
 Yay Adele!
 
 ---
-## How does one develop a really strong intuition for mathematics and physics? How can I improve my ability to solve "really challenging" physics/math problems?
-
-*https://www.quora.com/How-does-one-develop-a-really-strong-intuition-for-mathematics-and-physics-How-can-I-improve-my-ability-to-solve-really-challenging-physics-math-problems/answer/Alan-Kay-11*
+## [How does one develop a really strong intuition for mathematics and physics? How can I improve my ability to solve "really challenging" physics/math problems?](https://www.quora.com/How-does-one-develop-a-really-strong-intuition-for-mathematics-and-physics-How-can-I-improve-my-ability-to-solve-really-challenging-physics-math-problems/answer/Alan-Kay-11)
 
 I enjoyed reading all of the other answers. One thing to ponder is that your two questions are not necessarily compatible.
 
@@ -16823,9 +15455,7 @@ Just have lots of ideas, and then put them somewhere that will not interfere wit
 I like the idea that what’s between my ears is not reality but just a construct of one kind or another, so playing with constructs — fictions — can help things quite a lot.
 
 ---
-## As voice interfaces get better, how will we draw the line between where we use visual UIs vs. voice?
-
-*https://www.quora.com/As-voice-interfaces-get-better-how-will-we-draw-the-line-between-where-we-use-visual-UIs-vs-voice/answer/Alan-Kay-11*
+## [As voice interfaces get better, how will we draw the line between where we use visual UIs vs. voice?](https://www.quora.com/As-voice-interfaces-get-better-how-will-we-draw-the-line-between-where-we-use-visual-UIs-vs-voice/answer/Alan-Kay-11)
 
 Jared Zimmerman’s answer is good. One thing he didn’t mention — in general, with regard to semi-Is as interface assistants — is trust — and how it can be dealt with continuously.
 
@@ -16836,9 +15466,7 @@ For agent-based interfaces we have even less contact between our wishes and the 
 In general, it’s worth pondering the difficulties of communicating and working with a human assistant who has much more intelligence and both commonsense and special knowledge and context — and can explain reasoning better — than any AI.
 
 ---
-## IT scientists often say about other scientists that they don't know how to structure software code. Are there ways to learn it without studying CS?
-
-*https://www.quora.com/IT-scientists-often-say-about-other-scientists-that-they-dont-know-how-to-structure-software-code-Are-there-ways-to-learn-it-without-studying-CS/answer/Alan-Kay-11*
+## [IT scientists often say about other scientists that they don't know how to structure software code. Are there ways to learn it without studying CS?](https://www.quora.com/IT-scientists-often-say-about-other-scientists-that-they-dont-know-how-to-structure-software-code-Are-there-ways-to-learn-it-without-studying-CS/answer/Alan-Kay-11)
 
 Most code is not “well structured”, even by experienced programmers (even by experienced “structurers”). The early stages of programming are often more experimental than one would hope, and experienced programmers will sometimes take the trouble to try to re-organize the initial ad hoc structurings.
 
@@ -16863,9 +15491,7 @@ However, a little pondering might get us to realize that most IT pros need somet
 “CS” still has a long way to go here!
 
 ---
-## What are the difficulties of creating "smart APIs", where two programs can automatically figure out a way to talk to each other?
-
-*https://www.quora.com/What-are-the-difficulties-of-creating-smart-APIs-where-two-programs-can-automatically-figure-out-a-way-to-talk-to-each-other/answer/Alan-Kay-11*
+## [What are the difficulties of creating "smart APIs", where two programs can automatically figure out a way to talk to each other?](https://www.quora.com/What-are-the-difficulties-of-creating-smart-APIs-where-two-programs-can-automatically-figure-out-a-way-to-talk-to-each-other/answer/Alan-Kay-11)
 
 Great question!
 
@@ -16948,9 +15574,7 @@ And, anecdotally, how many readers remember looking at a routine they wrote seve
 I'll end by just asking the question "How can we 'ground' the meaning of software we write in other than our own memories and memoirs?" Let's see what Quora comes up with ....
 
 ---
-## How do I learn object-oriented programming?
-
-*https://www.quora.com/How-do-I-learn-object-oriented-programming/answer/Alan-Kay-11*
+## [How do I learn object-oriented programming?](https://www.quora.com/How-do-I-learn-object-oriented-programming/answer/Alan-Kay-11)
 
 Like “Computer Science” — which had a very different and much better meaning when first coined in the 60s (in part, it represented real aspirations towards finding the strongest notions of itself) — “Object-Oriented Programming”, when I coined the term about 50 years ago, also had a different set of meanings and aspirations.
 
@@ -16987,9 +15611,7 @@ My conclusion here is that in in the early stages of any field, it is not a good
 The Turing Award winner Tony Hoare had a great observation on us in general: “Debugging is harder than programming, so don’t use all your cleverness in writing the program” (this goes for design too!)
 
 ---
-## What are 5 most interesting and well-paid jobs in CS?
-
-*https://www.quora.com/What-are-5-most-interesting-and-well-paid-jobs-in-CS/answer/Alan-Kay-11*
+## [What are 5 most interesting and well-paid jobs in CS?](https://www.quora.com/What-are-5-most-interesting-and-well-paid-jobs-in-CS/answer/Alan-Kay-11)
 
 “Real Science” like any great art form is a “calling” not a “job”.
 
@@ -17002,9 +15624,7 @@ There were people who were already “called” to the the Romance of Computing 
 Now, what was your question again?
 
 ---
-## How can I learn to create computer-generated music?
-
-*https://www.quora.com/How-can-I-learn-to-create-computer-generated-music/answer/Alan-Kay-11*
+## [How can I learn to create computer-generated music?](https://www.quora.com/How-can-I-learn-to-create-computer-generated-music/answer/Alan-Kay-11)
 
 Which part of your question is more important: “music” or “computer-generated”?
 
@@ -17023,18 +15643,14 @@ However, in the hands of developed sensitive musical sensibilities, the computer
 In our age of “fantasy sports” and other “fantasy pursuits” there are many kinds of “fantasy music”. It’s worth putting in the effort to start getting into the real deals.
 
 ---
-## What is BIOS? What are its characteristics and functions?
-
-*https://www.quora.com/What-is-BIOS-What-are-its-characteristics-and-functions/answer/Alan-Kay-11*
+## [What is BIOS? What are its characteristics and functions?](https://www.quora.com/What-is-BIOS-What-are-its-characteristics-and-functions/answer/Alan-Kay-11)
 
 With all due respect, this is not a “theoretical computer science question”, or even a “computer science” question (“real computer science” (RCS) is distinct in many ways in what it is trying to do from practical engineering). I use RCS here because this distinction has been almost lost for most computerists.
 
 A good enough answer to this question can be found in the Wikipedia article on BIOS (as with many answers to many questions asked on Quora).
 
 ---
-## How does one mathematize code and write bit-identical code for all platforms?
-
-*https://www.quora.com/How-does-one-mathematize-code-and-write-bit-identical-code-for-all-platforms/answer/Alan-Kay-11*
+## [How does one mathematize code and write bit-identical code for all platforms?](https://www.quora.com/How-does-one-mathematize-code-and-write-bit-identical-code-for-all-platforms/answer/Alan-Kay-11)
 
 I don’t think I have used the term “mathematized code”. I have suggested (and my research community has used) the tactic of coming up with “mathematics” for important ideas, and then trying to turn the math into a runnable computer language (also a kind of math but often less “relational”). And to try to separate the -meanings- from the optimizations, etc. For example, that was one of the directions taken in the early 60s when there was a desire for a meta-language for grammars that was formal enough to be reasoned about, expressive enough to allow grammars to be readily understandable and communicated, and also to be “runnable” to make parsers. The Alex Warth “Meta” example in the talk (from 2006 or 2007) is a particularly good one: the grammars are clear, and so are the translation relations.
 
@@ -17053,9 +15669,7 @@ Note that “byte-codes” are not the issue here, but “preserving meanings”
 It’s worth thinking philosophically about these issues — and to also ponder the pragmatic implications of (a) world-wide computing (b) dynamically migrating computing (see Gerry Popeks’ LOCUS system from the 80s), and (c) perfectly replicatable computing. Note, that as a system is scaled, it becomes more and more worthwhile to architect ways to get desired results in the face of more ways to make errors. It’s likely that heuristics that will converge computations to obey constraints will be more useful in the long run than to try to make “perfect clockwork”. This is an “Engineering + Shannon” solution to something that can be difficult when trying for exactitude.
 
 ---
-## How are these beautiful software GUIs developed?
-
-*https://www.quora.com/How-are-these-beautiful-software-GUIs-developed/answer/Alan-Kay-11*
+## [How are these beautiful software GUIs developed?](https://www.quora.com/How-are-these-beautiful-software-GUIs-developed/answer/Alan-Kay-11)
 
 There is “what?” and there is “how?”. We can guess that “what?”is difficult in numerous ways, because there are many poor UI designs to be seen these days, even with components supplied by OSs and libraries. Quite a bit of good UI design requires deep understanding of how we humans “work in the world”, and it is certainly the case that most computerists today have missed this learning.
 
@@ -17104,9 +15718,7 @@ But, for learning, it can be a good thing to deal directly with some of these me
 Meanwhile, the much larger part of all of this is to learn “the art of understanding humans” and this leads to “the art of user interface design”.
 
 ---
-## What is a good advanced OOP course that is equivalent to CS108 at Stanford?
-
-*https://www.quora.com/What-is-a-good-advanced-OOP-course-that-is-equivalent-to-CS108-at-Stanford/answer/Alan-Kay-11*
+## [What is a good advanced OOP course that is equivalent to CS108 at Stanford?](https://www.quora.com/What-is-a-good-advanced-OOP-course-that-is-equivalent-to-CS108-at-Stanford/answer/Alan-Kay-11)
 
 There is much too much unsubstantiated criticism on the web. I think real criticism should be just the opposite: highly supported with lots of counter examples, etc.
 
@@ -17119,9 +15731,7 @@ Along similar lines, I would avoid trying to get a picture of “real OOP” fro
 All that said, we need something much stronger today — qualitatively stronger — than even the best ideas of OOP from the past. A recent answer of mine on Quora touches on this.
 
 ---
-## What is Alan Kay's definition of Object Oriented?
-
-*https://www.quora.com/What-is-Alan-Kays-definition-of-Object-Oriented/answer/Alan-Kay-11*
+## [What is Alan Kay's definition of Object Oriented?](https://www.quora.com/What-is-Alan-Kays-definition-of-Object-Oriented/answer/Alan-Kay-11)
 
 The other answers are well worth reading. An interesting question arises about terminology: to what extent is it reasonable to try to retain original definitions versus having a term get “softer” in meaning as time passes and new and additional conceptions are formed? (The latter happens in part because of the ways we spontaneously evolve our languages, so trying to legislate against it doesn’t work.)
 
@@ -17146,16 +15756,12 @@ We should be able to optimize a system like this without touching the requiremen
 Just as the great language Lisp was first for programming, but then became “a very high level machine code” for higher level ideas, we should see that what was powerful about direct programming with the kinds of object systems we made at Parc and subsequently so many years ago, should now be retained for structural integrity and other pragmatic reasons, but that the code should now be automatically written from much higher level sources. This doesn’t mean that “objects are now hidden”, but that they should be part of the “modeling and designing of ideas and processes” that is the center of what programming needs to be.
 
 ---
-## How difficult is Stanford's CS231N?
-
-*https://www.quora.com/How-difficult-is-Stanfords-CS231N/answer/Alan-Kay-11*
+## [How difficult is Stanford's CS231N?](https://www.quora.com/How-difficult-is-Stanfords-CS231N/answer/Alan-Kay-11)
 
 This is not a “Computer Science question”, it is a question about academics at a particular institution.
 
 ---
-## At OOPSLA 1997 Alan Kay gave a talk titled "The computer revolution hasn't happened yet". What parts have materialized thus far and if not why not?
-
-*https://www.quora.com/At-OOPSLA-1997-Alan-Kay-gave-a-talk-titled-The-computer-revolution-hasnt-happened-yet-What-parts-have-materialized-thus-far-and-if-not-why-not/answer/Alan-Kay-11*
+## [At OOPSLA 1997 Alan Kay gave a talk titled "The computer revolution hasn't happened yet". What parts have materialized thus far and if not why not?](https://www.quora.com/At-OOPSLA-1997-Alan-Kay-gave-a-talk-titled-The-computer-revolution-hasnt-happened-yet-What-parts-have-materialized-thus-far-and-if-not-why-not/answer/Alan-Kay-11)
 
 The excellent answers by Mark Miller and by Tyson Edwards both get at some of the problems with “a real computer revolution”.
 
@@ -17168,9 +15774,7 @@ Here is an essay I wrote about 10 years ago on this subject — it has some of t
 http://www.vpri.org/pdf/m2007007a_revolution.pdf
 
 ---
-## Is an iPad that boots into Squeak (or Croquet) effectively Alan Kay's dynabook?
-
-*https://www.quora.com/Is-an-iPad-that-boots-into-Squeak-or-Croquet-effectively-Alan-Kays-dynabook/answer/Alan-Kay-11*
+## [Is an iPad that boots into Squeak (or Croquet) effectively Alan Kay's dynabook?](https://www.quora.com/Is-an-iPad-that-boots-into-Squeak-or-Croquet-effectively-Alan-Kays-dynabook/answer/Alan-Kay-11)
 
 The short answer is “No”, despite the iPad having vastly more computing, storage, display, network, and battery resources than the “Dynabook model” thought up in 1968 and sketched in several papers in 1972 and afterwards. http://mprove.de/diplom/gui/Kay72a.pdf
 
@@ -17221,9 +15825,7 @@ To me, the most interesting part of these questions is that I’m confident that
 But we can do it — and I think we must!
 
 ---
-## Is Alan Kay correct that building software is still like the design and construction of ancient structures like the Pyramids, in the era before architecture?
-
-*https://www.quora.com/Is-Alan-Kay-correct-that-building-software-is-still-like-the-design-and-construction-of-ancient-structures-like-the-Pyramids-in-the-era-before-architecture/answer/Alan-Kay-11*
+## [Is Alan Kay correct that building software is still like the design and construction of ancient structures like the Pyramids, in the era before architecture?](https://www.quora.com/Is-Alan-Kay-correct-that-building-software-is-still-like-the-design-and-construction-of-ancient-structures-like-the-Pyramids-in-the-era-before-architecture/answer/Alan-Kay-11)
 
 The essay quoted was written in 2001. And, 15 years later, it’s still a good question, but I think harder to answer — and especially for me: I haven’t been tracking software development generally for a number of years (and there’s been a lot more of it).
 
@@ -17252,16 +15854,12 @@ I will submit here what I think is a much better process, that was used in the A
 It’s hard to take our not-quite-a-field seriously when most of its practitioners don’t seem to take it seriously.
 
 ---
-## Where can I find/listen to music recordings featuring Alan Kay the computer scientist?
-
-*https://www.quora.com/Where-can-I-find-listen-to-music-recordings-featuring-Alan-Kay-the-computer-scientist/answer/Alan-Kay-11*
+## [Where can I find/listen to music recordings featuring Alan Kay the computer scientist?](https://www.quora.com/Where-can-I-find-listen-to-music-recordings-featuring-Alan-Kay-the-computer-scientist/answer/Alan-Kay-11)
 
 I played jazz guitar around NY and Denver from about 1957 to 1966, and wound up quitting the next year because I couldn’t do the practicing I needed and do grad school at the University of Utah at the same time. (I was the kind of player that needed to practice a lot to keep up with players of more intrinsic ability.) I don’t know of any extant recordings from then (although one of the groups I played in did have some recording sessions in the late 50s). Many years later I started classical pipe organ (but not as a professional) for my own pleasure.
 
 ---
-## What was the first novel for Daniel Defoe?
-
-*https://www.quora.com/What-was-the-first-novel-for-Daniel-Defoe/answer/Alan-Kay-11*
+## [What was the first novel for Daniel Defoe?](https://www.quora.com/What-was-the-first-novel-for-Daniel-Defoe/answer/Alan-Kay-11)
 
 I didn’t know much about Daniel Defoe — except Robinson Crusoe, Moll Flanders, etc., and that he was very early in the English Novel and a prolific writer.
 
@@ -17270,9 +15868,7 @@ But the Wikipedia article was very interesting — did you consult it? — it li
 This prompted me to go to Amazon and order “Daniel Defoe: The Life and Strange, Surprising Adventures” by Richard West for 36 cents plus postage (seems like a good deal for anyone interested in ideas).
 
 ---
-## How does one explain the phenomenon of "being on autopilot"?
-
-*https://www.quora.com/How-does-one-explain-the-phenomenon-of-being-on-autopilot/answer/Alan-Kay-11*
+## [How does one explain the phenomenon of "being on autopilot"?](https://www.quora.com/How-does-one-explain-the-phenomenon-of-being-on-autopilot/answer/Alan-Kay-11)
 
 Almost all of our behaviors — including much of what we like to call “thinking” — is done “on autopilot”.
 
@@ -17291,9 +15887,7 @@ Weeks later you are driving along, having a conversation with the person next to
 The tradeoffs have to do with our limited capacities. Our mind is set up to routinize as much as possible. And most of the mechanisms in our brain are aimed at routinization. This makes us more efficient at the cost of flexibility. And at the cost of not being very aware of what and why we are doing most things.
 
 ---
-## How can you add more value as a user interface or user experience designer in the team?
-
-*https://www.quora.com/How-can-you-add-more-value-as-a-user-interface-or-user-experience-designer-in-the-team/answer/Alan-Kay-11*
+## [How can you add more value as a user interface or user experience designer in the team?](https://www.quora.com/How-can-you-add-more-value-as-a-user-interface-or-user-experience-designer-in-the-team/answer/Alan-Kay-11)
 
 The reason even the few good UI designs are “so-so” is that we still don’t understand enough about human beings to do great designs, especially ones that — like musical instruments — can elevate human expression and thought as they are learned and used.
 
@@ -17304,9 +15898,7 @@ The slippage in standards has been great (e.g. most apps on smartphones and tabl
 So: put a lot of effort into learning what is known about human psychology and anthropology (including the biological aspects). Learn about human learning of various kinds. Look at great designers and UI thinkers within and outside of computing. And try to teach your colleagues on your team about UI and why it is really critical.
 
 ---
-## Are there any books (apart from 'Dealers of Lightning' and 'Fumbling the Future') about PARC's rise and fall from grace?
-
-*https://www.quora.com/Are-there-any-books-apart-from-Dealers-of-Lightning-and-Fumbling-the-Future-about-PARCs-rise-and-fall-from-grace/answer/Alan-Kay-11*
+## [Are there any books (apart from 'Dealers of Lightning' and 'Fumbling the Future') about PARC's rise and fall from grace?](https://www.quora.com/Are-there-any-books-apart-from-Dealers-of-Lightning-and-Fumbling-the-Future-about-PARCs-rise-and-fall-from-grace/answer/Alan-Kay-11)
 
 “Fumbling The Future” is a poor book to read. Michael Hiltzik, who wrote “Dealers of Lightning”, did a fair amount of research, but the book is marred by “the heroes’ journey” tropes and confusing timelines.
 
@@ -17315,9 +15907,7 @@ So: put a lot of effort into learning what is known about human psychology and a
 You might also be interested in a tribute I wrote to the larger community: The Power of the Context, which has an extensive bibliography that includes a number of the personal histories of PARC researchers.
 
 ---
-## Has anyone criticized Alan Kay?
-
-*https://www.quora.com/Has-anyone-criticized-Alan-Kay/answer/Alan-Kay-11*
+## [Has anyone criticized Alan Kay?](https://www.quora.com/Has-anyone-criticized-Alan-Kay/answer/Alan-Kay-11)
 
 As Mark Miller mentioned, Dijkstra once said that "Object-Oriented Programming was such a bad idea that it could only have come from California"! However, he and I were friendly, so I took that as a backhanded compliment. My research group at Xerox Parc was known as "The Lunatic Fringe", usually (I thought) affectionately. I don't count trolls on reddit and slashdot and elsewhere.
 
@@ -17346,9 +15936,7 @@ From my standpoint, the "craziest" idea that I've had -- not an original one at 
 Still, I'm most definitely crazy enough to keep working on this.
 
 ---
-## As a computer science major, I want to develop my mathematical problem solving skills. So, what books are good for developing problem solving skills?
-
-*https://www.quora.com/As-a-computer-science-major-I-want-to-develop-my-mathematical-problem-solving-skills-So-what-books-are-good-for-developing-problem-solving-skills/answer/Alan-Kay-11*
+## [As a computer science major, I want to develop my mathematical problem solving skills. So, what books are good for developing problem solving skills?](https://www.quora.com/As-a-computer-science-major-I-want-to-develop-my-mathematical-problem-solving-skills-So-what-books-are-good-for-developing-problem-solving-skills/answer/Alan-Kay-11)
 
 I like both the previous answers, especially the "until your fingers bleed" one! I should add the classic by Polya "How To Solve It" to the reading list. For a more contemporary look I suggest tuning into the Abel, Fields and Turing Laureates Meet the Next Generation › Heidelberg Laureate Forum in September where Fields, Abel and Turing Award winners winners gather each year to meet with students and talk about issues: I noticed this year that one of the sessions will be on the expanded range of "what constitutes a proof" these days.
 
@@ -17373,9 +15961,7 @@ The current day Venn diagram of these processes has (in historical order) Tinker
 [1] Thinking, Fast and Slow
 
 ---
-## Can we have garbage collection and memory management on a fully-compiled language? That is, no VM or interpreter required?
-
-*https://www.quora.com/Can-we-have-garbage-collection-and-memory-management-on-a-fully-compiled-language-That-is-no-VM-or-interpreter-required/answer/Alan-Kay-11*
+## [Can we have garbage collection and memory management on a fully-compiled language? That is, no VM or interpreter required?](https://www.quora.com/Can-we-have-garbage-collection-and-memory-management-on-a-fully-compiled-language-That-is-no-VM-or-interpreter-required/answer/Alan-Kay-11)
 
 Sure! 
 
@@ -17386,9 +15972,7 @@ First, there are many techniques for storage reclamation, and it's worth looking
 For speed freaks (actually so low on the priority list these (and most) days), but still, I thought it would be fun to mention a kind of "ultimate" storage management that Ned Irons (Edgar T. Irons) used for the first really practical extensible language IMP (CACM Jan 1970). This was done on a supercomputer of the day (CDC 6600) and what he wanted was *no* overhead on dynamic arrays compared to statically allocated arrays. He accomplished this by extending each array with space to hold back pointers to the loaded code that used the array address. The basic idea here is that the arrays would generally be much larger than the number of back pointers needed. Then when an array was extended/moved, he could then use the backpointers to fix-up the addresses in the code itself. Eeecks, but it worked quite well! It was essentially making "the linking-loader" dynamically active, etc.
 
 ---
-## How does imagery affect tone in literature?
-
-*https://www.quora.com/How-does-imagery-affect-tone-in-literature/answer/Alan-Kay-11*
+## [How does imagery affect tone in literature?](https://www.quora.com/How-does-imagery-affect-tone-in-literature/answer/Alan-Kay-11)
 
 This sounds like the "criticism" classes I was able to avoid in both English literature and in music. More worthwhile using the time to do more reading and playing! (Since most ideas -- and books -- are mediocre down to bad, it's a good idea to encounter lots of them to better the chances of "cosmic collisions".)
 
@@ -17407,9 +15991,7 @@ Vision is needed.
 Much better to start with searching out important ideas that are worth explaining to others, and then to find as many ways as possible to help them understand the importance.
 
 ---
-## I don't understand properly Alan Kay's quote about his math background. Can anyone explain it in layman terms?
-
-*https://www.quora.com/I-dont-understand-properly-Alan-Kays-quote-about-his-math-background-Can-anyone-explain-it-in-layman-terms/answer/Alan-Kay-11*
+## [I don't understand properly Alan Kay's quote about his math background. Can anyone explain it in layman terms?](https://www.quora.com/I-dont-understand-properly-Alan-Kays-quote-about-his-math-background-Can-anyone-explain-it-in-layman-terms/answer/Alan-Kay-11)
 
 Sometimes things can be nicely simplified yet made more powerful at the same time. This is often "what 'math' is good for".
 
@@ -17426,9 +16008,7 @@ My inner hit was that "wow, we can make a really powerful but simple as possible
 Today this property of modules/objects is usually called "polymorphism" (a not quite accurate term, but I think Peter Wegner tagged it, and it has stuck).
 
 ---
-## What are proxemics in drama? How are they implemented?
-
-*https://www.quora.com/What-are-proxemics-in-drama-How-are-they-implemented/answer/Alan-Kay-11*
+## [What are proxemics in drama? How are they implemented?](https://www.quora.com/What-are-proxemics-in-drama-How-are-they-implemented/answer/Alan-Kay-11)
 
 I don't think I know anything special about this subject, beyond just the rules of thumb that are used on the stage to relate actors to each other spatially, and sometimes to "special objects".
 
@@ -17439,9 +16019,7 @@ Staying with the theater, actors "need stage", so many scenes of close relations
 A larger set of things to look into is the role of caricature in all arts. "What's there" is put there to help the audience make something special inside their heads, so much of the "art of Art" is choosing "what" to put "where".
 
 ---
-## What is the primary reason Willy Loman kills himself in Death of a Salesman?
-
-*https://www.quora.com/What-is-the-primary-reason-Willy-Loman-kills-himself-in-Death-of-a-Salesman/answer/Alan-Kay-11*
+## [What is the primary reason Willy Loman kills himself in Death of a Salesman?](https://www.quora.com/What-is-the-primary-reason-Willy-Loman-kills-himself-in-Death-of-a-Salesman/answer/Alan-Kay-11)
 
 One way to approach this is to look up the definition(s) of classical "tragedy" and see what a playwright might try to do today in a more inclusive society in which the larger bulk of humanity is attempted to be treated as important.
 
@@ -17454,9 +16032,7 @@ My opinion doesn't matter. This is about you and your question. But just to slid
 To me, a much more interesting book (not a play) is "Man's Search For Meaning" by Viktor Frankl. I think it gets to more of the important matter than Miller does.
 
 ---
-## What were Sophocles' contributions to theatrical drama?
-
-*https://www.quora.com/What-were-Sophocles-contributions-to-theatrical-drama/answer/Alan-Kay-11*
+## [What were Sophocles' contributions to theatrical drama?](https://www.quora.com/What-were-Sophocles-contributions-to-theatrical-drama/answer/Alan-Kay-11)
 
 I thought the wikipedia article on Sophocles was pretty good -- I suggest perusing it. 
 
@@ -17475,9 +16051,7 @@ In the production I helped with, we were lucky to have an actor with a truly eno
 I have since seen a number of Shakespearean productions -- mostly in the UK -- staged very similarly to what little we know about Greek theater practice. I found them especially effective in getting the audience to really listen to the words *as the action*.
 
 ---
-## Is a microservices architecture with RESTful APIs an implementation of Alan Kay's concept of object-oriented programming?
-
-*https://www.quora.com/Is-a-microservices-architecture-with-RESTful-APIs-an-implementation-of-Alan-Kays-concept-of-object-oriented-programming/answer/Alan-Kay-11*
+## [Is a microservices architecture with RESTful APIs an implementation of Alan Kay's concept of object-oriented programming?](https://www.quora.com/Is-a-microservices-architecture-with-RESTful-APIs-an-implementation-of-Alan-Kays-concept-of-object-oriented-programming/answer/Alan-Kay-11)
 
 I was asked to write a history of Smalltalk for the ACM History of Programming Languages II conference in the early 90s -- an online version is: The Early History Of Smalltalk. This will make more clear some of the influences.
 
@@ -17514,9 +16088,7 @@ Second, I would say that REST found some of the good principles of making system
 Best wishes!
 
 ---
-## Will the code on p.13 of the LISP 1.5 Programmers Manual by John McCarthy and friends ever be taught in a physics class?
-
-*https://www.quora.com/Will-the-code-on-p-13-of-the-LISP-1-5-Programmers-Manual-by-John-McCarthy-and-friends-ever-be-taught-in-a-physics-class/answer/Alan-Kay-11*
+## [Will the code on p.13 of the LISP 1.5 Programmers Manual by John McCarthy and friends ever be taught in a physics class?](https://www.quora.com/Will-the-code-on-p-13-of-the-LISP-1-5-Programmers-Manual-by-John-McCarthy-and-friends-ever-be-taught-in-a-physics-class/answer/Alan-Kay-11)
 
 How about Biology in a Computer Science class? I think a way to make progress here is to try to appreciate what of the past can actually help thinking about the future. 
 
@@ -17531,18 +16103,14 @@ One thing to note is that as systems scale up it becomes harder and harder to ce
 Psychologically this is a problem because a lot of learning computing is unfortunately learning to cope with what's not so good, and this quickly becomes a way of life, and then a "reality" that is hard to see past.
 
 ---
-## Who was specifically responsible for the invention of the "windows" GUI paradigm at Xerox PARC?
-
-*https://www.quora.com/Who-was-specifically-responsible-for-the-invention-of-the-windows-GUI-paradigm-at-Xerox-PARC/answer/Alan-Kay-11*
+## [Who was specifically responsible for the invention of the "windows" GUI paradigm at Xerox PARC?](https://www.quora.com/Who-was-specifically-responsible-for-the-invention-of-the-windows-GUI-paradigm-at-Xerox-PARC/answer/Alan-Kay-11)
 
 Mr Rao has a good slant on this, in particular to give the overall credit to the larger research community -- that of ARPA-IPTO. Many of us at Parc were graduate students under ARPA-IPTO and we considered Parc "another ARPA project" (just supported by Xerox because of the vanishing ARPA funding caused by the Mansfield Amendment).
 
 By the time Parc came about (in late 1970), there were already GUIs within ARPA and elsewhere, and many of the elements we are familiar with today -- pointing devices, clipping windows and panes, buttons, some iconic, etc. -- were already in use in isolated systems. The overlapping window Parc GUI can take credit for being a comprehensive and general design, based on a large number of ideas, both theatrical and psychological. Most of the ideas in it were supplied by several of us in the Learning Research Group, including myself, Dan Ingalls, David Canfield Smith, Adele Goldberg, Larry Tesler, Ted Kaehler, etc.
 
 ---
-## Why isn't Alan Kay's FoNC (Fundamentals of New Computing) project more discussed or replicated?
-
-*https://www.quora.com/Why-isnt-Alan-Kays-FoNC-Fundamentals-of-New-Computing-project-more-discussed-or-replicated/answer/Alan-Kay-11*
+## [Why isn't Alan Kay's FoNC (Fundamentals of New Computing) project more discussed or replicated?](https://www.quora.com/Why-isnt-Alan-Kays-FoNC-Fundamentals-of-New-Computing-project-more-discussed-or-replicated/answer/Alan-Kay-11)
 
 I can't answer the question directly, but I can say a few words about the difficulties. The project came from long held feelings by many of us that there was much too much code for the actual meanings in many systems (by factors of hundreds and sometimes thousands). 
 

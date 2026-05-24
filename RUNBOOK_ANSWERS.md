@@ -541,7 +541,7 @@ header = (
 sections = []
 for url, title, body in all_entries:
     paragraphs = '\n\n'.join(p for p in body.split('\n') if p.strip())
-    sections.append(f"## {title}\n\n*{url}*\n\n{paragraphs}\n\n---")
+    sections.append(f"## [{title}]({url})\n\n{paragraphs}\n\n---")
 
 mode = 'w'  # use 'a' and skip header for subsequent batches
 with open(output_path, mode) as f:

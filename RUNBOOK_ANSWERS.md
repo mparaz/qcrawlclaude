@@ -1,12 +1,19 @@
 # Runbook: Download Quora Answers via GraphQL API
 
-Operational guide for Claude to extract all answers written by a Quora user.
-Run inside an authenticated Chrome browser session using the Claude-in-Chrome extension.
+Operational guide for Claude to extract all answers written by a Quora user,
+including full answer text. Run inside an authenticated Chrome browser session
+using the Claude-in-Chrome extension.
 
-> **Key difference from RUNBOOK_QUESTIONS.md:** With ~13,000+ answers the
-> localStorage quota (~5–10 MB) is exceeded in a single pass. This runbook
-> uses a **batch-of-2000** strategy: extract 2,000 answers, save to file,
-> clear localStorage, repeat from the saved cursor.
+This runbook covers two passes:
+
+- **Pass 1** — collect answer list (URL, question title, `aid`) using
+  `UserProfileAnswersMostRecent_RecentAnswers_Query`
+- **Pass 2** — fetch full answer body for each `aid` using
+  `AnswerComponentBaseQuery`
+
+> **localStorage quota note:** With ~13,000+ answers Pass 1 uses a
+> **batch-of-2000** strategy. Pass 2 answer bodies are larger (~1–5 KB each)
+> so use batches of 200 or process all at once for users with fewer answers.
 
 ---
 
@@ -157,11 +164,13 @@ for (let i = 0; i < 40; i++) {
 
 ---
 
-## Step 8 — Inject the batch extraction loop
+## Step 8 — Inject the Pass 1 batch extraction loop
 
 This script extracts up to `maxEntries` answers starting from `startCursor`.
 For the first batch use `startCursor = null`. For subsequent batches paste the
 cursor saved in Step 10.
+
+Each entry is stored as `[url, title, aid]` — the `aid` is required for Pass 2.
 
 Replace `HASH` and `UID` as needed.
 
@@ -209,7 +218,8 @@ s.textContent = `
       for (const e of conn.edges) {
         all.push([
           'https://www.quora.com' + e.node.logUrl.replace('/log', ''),
-          parseTitle(e.node.question?.title || '')
+          parseTitle(e.node.question?.title || ''),
+          e.node.aid
         ]);
       }
       hasNextPage = conn.pageInfo.hasNextPage;
@@ -264,14 +274,16 @@ proceeding — you need it to start the next batch if `allDone` is `false`.
 
 ---
 
-## Step 10 — Save batch to file via AppleScript
+## Step 10 — Save Pass 1 batch to file via AppleScript
 
 Run this Python script from the terminal after each batch completes. It reads
 localStorage via AppleScript (Chrome must have "Allow JavaScript from Apple
 Events" enabled under View → Developer).
 
-On the first batch, pass `output_path` and `mode='w'`. For subsequent batches,
-use `mode='a'` to append.
+Each entry is `[url, title, aid]`. The script writes a URL list markdown file
+and also saves a JSON file of all entries (needed for Pass 2).
+
+On the first batch use `mode='w'`. For subsequent batches use `mode='a'`.
 
 ```python
 import subprocess, json
@@ -293,23 +305,35 @@ for i in range(meta['chunks']):
     chunk = json.loads(applescript_js(f'localStorage.getItem(\\"_ans_chunk_{i}\\")'))
     all_entries.extend(chunk)
 
-output_path = 'miguel_paraz_quora_answers.md'
+username = 'alan-kay'          # change as needed
+output_path = f'{username}_quora_answers.md'
+aids_path   = f'{username}_aids.json'
 mode = 'w'  # use 'a' for subsequent batches
 
 if mode == 'w':
     today = date.today().strftime('%Y-%m-%d')
     header = (
-        f"# Miguel Paraz - Quora Answers\n\n"
+        f"# {username.title()} - Quora Answers\n\n"
         f"Collected {today} via Quora GraphQL API (`UserProfileAnswersMostRecent_RecentAnswers_Query`).\n\n---\n\n"
     )
     with open(output_path, 'w') as f:
         f.write(header)
 
-lines = '\n'.join(f'- [{title}]({url})' for url, title in all_entries)
+# Write URL list (url and title only — aid is stripped for readability)
+lines = '\n'.join(f'- [{entry[1]}]({entry[0]})' for entry in all_entries)
 with open(output_path, 'a') as f:
     f.write(lines + '\n')
-
 print(f"Written {len(all_entries)} answers to {output_path} (mode={mode})")
+
+# Save full [url, title, aid] triples for Pass 2
+aids_mode = 'w' if mode == 'w' else 'r+'
+existing = []
+if mode == 'a':
+    with open(aids_path) as f:
+        existing = json.load(f)
+with open(aids_path, 'w') as f:
+    json.dump(existing + all_entries, f)
+print(f"Saved {len(existing) + len(all_entries)} entries to {aids_path}")
 ```
 
 ---
@@ -335,17 +359,210 @@ Continue until `allDone === true`.
 Once all batches are done, update the file header with the total count:
 
 ```python
-with open('miguel_paraz_quora_answers.md', 'r') as f:
+with open('alan-kay_quora_answers.md', 'r') as f:
     content = f.read()
 
 total = content.count('\n- [')
 content = content.replace('---\n\n', f'Total: {total} answers\n\n---\n\n', 1)
 
-with open('miguel_paraz_quora_answers.md', 'w') as f:
+with open('alan-kay_quora_answers.md', 'w') as f:
     f.write(content)
 
 print(f"Updated header with total: {total}")
 ```
+
+---
+
+## Pass 2 — Fetch Full Answer Bodies
+
+Once Pass 1 is complete (`allDone: true`) and `<username>_aids.json` exists,
+run Pass 2 to fetch the full text of each answer.
+
+### Step P1 — Stage aids from Pass 1 into localStorage
+
+Reads the `_ans_chunk_*` keys still in localStorage and consolidates them into
+a single `_pass2_entries` key for the body-fetch loop.
+
+```javascript
+// Clear old body chunks
+for (let i = 0; i < 40; i++) localStorage.removeItem('_body_chunk_' + i);
+localStorage.removeItem('_body_meta');
+localStorage.removeItem('_body_error');
+
+// Consolidate Pass 1 chunks into _pass2_entries
+const meta = JSON.parse(localStorage.getItem('_ans_meta'));
+const all = [];
+for (let i = 0; i < meta.chunks; i++) {
+  const chunk = JSON.parse(localStorage.getItem('_ans_chunk_' + i));
+  all.push(...chunk);
+}
+localStorage.setItem('_pass2_entries', JSON.stringify(all));
+'Ready: ' + all.length + ' entries staged for Pass 2'
+```
+
+If Pass 1 localStorage was already cleared, load from the JSON file instead:
+
+```python
+import subprocess, json
+
+def applescript_js(js):
+    r = subprocess.run(
+        ['osascript', '-e',
+         f'tell application "Google Chrome" to return execute tab 1 of window 1 javascript "{js}"'],
+        capture_output=True, text=True, timeout=30)
+    return r.stdout.strip()
+
+with open('alan-kay_aids.json') as f:
+    entries = json.load(f)
+
+# Write in chunks to avoid AppleScript string size limits
+chunk_size = 200
+for i in range(0, len(entries), chunk_size):
+    chunk_json = json.dumps(entries[i:i+chunk_size]).replace('"', '\\"')
+    applescript_js(f'localStorage.setItem(\\"_pass2_chunk_{i//chunk_size}\\", \\"{chunk_json}\\")')
+
+applescript_js(f'localStorage.setItem(\\"_pass2_meta\\", \\"{{\\"chunks\\":{(len(entries)+chunk_size-1)//chunk_size},\\"total\\":{len(entries)}}}\\")')
+print(f"Staged {len(entries)} entries")
+```
+
+### Step P2 — Inject the body fetch loop
+
+Replace `START_IDX` (0 for first run) and `BATCH_SIZE` (200 is safe; use total
+count if fewer than ~500 answers). The loop reads from `_pass2_entries`.
+
+```javascript
+const s = document.createElement('script');
+s.textContent = `
+(async function fetchBodies(startIdx, batchSize) {
+  const headers = JSON.parse(localStorage.getItem('_gql_capture3'))[0].headers;
+  const HASH  = '28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b';
+  const QUERY = 'AnswerComponentBaseQuery';
+  const entries = JSON.parse(localStorage.getItem('_pass2_entries'));
+  const end = Math.min(startIdx + batchSize, entries.length);
+
+  function parseContent(t) {
+    try {
+      const p = JSON.parse(t);
+      return p.sections.map(s => s.spans.map(sp => sp.text||'').join('')).join('\\n').trim();
+    } catch(e) { return String(t).trim(); }
+  }
+
+  const results = [];
+  localStorage.setItem('_body_meta', JSON.stringify({
+    status: 'running', done: 0, total: end - startIdx, startIdx, endIdx: end,
+    allDone: end >= entries.length, chunks: 0
+  }));
+
+  for (let i = startIdx; i < end; i++) {
+    const [url, title, aid] = entries[i];
+    try {
+      const resp = await fetch('/graphql/gql_para_POST?q=' + QUERY, {
+        method: 'POST', credentials: 'include', headers,
+        body: JSON.stringify({
+          queryName: QUERY,
+          variables: { aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false },
+          extensions: { hash: HASH }
+        })
+      });
+      const data = await resp.json();
+      const body = data?.data?.answer?.content
+        ? parseContent(data.data.answer.content) : '';
+      results.push([url, title, body]);
+    } catch(err) {
+      results.push([url, title, '']);
+      localStorage.setItem('_body_error', JSON.stringify({ idx: i, aid, error: err.message }));
+    }
+
+    const done = i - startIdx + 1;
+    if (done % 50 === 0 || i === end - 1) {
+      const cs = 100, chunks = Math.ceil(results.length / cs);
+      for (let c = 0; c < chunks; c++)
+        localStorage.setItem('_body_chunk_' + c, JSON.stringify(results.slice(c*cs, (c+1)*cs)));
+      localStorage.setItem('_body_meta', JSON.stringify({
+        status: i === end - 1 ? 'batch_done' : 'running',
+        done, total: end - startIdx, startIdx, endIdx: end,
+        allDone: end >= entries.length, chunks
+      }));
+    }
+    await new Promise(r => setTimeout(r, 200));
+  }
+  console.log('[BODY EXTRACT] Done:', results.length);
+})(0, 9999);
+`;
+document.head.appendChild(s);
+'Pass 2 body extraction injected'
+```
+
+### Step P3 — Monitor Pass 2 progress
+
+```javascript
+JSON.stringify(JSON.parse(localStorage.getItem('_body_meta')))
+```
+
+```javascript
+localStorage.getItem('_body_error')
+```
+
+Expected rate: ~200ms per answer. 716 answers ≈ 2.5 minutes.
+
+Done when `status === "batch_done"`.
+
+### Step P4 — Save bodies to file via AppleScript
+
+```python
+import subprocess, json
+from datetime import date
+
+def applescript_js(js):
+    r = subprocess.run(
+        ['osascript', '-e',
+         f'tell application "Google Chrome" to return execute tab 1 of window 1 javascript "{js}"'],
+        capture_output=True, text=True, timeout=60)
+    return r.stdout.strip()
+
+meta = json.loads(applescript_js('localStorage.getItem(\\"_body_meta\\")'))
+print(f"Status: {meta['status']}, done: {meta['done']}, chunks: {meta['chunks']}")
+
+all_entries = []
+for i in range(meta['chunks']):
+    chunk = json.loads(applescript_js(f'localStorage.getItem(\\"_body_chunk_{i}\\")'))
+    all_entries.extend(chunk)
+
+today = date.today().strftime('%Y-%m-%d')
+username = 'alan-kay'   # change as needed
+output_path = f'{username}_quora_answer_bodies.md'
+
+header = (
+    f"# {username.title()} - Quora Answer Bodies\n\n"
+    f"Collected {today} via Quora GraphQL API (`AnswerComponentBaseQuery`).\n"
+    f"Total: {len(all_entries)} answers\n\n---\n\n"
+)
+
+sections = []
+for url, title, body in all_entries:
+    paragraphs = '\n\n'.join(p for p in body.split('\n') if p.strip())
+    sections.append(f"## {title}\n\n*{url}*\n\n{paragraphs}\n\n---")
+
+mode = 'w'  # use 'a' and skip header for subsequent batches
+with open(output_path, mode) as f:
+    if mode == 'w':
+        f.write(header)
+    f.write('\n'.join(sections) + '\n')
+
+print(f"Written {len(all_entries)} bodies to {output_path}")
+```
+
+### Step P5 — Repeat for large user counts
+
+If the user has more answers than fit in one Pass 2 batch (quota exceeded),
+save the current batch, clear body chunks, and re-run Step P2 with
+`startIdx = endIdx` from the last `_body_meta`:
+
+```javascript
+})(700, 200);   // startIdx = where last batch ended
+```
+
+Append to the output file with `mode = 'a'` in Step P4 (and skip the header).
 
 ---
 
@@ -398,18 +615,37 @@ If the API returns 418 or a "query not found" error:
 
 ---
 
-## Key constants (as of 2026-05-23)
+## Key constants (as of 2026-05-24)
+
+### Pass 1 — Answer list
 
 | Constant | Value |
 |----------|-------|
 | Query name | `UserProfileAnswersMostRecent_RecentAnswers_Query` |
 | Hash | `387718c70387d11d611f1aef67066ee1b645732539a4a48f593a2458a6bd11ae` |
 | uid (Miguel Paraz) | `229089` |
+| uid (Alan Kay) | `117344100` |
 | Items per API call | 20 (server-enforced despite `first: 100`) |
 | Cursor type | Numeric offset string (`"0"`, `"19"`, `"39"`, …) |
 | Connection field | `data.user.recentPublicAndPinnedAnswersConnection` |
 | Title field | `edges[].node.question.title` (JSON rich text — parse with `parseTitle()`) |
 | URL field | `edges[].node.logUrl` (strip `/log` suffix, prepend `https://www.quora.com`) |
+| Aid field | `edges[].node.aid` (integer — required for Pass 2) |
 | Recommended batch size | 2,000 (avoids localStorage quota at ~13,000 total answers) |
 | Total answers (Miguel Paraz) | 13,295 (as of 2026-05-22) |
-| Estimated time | ~20–30 minutes per 2,000 answers; ~2–3 hours total |
+| Total answers (Alan Kay) | 716 (as of 2026-05-24) |
+| Estimated time (Pass 1) | ~20–30 min per 2,000 answers |
+
+### Pass 2 — Answer bodies
+
+| Constant | Value |
+|----------|-------|
+| Query name | `AnswerComponentBaseQuery` |
+| Hash | `28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b` |
+| Webpack chunk | `-4-ans_frontend-relay-rspack-query-AnswerComponentBaseQuery-27-11da9f4a783a92ac.webpack` |
+| Variables | `{ aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false }` |
+| Content field | `data.answer.content` (JSON rich text — parse with `parseContent()`) |
+| Section separator | `'\n'` (use newline, not space, to preserve paragraph breaks) |
+| Rate | 1 call per answer, 200ms delay |
+| Recommended batch size | 200 per localStorage save cycle |
+| Estimated time (Pass 2) | ~2.5 min per 700 answers; scales linearly |

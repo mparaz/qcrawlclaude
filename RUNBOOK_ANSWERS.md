@@ -373,169 +373,211 @@ print(f"Updated header with total: {total}")
 
 ---
 
-## Pass 2 — Fetch Full Answer Bodies
+## Pass 2 — Fetch Full Answer Bodies (Streaming Approach)
 
-Once Pass 1 is complete (`allDone: true`) and `<username>_aids.json` exists,
-run Pass 2 to fetch the full text of each answer.
+Pass 2 uses a **streaming approach**: a single loop that fetches the answer
+list page-by-page and immediately fetches the full body for each answer inline.
+No pre-loading of aids is needed — the list and body fetches happen together.
 
-### Step P1 — Stage aids from Pass 1 into localStorage
+Results are stored as `[url, title, body]` triples in `_body_chunk_*`
+localStorage keys (100 answers per chunk, saved every 5 pages). Progress is
+tracked in `_body_meta`.
 
-Reads the `_ans_chunk_*` keys still in localStorage and consolidates them into
-a single `_pass2_entries` key for the body-fetch loop.
+> **localStorage quota note:** With ~13,000+ answers the body data (~1–5 KB
+> per answer) can exceed the ~5–10 MB localStorage quota. If `_body_error`
+> shows a quota error: save the completed chunks to file, clear localStorage,
+> and restart the script from the cursor in `_body_error`. Append the resumed
+> output to the existing file. See Step P4 for the full recovery procedure.
+
+---
+
+### Step P1 — Clear old body data
 
 ```javascript
-// Clear old body chunks
-for (let i = 0; i < 40; i++) localStorage.removeItem('_body_chunk_' + i);
+for (let i = 0; i < 200; i++) localStorage.removeItem('_body_chunk_' + i);
 localStorage.removeItem('_body_meta');
 localStorage.removeItem('_body_error');
-
-// Consolidate Pass 1 chunks into _pass2_entries
-const meta = JSON.parse(localStorage.getItem('_ans_meta'));
-const all = [];
-for (let i = 0; i < meta.chunks; i++) {
-  const chunk = JSON.parse(localStorage.getItem('_ans_chunk_' + i));
-  all.push(...chunk);
-}
-localStorage.setItem('_pass2_entries', JSON.stringify(all));
-'Ready: ' + all.length + ' entries staged for Pass 2'
+'Cleared'
 ```
 
-If Pass 1 localStorage was already cleared, load from the JSON file instead:
+---
 
-```python
-import subprocess, json
+### Step P2 — Inject the streaming body extraction loop
 
-def applescript_js(js):
-    r = subprocess.run(
-        ['osascript', '-e',
-         f'tell application "Google Chrome" to return execute tab 1 of window 1 javascript "{js}"'],
-        capture_output=True, text=True, timeout=30)
-    return r.stdout.strip()
-
-with open('alan-kay_aids.json') as f:
-    entries = json.load(f)
-
-# Write in chunks to avoid AppleScript string size limits
-chunk_size = 200
-for i in range(0, len(entries), chunk_size):
-    chunk_json = json.dumps(entries[i:i+chunk_size]).replace('"', '\\"')
-    applescript_js(f'localStorage.setItem(\\"_pass2_chunk_{i//chunk_size}\\", \\"{chunk_json}\\")')
-
-applescript_js(f'localStorage.setItem(\\"_pass2_meta\\", \\"{{\\"chunks\\":{(len(entries)+chunk_size-1)//chunk_size},\\"total\\":{len(entries)}}}\\")')
-print(f"Staged {len(entries)} entries")
-```
-
-### Step P2 — Inject the body fetch loop
-
-Replace `START_IDX` (0 for first run) and `BATCH_SIZE` (200 is safe; use total
-count if fewer than ~500 answers). The loop reads from `_pass2_entries`.
+Fetches list + body together in one loop. Set `START_CURSOR` to `null` for the
+first run, or to the cursor from `_body_error` when resuming after a quota
+interruption. Replace `HASH_LIST`, `HASH_BODY`, and `UID` as needed.
 
 ```javascript
-const s = document.createElement('script');
-s.textContent = `
-(async function fetchBodies(startIdx, batchSize) {
+(async function streamBodies() {
   const headers = JSON.parse(localStorage.getItem('_gql_capture3'))[0].headers;
-  const HASH  = '28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b';
-  const QUERY = 'AnswerComponentBaseQuery';
-  const entries = JSON.parse(localStorage.getItem('_pass2_entries'));
-  const end = Math.min(startIdx + batchSize, entries.length);
+  const LIST_HASH = '387718c70387d11d611f1aef67066ee1b645732539a4a48f593a2458a6bd11ae';
+  const BODY_HASH = '28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b';
+  const LIST_Q = 'UserProfileAnswersMostRecent_RecentAnswers_Query';
+  const BODY_Q = 'AnswerComponentBaseQuery';
+  const UID = 229089;  // change as needed
 
-  function parseContent(t) {
+  function parseRich(t) {
     try {
       const p = JSON.parse(t);
-      return p.sections.map(s => s.spans.map(sp => sp.text||'').join('')).join('\\n').trim();
-    } catch(e) { return String(t).trim(); }
+      return p.sections.map(s => s.spans.map(sp => sp.text || '').join('')).join('\n').trim();
+    } catch(e) { return String(t || '').trim(); }
   }
 
-  const results = [];
-  localStorage.setItem('_body_meta', JSON.stringify({
-    status: 'running', done: 0, total: end - startIdx, startIdx, endIdx: end,
-    allDone: end >= entries.length, chunks: 0
-  }));
+  let cursor = null;  // set to resume cursor when restarting after quota error
+  let hasNextPage = true;
+  let done = 0;
+  let pages = 0;
+  let chunkIdx = 0;
+  let chunkBuf = [];
+  const CHUNK_PAGES = 5;  // save every 5 pages (100 answers)
 
-  for (let i = startIdx; i < end; i++) {
-    const [url, title, aid] = entries[i];
+  function saveMeta(status, allDone) {
+    localStorage.setItem('_body_meta', JSON.stringify({
+      status, done, pages, allDone,
+      chunks: chunkIdx + (chunkBuf.length > 0 ? 1 : 0)
+    }));
+  }
+
+  function saveChunk() {
+    if (chunkBuf.length === 0) return;
     try {
-      const resp = await fetch('/graphql/gql_para_POST?q=' + QUERY, {
+      localStorage.setItem('_body_chunk_' + chunkIdx, JSON.stringify(chunkBuf));
+      chunkIdx++;
+      chunkBuf = [];
+    } catch(e) {
+      localStorage.setItem('_body_error', JSON.stringify({
+        page: pages, cursor, error: e.message
+      }));
+      throw e;
+    }
+  }
+
+  saveMeta('running', false);
+
+  try {
+    let pagesInChunk = 0;
+    while (hasNextPage) {
+      const listResp = await fetch('/graphql/gql_para_POST?q=' + LIST_Q, {
         method: 'POST', credentials: 'include', headers,
         body: JSON.stringify({
-          queryName: QUERY,
-          variables: { aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false },
-          extensions: { hash: HASH }
+          queryName: LIST_Q,
+          variables: { uid: UID, first: 100, after: cursor, answerFilterTid: null },
+          extensions: { hash: LIST_HASH }
         })
       });
-      const data = await resp.json();
-      const body = data?.data?.answer?.content
-        ? parseContent(data.data.answer.content) : '';
-      results.push([url, title, body]);
-    } catch(err) {
-      results.push([url, title, '']);
-      localStorage.setItem('_body_error', JSON.stringify({ idx: i, aid, error: err.message }));
+      const listData = await listResp.json();
+      const conn = listData.data.user.recentPublicAndPinnedAnswersConnection;
+      hasNextPage = conn.pageInfo.hasNextPage;
+      cursor = conn.pageInfo.endCursor;
+      pages++;
+      pagesInChunk++;
+
+      for (const edge of conn.edges) {
+        const aid = edge.node.aid;
+        const logUrl = edge.node.logUrl || '';
+        const answerUrl = 'https://www.quora.com' + logUrl.replace('/log', '');
+        const questionTitle = parseRich(edge.node.question.title);
+
+        await new Promise(r => setTimeout(r, 200));
+
+        const bodyResp = await fetch('/graphql/gql_para_POST?q=' + BODY_Q, {
+          method: 'POST', credentials: 'include', headers,
+          body: JSON.stringify({
+            queryName: BODY_Q,
+            variables: { aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false },
+            extensions: { hash: BODY_HASH }
+          })
+        });
+        const bodyData = await bodyResp.json();
+        const answer = bodyData.data && bodyData.data.answer;
+        const bodyText = answer ? parseRich(answer.content || '') : '';
+
+        chunkBuf.push([answerUrl, questionTitle, bodyText]);
+        done++;
+      }
+
+      if (pagesInChunk >= CHUNK_PAGES) {
+        saveChunk();
+        pagesInChunk = 0;
+        saveMeta('running', false);
+      }
+
+      await new Promise(r => setTimeout(r, 150));
     }
 
-    const done = i - startIdx + 1;
-    if (done % 50 === 0 || i === end - 1) {
-      const cs = 100, chunks = Math.ceil(results.length / cs);
-      for (let c = 0; c < chunks; c++)
-        localStorage.setItem('_body_chunk_' + c, JSON.stringify(results.slice(c*cs, (c+1)*cs)));
-      localStorage.setItem('_body_meta', JSON.stringify({
-        status: i === end - 1 ? 'batch_done' : 'running',
-        done, total: end - startIdx, startIdx, endIdx: end,
-        allDone: end >= entries.length, chunks
-      }));
-    }
-    await new Promise(r => setTimeout(r, 200));
+    saveChunk();  // save any remaining
+    localStorage.setItem('_body_meta', JSON.stringify({
+      status: 'done', done, pages, allDone: true, chunks: chunkIdx
+    }));
+  } catch(e) {
+    saveMeta('error', false);
   }
-  console.log('[BODY EXTRACT] Done:', results.length);
-})(0, 9999);
-`;
-document.head.appendChild(s);
-'Pass 2 body extraction injected'
+})();
 ```
+
+Tool: `mcp__claude-in-chrome__javascript_tool`
+
+---
 
 ### Step P3 — Monitor Pass 2 progress
 
+Poll every 270 seconds (stay under 270s to keep prompt cache warm):
+
 ```javascript
-JSON.stringify(JSON.parse(localStorage.getItem('_body_meta')))
+JSON.stringify(JSON.parse(localStorage.getItem('_body_meta') || '{}'))
 ```
+
+Also check for errors:
 
 ```javascript
 localStorage.getItem('_body_error')
 ```
 
-Expected rate: ~200ms per answer. 716 answers ≈ 2.5 minutes.
+Expected rate: ~200ms per answer body + ~150ms between list pages.
+- 716 answers (Alan Kay) ≈ 3–4 minutes
+- 13,400 answers (Miguel Paraz) ≈ 4–5 hours
 
-Done when `status === "batch_done"`.
+Done when `status === "done"` and `allDone === true`.
 
-### Step P4 — Save bodies to file via AppleScript
+If `_body_error` contains a quota message, proceed to Step P4a (quota recovery)
+instead of Step P4.
+
+---
+
+### Step P4 — Save bodies to file via Python/AppleScript
+
+Run from the project directory. Change the `TAB` target if Quora is not on
+tab 2 of window 1 (verify with `osascript` window enumeration).
 
 ```python
 import subprocess, json
 from datetime import date
 
-def applescript_js(js):
+TAB = 'tab 2 of window 1'  # adjust if needed
+
+def js(code):
     r = subprocess.run(
         ['osascript', '-e',
-         f'tell application "Google Chrome" to return execute tab 1 of window 1 javascript "{js}"'],
-        capture_output=True, text=True, timeout=60)
+         f'tell application "Google Chrome" to return execute {TAB} javascript "{code}"'],
+        capture_output=True, text=True, timeout=120)
     return r.stdout.strip()
 
-meta = json.loads(applescript_js('localStorage.getItem(\\"_body_meta\\")'))
+meta = json.loads(js('localStorage.getItem(\\"_body_meta\\")'))
 print(f"Status: {meta['status']}, done: {meta['done']}, chunks: {meta['chunks']}")
 
 all_entries = []
 for i in range(meta['chunks']):
-    chunk = json.loads(applescript_js(f'localStorage.getItem(\\"_body_chunk_{i}\\")'))
-    all_entries.extend(chunk)
+    raw = js(f'localStorage.getItem(\\"_body_chunk_{i}\\")')
+    all_entries.extend(json.loads(raw))
 
-today = date.today().strftime('%Y-%m-%d')
-username = 'alan-kay'   # change as needed
+username = 'miguel-paraz'   # change as needed
 output_path = f'{username}_quora_answer_bodies.md'
+total = meta['done']
 
 header = (
-    f"# {username.title()} - Quora Answer Bodies\n\n"
-    f"Collected {today} via Quora GraphQL API (`AnswerComponentBaseQuery`).\n"
-    f"Total: {len(all_entries)} answers\n\n---\n\n"
+    f"# {username.title()} — Quora Answer Bodies\n\n"
+    f"{total} answers\n\n---\n\n"
 )
 
 sections = []
@@ -543,26 +585,86 @@ for url, title, body in all_entries:
     paragraphs = '\n\n'.join(p for p in body.split('\n') if p.strip())
     sections.append(f"## [{title}]({url})\n\n{paragraphs}\n\n---")
 
-mode = 'w'  # use 'a' and skip header for subsequent batches
-with open(output_path, mode) as f:
-    if mode == 'w':
-        f.write(header)
-    f.write('\n'.join(sections) + '\n')
+with open(output_path, 'w') as f:
+    f.write(header + '\n\n'.join(sections) + '\n')
 
-print(f"Written {len(all_entries)} bodies to {output_path}")
+print(f"Written {total} bodies to {output_path}")
 ```
 
-### Step P5 — Repeat for large user counts
+---
 
-If the user has more answers than fit in one Pass 2 batch (quota exceeded),
-save the current batch, clear body chunks, and re-run Step P2 with
-`startIdx = endIdx` from the last `_body_meta`:
+### Step P4a — Quota recovery: save, clear, and resume
+
+If `_body_error` shows `"exceeded the quota"`:
+
+**1. Save completed chunks to file** (use the script above with `mode='w'` for
+first save, or see append variant below for subsequent saves).
+
+**2. Note the resume cursor** from `_body_error`:
 
 ```javascript
-})(700, 200);   // startIdx = where last batch ended
+JSON.parse(localStorage.getItem('_body_error'))
+// → { page: 520, cursor: "10399", error: "...exceeded the quota..." }
 ```
 
-Append to the output file with `mode = 'a'` in Step P4 (and skip the header).
+The resume cursor is the **last cursor from the error** — the extraction will
+restart from the next page after this point.
+
+**3. Clear localStorage body data**:
+
+```javascript
+for (let i = 0; i < 200; i++) localStorage.removeItem('_body_chunk_' + i);
+localStorage.removeItem('_body_meta');
+localStorage.removeItem('_body_error');
+'Cleared'
+```
+
+**4. Restart the streaming script** (Step P2) with `cursor` set to the resume
+value from step 2 (replace the `let cursor = null;` line):
+
+```javascript
+let cursor = "10299";  // last cursor of the final successfully saved chunk
+```
+
+**5. When resumed run completes**, save and **append** to the existing file:
+
+```python
+import subprocess, json
+
+TAB = 'tab 2 of window 1'
+
+def js(code):
+    r = subprocess.run(
+        ['osascript', '-e',
+         f'tell application "Google Chrome" to return execute {TAB} javascript "{code}"'],
+        capture_output=True, text=True, timeout=120)
+    return r.stdout.strip()
+
+meta = json.loads(js('localStorage.getItem(\\"_body_meta\\")'))
+new_entries = []
+for i in range(meta['chunks']):
+    new_entries.extend(json.loads(js(f'localStorage.getItem(\\"_body_chunk_{i}\\")')))
+
+output_path = 'miguel-paraz_quora_answer_bodies.md'
+
+# Read existing file, update header count, append new sections
+with open(output_path, 'r') as f:
+    existing = f.read()
+
+first_count = existing.split(' answers')[0].split('\n\n')[1].strip()
+new_total = int(first_count) + len(new_entries)
+existing = existing.replace(f'{first_count} answers', f'{new_total} answers', 1)
+
+new_sections = []
+for url, title, body in new_entries:
+    paragraphs = '\n\n'.join(p for p in body.split('\n') if p.strip())
+    new_sections.append(f"## [{title}]({url})\n\n{paragraphs}\n\n---")
+
+with open(output_path, 'w') as f:
+    f.write(existing.rstrip('\n') + '\n\n' + '\n\n'.join(new_sections) + '\n')
+
+print(f"Appended {len(new_entries)} entries; total now {new_total}")
+```
 
 ---
 
@@ -581,7 +683,7 @@ window.dispatchEvent(new Event('scroll'));
 'Re-triggered'
 ```
 
-### localStorage quota exceeded mid-batch
+### localStorage quota exceeded (Pass 1)
 
 Symptom: `_ans_error` contains `"exceeded the quota"`.
 
@@ -591,6 +693,15 @@ Fix:
 3. Clear all chunks (Step 7) and restart the batch from the last good cursor.
 
 If quota is hit consistently before 2,000 entries, reduce `maxEntries` to 1,000.
+
+### localStorage quota exceeded (Pass 2)
+
+Symptom: `_body_error` contains `"exceeded the quota"`.
+
+Use Step P4a (quota recovery) — save completed chunks to file, clear
+localStorage, restart streaming script from the cursor in `_body_error`, then
+append the resumed output to the existing file. With ~13,000 answers this
+typically happens around the 10,000–11,000 mark.
 
 ### Headers expired / 401 or 403 responses
 
@@ -615,7 +726,7 @@ If the API returns 418 or a "query not found" error:
 
 ---
 
-## Key constants (as of 2026-05-24)
+## Key constants (as of 2026-05-25)
 
 ### Pass 1 — Answer list
 
@@ -632,20 +743,23 @@ If the API returns 418 or a "query not found" error:
 | URL field | `edges[].node.logUrl` (strip `/log` suffix, prepend `https://www.quora.com`) |
 | Aid field | `edges[].node.aid` (integer — required for Pass 2) |
 | Recommended batch size | 2,000 (avoids localStorage quota at ~13,000 total answers) |
-| Total answers (Miguel Paraz) | 13,295 (as of 2026-05-22) |
+| Total answers (Miguel Paraz) | 13,401 (as of 2026-05-25) |
 | Total answers (Alan Kay) | 716 (as of 2026-05-24) |
 | Estimated time (Pass 1) | ~20–30 min per 2,000 answers |
 
-### Pass 2 — Answer bodies
+### Pass 2 — Answer bodies (streaming)
 
 | Constant | Value |
 |----------|-------|
-| Query name | `AnswerComponentBaseQuery` |
-| Hash | `28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b` |
+| List query | `UserProfileAnswersMostRecent_RecentAnswers_Query` |
+| List hash | `387718c70387d11d611f1aef67066ee1b645732539a4a48f593a2458a6bd11ae` |
+| Body query | `AnswerComponentBaseQuery` |
+| Body hash | `28e392de2fd885ba6962146a8bac8e6ec7c978af89c0d70e56695284efbe8a2b` |
 | Webpack chunk | `-4-ans_frontend-relay-rspack-query-AnswerComponentBaseQuery-27-11da9f4a783a92ac.webpack` |
-| Variables | `{ aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false }` |
-| Content field | `data.answer.content` (JSON rich text — parse with `parseContent()`) |
-| Section separator | `'\n'` (use newline, not space, to preserve paragraph breaks) |
-| Rate | 1 call per answer, 200ms delay |
-| Recommended batch size | 200 per localStorage save cycle |
-| Estimated time (Pass 2) | ~2.5 min per 700 answers; scales linearly |
+| Body variables | `{ aid, showActionBarForLoggedOut: false, skipFooter: false, skipMetabar: false }` |
+| Content field | `data.answer.content` (JSON rich text — parse with `'\n'` as section separator) |
+| Chunk size | 100 answers (5 list pages) per localStorage key |
+| Delay | 200ms between body fetches, 150ms between list pages |
+| Quota limit | ~10,000–11,000 answers before localStorage quota (~5–10 MB) is hit |
+| Estimated time (Pass 2) | ~3–4 min per 700 answers; ~4–5 hours for 13,400 answers |
+| Output format | `## [title](url)` heading, blank line, body paragraphs, `---` separator |

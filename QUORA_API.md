@@ -588,6 +588,73 @@ const date = new Date(node.time / 1000).toISOString().substring(0, 10);
 | uid (Alan Kay) | `117344100` |
 | Connection field | `data.user.logConnection` |
 
+### Hard limit: activity log history
+
+The activity log is **server-capped at approximately 997 entries** (confirmed for Alan Kay:
+`hasNextPage: false` at cursor 996). This is not a client-side pagination limit — the server
+simply does not expose older log entries. For Alan Kay, the oldest reachable comment is
+**2023-11-16**, even though his answers date to 2016.
+
+---
+
+## Comment History: Known Limitations
+
+Exhaustive investigation (2026-05-30) found **no way to retrieve comments older than the
+activity log window** via Quora's client-accessible APIs. All approaches were tested:
+
+### `CommentableCommentAreaLoaderInnerQuery`
+
+This is the query Quora's JavaScript uses to load comments on answer pages.
+
+```
+POST https://www.quora.com/graphql/gql_para_POST?q=CommentableCommentAreaLoaderInnerQuery
+```
+
+**Variables confirmed from live capture:**
+
+```json
+{ "aid": 136609459636 }
+```
+
+(Note: `aid` here is the answer's internal numeric ID, which differs from the `aid` returned
+by `UserProfileAnswersMostRecent_RecentAnswers_Query`. The format here is larger — appears
+to be a different ID namespace.)
+
+**Hash (as of 2026-05-30):**
+```
+e53caf9d1f42cdc72e45cdd642a8c80c61274bce64f68d446008d7c1e40c882b
+```
+
+**Result: consistently returns `{"errors":[{"message":"Server Error"}],"data":null}`**
+
+This failure occurs even when the query is issued by the page's own JavaScript (captured
+via fetch interceptor). Quora's service worker likely adds signed session headers that are
+not reproducible outside the SW context. Comments therefore never render in the browser
+when the service worker has been unregistered.
+
+### SSR HTML
+
+Answer page HTML fetched via `fetch(..., {credentials:'include'})` with navigation-style
+`Accept` headers contains **no comment data**. Comments are not server-side rendered.
+
+### Profile comments page
+
+`https://www.quora.com/profile/<user>/comments` — **does not exist** (404). Quora profile
+pages expose tabs for Answers, Questions, and Post only — no Comments tab.
+
+### Summary
+
+| Approach | Outcome |
+|---|---|
+| `UserProfileEditsQuery` | Works; hard-capped at ~997 entries (~latest 2-3 months of activity) |
+| `CommentableCommentAreaLoaderInnerQuery` | Server Error — inaccessible outside SW context |
+| SSR HTML scraping | No comment data in server response |
+| Per-page DOM scraping (navigated) | Comments never render (same API failure) |
+| `/profile/<user>/comments` | 404 — doesn't exist |
+
+**Conclusion:** Only comments within the most recent ~997 activity log entries are
+accessible. Older comments cannot be retrieved via any currently-known client-side method.
+
 ---
 
 ## Qtext Format

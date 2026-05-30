@@ -459,24 +459,10 @@ causes a server error.
 
 ### Parsing Answer Content
 
-The `content` field uses the same JSON rich-text format as question titles:
-
-```javascript
-function parseAnswerText(contentJson) {
-  try {
-    const parsed = JSON.parse(contentJson);
-    return parsed.sections
-      .map(s => s.spans.map(sp => sp.text || '').join(''))
-      .join('\n')
-      .trim();
-  } catch(e) {
-    return String(contentJson).trim();
-  }
-}
-```
-
-Note: use `'\n'` as the section separator (not `' '`) to preserve paragraph
-breaks in the answer body.
+The `content` field uses Quora's **Qtext** rich-text format — the same format
+used for question titles and answer bodies. See [Qtext Format](#qtext-format)
+below for the full specification and a parser that preserves images, links, and
+formatting.
 
 ### Finding an answer's `aid`
 
@@ -492,3 +478,143 @@ run — each `edges[].node.aid` is the input for this query.
 | Webpack chunk | `-4-ans_frontend-relay-rspack-query-AnswerComponentBaseQuery-27-11da9f4a783a92ac.webpack` |
 | Content field | `data.answer.content` (JSON rich text) |
 | Rate of use | One call per answer — no pagination |
+
+---
+
+## Qtext Format
+
+Quora's internal rich-text format used for question titles, answer bodies, and
+other text fields. The value is a **JSON string** (not a nested object) that
+must be parsed with `JSON.parse()`.
+
+### Top-level structure
+
+```json
+{
+  "sections": [
+    {
+      "type": "plain",
+      "spans": [{ "text": "Hello world", "modifiers": {} }],
+      "indent": 0,
+      "quoted": false,
+      "is_rtl": false
+    }
+  ]
+}
+```
+
+### Section types
+
+| `section.type` | Meaning | Render as |
+|---|---|---|
+| `"plain"` | Normal paragraph | Process spans inline |
+| `"image"` | Standalone block image | `![](span.modifiers.image)` |
+| `"horizontal-rule"` | Horizontal divider | `---` |
+| `"hyperlink_embed"` | Embedded Quora link card | `> [title](url)` from `span.modifiers.embed` |
+| `"yt-embed"` | YouTube embed | `> [YouTube video](url)` |
+| `"ordered-list"` | Numbered list item | `1. text` |
+| `"unordered-list"` | Bullet list item | `- text` |
+| `"code"` | Code block | `` `text` `` |
+
+For `"image"` sections, the image URL is `spans[0].modifiers.image` (a string).
+The `spans[0].modifiers.master_url` field holds the same URL as a fallback.
+
+**Image section example** (from aid 220300947):
+```json
+{
+  "type": "image",
+  "spans": [{
+    "text": "",
+    "modifiers": {
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-cc35dd482369cf6b4b7949e1fb50afe9-pjlq",
+      "master_url": "https://qph.cf2.quoracdn.net/main-qimg-cc35dd482369cf6b4b7949e1fb50afe9-pjlq",
+      "height": 310,
+      "width": 222,
+      "is_deleted": false
+    }
+  }]
+}
+```
+
+### Span modifiers
+
+Each span's `modifiers` object may contain zero or more of:
+
+| Modifier key | Value type | Render as |
+|---|---|---|
+| `bold` | `true` | `**text**` |
+| `italic` | `true` | `*text*` |
+| `link` | `{ type, qid, url }` | `[text](url)` — use `.url` field |
+| `image` | `"https://..."` | `![](url)` — string, not object |
+| `embed` | `{ url, title, snippet, image_url }` | `[title](url)` |
+
+**Link modifier example** (from aid 1477743867426570):
+```json
+{ "link": { "type": "question", "qid": 35785695, "url": "https://www.quora.com/..." } }
+```
+
+The `section.quoted` flag wraps the rendered line in `> ` blockquote prefix.
+
+### Full rich-text parser (JavaScript, as of 2026-05-30)
+
+Renders to Markdown preserving images, bold/italic, hyperlinks, and embeds.
+Verified against 717 Alan Kay answers (222 image blocks, 1,210 hyperlinks,
+405 bold spans, 91 embedded link cards).
+
+```javascript
+function parseRich(t) {
+  try {
+    const p = JSON.parse(t);
+    return p.sections.map(s => {
+      if (s.type === 'horizontal-rule') return '---';
+      if (s.type === 'image') {
+        const span = s.spans?.[0];
+        const url = span?.modifiers?.image || span?.modifiers?.master_url;
+        return url ? `![](${url})` : '';
+      }
+      if (s.type === 'hyperlink_embed') {
+        const span = s.spans?.[0];
+        const embed = span?.modifiers?.embed;
+        if (!embed?.url) return '';
+        return `> [${embed.title || embed.url}](${embed.url})`;
+      }
+      if (s.type === 'yt-embed') {
+        const span = s.spans?.[0];
+        const mods = span?.modifiers || {};
+        const url = mods.yt?.url || mods.url || mods.embed?.url || '';
+        return url ? `> [YouTube video](${url})` : '';
+      }
+      // plain, ordered-list, unordered-list, code, and other inline types
+      const lineText = s.spans.map(sp => {
+        const mods = sp.modifiers || {};
+        let text = sp.text || '';
+        if (mods.image) return `![](${mods.image})`;
+        if (mods.embed?.url) return `[${mods.embed.title || mods.embed.url}](${mods.embed.url})`;
+        if (mods.link?.url) text = `[${text}](${mods.link.url})`;
+        if (mods.bold && mods.italic) text = `***${text}***`;
+        else if (mods.bold) text = `**${text}**`;
+        else if (mods.italic) text = `*${text}*`;
+        return text;
+      }).join('');
+      if (s.quoted) return lineText.split('\n').map(l => `> ${l}`).join('\n');
+      return lineText;
+    }).join('\n').trim();
+  } catch(e) { return String(t || '').trim(); }
+}
+```
+
+### Plain-text-only parser
+
+When formatting is not needed (e.g., question titles):
+
+```javascript
+function parseTitle(t) {
+  try {
+    const p = JSON.parse(t);
+    return p.sections.map(s => s.spans.map(sp => sp.text || '').join('')).join(' ').trim();
+  } catch(e) { return String(t || '').trim(); }
+}
+```
+
+Use `'\n'` instead of `' '` as the section joiner for answer bodies to preserve
+paragraph breaks.

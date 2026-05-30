@@ -481,6 +481,115 @@ run — each `edges[].node.aid` is the input for this query.
 
 ---
 
+## Activity Log / Comments
+
+`UserProfileEditsQuery`
+
+Returns all activity-log operations for a user in reverse-chronological order —
+new comments, comment edits, answer edits, and new answers. Used to extract
+comments a user has posted.
+
+### Endpoint
+
+```
+POST https://www.quora.com/graphql/gql_para_POST?q=UserProfileEditsQuery
+```
+
+### Request Body
+
+```json
+{
+  "queryName": "UserProfileEditsQuery",
+  "variables": {
+    "uid": 117344100,
+    "first": 10,
+    "after": null
+  },
+  "extensions": {
+    "hash": "62bd99f6e2fc47e22ba048132f63cc0395a257041590981640afbf109829f4cc"
+  }
+}
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `variables.uid` | integer | Quora user ID |
+| `variables.first` | integer | Requested page size; server caps at **10** |
+| `variables.after` | string\|null | Pagination cursor; `null` for first page |
+
+### Response
+
+```json
+{
+  "data": {
+    "user": {
+      "logConnection": {
+        "pageInfo": { "hasNextPage": true, "endCursor": "9" },
+        "edges": [
+          { "node": { "__typename": "AddAnswerCommentOperation", ... } }
+        ]
+      }
+    }
+  }
+}
+```
+
+### Operation types
+
+| `__typename` | Meaning |
+|---|---|
+| `AddAnswerCommentOperation` | User posted a new comment on an answer |
+| `EditAnswerCommentOperation` | User edited an existing comment |
+| `EditAnswerContentOperation` | User edited an answer body |
+| `AttachAnswerOperation` | User created a new answer |
+
+### `AddAnswerCommentOperation` fields
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `newContent` | string | Comment text as Qtext JSON — parse with `parseRich()` |
+| `comment.url` | string | Relative URL: `/Question-Slug/answer/Username` |
+| `time` | integer | Unix timestamp in **microseconds** |
+| `opid` | integer | Numeric operation ID |
+
+`EditAnswerCommentOperation` has the same fields plus `oldContent` (prior text as Qtext JSON).
+
+**Constructing the comment URL:**
+```javascript
+const commentUrl = 'https://www.quora.com' + node.comment.url;
+```
+
+**Deriving a question title from the URL:**
+```javascript
+const slug = node.comment.url.split('/')[1] || '';
+const questionTitle = slug.replace(/-/g, ' ');
+```
+
+**Converting the timestamp:**
+```javascript
+const date = new Date(node.time / 1000).toISOString().substring(0, 10);
+```
+
+### Observed Limits
+
+| Parameter | Value |
+|-----------|-------|
+| Max items per call | 10 (server-enforced) |
+| Total log entries (Alan Kay) | ~997 |
+| `AddAnswerCommentOperation` entries (Alan Kay) | 584 |
+| Estimated extraction time | ~15 seconds for full log |
+
+### Key Constants (as of 2026-05-30)
+
+| Constant | Value |
+|----------|-------|
+| Query name | `UserProfileEditsQuery` |
+| Hash | `62bd99f6e2fc47e22ba048132f63cc0395a257041590981640afbf109829f4cc` |
+| uid (Alan Kay) | `117344100` |
+| Connection field | `data.user.logConnection` |
+
+---
+
 ## Qtext Format
 
 Quora's internal rich-text format used for question titles, answer bodies, and

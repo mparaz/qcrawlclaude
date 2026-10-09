@@ -1,10 +1,13 @@
 # Alan Kay - Quora Answers
 
-Collected 2026-05-24 via Quora GraphQL API (`UserProfileAnswersMostRecent_RecentAnswers_Query`).
-Total: 716 answers
+Collected 2026-07-04 via Quora GraphQL API (`UserProfileAnswersMostRecent_RecentAnswers_Query`).
+Total: 719 answers
 
 ---
 
+- [Has Butler Lampson been appropriately recognized for his contributions to the development of the personal computer?](https://www.quora.com/Has-Butler-Lampson-been-appropriately-recognized-for-his-contributions-to-the-development-of-the-personal-computer/answer/Alan-Kay-11)
+- [What were the challenges involved in making the Xerox Alto inexpensive?](https://www.quora.com/What-were-the-challenges-involved-in-making-the-Xerox-Alto-inexpensive/answer/Alan-Kay-11)
+- [Hello Sr. I recently watched this talk: YouTube.com/watch? V=QboI_1WJUlM in which you mentioned John McCarthy's better solution at 36:50 it brought my attention but I couldn't quite find anything concise. Any insight would be appreciated](https://www.quora.com/Hello-Sr-I-recently-watched-this-talk-YouTube-com-watch-V-QboI_1WJUlM-in-which-you-mentioned-John-McCarthys-better-solution-at-36-50-it-brought-my-attention-but-I-couldnt-quite-find-anything-concise-Any-insight/answer/Alan-Kay-11)
 - [Can an “AI command line” replace the GUI as the primary user experience for computers, assuming the technology improves and irrespective of today’s state?](https://www.quora.com/Can-an-AI-command-line-replace-the-GUI-as-the-primary-user-experience-for-computers-assuming-the-technology-improves-and-irrespective-of-today-s-state/answer/Alan-Kay-11)
 - [Did Alan Kay know Bill Atkinson? Was there any cross-fertilization between SmallTalk and HyperCard/Talk?](https://www.quora.com/Did-Alan-Kay-know-Bill-Atkinson-Was-there-any-cross-fertilization-between-SmallTalk-and-HyperCard-Talk/answer/Alan-Kay-11)
 - [What role did the unique features of the Alto computer play in the development of programming languages like Smalltalk and Lisp?](https://www.quora.com/What-role-did-the-unique-features-of-the-Alto-computer-play-in-the-development-of-programming-languages-like-Smalltalk-and-Lisp/answer/Alan-Kay-11)

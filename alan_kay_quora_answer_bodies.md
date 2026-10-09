@@ -1,7 +1,101 @@
 # Alan Kay — Quora Answer Bodies
 
-717 answers collected 2026-05-30 via Quora GraphQL API (`AnswerComponentBaseQuery`).
+719 answers collected 2026-07-04 via Quora GraphQL API (`AnswerComponentBaseQuery`).
 Includes inline images as CDN URLs.
+
+---
+
+## [Has Butler Lampson been appropriately recognized for his contributions to the development of the personal computer?](https://www.quora.com/Has-Butler-Lampson-been-appropriately-recognized-for-his-contributions-to-the-development-of-the-personal-computer/answer/Alan-Kay-11)
+
+If you mean “by the public?”, then certainly not — but how many of the public (including computerists) can identify last year’s Nobel Prize winner in Physics, or any of the other Nobel Prizes, or even most awardees of the major award in computing (the ACM Turing Award)?
+
+![](https://qph.cf2.quoracdn.net/main-qimg-9fa0a1e486ca4f331a8b33eee26e71d3)
+
+Within every field — including computing (which is not quite a whole field) — there is “official recognition” and “general recognition”. Officially, I would say that Butler has both been “well recognized” (he has been awarded most of the major prizes in computing and engineering) and “could be still more recognized” (his central contributions and place in computing history make it impossible to overpraise him).
+
+In the first category of major prizes*, he has been awarded the Turing Award (the so-called Nobel Prize of Computing), the Draper Prize (the so-called Nobel Prize of Engineering), the John von Neumann Award (the top award of the IEEE), and has been elected to the Royal Society, the Computer History Museum Hall of Fellows, and is a holder of the ACM Software Systems Award.
+
+However, others have also been awarded these prizes, so this fails to recognize Butler as *one of the most unique and crucial researchers, minds, and personalities of his time*. There are no awards for this, but after about 80 years (or going back to Turing’s 1936 paper, 90 years) I think there should be.
+
+An in depth appreciation of his range can be gathered by reading [his many influential papers](https://bwlampson.site/). But it was the combination of sheer brilliance and drive that allowed him to be so influential in systems design in general, and especially operating systems, programming languages, computer architectures, networking, security, etc.
+
+When I’ve been asked “What is a computer scientist?” my answer has been “I’m not sure how to define it, but Butler Lampson is the quintessential example of a great one”. In fact, the metaphor “quintessential” is very appropriate way to think about Butler.
+
+It has been a great privilege to know and work with Butler.
+
+---
+
+*(Copying from the [Wikipedia article on Butler](https://en.wikipedia.org/wiki/Butler_Lampson))
+
+In 1984, he was elected a member of the [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering).
+
+In 1984, he won the ACM Software System Award for the [Alto](https://en.wikipedia.org/wiki/Xerox_Alto), along with [Robert W. Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)), and [Charles P. Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker).
+
+In 1986, he received an honorary Sc.D. from the Eidgenössische Technische Hochschule, Zürich.
+
+In 1992, he won the prestigious [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) for his contributions to personal computing and [computer science](https://en.wikipedia.org/wiki/Computer_science).[[3]](https://en.wikipedia.org/wiki/Butler_Lampson#cite_note-3)
+
+In 1993, he became a fellow of the American Academy of Arts and Sciences.
+
+In 1994, he was inducted as a [Fellow](https://en.wikipedia.org/wiki/Fellow) of the [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery).
+
+In 1996, he received the [IEEE Computer Pioneer Award](https://en.wikipedia.org/wiki/IEEE_Computer_Pioneer_Award).
+
+In 1996, he received an honorary Sc.D. from the University of Bologna.
+
+In 2001, he received the [IEEE John von Neumann Medal](https://en.wikipedia.org/wiki/IEEE_John_von_Neumann_Medal).[[4]](https://en.wikipedia.org/wiki/Butler_Lampson#cite_note-4)
+
+In 2004, he won the [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) along with [Alan C. Kay](https://en.wikipedia.org/wiki/Alan_Kay), [Robert W. Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)), and [Charles P. Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker) for their work on [Alto](https://en.wikipedia.org/wiki/Xerox_Alto).[[5]](https://en.wikipedia.org/wiki/Butler_Lampson#cite_note-5)
+
+In 2005, he was elected a [Member of the National Academy of Sciences](https://en.wikipedia.org/wiki/Member_of_the_National_Academy_of_Sciences).[[6]](https://en.wikipedia.org/wiki/Butler_Lampson#cite_note-6)
+
+In 2006, he was inducted as a Fellow of the [Computer History Museum](https://en.wikipedia.org/wiki/Computer_History_Museum) "for fundamental contributions to computer science, including networked personal workstations, operating systems, computer security and document publishing." [Computer History Museum](https://en.wikipedia.org/wiki/Computer_History_Museum) Fellow (2006).[[7]](https://en.wikipedia.org/wiki/Butler_Lampson#cite_note-hallbio-7)
+
+In 2006, he received the IFIP TC11 Kristian Beckman Award for information security.
+
+In 2016, he was inducted into the [National Cyber Security Hall of Fame](https://en.wikipedia.org/wiki/National_Cyber_Security_Hall_of_Fame).
+
+In 2018, he was elected as a [Foreign Member of the Royal Society](https://en.wikipedia.org/wiki/Foreign_Member_of_the_Royal_Society).
+
+---
+
+## [What were the challenges involved in making the Xerox Alto inexpensive?](https://www.quora.com/What-were-the-challenges-involved-in-making-the-Xerox-Alto-inexpensive/answer/Alan-Kay-11)
+
+The Alto was started in late 1972 and was running just a few months later in early 1973. A few people were involved in the design and building, but the lion’s share was done by a bona fide genius, Chuck Thacker.
+
+![](https://qph.cf2.quoracdn.net/main-qimg-234eced2345e997c10f446206eb6d854)
+
+The *strategy* of Parc computing research was to “do research in the future, not the present or the past”. In other words: build time machines that would have the powers and properties of consumer affordable computing 12–15 years in the future. The Alto was never a product, but a “project to learn how to invent the future”.
+
+Part of the reason for the extreme lookahead was that Moore’s Law promised to bring the cost and nature of components down exponentially. Reason 2 was that SW was difficult — and inventing the new languages, UIs, applications, etc. that would be needed would not only be difficult, but would require many iterations.
+
+The central reason was to “escape the past and present” notions of “normal computing” and to avoid having to do workarounds on vendor HW and SW. This was deemed critical enough to make the decision to completely control our HW and SW destiny via making every part of it ourselves. (This turned out to be a very good, if extreme, decision!)
+
+So the Alto was not a product design, but a research computer design.
+
+The *ethic* of Parc design was “Living Lab”: to be able to support 100 users on any invention, HW or SW. So for a personal computer, 100 of them had to be readily buildable and supportable (we didn’t do stuff just to demo them, but to *use them*).
+
+The *challenges* came from our sense of “What Is Actually Needed” (WIAN). We wanted a full page general display (and this would require at least 500,000 bits). The machine needed as much RAM as could be afforded. We decided to combine both memories, and specified 1 million bits. The cheapest memory had just come on the scene (the Intel 1103) and it started out at just below 1 penny/bit: so just the chips for the minimal RAM would cost about $10K. The CPU etc would have to be made out of discrete MSI chips.
+
+There needed to be controllers for the keyboards, mouse, display, disk drive, (eventual) Ethernet, general I/O, RAM (the 1103s needed to be refreshed to retain data), etc.
+
+We wanted an “emulation architecture” via fast dynamically reloadable microcode that would run much faster than main memory. This would allow virtual machines for different programming languages to be emulated efficiently, as well as new HW architectures to be explored: for display, for audio, for concurrency, etc.
+
+The *big idea*: Emulate everything!
+
+The *tactics* were to throw out as much actual HW as possible and use the emulation architecture to emulate as much of everything as possible. So there was no real controller for keyboards, mouse, display, disk drive, (eventual) Ethernet, general I/O, RAM, etc. Instead each of these was a microcode SW task, and each with its own program counter, but sharing the HW that was left.
+
+The program counters were arranged in a priority order and were hooked to “need sensing” (like the fact that the display had just done a retrace pulse, or a disk sector had been traversed, etc.). In parallel to the execution of a micoinstruction, the next microtask was selected and (if allowed by the current task) the next microinstruction would be taken from the new program counter.
+
+![](https://qph.cf2.quoracdn.net/main-qimg-85b4840eb26195a84a51edefbe9c5533)
+
+Thus the task switching was literally “zero overhead”. The Alto had 16 microprogram counters, but usually used less than 10. These were held in the memory marked “MPG” in the top right of the diagram below.
+
+![](https://qph.cf2.quoracdn.net/main-qimg-337f0bfebff89a0d15c5ec235049bc1c)
+
+This not only worked really well, but Chuck and his small team were able to do the first Alto in just a little over 3 months. Here’s a photo of the day the Alto came up in early April 1973.
+
+![](https://qph.cf2.quoracdn.net/main-qimg-3ae01f5ecddde663936057f59ca6d5c8)
 
 ---
 
